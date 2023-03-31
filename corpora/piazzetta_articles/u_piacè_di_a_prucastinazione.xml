@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U piacè di a prucastinazione
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-piace-di-a-prucastinazione_a1975.html"/>
+     <date>
+      Mon, 06 Oct 2014 15:42:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U piacè di a prucastinazione
+   </head>
+   <div type="content">
+    <p>
+     http://www.huffingtonpost.fr/2013/04/23/procrastination-7-raisons-pour-lesquelles-vous-remettez-tout-au-lendemain_n_3138831.html 
+http://www.lemonde.fr/technologies/article/2011/01/07/pourquoi-remettons-nous-souvent-les-choses-au-lendemain_1462548_651865.html 
+http://www.thedownlow.co.nz/pop-culture-3/the-lowest-forms-of-procrastination/ 
+http://www.spring.org.uk/2011/09/how-to-fight-the-four-pillars-of-procrastination.php
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

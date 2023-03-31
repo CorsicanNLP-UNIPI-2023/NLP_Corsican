@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Una sucetà di più in più inghjusta
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Una-suceta-di-piu-in-piu-inghjusta_a2652.html"/>
+     <date>
+      Sun, 24 Sep 2017 20:06:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Una sucetà di più in più inghjusta
+   </head>
+   <div type="excerpt">
+    <p>
+     D'appressu à l'istitutu Oxfam
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'istitutu Oxfam hà publicatu un studiu nant'à l'inegualità in u mondu. U menu ch'ellu si pò dì hè ch'elle crescenu di più in più in furia. In u 2016, 8 persone pussedenu a stessa ricchezza (426 miliardi di dollari) ch'è a metà di a pupulazione a più povera (3,6 miliardi di persone). Eranu : 159 in u 2012 92 in u 2013 80 in u 2014 62 in u 2015 8 in u 2016
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

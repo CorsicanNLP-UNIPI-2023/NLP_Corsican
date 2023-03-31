@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quale serà u primu Corsu à entre in u Club di i 27 ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quale-sera-u-primu-Corsu-a-entre-in-u-Club-di-i-27_a1141.html"/>
+     <date>
+      Tue, 26 Jul 2011 00:01:02 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quale serà u primu Corsu à entre in u Club di i 27 ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Nò : ùn basta micca di beie Get 27 - Orezza pè fà parte di u club.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     N'avete siguramente intesu parlà, cù a morte d'Amy Winehouse u mitu di u "Club di i 27" si rinforza. A pagina Wikipedia hè stata digià messa à ghjornu è ricensa l'artisti di u rock o di u blues morti à 27 anni. 
+U club s'appoghja nant'à cinque pistelli : Brian Jones di i Rolling Stones (mortu in u 69), Jimi Hendrix è Janis Joplin listessu annu (1970), Jim Morrison (1971), Kurt Cobain (1994), è dunque avà Amy Winehouse. 
+Chì tazzu ch'elli devenu fà quassù ! 
+Per avà ùn ci hè sempre nisun Corsu in u club. Bon, hè vera chì noi rockers, n'avemu pocu. Invece, ùn manchemu micca di giovani chì si sterpanu di droga è d'alcool, ma elli ùn anu micca talentu. 
+Ultima nutizia : tutti i membri di i Black Eyed Peas si portanu bè. U mondu hè inghjustu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     False stàntare pè prutege u nostru patrimoniu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/False-stantare-pe-prutege-u-nostru-patrimoniu_a1084.html"/>
+     <date>
+      Wed, 20 Apr 2011 12:06:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    False stàntare pè prutege u nostru patrimoniu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Per prutege i siti archeològichi esiste a pussibilità di mette false stàntare invece di e vere. À quandu i falsi Corsi pè prutege i veri ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'infurmazione ci vene da u situ di Alta Frequenza : Jean-Claude Ottaviani, cunservatore di i musei di Corsica Suttana parla di l'idea di mette false stàntare è stazzone nant'à u situ di Cauria. 
+U tempu, e cundizione metteò, l'umidità, ma dinù l'omi chì visitanu i siti mettenu i perìculu st'opere chì s'arruvinanu. Cunsequenza : i dissegni nant'à e stàntare si sfàssanu. Ùn parlemu mancu di i catini à pelu chì ballanu nant'à e stazzone... 
+Iè, ci vole à sapella : u nostru patrimoniu archeològicu hè riccu, ma hè dillicatu. Anch'ellu hà bisognu d'esse rispettatu è prutettu. 
+D'altronde, a sapiate chì u situ di Paddaghju, in u Sartinese, hè a più forte cuncentrazione di stàntare di u Mediterraniu ? Allora forse videremu da quì à pocu stàntare in plàsticu mentre chì e vere seranu à l'agrottu. 
+È pè prutege i Corsi, forse metteremu dinù persunagi in latex, mentre chì i veri seranu à l'agrottu in e so riserve ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Piazzetta face menu bè ch'Obama ma...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-Piazzetta-face-menu-be-ch-Obama-ma_a1496.html"/>
+     <date>
+      Fri, 15 Feb 2013 12:24:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A Piazzetta face menu bè ch'Obama ma...
+   </head>
+   <div type="content">
+    <p>
+     L'ultima emissione Via Cultura era cunsacrata à e rete suciale in Corsica. 
+I giurnalisti anu fattu i conti pè u nùmeru di followers nant'à Twitter è di fans nant'à Facebook. Oghje, A Piazzetta hè a prima nant'à Facebook è terza nant'à Twitter. 
+È s'ellu s'addiziuneghja e duie rete suciale, A Piazzetta hè segonda daretu à Corse-Matin. 
+Allora d'accordu, hè menu bè chè Barack Obama. Ma per un media in lingua corsa animatu da una squadra di benevulenti, forse ùn hè micca cusì male. Nò ? 
+Per seguitacci :  - Diventate fan nant'à Facebook  - Seguitateci nant'à Twitter
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

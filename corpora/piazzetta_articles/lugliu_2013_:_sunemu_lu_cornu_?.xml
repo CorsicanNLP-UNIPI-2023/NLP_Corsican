@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lugliu 2013 : sunemu lu cornu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Lugliu-2013-sunemu-lu-cornu_a1243.html"/>
+     <date>
+      Thu, 12 Jan 2012 14:37:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lugliu 2013 : sunemu lu cornu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     « …lorsqu’il se déplace, le Tour c’est 24 000 gendarmes et policiers mobilisés ». Ci màndanu 24000 gendarmi di lugliu 2013. D’un colpu. L’ùltima volta, era di maghju 1769…
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     24 000. Vinti quattru mila. Vinti quattru mila mustacciuti azezi sbàrcanu in Corsica di lugliu 2013. Ghjùnghjenu da u Périgord, affàccanu da l'Indre-et-Loire, scàlanu da u Cantal è da a Creuse una culunia di Gouflard, Morin, Trufion, Bouvier, Tribard, Boulon, Poufland, Rougeot, Trombier, Pattouillard è altri Grimbert, à l’assaltu di a Còrsica. "Chérie, fais tes valises, ça sera la Keurse cet été !!! " 
+L’ùltima volta chì un battaglione sìmule ci hè statu mandatu, era di maghju 1769, in Pontenovu. Gattivi ricordi… 
+A sèguita, a cunniscite : sterminiu eppo « pacificazione » di a Corsica cun millaie d’assassinii. A ligna d’attaccu Marboeuf-Morand-Berthier face megliu chè quella di u Sporting : paesi brusgiati, Corsi ammazzati è dui cent’anni di francisazione accanita. Lingua pruibita, storia nigata, identità calpighjata è suppa di musu da un latu è da l’altru di u Mediterraniu. 
+Dipoi Louis XV, cusì tamantu sguatrone ùn ci era più statu mandatu. 24000 gendarmi sott’à a sciappittana arrabbiata di lugliu. Prumette !  1769-2013, u macciu ritornu si puderbbe ghjucà tandu in Pontenovu. Serà forse questa, a nostra Champion’s League !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

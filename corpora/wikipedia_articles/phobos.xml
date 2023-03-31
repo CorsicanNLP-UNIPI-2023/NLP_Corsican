@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Phobos
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Phobos"/>
+     <date>
+      2014-03-23T14:48:19Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Phobos
+   </head>
+   <p>
+    Phobos (grecu Φόβος) hè un satellitu di a Marte scupertu in u 1877 (scupritore Asaph Hall). Phobos ùn pussedi micca atmosfera.
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    Astrunumia
+   </p>
+  </body>
+ </text>
+</TEI>

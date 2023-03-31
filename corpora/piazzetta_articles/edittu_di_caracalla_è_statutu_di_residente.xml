@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Edittu di Caracalla è statutu di residente
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Edittu-di-Caracalla-e-statutu-di-residente_a1751.html"/>
+     <date>
+      Fri, 25 Apr 2014 11:46:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Edittu di Caracalla è statutu di residente
+   </head>
+   <div type="content">
+    <p>
+     Paul-Félix Benedetti (Rinnovu Naziunale) hà fattu un paragone trà u statutu di residente è l'edittu di Caracalla, imperatore rumanu chì in l'annu 212 pruclamò a citatinanza rumana à tutti l'omi liberi di l'Imperu : 
+« C'est une mesure égalitaire, généreuse, sociale, humaniste. Elle permettra de faire un point zéro, d'offrir le droit de cité à la population et cela permettra à chacun de se sentir corse autant que les Corses d'origine. Il faut se dire la vérité la vraie ségrégation elle existe en fait maintenant entre les Corses d'origine et les autres. Offrons à chacun le moyen de se sentir chez lui en Corse, de participer à une communauté de vie (...) Et n'oublions pas tous ces habitants de Corses, la moitié, qui ne possèdent rien. Donnons leur cette fierté, ce droit de cité. Il y a en Corse 60% de résidences principales et 40% de résidences secondaires, c'est inacceptable et on construit dans ce but de l'économie résidentielle des milliers de logement depuis 20 ans. Ne voyez pas dans ce projet l’antichambre de l’indépendance ! Mais ce n'est pas un simple acte administratif technique, c'est une vraie mesure politique, philosophique, protectionniste, avec une vraie portée car pour une citoyenneté. »
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

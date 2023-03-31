@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Fasgiulon'valley
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Fasgiulon-valley_a2141.html"/>
+     <date>
+      Mon, 02 Feb 2015 10:07:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Fasgiulon'valley
+   </head>
+   <div type="excerpt">
+    <p>
+     Eccu perchè ci vole à incuragisce a cultura di l'orti, piuttostu ch'è di cuntinuvà cù "la prime à la vache".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ùn saria micca ghjudiziosu chì l'Auropa aiutessi l'ortulani piuttostu ch'è i vaccaghji ? Un paragone rapidu ma obbietivu trà fasgiuloni è vaccine, ci dimostra chì i fasgiuloni, cusì anticogni ùn anu ancu persu a battaglia. 
+- I fasgiuloni ùn traversanu micca e strade, allora chì e vacche si lampanu sott'à e vitture  - messi à mogliu, i fasgiuloni doppianu di vulume allora chì una vacca in l'acqua si lascia affundà è basta.  - I fasgiuloni s'inturcineghjanu à i pali incù affezzione, e vacche voganu cum'è vagabonde addisperate  - I fasgiuloni si stanu appossu à un muru senza pruvà à cullà nantu o à distrughjelu, e vacche sciappanu tuttu (è in più manghjanu l'ortensià di Zia Pulina)  - Fiori di fasgiuloni attraenu ape è farfalle chì si carcanu di nettare, u culu di e vacche attira solu e mosche cavalline  - Per cogliesi dui fasgiuloni, basta à piglià u viottulu daretu à u campanile una sporta in manu, per andà appressu à e vacche ci vole à traccià una pista orribile à meza machja è fà fughje l'acelli cù un 4x4 sgangheratu.  - Ùn ci hè bisognu di purtà i fasgiuloni à u scannatoghju o di currompe un veterinariu per avè certi certificati  - I fasgiuloni stanu ghjurnate sane senza sciaccà un mughju, e vacche anu sempre a bocca aperta  - I fasgiuloni anu un bellu culore biancu giallicciu è sò sempre in cicca, invece chì e vacche sò brutte è sempre à mastucà cum'è sculari chì s'annoianu in fondu di a classa  - I fasgiu-lounge puderianu ancu seduce i becchifini di u mondu sanu è fà di i nostri pughjali una vera « fasgiulon' valley » 
+Avemu capitu, i fasgiuloni sò fratelli « slow food » di e cipolle di Siscu, di e castagne rustiche è di e mele muntagnole, e vaccacce sò surelle « fast food » di i maladetti « steack haché ». Stu paragone obbietivu a ci insegna.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

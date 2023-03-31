@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Karachi
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Karachi"/>
+     <date>
+      2015-08-25T16:21:22Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Karachi
+   </head>
+   <p>
+    Karachi ( in urdu: كراچى, in sindhi: ڪراچي/कराची) hè una cità di u Pakistan.
+   </p>
+   <p>
+    Hè a prima cità di u Pakistan per populazione, incù 13.050.000 abitanti (2010).
+   </p>
+  </body>
+ </text>
+</TEI>

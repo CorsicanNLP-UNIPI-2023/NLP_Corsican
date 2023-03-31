@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Velone
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Velone"/>
+     <date>
+      2015-06-30T17:51:02Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Velone
+   </head>
+   <p>
+    Velone hè un paesi chì faci partita di a cumuna di Velone-Ornetu.
+   </p>
+   <p>
+    Paese di Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

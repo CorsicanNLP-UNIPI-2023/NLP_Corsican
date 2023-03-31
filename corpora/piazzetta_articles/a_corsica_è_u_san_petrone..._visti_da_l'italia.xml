@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Corsica è u San Petrone... visti da l'Italia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-Corsica-e-u-San-Petrone-visti-da-l-Italia_a2764.html"/>
+     <date>
+      Tue, 19 Feb 2019 12:46:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ULTIMI
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A Corsica è u San Petrone... visti da l'Italia
+   </head>
+   <div type="excerpt">
+    <p>
+     Quandu u tempu hè chjaru, vista da a Tuscana, a Corsica spunta à l'orizonte. È si ricunnosce a forma particulare di u monte San Petrone.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ritrattu Instagram @igerslucca
+    </p>
+    <p>
+     Voir cette publication sur Instagram
+Une publication partagée par Igers Lucca (@igerslucca) le 15 Déc. 2018 à 2 :09 PST
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

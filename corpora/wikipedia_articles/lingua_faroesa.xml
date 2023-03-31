@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lingua faroesa
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Lingua%20faroesa"/>
+     <date>
+      2014-03-23T14:32:24Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lingua faroesa
+   </head>
+   <p>
+    A lingua faroesa hè una lingua germanica rispettivamente nordica chi hè parlata in l'isule Faroe.
+   </p>
+   <p>
+    Faroesu
+   </p>
+  </body>
+ </text>
+</TEI>

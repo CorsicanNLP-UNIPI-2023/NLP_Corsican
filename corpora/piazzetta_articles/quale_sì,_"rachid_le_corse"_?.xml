@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quale sì, "Rachid le Corse" ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quale-si-Rachid-le-Corse_a1493.html"/>
+     <date>
+      Wed, 06 Feb 2013 18:57:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quale sì, "Rachid le Corse" ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Sta settimana, avemu scupertu l'esistenza d'un certu "Rachid le Corse". Femu cunniscenza cun ellu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A storia cummencia male. U 28 ghjennaghju, a BAC di Parigi arresta un ladru in traccia di circà d'arrubà un saccu in un 4x4 in i belli quartieri di a capitale. Sin'à quì, nunda di strasordinariu. Ma a pulizza scopra chì in u 4x4 ci hè un Colt 45 è dui pirucche. 
+Stu 4x4 hè quellu di Rachid Rhazouani, dettu "Rachid le Corse". 
+Interpellatu pocu tempu dopu (cù un Glock), a pulizza face una perchisizione in casa soia. Ci trova una pistola, una mitragliosa, un pare-balles, una falsa carta di pulizza è qualchì splusivi. 
+Più tardi, truveranu dinù trè pistole automàtiche (un Colt è dui Smith &amp; Wesson), più di 160 munizioni è 20.135 euros in liquidu. 
+Curiosi, i pulizzeri s'interessanu à u bar ch'ella tene a so cumpagna. In cantina, truveranu un fucile, sei granate, caricatori è munizioni à buzeffu, cagule, pirucche, è ancu una falsa barba. 
+A pulizza hà infine capitu ch'ellu ci hè qualcosa di micca normale, è si mette à circà torna. In un box di Rachid le Corse, ci si trova una Winchester, un altru fucile è una decina di pare-balles. 
+TF1 ci dice ancu chì Rachid Rhazouani facia parte d'Armata Corsa. Ma ùn hè chè TF1. 
+U situ Backchich ci dice ancu ch'ellu era un abituatu di i tavulini di u Wagram. 
+Allora chì a quistione di l'integrazione è di a cummunità di destinu hè più chè mai d'attualità in Corsica, ci vole à crede chì u "milieu" ellu, si ne pone menu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

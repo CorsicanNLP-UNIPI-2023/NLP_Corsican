@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     York University
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/York%20University"/>
+     <date>
+      2014-03-23T15:12:57Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    York University
+   </head>
+   <p>
+    L'York University hè un' università situata in a cità di Toronto. Ci sò à l'incirca 54.000 stughjanti.
+   </p>
+   <p>
+    Fù fundata u 1959.
+   </p>
+   <p>
+    Università
+   </p>
+  </body>
+ </text>
+</TEI>

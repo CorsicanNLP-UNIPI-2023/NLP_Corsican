@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Fernando de Noronha
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Fernando%20de%20Noronha"/>
+     <date>
+      2013-06-28T09:40:22Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Fernando de Noronha
+   </head>
+   <p>
+    Fernando de Noronha hè un gruppu d'isuli in l'Oceanu Atlanticu chì faci parte di u Brasile.
+   </p>
+  </body>
+ </text>
+</TEI>

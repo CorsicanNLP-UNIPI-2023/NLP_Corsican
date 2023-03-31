@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U messagiu di Leca
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-messagiu-di-Leca_a1998.html"/>
+     <date>
+      Wed, 22 Oct 2014 18:02:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U messagiu di Leca
+   </head>
+   <div type="excerpt">
+    <p>
+     Nant'à u so contu twitter, Jean-Louis Leca hà tenutu à dì ch'ellu ùn s'era scusatu d'avè cacciatu a bandera corsa in Nizza... è l'hà detta in corsu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Dop'à una dumenicata ricca in evenimenti è in cunnerie dette quì è quallà (in testa : Bosetti è Estrosi), Jean-Louis Leca hà tenutu à dì (in corsu) nant'à u so contu twitter ch'ellu ùn avia da scusassi per u so gestu in Nizza. 
+Quessa, hè fatta !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

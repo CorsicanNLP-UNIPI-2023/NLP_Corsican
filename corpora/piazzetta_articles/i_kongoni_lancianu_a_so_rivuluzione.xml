@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I Kongoni lancianu a so rivuluzione
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-Kongoni-lancianu-a-so-rivuluzione_a1617.html"/>
+     <date>
+      Wed, 11 Sep 2013 14:21:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I Kongoni lancianu a so rivuluzione
+   </head>
+   <div type="excerpt">
+    <p>
+     "I Kongoni" anu fattu u buzz st'estate cù u so filmettu "La Corse lance sa révolution".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cunniscite I Kongoni ? Sta truppa di giovani Corsi s'hè spezializata in piccule videò ch'elli facenu circulà nant'à YouTube è a so pagina Facebook. 
+A videò chì hà fattu un buzz tremendu st'estate (l'averete siguramente vista...) hè a parudia d'una publicità, scambiata in spot publicitariu per a lingua corsa... è u risultatu funziuneghja piuttostu bè ! L'orginale hè questa quì. 
+Fà ride in un paese d'azezi è di bisconi, I Kongoni ùn anu siguramente micca sceltu u più faciule. Allora nunda chè per quessa, ci vole à incuragisceli ! Noi, aspettemu a seguita cun impazienza. 
+È voi chì ne dite ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

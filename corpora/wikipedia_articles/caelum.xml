@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Caelum
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Caelum"/>
+     <date>
+      2019-10-03T11:14:41Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Caelum
+   </head>
+   <p>
+    Caelum hè una custellazione.
+   </p>
+   <p>
+    == Storia ==
+   </p>
+   <p>
+    == Stelle ==
+   </p>
+   <p>
+    Custellazione
+   </p>
+  </body>
+ </text>
+</TEI>

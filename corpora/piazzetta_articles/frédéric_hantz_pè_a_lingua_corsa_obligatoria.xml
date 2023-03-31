@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Frédéric Hantz pè a lingua corsa obligatoria
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Frederic-Hantz-pe-a-lingua-corsa-obligatoria_a1103.html"/>
+     <date>
+      Tue, 24 May 2011 00:39:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Frédéric Hantz pè a lingua corsa obligatoria
+   </head>
+   <div type="excerpt">
+    <p>
+     L'intrenore di u Sporting (chì serà da quì à pocu canunizatu) hà dettu ch'ellu vulia impone corsi di corsu à i so ghjucadori quist'annu chì vene.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     S'ellu cuntinuveghja cusì, Frédéric Hantz puderà presentassi da quì à pocu à l'elezzioni. 
+Dopu à avè purtatu u Sporting à u titulu di campione (allora ch'ellu era mortu annu passatu à st'epica) l'intrenore hà turnatu à fà forte sabbatu passatu, durante a grande festa chì era prugrammata à a sala di e feste di Biguglia. 
+Un dibattitu era organizatu nant'à dui temi : « L'impurtanza di u Sporting in a sucetà corsa » è « Chì avvene per un club identitariu in u futbol mudernu ». I participanti eranu Antoine Belloni, Didier Rey, Marcu Biancarelli, Michel Sorbara, Victor Sinet, Pierre-Jean Luccioni, Jean Pruneta, Didier Beaune, in più di u presidente è di l'intrenore di u SCB. 
+U dibattitu era passiunante (ma troppu cortu !) è s'hè parlatu di e difficultà di mantene un'anima è un'identità in un futbol di più in più mundializatu è induve u soldu face tuttu. 
+Hantz hà insistitu nant'à l'impurtanza di a furmazione è d'appughjassi nant'à ghjucadori di u lucale (qualsiasi u club). 
+Hà dettu dinù ch'ellu era impurtante di trasmette a storia è i valori di u Sporting è di a Corsica à i ghjucadori chì ghjunghjenu, giovani di u centru di furmazione o prufessiunali... è dunque ch'elli averanu corsi di corsu l'annu chì vene ! Per quessa, s'hè fattu sciaccamanà da u publicu di a sala (averemu a videò da quì à pocu !) 
+Una volta di più, sò quelli di fora chì vènenu à spiegacci ciò chì duveria esse statu fattu dapoi un pezzu ! L'obligazione di a lingua ùn duveria mancu più esse un dibattitu è ùn deve micca esse una quistione pulitica. 
+Allora, à quandu qualchì parolla d'un futbalore di Bastia in lingua corsa ? U messagiu mandatu saria forte. Sì Chimbonda avessi parlatu corsu, forse tutti sti prublemi ùn sarianu accaduti tandu... Qual'hè chì sà ? 
+È i nostri omi pulitichi, quandu a capisceranu quessa ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

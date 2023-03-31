@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U "starter kit" di u faticatu chì và à u mare in Siscu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-starter-kit-di-u-faticatu-chi-va-a-u-mare-in-Siscu_a2458.html"/>
+     <date>
+      Sun, 14 Aug 2016 19:42:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U "starter kit" di u faticatu chì và à u mare in Siscu
+   </head>
+   <div type="excerpt">
+    <p>
+     Perchè ci vole à circà à ridene in sti tempi goffi : ùn vi scurdate di a crema.
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

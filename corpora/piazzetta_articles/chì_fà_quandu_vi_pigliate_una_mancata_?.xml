@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chì fà quandu vi pigliate una mancata ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Chi-fa-quandu-vi-pigliate-una-mancata_a1892.html"/>
+     <date>
+      Thu, 19 Jun 2014 12:24:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chì fà quandu vi pigliate una mancata ?
+   </head>
+   <div type="content">
+    <p>
+     Nunda di peghju ch'è di firmà impalaficcatu cù a manu in l'aria. Hè accaduta à tutti. 
+Tandu, hè semplice, basta à fà nece di tuccassi i capelli. Ma e camerà anu filmatu. È Iker Casillas hà vistu tuttu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

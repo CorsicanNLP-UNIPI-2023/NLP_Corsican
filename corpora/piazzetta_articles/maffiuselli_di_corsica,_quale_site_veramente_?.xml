@@ -1,0 +1,52 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Maffiuselli di Corsica, quale site veramente ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Maffiuselli-di-Corsica-quale-site-veramente_a1280.html"/>
+     <date>
+      Wed, 22 Feb 2012 17:14:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Maffiuselli di Corsica, quale site veramente ?
+   </head>
+   <div type="content">
+    <p>
+     Muntagiu : monsieur Viaghju
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

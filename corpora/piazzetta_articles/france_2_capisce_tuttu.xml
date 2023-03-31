@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     France 2 capisce tuttu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/France-2-capisce-tuttu_a1056.html"/>
+     <date>
+      Sat, 12 Mar 2011 20:29:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    France 2 capisce tuttu
+   </head>
+   <div type="excerpt">
+    <p>
+     Per illustrà l'arrestazione di u figliolu d'Alain Orsoni, i giurnalisti di France 2 anu messu a fiura di fratellu d'Alain, assassinatu in 1983.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     I giurnalisti francesi riesceranu à capisceci qualcosa un ghjornu in Corsica ? Micca siguru... 
+L'affare s'hè passatu in u JT di France 2 di u 12 di marzu. U giurnale Le Point hà fattu listessu nant'à u so situ internet, nanzu di caccià a fiura (ma hè firmata nant'à Google News). 
+Và bè chì Alain Orsoni hà datu à u so figliolu u nome di u so fratellu, assassinatu da maffiosi in 1983, ma quantunque. 
+Per esse infurmati bè, femu cunfidenza à i media francesi. Prussima tappa : parlà di Paul Giacobbi, di Camille de Rocca Serra o di Jean Zuccarelli mettendu una fiura di u so babbone...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

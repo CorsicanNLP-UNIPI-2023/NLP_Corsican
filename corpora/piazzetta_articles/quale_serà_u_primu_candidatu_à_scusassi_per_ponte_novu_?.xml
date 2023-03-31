@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quale serà u primu candidatu à scusassi per Ponte Novu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quale-sera-u-primu-candidatu-a-scusassi-per-Ponte-Novu_a1297.html"/>
+     <date>
+      Sun, 18 Mar 2012 00:00:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       PRESIDENZIALI-2012
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quale serà u primu candidatu à scusassi per Ponte Novu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     L'UMP canta u Diu è ci prumette "surprese" per a venuta di Sarkozy. Ma ancu Marine Le Pen corre à pressu à i voti naziunalisti.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In l'anni 80 Jean-Marie Le Pen dicia à prupostu di i naziunalisti corsi : "c'est la trique qu'il faut à ces gens là" dopu ch'elli avessinu impeditu un meeting di u FN in Corsica. 
+Cù 35% di voti naziunalisti à l'ultime elezzioni, avà ci vole à "fà corsu". L'UMP vole "regiunalizassi" (sic) è avà si canta u Diu vi salvi Regina à a fine di i meetings. 
+Tantu peghju s'elli ùn a pensanu micca, s'elli ùn anu fattu nunda per a lingua corsa, avà ci vole à piglià i voti. 
+Hè dinù l'avisu di Marine Le Pen. Ùn ci pò pate, ma u tempu d'una dumenicata hè venuta à muntacci a sega. Allora hà resu omagiu à "les valeurs ancestrales" di i Corsi chjamatu i naziunalisti à vutà per ella. 
+Purtantu, si definisce cum'è "jacobine" è hè difficiule di fà più centralisatrice chè ella. Pensa è caca in francese, ma i voti di i naziunalisti corsi l'interessanu. 
+Hè stata chjara : "le bilinguisme c'est extrêmement grave" avia dettu nant'à France 5. Di a lingua corsa ùn ne vole sente puzza è d'evuluzione istituziunale ancu menu. A Corsica hè francese, puntu è basta. 
+Ma di siguru, cum'ella hà passatu u Diu vi salvi Regina à a fine, si piglierà bè unepochi di voti. Chè o vratè ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

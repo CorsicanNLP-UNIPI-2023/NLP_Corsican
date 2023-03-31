@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bona festa à tutti i vicini è ancu à l'altri
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Bona-festa-a-tutti-i-vicini-e-ancu-a-l-altri_a1105.html"/>
+     <date>
+      Fri, 27 May 2011 09:03:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bona festa à tutti i vicini è ancu à l'altri
+   </head>
+   <div type="excerpt">
+    <p>
+     U 27 di maghju, hè u ghjornu di l'orrìbile "fête des voisins". Ancu in Corsica...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     "I vicini sò i cucini" dicia un vechju pruverbiu corsu di u seculu passatu, à l'epica induve a ghjente si parlava sempre. Significava l'impurtanza di e leie è di l'aiutu trà di vicini, cunsiderati cum'è fendu parte di a famiglia. 
+Ma era à a prestoria. Oghje, ch'ellu sia in paese, in cità o in lotissement, leia suciale ci n'hè pocu è micca. 
+Ancu di grazia, pè luttà contr'à l'individualisimu hè nata in u 1999 l'idea di a fête des voisins. L'orìgine di sta festa si trova in Parigi, induve pochi sò quelli à scambià duie parolle, è ancu menu un bichjeru. Allora una volta à l'annu, ognunu fala una buttiglia di Banga, un jambon Herta è un pacchettu di Pepitos è si face bomba. 
+L'idea hè siguramente generosa... ma ùn ci vole micca à inchietassi chì sta festa esistessi ancu ind'è noi ? In Bastia è in Aiacciu, face qualchì annu ch'ella piglia. 
+Ci vulerà à felicitassi di sta suciabilità nova, ancu s'ella hè artifiziale ? O inchietassi di purtà ind'è noi stu mudellu pariginu ? Hè u segnu di u fiascu maiò di a nostra sucetà, quessa a sapiamu. 
+Ma si puderia forse truvà altre cose ch'è quessa. E feste tradiziunali corse si morenu, è noi ci lampemu in a "fête des voisins". Ùn ci hè ch'è da vede u riccu prugramma in Bastia (da vede in Corse-Matin) : omancu dece (!) appuntamenti sò previsti. 
+Ci hè veramente un prublema...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

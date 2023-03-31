@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ciò chì s'hè veramente passatu dapoi a vittoria di i naziunalisti
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cio-chi-s-he-veramente-passatu-dapoi-a-vittoria-di-i-naziunalisti_a2687.html"/>
+     <date>
+      Wed, 13 Dec 2017 17:42:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       VIDEO
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ciò chì s'hè veramente passatu dapoi a vittoria di i naziunalisti
+   </head>
+   <div type="excerpt">
+    <p>
+     Un picculu filmettu pè riassume ciò chì s'hè passatu dapoi a vittoria di i naziunalisti.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Muntagiu : PFC
+    </p>
+    <p>
+     U ligame per vedela nant'à YouTube :
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

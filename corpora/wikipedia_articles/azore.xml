@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Azore
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Azore"/>
+     <date>
+      2013-03-11T09:27:06Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Azore
+   </head>
+   <p>
+    L'Azore (portughese: os Açores) sò un gruppu d'isule in l'Oceanu Atlanticu chì face parte di u Portugallu. Hè una regione autonome di u Portugallu. A lingua di a populazione hè u portughese.
+   </p>
+  </body>
+ </text>
+</TEI>

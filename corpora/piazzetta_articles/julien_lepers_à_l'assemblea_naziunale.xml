@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Julien Lepers à l'assemblea naziunale
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Julien-Lepers-a-l-assemblea-naziunale_a1728.html"/>
+     <date>
+      Thu, 17 Apr 2014 14:08:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Julien Lepers à l'assemblea naziunale
+   </head>
+   <div type="content">
+    <p>
+     Le bide du jour à l'Assemblée, Royal se moque par LeHuffPost  Ùn ci hè micca chè A Piazzetta chì ùn hè micca sempre spiritosa. À l'assemblea naziunale, certe volte u livellu face pietà. 
+Sta volta hè un deputatu UMP, Claude de Ganay, chì hà vulsutu pone una dumanda à u guvernu à a manera di Julien Lepers in Questions pour un champion. U risultatu ùn hè micca terribule, fidighjate a videò. 
+Francamente, si ride di più à a CTC. "Quand comptez-vous partir ?"
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

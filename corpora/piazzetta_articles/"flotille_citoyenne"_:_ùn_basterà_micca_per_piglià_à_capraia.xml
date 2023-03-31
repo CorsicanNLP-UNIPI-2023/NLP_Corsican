@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "Flotille citoyenne" : ùn basterà micca per piglià à Capraia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Flotille-citoyenne-un-bastera-micca-per-piglia-a-Capraia_a1917.html"/>
+     <date>
+      Thu, 31 Jul 2014 01:32:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "Flotille citoyenne" : ùn basterà micca per piglià à Capraia
+   </head>
+   <div type="excerpt">
+    <p>
+     Era simpatica sta "flotille citoyenne" incaricata di surveglià u Costa Concordia.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ùn s'hè parlatu ch'è d'ella durante qualchì ghjornu. S'hè dunque chjamata "flotille citoyenne". Hè bè una "flotille", hè brava, hè ecologica, hè pacifica. 
+In più d'impuzzicheghju ùn ci n'hè statu. U passagiu à u largu di e nostre coste di u guffissimu Costa Concordia era di più "La Croisière s'amuse" ch'è u "Titanic". Ùn ci hè mancu statu remake di e fanghe rosse di a Montedison in u 1972. 
+A "flotille" hà ancu riesciutu à imbarcà à Segulana è à annerbà u ministru di l'eculugia talianu. 
+Ma bon, francamente, ùn basterà micca per piglià à Capraia. 
+Hè in u 1767 chì u capitanu Acchile Murati, à u serviziu di Pasquale Paoli, hà riesciutu à chjappà l'isula di u mare tirrènnicu cun 14 battelli è 200 suldati. Ùn vi pare nunda avà, ma fù un veru pattone pè a marina genuvese tandu. Fassi piglià à Capraia da a Corsica, pè l'ex-grande republica di Genuva, c'era di chè fassi una depressione. 
+Allora dop'à u successu contr'à u Concordia, avà ch'è no semu lanciati, circhemu di ripiglià à Capraia ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

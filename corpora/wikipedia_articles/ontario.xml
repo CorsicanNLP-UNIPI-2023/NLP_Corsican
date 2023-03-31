@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ontario
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Ontario"/>
+     <date>
+      2016-11-04T08:33:07Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ontario
+   </head>
+   <p>
+    Ontario hè una pruvincia di u Canadà, hà una superficia di 1.076.395 km² è tene una populazzione di 12.851.821 abitanti (2011). A capitale è ancu a cità più grande hè Toronto.
+   </p>
+   <p>
+    Pruvincia di u Canadà
+   </p>
+  </body>
+ </text>
+</TEI>

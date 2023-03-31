@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Gustav Stresemann
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Gustav%20Stresemann"/>
+     <date>
+      2013-03-09T03:31:07Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Gustav Stresemann
+   </head>
+   <p>
+    Omu politicu è diplomaticu tedescu.
+   </p>
+   <p>
+    Gustav Stresemann hè natu in Berlinu u 10 di maghju di u 1878 è hè mortu quallà u 3 d'uttobre di u 1929.
+   </p>
+   <p>
+    In u 1926 hà avutu, incù Aristide Briand, u Premiu Nobel per a pace.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     L'innu talianu fischjatu pè a finale di a cuppa d'Italia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/L-innu-talianu-fischjatu-pe-a-finale-di-a-cuppa-d-Italia_a1770.html"/>
+     <date>
+      Sun, 04 May 2014 01:28:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    L'innu talianu fischjatu pè a finale di a cuppa d'Italia
+   </head>
+   <div type="content">
+    <p>
+     Mentre chì l'innu brittonu era cantatu à u Stade de France per a finale di a cuppa di Francia trà Rennes è Guingamp, l'innu talianu hè statu fischjatu in Roma per a finale di a cuppa d'Italia trà Napuli è Firenze. 
+I fischji sò falati da e duie curve, da quella di i sustenidori fiurentini è quella di i Napulitani. 
+À vede e so facce, i ghjucadori di e duie squadre parianu scumudati. 
+I sustenidori napulitani avianu digià fischjatu l'innu naziunale talianu per a finale di u 2012, contr'à a Juventus. Era accaduta dinù chì "l'Inno di Mameli" sia fischjatu quandu a squadra azura avia ghjucatu in Firenze... 
+A partita hè stata ritardata di quaranta minuti per via di l'incidenti chì sò accaduti in a ghjurnata (10 feriti...) 
+L'unione vi pare difficiule à fà in Corsica ? Allora in Italia...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

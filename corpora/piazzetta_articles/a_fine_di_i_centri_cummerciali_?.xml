@@ -1,0 +1,70 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A fine di i centri cummerciali ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-fine-di-i-centri-cummerciali_a1993.html"/>
+     <date>
+      Wed, 15 Oct 2014 11:40:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A fine di i centri cummerciali ?
+   </head>
+   <div type="excerpt">
+    <p>
+     A Corsica hè a regione chì conta a più forte prupurzione di centri cummerciali per abitanti... è si cuntinuveghja à custruiscene. In u circondu d'Aiacciu ci sò prugetti faraònichi. Purtantu, in Francia, a so frequentazione cala.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In a regione parigina dinù, ci n'hè chì s'inchietanu di a bettunizazione di e terre agrìcule. Fidighjate stu picculu riportu passatu u 14 d'ottobre in u JT di France 2. 
+Quassù, ci sò prugetti di centri cummerciali tamanti. Hè u famosu "ça va créer des emplois". Veramente ? Mancu sigura. 
+Mustrandu imagine viote di centri cummericali, s'ampara chì a frequentazione cala... ma micca e pigiò pagate di i cummercianti. 
+Cunclusione di a giurnalista : "édifier un centre commercial reste donc rentable... pour les promoteurs. En revanche pour certains commerçants, difficile de s'en sortir. Moins de clients, loyers plus élevés. En deux ans le nombre de boutiques qui n'ont pas trouvé preneur a presque doublé". 
+À i Stati Uniti, facenu parechji mesi chì i centri cummerciali si viotanu. Ci sò parechji siti è blogs chì ricensanu i ritratti di sti "shopping malls" abandunati. A crisa, u cambiamentu di i modi di cunsumazione, anu avutu ragiò di stu sìmbulu di a putenza di l'"american way of life". 
+Hè per esempiu u travagliu di l'americanu Seph Lawless, chì ritratta ste zone cumplettamente abandunate. 
+Di siguru, cumu in Corsica avemu trenta anni di ritardu nant'à ciò chì si face di peghju, si cuntinuveghja à buzeffu in a custruzzione di zone cummerciale tamante, cum'è in Sarrula Carcupinu. 
+I Corsi d'oghje sarianu americani mancati, chì anu trenta anni di ritardu ? Pussibule.
+    </p>
+    <p>
+     À i Stati Uniti, stu mudellu ùn marchja più...
+    </p>
+    <p>
+     Ma cumu in Corsica avemu 30 anni di ritardu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

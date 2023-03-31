@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Era ora : ùn hè più difesa di ghjucà incù a manghjusca
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Era-ora-un-he-piu-difesa-di-ghjuca-incu-a-manghjusca_a2134.html"/>
+     <date>
+      Tue, 20 Jan 2015 00:00:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Era ora : ùn hè più difesa di ghjucà incù a manghjusca
+   </head>
+   <div type="excerpt">
+    <p>
+     Ghjuntu l'inguernu (puru s'ellu hè tricaticciu) per sti paesi diserti, per ste piccule cità chì parenu addurmintate, si pò omu divertisce facilmente incù appena di spìritu è di galabatezza. Ci hè un ghjocu impurtaticciu chì puderia avè un certu successu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Si ghjoca piuttostu à bughju o di notte. Si po ghjucà in dui, in trè, in centu ma ci vole à fà parechje squadre (figlioli di tutte e mamme è di tutte e razze ponu participà). 
+Per terrenu di ghjocu, basta un' isula. 
+A regula hè semplice, ùn ci hè bisognu di pallò, pedine, carte o cubi : basta à ghjittà una bella parte d'un cibu tìpicu (fasgiuloni, cignale, cuscussu, baccalà, merguez, bortsch…) in un locu sceltu. 
+À u principiu, per esempiu, a squadra curtinese o quella di A Ghisunaccia ghjetta qualchì trippa di cignale in un locu di preghera musulmanu. Si pò imaghjinà a seguita. 
+Quandu ellu tocca à ellu, l'aversariu ficca una merguez in cima di u San Petrone. I Purtughesi dinù volenu ghjucà, ed eccu chì i fratelli di Ronaldo lampanu baccalà merzu in lavu di Melu. I Pulunesi rispondenu incù una suppa di bietarava chì arrussisce l'acqua di fiume Golu. 
+Ci campemu : ghjucà incù a nutritura ci rammenta a nostra cara zitellina. 
+I Rumani dinù elli, si sà ch'elli sò burlasconi, lampanu millaie di papanazzi (frittelle di casgiu frescu) in Furiani u ghjornu di a Nazione Corsa. I pinzuti scherzosiincoghjanu a statula di Pasquale Paoli incù rillettes du Mans è aligot de l'Aubrac. 
+I Taliani facenu cannelloni incù a bandera corsa. I Mericani hamburgerisanu i risturanti tradiziunali è i suscì stantareghjanu sopr'à u Paglia Orba. U ghjocu ci pare senza fine.  
+U Bèlgicu Noël Godin, inspiratu da Laurel è Hardy avia inventatu l'attentatu pastizzeru è sfrumbulava e torte à a crema. Si sparghjenu avale l'attentati purcini è dumane l'attentati pizzaiuleschi, camembertacci, eccetera. 
+Ùn avemu micca finitu di ride.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

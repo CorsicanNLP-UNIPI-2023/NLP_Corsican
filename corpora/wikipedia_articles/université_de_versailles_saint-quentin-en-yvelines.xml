@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Université de Versailles Saint-Quentin-en-Yvelines
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Universit%C3%A9%20de%20Versailles%20Saint-Quentin-en-Yvelines"/>
+     <date>
+      2019-07-24T08:55:39Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Université de Versailles Saint-Quentin-en-Yvelines
+   </head>
+   <p>
+    L'Université de Versailles Saint-Quentin-en-Yvelines (UVSQ) hè un' università di Versailles, Francia. Hè situata in Versailles, é hà à pocu pressu 20.000 studianti.
+   </p>
+   <p>
+    Fù fundata in u 1991.
+   </p>
+   <p>
+    == Cullegamenti esterni ==
+   </p>
+   <p>
+    UVSQ
+   </p>
+   <p>
+    Università
+   </p>
+  </body>
+ </text>
+</TEI>

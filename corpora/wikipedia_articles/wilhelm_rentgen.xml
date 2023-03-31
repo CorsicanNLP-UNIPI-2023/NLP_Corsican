@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Wilhelm Rentgen
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Wilhelm%20Rentgen"/>
+     <date>
+      2015-07-09T09:02:40Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Wilhelm Rentgen
+   </head>
+   <p>
+    Wilhelm Conrad Röntgen hè un  fisicu alimanu. Hè natu 27 di marzu 1845 in Lennep.
+   </p>
+  </body>
+ </text>
+</TEI>

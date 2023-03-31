@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sta settimana nant'à aPiazzetta.com
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Sta-settimana-nant-a-aPiazzetta-com_a2061.html"/>
+     <date>
+      Mon, 08 Dec 2014 14:09:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sta settimana nant'à aPiazzetta.com
+   </head>
+   <div type="content">
+    <p>
+     Bona Festa di a Nazione ! 
+Ma a cunniscite a storia di l'ottu dicembre ?  Cum'è sempre, ùn hè micca faciule a nostra storia. Avemu circatu di rendela appena più chjara. 
+D'altronde, a cunniscite quella di a bandera corsa ?  Ùn si n'hè mai parlatu tantu. Purtantu, si cunnosce male a longa storia di a nostra vechja testa di moru... 
+È s'ella ùn vi piace micca, vi prupunemu dece altre date di festa naziunale  È pudete ancu prupone a vostra. 
+Sta settimana si festighjava dinù i 37 anni di a vittoria di Bastia in Turinu  A neve, u Stadio Comunale pienu à tappu, Papi, Rep, è Krimau chì ricupereghja u ballò. U restu, appartene à a storia... 
+A lingua corsa ricunnisciuta da Facebook...  Mark Zuckerberg ùn hà micca dettu ch'ella era "anticustituziunale" : cliccà, likà, fidighjà videò di ghjatti è perde u so tempu in corsu nant'à Facebook serà da quì à pocu pussibule. A traduzzione hè guasi compia ! 
+...è in più di quessa, avemu datu l'idea à a Sardegna !  Impressiunati da u successu di l'iniziativa "FB in corsu", hè nata a pagina "FB in sardu". 
+Casca bè, esce un libru d'Anna Gavalda traduttu in corsu  È ci vole à felicità i liceani di Bastia chì anu fattu a traduzzione. 
+A settimana scorsa hè esciutu dinù u filmu nant'à u pittore inglese Turner  A sapiate ch'ellu era venutu in Corsica ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

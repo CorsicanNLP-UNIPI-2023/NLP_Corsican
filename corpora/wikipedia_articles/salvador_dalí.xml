@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Salvador Dalí
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Salvador%20Dal%C3%AD"/>
+     <date>
+      2016-07-04T12:28:18Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Salvador Dalí
+   </head>
+   <p>
+    Pittore catalanu. Salvador Felip Jacint Dalí i Domènech hè natu à Figueres, Catalunia, u 11 di maghju di u 1904 e hè mortu a Figueres u 23 di ghjennaghju di u 1989.
+   </p>
+   <p>
+    Pittore
+   </p>
+   <p>
+    == Bibliografia ==
+   </p>
+   <p>
+    Carré d'art : Lord Byron, Jules Barbey d'Aurevilly, Salvador Dali, Jean-Edern Hallier, Jean-Pierre Thiollet, Anagramme Ed., 2008. ISBN 9782350351896.
+   </p>
+  </body>
+ </text>
+</TEI>

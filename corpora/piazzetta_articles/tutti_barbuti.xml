@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tutti barbuti
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Tutti-barbuti_a1016.html"/>
+     <date>
+      Tue, 25 Jan 2011 08:01:01 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tutti barbuti
+   </head>
+   <div type="excerpt">
+    <p>
+     Benoît Poelvoorde hà lampatu una chjama a settimana passata : fin'tantu chì a situazione ùn si serà megliurata in Bèlgica, ùn si taglierà più a barba. È s'è no faciamu listessu in Corsica ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     "Gardons nos barbes, jusqu'à ce que la Belgique se relève !" Hè ciò ch'ellu prupostu u cumediante Benoît Poelvoorde in una videò chì hà fattu u giru di i media. Ci vole à dì chì a situazione hè pèssima in Bèlgica induve ùn ci hè più guvernu dapoi... sette mesi. 
+Allora perchè micca fà listessu in Corsica ? Lasciassi cresce a barba di a sulidarità ! Cum'è Poelvoorde : "laissez pousser votre barbe pour montrer que vous êtes solidaire". 
+Ind'è noi l'eletti ci sò, ma ùn mancanu i penseri : Ecunumia, disimpiegu, acculturazione, minacce nant'à l'ambiente, demugrafia chì schjatta, perdita d'identità, di lingua, droga, giuventù addisperata, cultura, educazione, puvertà, agricultura in perdizione... senza cuntà u Sporting in terza divisione. 
+Saria una bona idea... ma chì causa sceglie ? Lasciassi cresce a barba fin'tantu ch'ellu ùn ci serà più manghjeria ? Ùn più sbarbassi sin'à chì a maffia si n'andessi ? Ch'ellu ùn ci serà più droga o permessi di custruisce nant'à u liturale ? Chì i soldi pùblichi ùn anderanu più ind'e stacche di certi ? Chì a lingua corsa ùn serà micca resa obligatoria ind'e scole ? 
+Bon, in fine di contu, ùn hè micca siguru chì l'operazione "barba di a sulidarità" sia una bona idea...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

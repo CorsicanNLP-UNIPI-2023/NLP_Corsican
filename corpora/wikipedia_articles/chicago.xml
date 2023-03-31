@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chicago
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Chicago"/>
+     <date>
+      2015-07-06T09:20:30Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chicago
+   </head>
+   <p>
+    Chicago hé una cità di i Stati Uniti d'America, incù 2.853.114 abitanti. Hè a cità più grande di u Statu di l'Illinois.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    John Belushi
+   </p>
+   <p>
+    Anastacia
+   </p>
+   <p>
+    Stati Uniti d'America
+   </p>
+  </body>
+ </text>
+</TEI>

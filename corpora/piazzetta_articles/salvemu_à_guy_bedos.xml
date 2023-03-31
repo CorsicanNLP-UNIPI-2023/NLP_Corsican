@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Salvemu à Guy Bedos
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Salvemu-a-Guy-Bedos_a2251.html"/>
+     <date>
+      Thu, 10 Sep 2015 21:52:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Salvemu à Guy Bedos
+   </head>
+   <div type="excerpt">
+    <p>
+     Davant'à a strage di i rifugiati siriani chì fughjenu a guerra è a miseria, numerosi sò quelli chì anu dettu "occupemuci prima di i nostri poveri". Casca bè, Guy Bedos hà bisognu d'aiutu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Guy Bedos hè definitivamente un veru corsu. Hà pigliatu l'usu è e manere di quì. A prova ? Dice ch'ellu hè in l'obligu di vende a so casa per campà, cum'è tanti Corsi nanz'à ellu. L'hà scritta in a so autobiografia à vene : 
+« Six mois après avoir mis un terme à ma carrière de show-man, des salles pleines à craquer depuis cinquante ans, forcé de vendre ma maison corse pour survivre. » 
+Per quelli chì ùn u truverianu micca abbastanza corsu, rammintemu ch'ellu face più di cinque anni ch'ellu stà ind'è noi, hè dunque un "résident". 
+U fattu si stà chì i 60.000 precarii di Corsica averanu forse una lacrima per ellu. 
+Bon, ma tutti quelli chì anu dettu ch'ellu ùn ci vulia à aiutà i disgraziati siriani, ma prima i poveri corsi, allora ? Quale hè vole apre a so casa à Guy ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

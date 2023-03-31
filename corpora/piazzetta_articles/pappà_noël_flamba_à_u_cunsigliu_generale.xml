@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pappà Noël flamba à u Cunsigliu Generale
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Pappa-Noel-flamba-a-u-Cunsigliu-Generale_a977.html"/>
+     <date>
+      Tue, 21 Dec 2010 01:31:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pappà Noël flamba à u Cunsigliu Generale
+   </head>
+   <div type="excerpt">
+    <p>
+     Bona nutizia, Pappà Noël hè passatu in avanzu in Bastia ! Un iPad hè statu rigalatu à ogni cunsiglieru generale. Costu : 25.000 €.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'infurmazione hè data da Corse-Matin di u 20 dicembre : i cunsiglieri generale di Corsica Suprana sò stati cusì bravi chì Babbu Natale hà flambatu. 
+Hà ancu fattu saltà a carte bleue : 40 iPad cumprati (ma pè travaglià, micca pè fà i conni nant'à Facebook è Youtube). 
+U CG2B hè a prima cullettività di Francia (!) hà fà un'operazione cusì. Iè, pudemu esse fieri d'elli, i nostri eletti sò i più high-tech d'Auropa : 
+"Ce 21 décembre est à marquer d’une pierre blanche : tous les rapports présentés par le nouveau président Joseph Castelli seront numérisés. Cette méthode de travail innovante n’a pas été imposée, c’est le résultat de la volonté exprimée par les conseillers généraux qui ont accepté de relever le défi et l’ont manifestée en septembre dernier par un vote unanime." 
+À 500€ l'iPad, hè veru ch'ellu ci vole à esse appena connu pè vutà contru. 
+I prublemi di canalizazione in Carchetu-Brusticu ? U finanzamentu di u "tout à l'égout" in i paesi di u cantone di l'Altu di Casàcconi ? A strada da rifà per cullà in Zuani ? À partesi d'oghje, u vostru caru elettu si n'hà da occupà grazia à u so iPad novu novu ! 
+Et qui on est ? 25.000 € per l'iPad, hè sempre megliu ch'è 300.000 € di preservativi, chì ùn seranu mancu utilizati in più. 
+Trippa si a 3G ùn passa micca in certi paesi, sì l'eletti ùn sò micca capaci di ghjuvassine (Apple ùn dà micca u mode d'emploi), nè mancu metteli in càrica. 
+Ch'hà da esse quandu i Rè Maghi anu da purtà i so rigali pè Pasqua Pifania. È ancu, ùn vi scurdate chì "ghjè a crisa", ch'osinnò ripartianu tutti cù u Cayenne o cù un Hummer. 
+È voi, ch'avete avutu pè Natale ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

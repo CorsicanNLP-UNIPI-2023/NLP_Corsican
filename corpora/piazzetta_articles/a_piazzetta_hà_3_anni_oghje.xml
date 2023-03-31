@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Piazzetta hà 3 anni oghje
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-Piazzetta-ha-3-anni-oghje_a987.html"/>
+     <date>
+      Mon, 27 Dec 2010 11:45:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       GIURNALE
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A Piazzetta hà 3 anni oghje
+   </head>
+   <div type="excerpt">
+    <p>
+     27 dicembre 2007, hè a data di u primu articulu publicatu in linea nant'à stu situ. 3 anni, digià...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     3 anni chì A Piazzetta magagna, annerba, stuzzica, scuzzula, fatica
+Ditela francamente. S'è vo leghjite st'articulu, hè ch'è vo site diventati Piazzetta-addict, ùn vi ne pudite più passà. 
+Site dipendente ! 
+U situ aPiazzetta.com hà dunque trè anni oghje... digià ! Eppò rassicuratevi : ùn hè ancu finita. 
+Per fà appena d'autocelebrazione (và bè, serà a sola volta in l'annata, prumessa !) eccu appena di sciffri :  Dapoi u 2007, sò 1000 articuli in linea Più di 1500 visite à ghjornu 500 visite à ghjornu nant'à l'applicazione per iFonu Un giurnale gràtisi chì sorte tutti i 3 mesi, stampatu à 12.000 esemplarii 8 nùmeri di u giurnale sò stati esciuti dapoi ferraghju 2008 Una cinquantina d'abbunati di sustegnu à un giurnale... gràtisi Più di 4500 fans nant'à Facebook  Bon, ùn hè micca troppu male per un media 100% amatore, nò ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

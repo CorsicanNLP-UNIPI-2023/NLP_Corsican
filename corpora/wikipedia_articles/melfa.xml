@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Melfa
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Melfa"/>
+     <date>
+      2018-11-25T10:13:27Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Melfa
+   </head>
+   <p>
+    U Melfa hè un fiume di u Laziu, affluente di sinistra di u Liri, in chè sfocia dopu un percorsu di circa 40 km.
+   </p>
+   <p>
+    Fiumi d'Europa
+   </p>
+   <p>
+    Italia
+   </p>
+   <p>
+    Laziu
+   </p>
+  </body>
+ </text>
+</TEI>

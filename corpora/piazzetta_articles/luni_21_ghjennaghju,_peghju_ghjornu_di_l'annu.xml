@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Luni 21 ghjennaghju, peghju ghjornu di l'annu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Luni-21-ghjennaghju-peghju-ghjornu-di-l-annu_a1486.html"/>
+     <date>
+      Mon, 21 Jan 2013 01:40:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Luni 21 ghjennaghju, peghju ghjornu di l'annu
+   </head>
+   <div type="excerpt">
+    <p>
+     In depressione ? Hè normale. Oghje, hè u "blue monday", u peghju ghjornu di l'annu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Micca laziu d'andà à travaglià, murale à zeru, azizume è fatiga ? Hè normale, rassiguratevi ùn site micca i soli. 
+Oghje hè u Blue Monday, u ghjornu u peghju di l'annu (ùn hè micca solu u tìtulu d'una canzona di New Order). 
+Si pò capisce : simu in u core di l'inguernu, e feste sò passate, i belli ghjorni sempre luntani, u fretu s'hè stallatu, e bone risuluzione digià abandunate, e ghjurnate sò corte, soldi ùn ci n'hè più. Dunque tuttu và bè, passerà. 
+Invece, a LFP hà inventatu u "Blue Sunday". Fendu ghjucà Bastia - Rennes in Gueugnon, hè natu u macciu u più deprimante di l'annu : 
+- partita in dumenica dopu meziornu  - neve, fretu è ballò aranciu  - a cità sinistra di Gueugnon cù e so usine viote delucalizate da Lakshmi Mittal  - u stadiu Jean Laville viotu cù i so mullizzi radioattivi  - a squadra di Rennes, a più deprimante di u futbol francese dapoi 30 anni  - macciacciu goffu è disfatta di u Sporting  - puttachju fragicu di u scambiu cun Arsenal trà Thauvin è Arshavin ripigliatu da i media 
+Basterà nò ? Bona notte à tutti.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

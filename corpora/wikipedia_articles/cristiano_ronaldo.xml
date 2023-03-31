@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cristiano Ronaldo
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Cristiano%20Ronaldo"/>
+     <date>
+      2019-10-15T03:53:04Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cristiano Ronaldo
+   </head>
+   <p>
+    Cristiano Ronaldo dos Santos Aveiro (prununzia: ) (natu in u 1985) hè un ghjucadore di pallò purtughese.
+   </p>
+   <p>
+    Ronaldo
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Dop'à u "poteau" di Reims...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Dop-a-u-poteau-di-Reims_a2537.html"/>
+     <date>
+      Wed, 08 Feb 2017 17:31:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Dop'à u "poteau" di Reims...
+   </head>
+   <div type="excerpt">
+    <p>
+     Ci hè statu u piottulu di Reims, eccu a matracca d'Aulnay. Un dissegnu di Lefred-Thouron esciutu in u Canard Enchaîné.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     SENZA CUMMENTU#GhjustiziaPerMaxime #JusticePourTheo pic.twitter.com/kyqPqWj0Si
+— Agustinu (@agustinuNZL) 8 février 2017
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

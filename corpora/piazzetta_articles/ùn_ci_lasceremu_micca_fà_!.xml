@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ùn ci lasceremu micca fà !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-ci-lasceremu-micca-fa-_a1389.html"/>
+     <date>
+      Sun, 29 Jul 2012 20:49:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ùn ci lasceremu micca fà !
+   </head>
+   <div type="excerpt">
+    <p>
+     Duie gattive militante ecologiste chì accumpagnavanu giurnalisti sò state minate vicinu à Aiacciu. I giurnalisti facianu un'inchiesta nant'à a privatizazione di u liturale. Una di e donne hà 72 anni, l'altra era cù u so figliolu di 10 anni.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'affare s'hè passatu in Cala di Figu, vicinu d'Aiacciu (d'appressu à Corse Net Infos. 
+Una squadra di giurnalisti malonesti vulianu fà un filmu nant'à a privatizazione di u liturale (aiò ! Francamente, quessa in Corsica ùn si face !). 
+Annu passatu era France 2 chì avia digià fattu un'emissione nant'à stu sugettu. 
+L'AFP ci dice chì duie militante ecologiste di l'associu GARDE accumpagnavanu i giurnalisti di Direct 8. 
+Una hà 72 anni, l'altra era cù u so figliolu di dece anni. 
+U prupietarii di i lochi (corsu), cù u so figliolu, hà chjosu l'accessu à u mare (hè illegale di siguru) per vende sughjorni in 4x4 è in battelli. Sò cascati nant'à i giurnalisti è l'ecologisti mal intenziunati è anu fattu falà i sciambuloni. 
+Ma ùn v'inchietate, l'agressori sò surtiti liberi da u cummissariatu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

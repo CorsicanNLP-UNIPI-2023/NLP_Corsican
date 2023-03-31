@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Qwanta u populu corsu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Qwanta-u-populu-corsu_a2710.html"/>
+     <date>
+      Thu, 15 Mar 2018 11:20:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Qwanta u populu corsu
+   </head>
+   <div type="excerpt">
+    <p>
+     Nant’à so pagina d’accolta, Qwant, u mutore di ricerca chì rispetta a vostra vita privata (sò elli chì a dicenu) annunzia u cuncertu di Canta u Populu Corsu à e Folies Bergère, u celebre teatru pariginu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Pè l’occasione, un bellu disegnu Art Déco ci mostra i cantadori, manu à l’orechja in giru à une cantatrice glamour. Anu da cantà, l’iniziadori di u Riacquistu, Corsica Nazione o l’Alta strada incù piume è lustrine?
+    </p>
+    <p>
+     Dopu à Antone Ciosi chì, di nuvembre 2017, avia principiatu u so Ultimu Giru in lu music-hall pariginu, tocca à Canta u Populu Corsu di cullà nant’à a scena di e Folies Bergère (ùn ci vole micca ‘s’ ci dice Wikipedia) u 31 di marzu. 
+Allora s’hè vo vulete « découvrir le chant corse » (sò piuttoste canzone, nò ?) è « le modernisme des guitares électriques » cum’è dice u prugramma, riservate puru a vostra serata. 
+A st’ora ùn sapemu ancu qual’hè chì vincerà : u spiritu muntagnolu di a pasturella (bergère) o e scimatichere (folies) di e riviste spitturicciate chì anu resu u locu celebre in lu mondu sanu ? 
+Speremu un’ unione armuniosa.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

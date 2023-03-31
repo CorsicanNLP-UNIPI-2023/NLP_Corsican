@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Albiorix
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Albiorix"/>
+     <date>
+      2015-07-16T10:06:08Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Albiorix
+   </head>
+   <p>
+    Albiorix hè un satellitu di Saturnu. Hè statu scupertu in u 2000 da Matthew Holman). Albiorix ùn pussedi micca atmosfera.
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    Astrunumia
+   </p>
+  </body>
+ </text>
+</TEI>

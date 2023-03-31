@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Joe Turkel
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Joe%20Turkel"/>
+     <date>
+      2015-07-06T10:23:35Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Joe Turkel
+   </head>
+   <p>
+    Joe Turkel (1927-) hè un attore americanu.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Listinu di l'attori americani
+   </p>
+   <p>
+    Turkel, Joe
+   </p>
+  </body>
+ </text>
+</TEI>

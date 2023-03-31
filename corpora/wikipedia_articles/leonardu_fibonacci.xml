@@ -1,0 +1,129 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Leonardu Fibonacci
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Leonardu%20Fibonacci"/>
+     <date>
+      2018-06-30T13:14:15Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Leonardu Fibonacci
+   </head>
+   <p>
+    Leonardo Fibonacci (v. 1175 à Pisa - v. 1250) hè statu un matematicu talianu. Avia, à l'epica, per nome d'usu "Leonardo Pisano", è si cugnumava qualchì volta ellu stessu "Leonardo Bigollo" (bigollo significhendu "viaghjadore" in talianu). Cù altri matematichi di u so tempu, cuntribuse à a rinascita di e scienze esatte dopu à a decadenza di l'ultima parte di u Medievu. S'ellu hè cunnisciutu per a seguita di Fibonacci, ghjoca soprattuttu un rollu di un'impurtanza cunsiderevule fendu u ligame trà u sapè matematicu di i musulmani, in particulare di i cifri indoarabi, è l'Occidente. Fubbe l'autore di un'opera, Liber abaci (1202), è un grande viaghjadore. Di i so viaghji ind’è u mondu arabu cù u so babbu impurtò in occidente u modu mudernu di impennà i numeri, chì oghje si chjamanu dinù numeri arabi. Fibonacci hè cunnusciutu ancu pè a sequenza di numeri chjamata successione di Fibonacci chì principia cù: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ... è dunde ogni numeru hè a somma di i dui chì u precedenu.
+   </p>
+   <p>
+    == Biugrafia ==
+   </p>
+   <p>
+    E fonte biugrafiche annantu à 'ssu persunaghju facenu crudelmente diffettu. Natu in Pisa, ripublica marittima di Tuscana, a so educazione s'hè fatta in grande parte à Bejaia in Algeria, induve u so babbu Guglielmo Bonacci era u ripprisintante di i marcanti di a ripublica di Pisa. Hè in 'ssa cità portuaria, chì era à quell'epica un centru cummerciale è intellettuale, chì Fibonacci cumenciò a so educazione in matematichi. Benchì omu ùn sappia micca si ellu sapia leghje l'arabu, studiò in particulare i travagli algebrichi d'Al-Khwarizmi.
+   </p>
+   <p>
+    Avendu dinù viaghjatu in Egittu, in Siria, in Sicilia, in Pruvenza à prò di u so babbu, è scuntratu diversi matematichi, Fibonacci ne rapurtò à Pisa in u 1198 i cifri arabi è a nutazione algebrica (chì certi ne attribuiscenu l'intruduzione à Gerbert d'Aurillac). Quessa illustra i ligami trà a vitalità cummerciale di e cità d'Italia di l'epica è a criatività scentifica è artistica di i so membri.
+   </p>
+   <p>
+    In u 1201, pruvò chì ogni frazzione a/b pudia esse nutata cum'è una somma di frazzione distinte chì u so numeratore hè 1, vene à dì, pudia esse ripprisintata da una frazzione egizziana.
+   </p>
+   <p>
+    Da u 1202 à u 1225, hè occupatu incù e so differente opere.
+   </p>
+   <p>
+    Dopu u 1228, a vita di Fibonacci ci hè guasi scunnisciuta. Un solu documentu cunnisciutu si riferisce à ellu. Si tratta di unu dicretu datatu di u 1241 nutifichendu l'attribuzione da a Ripublica di Pisa di un salariu annuale di vinti lire à u "savviu è discretu Maestru Leonardo Bigollo". 'Ssu salariu li fubbe datu in ricunniscimentu di i sirvizii resi à a cità è à i citatini in qualità di cuntabile. Fibonacci morse pocu dopu, prubabilmente à Pisa.
+   </p>
+   <p>
+    == Liber abaci (1202) ==
+   </p>
+   <p>
+    U libru di i calculi hè un trattatu annantu à i calculi è a cuntabilità fundatu annantu à u calculu decimale à un'epica induve tuttu l'Occidente imprudava sempre i cifri rumani è calculava annantu à l'abbacu. 'Ssu libru hè assai influinzatu da a so vita in i paesi nordafricani. Hè d'altronde ridattu in parte da dritta à manca.
+   </p>
+   <p>
+    Incù 'ssa publicazione, Fibonacci intruduce u sistemu di nutazione arabu in Europa. 'Ssu sistemu hè più putente è più rapidu chì a nutazione rumana, è Fibonacci ne hè pienamente cuscente. L'invinzione serà prima male ricevuta parchì u publicu ùn capia più i calculi ch'elli facianu i cummercianti. In u 1280, Firenza interdì ancu l'usu di i cifri arabi da i banchieri. Omu ghjudicò chì u zeru arricava a cunfusione è e difficultà à u puntu ch'elli chjamonu 'ssu sistemu cifra, chì deriveghja da u nome arabu di u zeru (al sifr = biotu, zeru). Seria da l'usu di i numeri in a tradizione cabalistica chì a parola ciffra avaria acquistatu u sensu di codice sicretu.
+   </p>
+   <p>
+    Fibonacci hè più cunnisciutu à i ghjorni d'oghje per unu di i so prublemi cunducendu à i numeri è à a seguita chì portanu u so nome, ma à a so epica, sò soprattuttu l'appiicazione di l'aritmetica à u calculu cummerciale chì l'anu fattu cunnosce : calculu di u prufittu di e transazione, cunvirsione trà munete di differenti paesi usendu base differente (basa 10, 12, 20). U so travagliu annantu à a teuria di i numeri era ignuratu à l'epica, ma fubbe assai largamente lettu mentre i dui seculi chì suvitonu. I so travagli sò oramai assai imprudati in finanza di mercatu, è in particulare in analisi tecnica.
+   </p>
+   <p>
+    == Practica Geometrie (1220) ==
+   </p>
+   <p>
+    Hè un libru di geumitria è di trigunumitria, omagiu indirettu di u matematicu pisanu à Federiccu di Souabe, chì fubbe incurunatu imperatore à a fine di quistannu 1220. Ci mostra frà altru chì a soluzione reale di l'equazione x^3 + 2x^2 +10x = 20 ùn hè micca custruttibile à a regula è à u cumpassu. Si tratta di unu risultatu senza equivalente dapoi Euclide.
+   </p>
+   <p>
+    == Liber quadratorum (1225) ==
+   </p>
+   <p>
+    'Ssu libru di i quatrati, dedicatu à Federiccu II , hè un libru di prublemi numerichi, parte assai impressionnante di u travagliu di Fibonacci.
+   </p>
+   <p>
+    == Flos (1225) ==
+   </p>
+   <p>
+    Hè un raggruppamentu di soluzione à i prublemi posti da Maestru Ghjuvanni di Palermu, filosofu di a Corte, à u mumentu di un cuncorsu di matematiche organizatu da è in prisenza di Federiccu II, prublemi ch'è solu Fibonacci avia saputu risolve.
+   </p>
+   <p>
+    == I nomi di Leunardu di Pisa ==
+   </p>
+   <p>
+    U nome di Fibonacci, currispundente à filius Bonacii, figliu di Bonacci, in latinu ", li hè statu attribuitu di manera postume.
+   </p>
+   <p>
+    == Note ==
+   </p>
+   <p>
+    == Articuli cunnessi ==
+   </p>
+   <p>
+    Successione di Fibonacci
+   </p>
+   <p>
+    Gruppu di Fibonacci
+   </p>
+   <p>
+    Matematicu
+   </p>
+   <p>
+    Talianu
+   </p>
+   <p>
+    Nascita à Pisa
+   </p>
+   <p>
+    Nascita in a ripublica di Pisa
+   </p>
+   <p>
+    Persunalità taliana di u XIIIu seculu
+   </p>
+   <p>
+    Matematicu talianu
+   </p>
+   <p>
+    Scrittore talianu di lingua latina
+   </p>
+   <p>
+    Matematicu di u XIIIu seculu
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,78 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hans Christian Andersen
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Hans%20Christian%20Andersen"/>
+     <date>
+      2013-03-09T03:23:29Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hans Christian Andersen
+   </head>
+   <p>
+    Hans Christian Andersen hè statu unu scrivanu danese natu à Odense u 2 aprile di u 1805 è mortu u 4 d'aostu di u 1875 à Copenaghen.
+   </p>
+   <p>
+    == Vita ==
+   </p>
+   <p>
+    Natu in una famiglia povara ùn hà pussutu seguità studii regulari è da ghjovanu, s'hè tramutatu à Copenaghen per circà u travagliu cumu scrivanu di teatru.
+   </p>
+   <p>
+    Principia à scrive è in fine, trova i prutettori chì l'aiutanu à finisce i so studii (1828).
+   </p>
+   <p>
+    Dopu i primi successi viaghja assai in Germania, Francia, Italia, Grecia, Turchia, Svezia, Spagna è Anghilterra (induve divene amicu di Charles Dickens).
+   </p>
+   <p>
+    Grazie à 'sse sperienze scrive libri è diari di viaghju.
+   </p>
+   <p>
+    == Opere ==
+   </p>
+   <p>
+    A so produzione di teatru ùn hà avutu moltu successu è mancu e so puisie ma Andersen hè cunnisciutu in u mondu sanu per e so 157 fole frà qualesse:
+   </p>
+   <p>
+    A principessa nantu à u pisellu (Prindsessen paa AErten, 1835)
+   </p>
+   <p>
+    U vestimentu novu di l'imperatore (Keiserens nye Kloeder, 1837)
+   </p>
+   <p>
+    A zitellina è u fulminente (Den lille Pige med Svovlstikkerne, 1848)
+   </p>
+   <p>
+    U cignu chjucu è goffu (Den grimme AElling, 1845)
+   </p>
+   <p>
+    I ghjorni di l'etima (Ugedagene, 1871)
+   </p>
+   <p>
+    U principe gattivu (Den onde Fyrste, 1849)
+   </p>
+  </body>
+ </text>
+</TEI>

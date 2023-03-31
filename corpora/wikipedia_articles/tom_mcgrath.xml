@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tom McGrath
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Tom%20McGrath"/>
+     <date>
+      2015-07-01T17:24:38Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tom McGrath
+   </head>
+   <p>
+    Thomas "Tom" McGrath hè un attore americanu.
+   </p>
+   <p>
+    McGrath
+   </p>
+   <p>
+    McGrath, Tom
+   </p>
+  </body>
+ </text>
+</TEI>

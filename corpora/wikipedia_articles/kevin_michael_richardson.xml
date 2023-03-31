@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Kevin Michael Richardson
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Kevin%20Michael%20Richardson"/>
+     <date>
+      2015-07-06T10:26:05Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Kevin Michael Richardson
+   </head>
+   <p>
+    Kevin Michael Richardson III hè un attore americanu.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Listinu di l'attori americani
+   </p>
+   <p>
+    Richardson, Kevin Michael
+   </p>
+  </body>
+ </text>
+</TEI>

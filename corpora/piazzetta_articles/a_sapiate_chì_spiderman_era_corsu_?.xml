@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A sapiate chì Spiderman era corsu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-sapiate-chi-Spiderman-era-corsu_a999.html"/>
+     <date>
+      Fri, 07 Jan 2011 19:17:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A sapiate chì Spiderman era corsu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Spiderman (d'altronde avà ci vole à chjamallu Spidermanu) hè per u Sporting, a prova cun sta videò.S'ellu pudia prufittane per mette una concia à Thiriez...
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

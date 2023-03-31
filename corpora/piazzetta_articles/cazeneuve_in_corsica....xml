@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cazeneuve in Corsica...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cazeneuve-in-Corsica_a1882.html"/>
+     <date>
+      Sun, 15 Jun 2014 17:12:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cazeneuve in Corsica...
+   </head>
+   <div type="excerpt">
+    <p>
+     U dissegnu di Battì.
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

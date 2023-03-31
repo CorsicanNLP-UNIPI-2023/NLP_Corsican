@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Per a "paghjellizazione" di l'impieghi
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Per-a-paghjellizazione-di-l-impieghi_a1878.html"/>
+     <date>
+      Fri, 13 Jun 2014 00:44:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Per a "paghjellizazione" di l'impieghi
+   </head>
+   <div type="content">
+    <p>
+     Certi Corsi difendenu a "cursizazione" di l'impieghi. 
+D'altri parlanu di "cursofonizazione", è di dà in priurità l'impieghji à quelli chì parlanu corsu. 
+Ci hè forse ancu megliu : eccu ch'ella ghjunghje a "paghjellizazione" di l'impieghi. Hè ciò ch'ellu dice l'annunziu di st'intrapresa nant'à Facebook, chì cerca un macellu paghjellaghju. 
+S'è vo site interessati, pudete cuntattà l'intrapresa anti-constitutionnelle Carne in casa nant'à a so pagina Facebook o u so situ internet.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

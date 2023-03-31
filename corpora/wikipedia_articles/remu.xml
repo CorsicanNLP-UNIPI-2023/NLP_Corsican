@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Remu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Remu"/>
+     <date>
+      2015-04-21T18:15:29Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Remu
+   </head>
+   <p>
+    Remu era u fratellu gemellu di Romulu, chi era u fundatore è u prima rè di Roma.
+   </p>
+   <p>
+    == Ligami==
+   </p>
+   <p>
+    Italia
+   </p>
+   <p>
+    Parsunaghji di a mitulugia
+   </p>
+  </body>
+ </text>
+</TEI>

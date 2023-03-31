@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Corsu o connu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Corsu-o-connu_a1327.html"/>
+     <date>
+      Mon, 16 Apr 2012 13:47:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Corsu o connu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Avanza a ricunniscenza di u populu corsu in u futbol. U ghjucadore di Lille Aurélien Chedjou averia dettu "sale corse" à l'aiaccinu Cavalli.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'affari vanu più in furia in futbol chè in pulitica. Allora chì nisun grande candidatu à l'elezzione presidenziale parla di ricunnosce l'esistenza di u populu corsu (i soli sò Philippe Puttù è Eva Joly), in u mezu di u ballò francese l'affari sò chjari : u populu corsu esiste. 
+Era digià u casu di Jean-Michel Aulas (ma forse era perchè s'era pigliatu unepochi di scuzzulate in Timizzolu). 
+Dapoi sta dumenicata, u populu corsu hà un novu difensore : hè u difensore di u LOSC, Aurélien Chedjou. Averia trattatu à Johan Cavalli di "sale corse" durante a partita Lille - Aiacciu è avà l'affare cummencia à fà u rimusciu. 
+A LFP hà dettu ch'ella hà apertu una inchiesta. Allora avà, chì dicerà a LICRA ? Chedjou serà suspesu da a cummissione di disciplina di a liga ? Chì serà a riazzione di Thiriez, sempre u primu à accusà Bastia di razzisimu ? 
+Chedjou ellu si difende : ùn hà micca dettu "sale corse" ma "sale con"... 
+Una cosa hè certa : u futbol francese si porta sempre cusì bè.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

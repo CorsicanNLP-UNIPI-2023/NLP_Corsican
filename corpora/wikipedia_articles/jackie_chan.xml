@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Jackie Chan
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Jackie%20Chan"/>
+     <date>
+      2016-09-16T07:36:50Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Jackie Chan
+   </head>
+   <p>
+    Jackie Chan (7 d'aprile 1954) hè un attore Chinese.
+   </p>
+   <p>
+    Chan, Jackie
+   </p>
+   <p>
+    Chan, Jackie
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Gattupardu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Gattupardu"/>
+     <date>
+      2013-03-11T09:34:21Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Gattupardu
+   </head>
+   <p>
+    U gattupardu, ancu ghjattupardu (Acinonyx jubatus), hè un mammiferu di a famiglia di i Felidae.
+   </p>
+  </body>
+ </text>
+</TEI>

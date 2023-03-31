@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U tràfficu di pomidori più lucrativu ch'è quellu di a droga
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-trafficu-di-pomidori-piu-lucrativu-ch-e-quellu-di-a-droga%C2%A0_a2594.html"/>
+     <date>
+      Mon, 29 May 2017 14:52:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U tràfficu di pomidori più lucrativu ch'è quellu di a droga
+   </head>
+   <div type="excerpt">
+    <p>
+     « Daretu à a pumata si piatta una strema viulenza » scrive Jean-Baptiste Malet in u so libru « L’empire de l’or rouge », una inchiesta mundiale nant’à u cummerciu di u fruttu u più pupulare di u mondu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ogni abitante di u pianeta cunsuma cinque chilò di pomidoru à l’annu, in cunserva per u più. Ghjè un mercatu gigante chì tutte e maffie fidighjavanu cun ochji sburlati è chì oramai, hè cuntrullatu o guasi da a Camorra, ‘Ndranghetta, a Cosa nostra, a Sacra Curona Unita, a maffia chinese è tutte isse belle imprese di beneficenza. 
+Sguassate puru a maghjina di a vostra mammone chì d'istatina facia e cunserve di pomidoru cù i frutti suchjosi di l’Ortu Supranu, chì vi paria ch’ella mettessi u sole in un caraffone. E cose sò cambiate assai. 
+Eccu ciò chì ci conta Ghjuvan-Battì in u so libru : un agromaffia mundialisata face travaglià i zitelli o i migranti pè una paga mischina, pruduce pumate in u Xinjiang o in altrò, manda e botte in Italia, scrive made in Italy nant’à l’etichetta, sciacca una vespa o una bandera culor di pizza Margherita  nant’à l’imballasgiu è... u Mezzogiorno hè in la scatula. 
+In corte parolle, ùn sì pò micca sapè cìo ch’omu manghja è ci vuleria à fidighà e salse industriale in caterochju. 
+Ùn vale à svenesi, à « cascà nu i pomi » (puru d’oru) chì e mammone sò più forte chè a Maffia è c'insegnanu a strada di l’avvene : scucinà à di per sè incù pomi d’oru colti pè sti pughjali.
+    </p>
+    <p>
+     Da leghje : «L'Empire de l'or rouge»: Découvrez les dessous très peu reluisants du business de la tomate d'industrie
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

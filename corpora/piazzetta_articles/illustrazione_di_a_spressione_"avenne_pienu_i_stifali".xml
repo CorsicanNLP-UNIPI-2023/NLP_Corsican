@@ -1,0 +1,90 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Illustrazione di a spressione "avenne pienu i stifali"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Illustrazione-di-a-spressione-avenne-pienu-i-stifali_a2488.html"/>
+     <date>
+      Mon, 28 Nov 2016 12:56:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Illustrazione di a spressione "avenne pienu i stifali"
+   </head>
+   <div type="excerpt">
+    <p>
+     U tempurale di a settimana scorsa in Corsica suprana hà fattu nasce un dilluviu di ritratti d'eletti in stifali.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A cumunicazione pulitica s'assumiglia certe volte à un cuncorsu. Nant'à e rete suciale, a settimana passata era quellu di ritratti d'eletti nant'à u terrenu, i pedi innù a fanga. Senza Meindl ma cù e botte.
+    </p>
+    <p>
+     @FrancoisOrlandi Pdt @cismonte2b, Pdt @sdis2b : remerciements aux Marins Pompiers de Marseille @SDIS13 pic.twitter.com/0Mx7tNGGxe
+— François Orlandi (@FrancoisOrlandi) 26 novembre 2016
+    </p>
+    <p>
+     Pour les commerçants, les administrés et la commune de Furiani une catastrophe économique sans précédent.@Gilles_Simeoni pic.twitter.com/av2UsHQ2YG
+— Mairie de Furiani (@MairieFuriani) 26 novembre 2016
+    </p>
+    <p>
+     #Intempéries #Haute-Corse: "Une catastrophe économique sans précédent" https://t.co/2NkArBiXh5 #GillesSimeoni
+— Corse Net Infos (@corsenetinfos) 26 novembre 2016
+    </p>
+    <p>
+     L'eletti di siguru, ma u prefettu dinù :
+    </p>
+    <p>
+     #Intemperies Constatation des dégâts sur la commune de @MairieFuriani pic.twitter.com/OpeJCKuRaW
+— Préfecture 2B (@Prefet2B) 25 novembre 2016
+    </p>
+    <p>
+     Ci vole à dì chì Juppé avia lanciatu a moda di i stifali :
+    </p>
+    <p>
+     Juppé « droit dans ses bottes » au Zénith https://t.co/TCWyhDkVkH
+— Le Parisien (@le_Parisien) 14 novembre 2016
+    </p>
+    <p>
+     Rammintemu quantunque chì d'appressu à u dizziunariu U Muntese, a spressione "avenne pienu i stifali" currisponde à "en avoir plein son sac" o "en avoir plus qu'assez".
+    </p>
+    <p>
+     C'est le BA BA : En cas de catastrophe, toujours vérifier que l'on figure sur la photo ! De face, en bottes, prendre l'air inspiré du chef.
+— Luc-Antoine MARSILY (@lamarsily) 26 novembre 2016
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

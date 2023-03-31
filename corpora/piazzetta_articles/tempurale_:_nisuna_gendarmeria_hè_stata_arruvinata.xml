@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tempurale : nisuna gendarmeria hè stata arruvinata
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Tempurale-nisuna-gendarmeria-he-stata-arruvinata_a1206.html"/>
+     <date>
+      Sun, 06 Nov 2011 14:12:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tempurale : nisuna gendarmeria hè stata arruvinata
+   </head>
+   <div type="excerpt">
+    <p>
+     U tempurale chì hà toccu a Corsica st'ultimi ghjorni hà creatu inundazioni, tagliatu l'elettricità, arruvinatu abitazioni è si n'hè paratu unepoche di strade.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Simu salvi ! Cun tutte e caserne di CRS è di gendarmi, di cummissariati è di campi militari ch'ellu ci hè in Corsica, nisunu hè statu toccu da u tempurale. Hè un veru miràculu. Siate puru tranquilli, tuttu và bè dunque. E forze di l'òrdine ponu cuntinuvà à fà u so travagliu. 
+Invece, s'ampara oghje in Corse-Matin chì Bastia vene di perde u so sinemà, arruvinatu da l'inundazioni. Da leghje : Scénario catastrophe au cinéma le « Régent ». 
+Per avà, ùn si sà mancu s'ellu puderà turnà à apre. 
+Bastia hà persu un locu di cultura, è e gendarmerie elle tenenu forte. Hè veramente inghjustu, stu mondu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

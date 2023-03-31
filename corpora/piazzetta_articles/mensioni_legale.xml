@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mensioni legale
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Mensioni-legale_a2433.html"/>
+     <date>
+      Fri, 01 Apr 2016 11:55:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       GIURNALE
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Mensioni legale
+   </head>
+   <div type="content">
+    <p>
+     U situ apiazzetta.com hè editatu da l'Associu Lingua Scritta - Sede suciale : 1,carrughju Canonicu Bartoli, 20200 Bastia.  SIRET N° : 51508975300013  Rispunsèvule di publicazione : PP. de Casabianca  Situ albergatu da OVH SAS 
+Contact : 06 69 23 19 30 sarah@apiazzetta.com 
+L’utilisateur ne dispose d’aucun droit de propriété intellectuelle sur le Site et ses services, ainsi que sur leur contenu. Sauf à y être autorisé par des dispositions légales, l’utilisateur n’est pas autorisé à utiliser les contenus obtenus par l’intermédiaire du Site et de ses services
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Si n'hè andatu Mikhaïl Kalashnikov
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Si-n-he-andatu-Mikhail-Kalashnikov_a1658.html"/>
+     <date>
+      Mon, 23 Dec 2013 19:20:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Si n'hè andatu Mikhaïl Kalashnikov
+   </head>
+   <div type="excerpt">
+    <p>
+     Mikhail Kalashnikov, bellu cunnisciutu cum'è l’inventore di u fucile automaticu eponimu, hè mortu eri in casa soia. Avia 94 anni.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A carriera di Kalashnikov hè puru semplice. L’omu vulia diventà ingeniore agriculu ma tandu ghjunse a guerra, a « grande guerra patriotica » cumu a chjamanu sempre oghje i nostri amichi Russi. Inchietu di vede chì l’Alemani pigliavanu a suprana incù a so superiorità tennica, soprattuttu in ciò chì si trattava di i fucili d’assaltu, Mikhail, ancu dopu à a vittoria di u so paese, s’inchjuccò di custruì un'arma efficiente, sigura, soda è à bon pattu. Creò dunque un fucile chjamatu l’Avtomat Kalachnikova in l’annu 1947, cusi dettu AK47. 
+Quellu fucile diventò un simbulu di a segonda metà di u 20imu seculu, pruduttu à decine di milioni d’esemplarii, l’arma a più sparsa in u mondu, spezialmente in u Terzu mondu, perchè ùn s’incruchjava guasi mai è pudia tirà sott’à l’acqua, in a rena, è custava pocu. 
+Allora quandu si vede ancu chì oghje hè diventata l’arma di i sgaiuffi è maffiosi di ogni sterpa, hè chì Mikhail pò esse cunsideratu cume rispunsevule di milioni di morti, ramintemu chì u tippu dicia sempre : « Hè colpa di l’Alemani s’o aghju concepitu l’AK47, aghju vulsutu difende a mo patria è dormu propiu bè a notte ! Ma hè vera chì m’averebbe piaciutu di più di custrui qualcosa d’utile cume una tundosa ». 
+A ringrazià ti o Michè, tù chì si statu l’omu più dicuratu di Russia, è chì ai finitu generale, forse seria statu in un altra vita u capizzone mundiale di u materiale di giardinu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

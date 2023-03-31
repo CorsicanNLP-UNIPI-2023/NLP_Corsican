@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     San Petru
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/San%20Petru"/>
+     <date>
+      2016-05-18T14:12:53Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    San Petru
+   </head>
+   <p>
+    San Petru: u santu
+   </p>
+   <p>
+    u San Petru: u pesciu
+   </p>
+   <p>
+    Santu Petru di Venacu
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hè mortu "Hurricane" Carter
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/He-mortu-Hurricane-Carter_a1740.html"/>
+     <date>
+      Sun, 20 Apr 2014 20:35:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hè mortu "Hurricane" Carter
+   </head>
+   <div type="content">
+    <p>
+     Avemu amparatu oghje a morte di u campione di boxe Rubin "Hurricane" Carter. 
+Hè statu cundannatu à a prigiò à vita in u 1966 per un assassiniu ch'ellu hà sempre nigatu. Hè statu liberatu in u 1985, è u so prucessu turnatu à esse cunsideratu è a so cundanna annulata. 
+Un filmu cun Denzel Washington hà cuntatu a so storia. 
+Bob Dylan n'hà fattu una canzona mìtica in u 1975, "Hurricane".
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

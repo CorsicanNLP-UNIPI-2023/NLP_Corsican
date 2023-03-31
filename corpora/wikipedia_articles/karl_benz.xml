@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Karl Benz
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Karl%20Benz"/>
+     <date>
+      2015-07-06T09:33:42Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Karl Benz
+   </head>
+   <p>
+    Karl Friedrich Benz, (cunnisciutu dinù cume Carl Friedrich Benz) natu à Karlsruhe u 25 di nuvenbre 1844, hè statu un ingegnere alimanu, famosu pè esse un pionieru di l’invenzione di l’automobile.
+   </p>
+   <p>
+    Karl Friedrich Benz hè mortu à Ladenburg u 4 d'aprile di u 1929.
+   </p>
+   <p>
+    ==Da vede dinù==
+   </p>
+   <p>
+    vittura
+   </p>
+   <p>
+    Citroën
+   </p>
+   <p>
+    BMW
+   </p>
+   <p>
+    Adam Opel
+   </p>
+   <p>
+    Volkswagen
+   </p>
+  </body>
+ </text>
+</TEI>

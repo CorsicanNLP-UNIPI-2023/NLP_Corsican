@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     François Tatti face saltà a merria
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Francois-Tatti-face-salta-a-merria_a1041.html"/>
+     <date>
+      Mon, 28 Feb 2011 09:01:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    François Tatti face saltà a merria
+   </head>
+   <div type="excerpt">
+    <p>
+     François Tatti hà annunziatu (in francese) dumènica à Cuntrastu ch'ellu hè candidatu à l'elezzioni municipali di 2014 in Bastia. Jean-Jean è Milù anu siguramente appreziatu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     E povere elezzioni cantunali chì cascanu da quì à un mese ùn interessanu à nimu ma a pressione cummencia digià à cullà pè e municipali di... 2014. 
+Dumènica in l'emissione Cuntrastu François Tatti hà cappiatu una piccula bomba : "je souhaite être candidat en 2014" (en français dans le texte). 
+Eccu, avà hè fatta. 
+Si sapia ch'Emile ùn si presenteria più, ma di a so successione ùn si ne parlava. Trà Jean-Jean, in nome di a tradizione famigliale è Francescu, scusate, François u sempiternu nùmeru 2, ùn ci vulia à parlanne. Era un sugettu tabù, moltu più chì u futtogliu era caldu pè Jean Junior. 
+In più di quessa, si Tatti ci và, ùn si puderà più parlà di trasmissione ereditaria di u putere. È sò i naziunalisti chì risicheghjanu d'esse imbestiati... Invece, per ciò chì tocca à l'idee ùn ci serà nisuna surpresa : François hè bè u figliolu di Milù. Ùn ci hè ch'è da vede a so ultima cacciata contr'à a lingua corsa. 
+Allora, Jean-Jean di Pappà o François Tatti (en français dans le texte) ? Avà chì a bomba hè schjattata, aspettemu a cundanna...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

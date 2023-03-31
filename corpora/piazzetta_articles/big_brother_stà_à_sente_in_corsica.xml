@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Big Brother stà à sente in Corsica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Big-Brother-sta-a-sente-in-Corsica_a1792.html"/>
+     <date>
+      Sun, 11 May 2014 12:12:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Big Brother stà à sente in Corsica
+   </head>
+   <div type="content">
+    <p>
+     Averemu tantu affari interessanti à dì ? 
+Slate hà publicatu un articulu intitulatu Comment on peut, en trois clics, découvrir la carte des stations d'écoute des espions de la DGSE chì presenta i lochi di i prugrammi francesi di u rinsignamentu è di u prugramma Frenchelon. 
+Frenchelon hè u nome datu à u Echelon francese, u sistema d'ascoltu è di surveglianza di e cumunicazioni americanu. 
+L'autore avia scrittu dinù un articulu pè dimustrà cumu i lochi di a DGSE eranu pochi siguri : Quiz: rions un peu avec la DGSE. 
+Tuttu què per dì chì dui lochi figuranu in Corsica : 
+In a basa di Sulinzara, induve ci si trova una delegazione di u 44e régiment de transmissions chì s'occupa di chjappà e cummunicazioni. 
+È in Bunifaziu, ci hè dinù una stazione di a DGSE. 
+Ne cuntate assai pazzìe in e vostre telefunate è i vostri SMS ? 
+Fratellone si n'impippa, ellu, vi stà à sente.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A cultura corsa à l'OM !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-cultura-corsa-a-l-OM-_a1017.html"/>
+     <date>
+      Wed, 26 Jan 2011 00:27:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A cultura corsa à l'OM !
+   </head>
+   <div type="excerpt">
+    <p>
+     A cultura corsa diventerebbe troppu à a moda ? Rod Fanni, futbalore francese chì ghjoca à l'OM dice ch'ellu ascolta musica corsa.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Dopu à Jenifer chì vole fà un discu in corsu, Yannick Cahuzac chì dice à So Foot ch'ellu parla corsu, eccu u giru di Rod Fanni. 
+Ùn cunniscite micca à Rod Fanni ? Hè normale, hè un futbalore francese d'orìgine di u Bénin chì ghjoca à l'OM. 
+A so cacciata hè stata ripigliata nant'à u net. Dice ch'ellu hè u DJ di l'OM (ùn mi dumandate micca à ciò ch'ellu currisponde, ùn vogliu mancu sapè) : « Je passe du ragga, du r’n’b, de la pop... Vous savez, à Rennes, j’ai mis de la musique corse. » Almenu, ùn si puderà micca dì ch'ellu hè razzistu. 
+Ma chì serà u prussimu ? 
+Black Eyed Peas chì dice ch'elli anu da fà un remix di e canzone di Carlu Rocchi ?  Barack Obama chì annunzia ch'ellu cummanda u so figatellu in Alisgiani ?  Steven Spielberg chì dichjara ch'ellu vole adattà "The battle of Ponte Novu" ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

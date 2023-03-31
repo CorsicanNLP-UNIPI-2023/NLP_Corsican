@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lingua aragunesa
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Lingua%20aragunesa"/>
+     <date>
+      2015-07-09T09:51:39Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lingua aragunesa
+   </head>
+   <p>
+    A lingua aragunesa (o lingua aragonese) hè una lingua romanza chì hè parlata in Aragona (Spagna).
+   </p>
+   <p>
+    Aragunesu
+   </p>
+   <p>
+    Aragona
+   </p>
+  </body>
+ </text>
+</TEI>

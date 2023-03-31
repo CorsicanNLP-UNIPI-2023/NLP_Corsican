@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pelago
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Pelago"/>
+     <date>
+      2014-03-23T14:47:43Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pelago
+   </head>
+   <p>
+    Pelago hè una cumuna toscana di a pruvincia di Firenze.Teni 7.396 abitanti.
+   </p>
+   <p>
+    Cumuna di Toscana
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Irwin Keyes
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Irwin%20Keyes"/>
+     <date>
+      2015-07-09T10:11:34Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Irwin Keyes
+   </head>
+   <p>
+    Irwin Keyes hè un attore americanu.
+   </p>
+   <p>
+    Keyes,Irwin
+   </p>
+   <p>
+    Keyes, Irwin
+   </p>
+  </body>
+ </text>
+</TEI>

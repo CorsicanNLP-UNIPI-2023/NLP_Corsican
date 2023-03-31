@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Kentucky
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Kentucky"/>
+     <date>
+      2015-05-08T20:10:15Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Kentucky
+   </head>
+   <p>
+    U Kentucky hè un statu di i Stati Uniti d'America. Teni circa 4,2 milioni d'abitanti. A capitala si chjama Frankfort.
+   </p>
+   <p>
+    Kentucky
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bastia in u top 3 di i clubs i menu appreziati di Francia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Bastia-in-u-top-3-di-i-clubs-i-menu-appreziati-di-Francia_a1860.html"/>
+     <date>
+      Tue, 03 Jun 2014 11:51:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bastia in u top 3 di i clubs i menu appreziati di Francia
+   </head>
+   <div type="excerpt">
+    <p>
+     Bastia (19imu) è Aiacciu (18imu) in i clubs i menu pupulari di Francia. Solu l'OM face peghju.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè un sundagiu esciutu sta settimana in France Football (sundagiu IFOP per Canal+ è FF). L'inchiesta hè stata fatta u mese scorsu è porta nant'à a pupularità di i clubs di L1. 
+Bastia hè 19imu, l'ACA 18imu. L'ultimu essendu l'OM. U PSG ellu hè 17imu. 
+U club u più appreziatu hè Saint-Etienne, davant'à Guingamp è Bordeaux. 
+Di siguru ci vole à piglià a classifica à l'orrimbesciu. Quist'annu Bastia è Aiacciu sò stati aurupeani, quist'annu chì vene ci vole à finisce campione di Francia di i clubs i menu appreziati di Francia. 
+France Football ùn ci dice micca sì Thiriez hè statu interrugatu per stu sundagiu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

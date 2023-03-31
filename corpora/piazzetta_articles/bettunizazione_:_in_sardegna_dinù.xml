@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bettunizazione : in Sardegna dinù
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Bettunizazione-in-Sardegna-dinu_a1811.html"/>
+     <date>
+      Fri, 16 May 2014 15:36:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bettunizazione : in Sardegna dinù
+   </head>
+   <div type="content">
+    <p>
+     Isule surelle, ancu in u scempiu urbanisticu è in a bettunizazione. 
+U giurnale La Nuova Sardegna face casu d'un bellu prugettu d'incimentizazione di 120 ettari nant'à a cummuna di Palau, in Gallura. 
+C'eranu suspetti di scruccuneria in stu prugettu di "maxi-lottizzazione". Dop'à un annu d'inchiesta, 54 persone sò state messe in causa : vinditori, acquistadori, prumutori immubiliari, trafficoni è bettunizadori. Si trattava di fà custruisce nant'à terre distinate à l'agricultura. 
+Forse, quallà dinù, un passiunatu di parpaing averà dettu chì "on va pas laisser que du maquis à nos enfants". 
+In Corsica cum'è in Sardegna, a pressione immubiliare hè sempre cusì forte nant'à u liturale. È cum'ella hè longa a cumpagnia di quelli chì preferiscenu u cimentu à a virdura...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

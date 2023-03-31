@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Campi Bisenzio
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Campi%20Bisenzio"/>
+     <date>
+      2015-07-01T17:02:43Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Campi Bisenzio
+   </head>
+   <p>
+    Campi di Bisenzio hè una cumuna toscana di a pruvincia di Firenze.Teni 41.098 abitanti.
+   </p>
+   <p>
+    Cumuna di Toscana
+   </p>
+  </body>
+ </text>
+</TEI>

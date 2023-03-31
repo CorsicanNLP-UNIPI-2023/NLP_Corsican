@@ -1,0 +1,82 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     L'omu à u zlip in Corsica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/L-omu-a-u-zlip-in-Corsica_a2297.html"/>
+     <date>
+      Thu, 12 Nov 2015 12:20:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    L'omu à u zlip in Corsica
+   </head>
+   <div type="excerpt">
+    <p>
+     Un omu, un zlip, una pala. A fiura hà fattu u giru di u mondu. È ùn c'era micca ragioni per ch'ellu ùn venga micca in Corsica.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Certi ghjorni si faria megliu à stà in casa. Quand'ellu hè surtitu da a so sala di bagnu per minà i difensori di l'ocelli, quellu chì tuttu ognunu chjama avà "l'homme en slip " ùn si dubbitava micca ch'ellu saria l'ogettu di a magagna di l'annu. 
+Tuttu hè partutu da stu ritrattu di l'AFP :
+    </p>
+    <p>
+     Landes: des militants de la LPO et des journalistes agressés à coup de pelle https://t.co/iH3NuQVncn #AFP pic.twitter.com/bZN0NNdLSy
+— Agence France-Presse (@afpfr) 9 Novembre 2015
+    </p>
+    <p>
+     Subbitu dopu, sò centinaie di muntagi chì sò spuntati nant'à e rete suciale. 
+Da vede : #SlipGate : l'homme en slip armé d'une pelle amuse la toile 
+È ind'è noi ? Allora ? Eccu i muntadi di Dumenica Fumaroli.
+    </p>
+    <p>
+     Nant'à Twitter, i magagnoni rendenu omagiu à l'omu in zlip. 
+Cum'è u situ "Ribélation " :
+    </p>
+    <p>
+     #SLIPGATE l'homme en slip accepte la Présidence du comité de soutien de #CorsicaLibera https://t.co/Xg1SSPXsYe pic.twitter.com/eiT6WJFC5p
+— Ribelation (@ribelation) 10 Novembre 2015
+    </p>
+    <p>
+     O @lazezu :
+    </p>
+    <p>
+     #SlipGate Landes: des militants de la LPO et des journalistes agressés à coup de pelle pic.twitter.com/Wr7RCClv7o
+— Simonpoli AnTòFrancè (@lazezu) 9 Novembre 2015
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

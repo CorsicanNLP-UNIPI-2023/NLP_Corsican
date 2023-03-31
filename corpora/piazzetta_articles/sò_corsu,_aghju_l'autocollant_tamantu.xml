@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sò Corsu, aghju l'autocollant tamantu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/So-Corsu-aghju-l-autocollant-tamantu_a2034.html"/>
+     <date>
+      Fri, 21 Nov 2014 08:00:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sò Corsu, aghju l'autocollant tamantu
+   </head>
+   <div type="excerpt">
+    <p>
+     Bellu colpu marketing di Citroën chì sorte a persunalizazione di a so DS3, cun parechje versioni "regiunali". È un bellu capatoghju pè u prefettu di Nizza è a LFP. Sì Jean-Louis Leca cunduce sta vittura, si face caccià u permessu ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Un lettore ci hà mandatu stu ritrattu d'una publicità 4x3 pigliata in cuntinente (ringrazii à Johnniewalker2b). 
+Citroën prupone dunque per a so DS3 una persunalizazione "regiunale" di u tettu di a vittura. Parechje versioni sò presentate : u Paese Bascu, a Brittania, l'Alsazia, l'Uccitanìa, è ben intesu a Corsica. 
+Ma ci hè dinù Parigi, u Nordu, a Savoia, è una versione "régions viticoles" (sic) è Champagne Ardenne. Nò, ùn hè micca una magagna. 
+E pudite scopre nant'à a so pagina Facebook. 
+Ancu più forte ch'è l'appiccicatoghju "Fier d'être corse" è altre cunnerie cum'è "Souvent conquise jamais soumise", eccu a testa di moru nant'à u tettu di a vittura. Stu kit vi custerà quantunque 490€ TTC. 
+Preghemu furtuna à u prefettu di Nizza pè l'organizazione di u prussimu Nizza - Bastia. Sì Jean-Louis Leca và à l'Allianz Riviera cun sta vittura, risicheghja una suspensione ? 
+Una cosa hè certa : a bandera corsa hè entrata da veru in u marketing. Face una stonda ch'ella hà persu a so fiura ribella è suvversiva. 
+Money is money...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

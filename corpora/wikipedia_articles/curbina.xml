@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Curbina
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Curbina"/>
+     <date>
+      2015-07-02T09:52:26Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Curbina
+   </head>
+   <p>
+    Curbina hè un nome chì s'improda à spessu per designà una capra nera (Santucci &amp; Franceschi 2009). U nome "Curbina" vene da u "corbu", un acellu neru neru. In 'ssu cuntestu, un sinonimu di Curbina hè Murina.
+   </p>
+   <p>
+    ==Referenze==
+   </p>
+   <p>
+    Santucci, P &amp; Franceschi, P., Culorazione è nomi di e capre (in francese), Cah. Techn. Inra, 2009, 66, pagine 33-40
+   </p>
+   <p>
+    Mammalia
+   </p>
+  </body>
+ </text>
+</TEI>

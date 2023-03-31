@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pruvincia di Pratu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Pruvincia%20di%20Pratu"/>
+     <date>
+      2010-05-23T21:40:02Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pruvincia di Pratu
+   </head>
+   <p>
+    == Comuni (7): ==
+   </p>
+   <p>
+    · Cantagallo
+   </p>
+   <p>
+    · Carmignano
+   </p>
+   <p>
+    · Montemurlo
+   </p>
+   <p>
+    · Poggio a Caiano
+   </p>
+   <p>
+    · Pratu
+   </p>
+   <p>
+    · Vaiano
+   </p>
+   <p>
+    · Vernio
+   </p>
+   <p>
+    Giugrafia
+   </p>
+  </body>
+ </text>
+</TEI>

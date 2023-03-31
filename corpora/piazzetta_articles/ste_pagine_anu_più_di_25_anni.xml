@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ste pagine anu più di 25 anni
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ste-pagine-anu-piu-di-25-anni_a2040.html"/>
+     <date>
+      Tue, 25 Nov 2014 23:24:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ste pagine anu più di 25 anni
+   </head>
+   <div type="excerpt">
+    <p>
+     In fine di contu, chì ci hè chì hà veramente cambiatu ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Fidighjate ste duie pagine di figurette. Sò esciute da l'album "À cicchiciambara" di Ziu Memè (Albiana, 1988). I testi sò di Dumè Gambini, i dissegni di Lacombe. 
+Si passanu di cummentu. 
+Più di vinti cinqu'anni dopu, averemu veramente avanzatu ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

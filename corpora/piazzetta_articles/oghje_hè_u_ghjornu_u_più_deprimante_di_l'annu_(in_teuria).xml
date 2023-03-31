@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Oghje hè u ghjornu u più deprimante di l'annu (in teuria)
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Oghje-he-u-ghjornu-u-piu-deprimante-di-l-annu-in-teuria_a2507.html"/>
+     <date>
+      Mon, 16 Jan 2017 11:21:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Oghje hè u ghjornu u più deprimante di l'annu (in teuria)
+   </head>
+   <div type="excerpt">
+    <p>
+     U terzu luni di u mese di ghjennaghju hè u famosu "blue monday", u ghjornu u più deprimante di l'annu. Ma ùn hè micca una ragione per tichjavvi di Lexomil.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Duvemu l'invenzione di u "blue monday" à un certu duttore Cliff Arnall, psicologu à l'università di Cardiff. U terzu luni di u mese di ghjennaghju presenta tutte e ragione d'esse in deprima nera : e feste di Natale è capu d'annu sò luntanu, a paga ùn hè ancu cascata, u portamuneta hè viotu, e ghjurnate sò corte, e vacanze ùn venenu micca, u tempu hè goffu. 
+In più di quessa, avete capitu chì e bone risuluzione sò digià abbandunate (innò, quist'annu non più ùn ci la ferete micca à mettevi à u sport). 
+È ùn parlemu mancu di i macciacci di u Sporting. 
+Dunque hè vera, ci sò unepoche di ragioni di fà u musu oghje.
+    </p>
+    <p>
+     Ma sì a teuria di u "luni goffu" pare vera, hè sopr'à tuttu un colpu marketing d'una sucetà di cumunicazione. U "blue monday" ùn hè ch'è un'invenzione per vende sughjorni à u sole per una cumpagnia di trasporti inglese. 
+Ciò chì ùn impedisce micca i sustenidori di u Sporting d'esse in depressione.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Colorado Springs
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Colorado%20Springs"/>
+     <date>
+      2011-11-30T17:08:17Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Colorado Springs
+   </head>
+   <p>
+    Colorado Sprigs hè una cità di i Stati Uniti d'America è siconda cità più grande di u Colorado.
+   </p>
+   <p>
+    Tene una populazione di 370.000 abitanti (2010).
+   </p>
+   <p>
+    == Geografia==
+   </p>
+   <p>
+    A so altitudina hè di 1840 metri.
+   </p>
+   <p>
+    == Amministrazione ==
+   </p>
+   <p>
+    U merre hè Lionel Rivera (2010).
+   </p>
+  </body>
+ </text>
+</TEI>

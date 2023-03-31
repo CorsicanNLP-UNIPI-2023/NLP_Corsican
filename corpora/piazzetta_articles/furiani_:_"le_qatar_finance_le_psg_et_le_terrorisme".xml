@@ -1,0 +1,76 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Furiani : "Le Qatar finance le PSG et le terrorisme"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/bastia-psg-furiani-qatar-terrorisme/"/>
+     <date>
+      Sat, 10 Jan 2015 17:13:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Furiani : "Le Qatar finance le PSG et le terrorisme"
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè u striscione ch'ellu si pudia vede in tribuna Petrignani quandu e squadre di Bastia è di u PSG entravanu nant'à u terrenu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Verità o nò ? Ùn avemu micca finitu di parlanne. Certi a trovanu eccesiva, assai a trovanu ghjusta.
+    </p>
+    <p>
+     Hè un tweet di @Bfederi :
+    </p>
+    <p>
+     qatari assassini #CharlieHebdo #cashermarket pic.twitter.com/CrrHnl8b6x
+— federi (@Bfederi) 10 Janvier 2015
+    </p>
+    <p>
+     A reazzione di Pierre-Marie Geronimi nant'à Canal+ :
+    </p>
+    <p>
+     Ligue 1 - Bastia/PSG - La banderole qui fait scandale...
+    </p>
+    <p>
+     Omancu, Charb (chì ùn pudia pate i sustenitori di ballò...) saria statu d'accunsentu cun quessa.
+    </p>
+    <p>
+     È per falla finita cù e pulemiche, eccu stu tweet di u contu officiale di Charlie Hebdo, di settembre scorsu :
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

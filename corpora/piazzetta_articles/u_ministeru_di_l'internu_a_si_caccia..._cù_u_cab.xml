@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U ministeru di l'internu a si caccia... cù u CAB
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-ministeru-di-l-internu-a-si-caccia-cu-u-CAB_a1928.html"/>
+     <date>
+      Mon, 11 Aug 2014 13:04:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U ministeru di l'internu a si caccia... cù u CAB
+   </head>
+   <div type="excerpt">
+    <p>
+     U CAB averà da pagà pè u so fratellone di u SCB ? U contu officiale di u ministeru di l'internu a si caccia cù i sustenidori di l'altru club bastiacciu, chì ghjoca in terza divisione.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     È u tweet hè sempre in linea. Quale hè chì parlava d'incumpetenza digià ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

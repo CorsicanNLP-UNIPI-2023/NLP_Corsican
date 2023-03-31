@@ -1,0 +1,69 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Travis
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Travis"/>
+     <date>
+      2018-03-13T17:10:42Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Travis
+   </head>
+   <p>
+    Travis hè un gruppu di rock britannicu (rispittivamente scuzzese), chi hè statu fundatu in u 1990 in Glasgow. Si cumpone di Andy Dunlop (lead-chitarra, cantu à fondu, banjo, tastiere elettriche), Fran Healy (cantu, chitarra acustica è ritmica, pianuforte), Dougie Payne (chitarra bassu, cantu à fondu) è Neil Primrose (batteria, percussione).
+   </p>
+   <p>
+    == Albumi ==
+   </p>
+   <p>
+    Good Feeling (1997)
+   </p>
+   <p>
+    The Man Who (1999)
+   </p>
+   <p>
+    The Invisible Band (2001)
+   </p>
+   <p>
+    12 Memories (2003)
+   </p>
+   <p>
+    The Boy With No Name (2007)
+   </p>
+   <p>
+    Ode to J. Smith (2008)
+   </p>
+   <p>
+    Where You Stand (2013)
+   </p>
+   <p>
+    Everything at Once (2016)
+   </p>
+   <p>
+    Gruppu di rock
+   </p>
+  </body>
+ </text>
+</TEI>

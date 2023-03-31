@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A beach party di u duminiu di Murtoli
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-beach-party-di-u-duminiu-di-Murtoli_a1161.html"/>
+     <date>
+      Tue, 06 Sep 2011 17:03:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A beach party di u duminiu di Murtoli
+   </head>
+   <div type="excerpt">
+    <p>
+     In Le Monde, Ariane Chemin face una inchiesta nant'à u sulfurosu duminiu di Murtoli, induve gangsters, pippol è omi pulitichi vanu à fassi brunzà. L'ex-superfliccu Roger Marion averia cruciatu à... Richard Casanova. Per fassi un beach volley ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'articulu hè firmatu d'Ariane Chemin, hè esciutu in Le Monde di u 26 agostu è u pudete leghje à st'indirizzu. 
+Cunniscite u duminiu di Murtoli ? Un veru pezzu di paradisu nant'à sta terra. Un anzianu stazzu di pastori trasfurmatu in ottellu lussuosu à cinque stelle. Un paradisu per pippoli (Ardisson, Jamel Debbouze...) è ricconi parigini. 
+U so pruprietariu hè Paul Canarelli, quellu di Via Notte è amicu di Richard Casanova, presentatu cumu unu di i capimachja di a Brise de Mer è assassinatu in Portivechju in u 2008. Da leghje in u JDD : L'ombre du grand banditisme à Murtoli. 
+Sin'à quì, nunda d'assai originale... Ma Ariane Chemin face a leia trà Murtoli è parechji omi pulitichi di diritta. Parechji pistelli di u clanu Sarko ci vanu spessu. Ancu u peghju di tutti : Frédéric Lefebvre, diventatu ministru di u turisimu, hè andatu sin'à fà a pubba pè Murtoli è serve a suppa à Canarelli di lugliu scorsu... Da leghje in Corse-Matin : Frédéric Lefebvre se fait l'avocat d'un tourisme d'excellence. 
+Eccu o ghjente, da quale site guvernati. 
+Cunclusione d'Ariane Chemin : Etrange Murtoli, qui héberge des voyous et des ministres, accueille de concert des repris de justice et des hiérarques policiers. Si la fameuse tour génoise posée sur sa crique pouvait parler, elle raconterait peut-être les fugitifs qu'elle a vus aborder ou s'en aller la nuit par la mer, sans faire de bruit ni de vagues. Elle se souviendrait sans doute de ce jour où feu 'Jean-Jé' Colonna, cabotant en bateau, avait surpris, sur la plage du domaine, le patron de l'antiterrorisme de l'époque, Roger Marion, conversant avec Richard Casanova, le rival du parrain de la Corse-du-Sud. 'Regarde le beau mariage...', avait-il pesté, avant de virer de bord et de faire demi-tour.  
+Marion ùn hè micca solu un fliccu bugiardu è periculosu (leghje nant'à Wikipedia). Hè dinù un tippu chì và à u mare è chì li piace à ghjucà à u beach-volley. Ma micca à L'Arinella...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Rothen dinù ricunnosce u populu corsu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Rothen-dinu-ricunnosce-u-populu-corsu_a1337.html"/>
+     <date>
+      Sun, 29 Apr 2012 23:28:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Rothen dinù ricunnosce u populu corsu
+   </head>
+   <div type="excerpt">
+    <p>
+     Invitatu à u Canal Football Club, Jérôme Rothen hà dettu : "on espère fêter la montée mardi avec le peuple corse".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Veuillez installer Flash Player pour lire la vidéo
+LE MEILLEUR DU CFC - avec Jérôme Rothen
+Sarkozy ùn ne parla, Hollande non più. Emile Zuccarelli è Jean-Paul de Rocca Serra in 1991 avianu vutatu contr'à u Statutu Joxe chì ricunniscia "le peuple corse, composante du peuple français". U Conseil Constitutionnel censurava più tardi st'articulu. Per elli dunque, u "populu corsu" ùn esiste micca. 
+Ma in un mese, Jean-Michel Aulas è un ghjucadore di Lille, Chedjou, l'anu ricunnisciutu. 
+Sta volta hè tuccata à Jérôme Rothen in l'emissione di Canal+ di parlà di "peuple corse". 
+À quandu a ricunniscenza di a FIFA, nanz'à quella di l'ONU ? 
+A video nant'à u situ di Canal.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

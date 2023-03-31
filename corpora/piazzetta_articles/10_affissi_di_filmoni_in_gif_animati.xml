@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     10 affissi di filmoni in GIF animati
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/10-affissi-di-filmoni-in-GIF-animati_a1778.html"/>
+     <date>
+      Sun, 04 May 2014 13:16:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    10 affissi di filmoni in GIF animati
+   </head>
+   <div type="excerpt">
+    <p>
+     Certi si campanu à circà d'animà GIF. Eccu ciò ch'ellu hà fattu un internautu, ghjuchendusi à animà unepochi d'affissi di filmoni. L'avete visti tutti ?
+    </p>
+   </div>
+   <div type="content">
+   </div>
+  </body>
+ </text>
+</TEI>

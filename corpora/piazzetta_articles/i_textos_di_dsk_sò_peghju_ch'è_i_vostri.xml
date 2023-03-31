@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I textos di DSK sò peghju ch'è i vostri
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-textos-di-DSK-so-peghju-ch-e-i-vostri_a1211.html"/>
+     <date>
+      Wed, 16 Nov 2011 01:08:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I textos di DSK sò peghju ch'è i vostri
+   </head>
+   <div type="excerpt">
+    <p>
+     Fate pianu à i SMS ch'è vo mandate, vi ponu custà caru. A saperà DSK...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U giurnale Le Point hà trattatu di i sms scambiati trà DSK è Fabrice Paszkowski, u scruccone messu in causa in l'affare di maccarellisimu di u Carlton. 
+I pulizzeri sò cascati nant'à parechji messagi stunanti, à prupostu di viaghji : In Austria J’emmène une petite faire les boîtes de Vienne. Ça te dit de venir avec une demoiselle? 
+O ancu in Spagna : Veux-tu, peux-tu, venir découvrir une magnifique boîte coquine à Madrid avec moi et du matériel? 
+È dinù in Bèlgica ùn mancanu e cose à fà : Pour Gand, il faut que tu me dises vite de quoi il s’agit. C’est une boîte ou une soirée privé? 
+D'accordu pè i viaghji. È in ste serate chì ci si facia ? Un principiu di risposta : A 2 heures du mat, on a pris une bouteille de champagne de plus. Je vais avoir des dettes énormes. 
+Perchè micca dinù :  "o fratè tu veux que je te présente la serveuse je suis en place"  "pow la sborgne hier o vrère... j'ai fini en pezzi j'ai vomi dans le Cayenne"  "tu as fini au caboulot toi aussi ? j'étais briagu je me souviens plus de rien"  "bouh ki pezzò celle-là elle a un type ou koi ?"  è di siguru : "fratè j'arrête de boire du gin ça me rend malade". 
+DSK, 62 anni hè statu un omu puliticu francese impurtante di u seculu passatu è fù u numeru 2 mundiale in tantu ch'è direttore di u FMI. 
+I sms ch'ellu mandava invece, ùn s'alluntanu tantu di n'importa qualessu scurnachjone nuttàmbulu di Via Notte o di l'Acapulco...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

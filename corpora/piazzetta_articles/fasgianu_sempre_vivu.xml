@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Fasgianu sempre vivu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Fasgianu-sempre-vivu_a1608.html"/>
+     <date>
+      Fri, 02 Aug 2013 20:37:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Fasgianu sempre vivu
+   </head>
+   <div type="excerpt">
+    <p>
+     U sumere appena azezu di Cartalavonu chì ùn vulia fassi carrizzà da i turisti hè statu durante un certu tempu dichjaratu tombu. In fine di contu, hè sempre vivu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In u 1817, Salvatore Viale scrivia a so opera a più cunnisciuta, a Dionomachia : a storia d'una baruffa trà i paesi di U Borgu è di Lucciana per via d'un sumere mortu. 
+Guasi duie cent'anni dopu, torn'appena è a Corsica cunniscia un "revival" di a Dionomachia. 
+A storia si passa sta volta in a furesta di U Spidali. L'avete tutti seguitata cun assai attenzione è hè stata cummentata nant'à e rete suciali. Un sumere ribellu chì ùn vulia fassi carrizzà da i turisti hà rializatu u sognu secretu chì parechji Corsi anu : mursicà i turisti. 
+Serà statu per vindicà i so cumpagni chì finiscenu in saucisson d'âne ? 
+In fatti, Corse-Matin ci ampara ch'ellu s'era pigliatu un rastellu : "il aurait mal supporté le fait d'être éconduit par l'ânesse qui partageait son enclos. D'où la fuite, l'agressivité et les morsures." 
+Nant'à Facebook è Twitter, a storia di u sumere azezu crea u buzz. Sin'à un tweet di Corse-Matin chì annunzia chì u sumere hè statu tombu. A storia chì facia surride à tuttu u mondu (ùn mancavanu più chè i cummunicati di cundanna di l'omi pulitichi è una cacciata di Valls nant'à a viulenza sumerina) diventava un scandalu naziunale. 
+Una petizione hè subbitu creata per impedisce l'inghjustizia. 
+In fine di contu, s'ampara oghje chì Fasgianu di Cartalavonu, sumere in libertà pè e machje di U Spidali, quellu chì ùn vulia sottumettesi à u turìsimu è chì ùn dumandava chè à campà tranquillu in i so lochi, era sempre vivu (ci dice Corse-Matin). 
+Certi annunzianu ancu a so presenza à e Ghjurnate di Corti.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

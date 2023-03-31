@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bruma
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Bruma"/>
+     <date>
+      2006-11-18T15:06:42Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bruma
+   </head>
+   <p>
+    A Bruma hè u fiori di l'arbitru.
+   </p>
+   <p>
+    == Rifarenzi ==
+   </p>
+   <p>
+    L'arburatura è u focu, Matina latina
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    == Da veda dinò ==
+   </p>
+   <p>
+    u bagu
+   </p>
+   <p>
+    l'arbitru
+   </p>
+  </body>
+ </text>
+</TEI>

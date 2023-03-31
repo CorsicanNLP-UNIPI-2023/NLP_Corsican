@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Matt Vogel
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Matt%20Vogel"/>
+     <date>
+      2015-07-01T18:09:20Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Matt Vogel
+   </head>
+   <p>
+    Matthew J. "Matt" Vogel II hè un attore americanu.
+   </p>
+   <p>
+    Vogel, Matt
+   </p>
+  </body>
+ </text>
+</TEI>

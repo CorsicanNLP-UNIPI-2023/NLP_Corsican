@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     À vedeci, o Francè
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-vedeci-o-France_a2776.html"/>
+     <date>
+      Sun, 25 Aug 2019 12:24:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ULTIMI
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    À vedeci, o Francè
+   </head>
+   <div type="content">
+    <p>
+     Hè mortu Francescu Diani. Hà principiatu a so carriera di giurnalistu à Combat è dopu à u Monde. In l'anni 80, epica di rimusci è di tensione, ma dinù di grande speranze cullettive, volta in Corsica è diventa capiredattore di Kyrn. Giurnale d'analise è di riflessione, oghje ci pudemu stunà di a mudernità di e tematiche trattate tandu.
+    </p>
+    <p>
+     Entre dopu à France 3 Corsica induve lancia l'emissione "Ghjente", chì dà una piazza impurtante à a lingua corsa. Ma quì dinù ci hè un'originalità. A lingua corsa ùn hè micca museificata è u magazinu tratta di sugetti varii, oghjinchi, cù una critica suciale è un sguardu acutu nant'à a Corsica.
+    </p>
+    <p>
+     Appassiunatu di a so lingua è di a so cultura, hè sott'à a so direzzione ch'elli sò surtiti dui libri : Cantu Corsu, contours d'une expression populaire (Cyrnos et Méditerranée, 1992) è Canta Populu Corsu (Albiana, 1993).
+    </p>
+    <p>
+     À noi ci avia datu a so cullezzione d'affissi pulitichi (quelli chì l'eranu ghjuvati pè u so libru nant'à Canta) "ne ferai qualcosa". È hè cusì ch'ellu hè natu u prugettu di mostra è di libru Guarda Fratellu (Albiana). 
+À tempu paisanu è omu di cultura, purtava un sguardu ghjustu è strafine nant'à a Corsica. Tutti quelli chì l'anu cruciatu ricunnisceranu a persunalità forte è attippica, a so generosità, a so onestità. Sempre primurosu di l'altri è luntanu da i calculi di carrierisimu, Francescu era un omu à parte. 
+Avemu persu un omu, giurnalistu pueta artistu pensadore è militante. Quantu ci ai da mancà, o Francè.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

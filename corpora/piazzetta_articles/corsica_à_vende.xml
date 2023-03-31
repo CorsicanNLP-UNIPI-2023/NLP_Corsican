@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Corsica à vende
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Corsica-a-vende_a1314.html"/>
+     <date>
+      Fri, 09 Aug 2013 12:18:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Corsica à vende
+   </head>
+   <div type="excerpt">
+    <p>
+     In Corsica, tuttu hè à vende. Per quessa, ci hè Eurocard-Mastecard.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A Corsica oghje hè : 
+5500 permessi di custruisce à l'annu N°1 di e prumuzione immubiliare N°1 di Francia di "mises en chantier" Record di Francia di "grande surfaces", magazini è lochi di cunsumazione Lotissements, case è casali chì crescenu in ogni locu (micca solu nant'à u liturale) Di menu in menu terre agrìcule, di menu in menu pastori Una pupulazione chì cresce troppu in furia è chì accresce a pressione immubiliare : più di 40.000 abitanti in 10 anni 75% di residenze segundarie in certe cumune di u liturale  Et qui on est ? 
+Messu in linea una prima volta u 3 d'aprile 2012
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

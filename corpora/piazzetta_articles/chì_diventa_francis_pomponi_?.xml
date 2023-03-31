@@ -1,0 +1,52 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chì diventa Francis Pomponi ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Chi-diventa-Francis-Pomponi_a1736.html"/>
+     <date>
+      Sat, 19 Apr 2014 15:18:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chì diventa Francis Pomponi ?
+   </head>
+   <div type="content">
+    <p>
+     Ùn a sapiate micca ? Hè statu elettu merre. L'anzianu capimachja di a CFR è membre attivu di l'associu France-Corse hà pigliatu a merria di u paisolu orrezzincu di A Verdese (38 abitanti). A ci dice u numeru "hors-série" di Corse-Matin nant'à e municipali. Ma forse, preferimu sente u prufessore di storia ch'è l'omu puliticu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

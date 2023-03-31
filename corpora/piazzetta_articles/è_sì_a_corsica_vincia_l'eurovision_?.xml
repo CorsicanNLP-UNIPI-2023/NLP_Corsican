@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È sì a Corsica vincia l'eurovision ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-si-a-Corsica-vincia-l-eurovision_a1453.html"/>
+     <date>
+      Sat, 01 Dec 2012 11:34:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È sì a Corsica vincia l'eurovision ?
+   </head>
+   <div type="excerpt">
+    <p>
+     A Corsica ùn vincerà mai l'Euro di ballò, ma hà a pussibilità di vince l'eurovision di e lingue minuritarie.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'Eurovision, cunniscite tutti. Hè un cuncorsu di canterini appena kitsch chì si passe sempre in i paesi di l'Auropa di l'Este è chì a Francia ùn vince mai. 
+D'altronde, u ghjornu induve simu indipendenti, ci vulerà à mandacci i nostri gruppi appena ridìculi custì dinù. Truveremu bè qualchì unu chì face musica discò in lingua corsa nò ? 
+Eppo ci hè l'eurovision di e lingue minuritarie, chì si chjama u LIET è chì si passa quist'annu in a regione di l'Asturie, in Spagna. 
+Pè a Corsica hè u gruppu Dopu Cena chì hè statu sceltu cù a so canzona Trasmetta, scritta da Ghjuvan Micheli Weber è cumposta da Micheli Solinas. 
+Allora per fà vince qualcosa à a Corsica in u 2012, vutate puru ! Ci vole à falla nant'à internet, à st'indirizzu è disgraziatamente ùn ci hè micca a pussibilità di "frodà". 
+L'emissione serà ritrasmessa da Via Stella sta sera à 9 ore è mezu. Fidighjate puru è vutate, ùn hè micca Dave chì presenta... 
+Per vutà sta sera, si passa quì !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

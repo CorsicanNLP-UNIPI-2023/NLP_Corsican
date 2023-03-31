@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Almenu, quand'ellu si froda in Corsica si vince
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Almenu-quand-ellu-si-froda-in-Corsica-si-vince_a1442.html"/>
+     <date>
+      Mon, 19 Nov 2012 13:13:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Almenu, quand'ellu si froda in Corsica si vince
+   </head>
+   <div type="excerpt">
+    <p>
+     I Francesi ùn sò veramente micca forti pè trafficà l'elezzioni. In Corsica almenu quelli chì frodanu vincenu à a fine.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Dapoi anni è anni ch'ellu si ride di a "fraude électorale, sport numéro 1 en Corse" è ùn si contanu più e cacciate puzzicose nant'à a passione corsa pè l'arubbecci eletturali in i giurnali. 
+À manca, sò l'elezzioni di u 2008 per u postu di primu secretariu di u PS trà Martine Aubry è Ségolène Royal chì avianu fattu parlà assai. Da leghje u JDD : PS: Accusations mutuelles de fraude 
+Oghje si ritrova u listessu tìtulu, ma à l'UMP... 
+À tal puntu chè no ci pudemu dumandà si François Fillon hè venutu à piglià lezzioni quand'ellu hè passatu à A Porta è sì i morti anu turnatu à vutà in Portivechju. 
+È ancu di grazia chì a merria di Bastia ùn hè micca in manu à l'UMP... 
+Quandu a froda tuccava l'elezzione municipale di San Damianu in Ampugnani, face ride à tutti. Da vede a video surrealista di France 3 à l'epica. 
+Quandu Corse-Matin mette in tìtulu di ferraghju 1970 : « Corte, inscrits : 4 303. Votants : 9 647 ! », tuttu u mondu scaccaneghja. 
+Quandu si parla di Bastia cum'è di a «Capitale de la fraude électorale», ognunu pensa ch'ella hè una vechja tradizione ch'ellu ci vole à rispettà. 
+Ma quandu a froda vene da i dui grandi partiti francesi, puntelli di a vita pulitica di a Republica, cun eletti, deputati, senatori, futuri ministri... ci hè di chè esse inchieti. 
+È in più, ùn sò veramente micca forti à l'UMP. In Nizza, si conta solu 1178 voti pè 590 elettori, da leghje in u Huffington Post. 
+Francamente, averianu pussutu fà megliu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hollande in u campu di u populu di u "nò"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Hollande-in-u-campu-di-u-populu-di-u-no_a1955.html"/>
+     <date>
+      Mon, 22 Sep 2014 14:58:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hollande in u campu di u populu di u "nò"
+   </head>
+   <div type="excerpt">
+    <p>
+     François Hollande nant'à u referendum in Scozzia : «Si le projet européen se dilue, la voie est ouverte aux égoïsmes, aux populismes, aux séparatismes».&lt;br /&gt;&lt;br /&gt;Scuzzesi, Catalani, Corsi, pigliatevi què.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     "Autonomisti è indipendentisti di tutti i populi d'Auropa, andate à pigliavila in quellu locu". Eccu cum'ella si pò riassume a pusizione di u presidente di a republica. 
+Cusì l'hà detta durante a so cunferenza di stampa a settimana passata. Hà fattu allusione à u referendum nant'à l'indipendenza di a Scozzia, dicendu ch'ellu hè una minaccia pè l'Auropa : 
+«Si le projet européen se dilue, la voie est ouverte aux égoïsmes, aux populismes, aux séparatismes».  
+S'è vo aviate un dubbitu, e porte in Parigi sò sempre chjose à chjave à doppiu giru è belle stanghittate. 
+Paul Giacobbi s'era dichjaratu à favore di u "no" in Cuntrastu. Ma nant'à u so blog hà scrittu pocu dopu à u risultatu di u referendum : 
+"Nous espérons que cet exemple donnera à réfléchir à ceux qui ne mesurent pas les enjeux des questions d’identité régionale, d’autonomie politique, voire de reconnaissance officielle des langues régionales et mènent des combats d’arrière-garde contre les soi-disant "égoïsmes", "populismes" et "séparatismes". 
+Hà da esse longu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

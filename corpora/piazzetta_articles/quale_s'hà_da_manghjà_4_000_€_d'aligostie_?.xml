@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quale s'hà da manghjà 4 000 € d'aligostie ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quale-s-ha-da-manghja-4-000-d-aligostie_a1153.html"/>
+     <date>
+      Sat, 20 Aug 2011 11:39:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quale s'hà da manghjà 4 000 € d'aligostie ?
+   </head>
+   <div type="excerpt">
+    <p>
+     "Casse du siècle di la halle aux poissons" : 40 chilò di pesci è d'aligostie sò stati arrubati in Aiacciu. Et qui on est ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Dopu à i braccasgi à 40€, i guadri arrubati à u museu Fesch, i frati di u cunventu di Sartè, quellu di u Secours Populaire, u "braquage à la batte de baseball" in Bastia, eccu u "casse du siècle di la halle aux poissons". 
+Serà un tichjone chì averà fattu stu culpacciu ? 
+Un passiunatu di "un dîner presque parfait" ? O forse chì u tràfficu di cuccaina hè diventatu troppu periculosu ? 
+I malfattori anu arrubatu pè 4 000 eurò d'aligostie, ma dinù di pesci in a notte di ghjovi à venneri, in Aiacciu. Nò, ùn hè micca una burla. 
+A seguita ? C'eramu digià interrugati nant'à a peghju malfatta di l'annu è c'eramu dumandati chì saria a prùssima scurccuneria, ma a realità hè sempre peghju ch'è ciò ch'è no avemu imaginatu. 
+Forse un arrubecciu di caccavelli, di campanili di Pasqua è di pains au chocolat  ? Di figatelli di porci chinesi ? Di hamburgers di u Quicku ? Di calzette à Magic Stock ? Di Meindl à Sport 2000 ? 
+I nostri maffiuselli, fanàtichi di Spaggiari è di Tony Montana, anu dipiù imaginazione ch'è noi... È quale simu ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tritone
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Tritone"/>
+     <date>
+      2015-07-06T13:10:51Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tritone
+   </head>
+   <p>
+    Tritone (da u grecu Τρίτων) hè u maggiore satellitu di u Nettuniu, hè piu grande di Plutone. Hè statu scupertu in u 1846 da William Lassell.
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    Astrunumia
+   </p>
+  </body>
+ </text>
+</TEI>

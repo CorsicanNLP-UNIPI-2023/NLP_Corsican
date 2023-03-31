@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Da a folk music à Canta u populu corsu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Da-a-folk-music-a-Canta-u-populu-corsu_a2676.html"/>
+     <date>
+      Fri, 17 Nov 2017 08:53:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       VIDEO
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Da a folk music à Canta u populu corsu
+   </head>
+   <div type="excerpt">
+    <p>
+     VIDEO - A storia di "A strada di l'omu".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A leia nant'à YouTube :
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

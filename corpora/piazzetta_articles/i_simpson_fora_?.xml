@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I Simpson fora ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-Simpson-fora_a1180.html"/>
+     <date>
+      Thu, 06 Oct 2011 00:28:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I Simpson fora ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Puderia esse a fine di a seria americana. Hè a crisa è ancu Homer pò perde u so travagliu...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Facenu 23 anni chì i persunagi gialli di i Simpson sò nant'à i screni di televisiò, è forse semu vicini di a fine. 
+Un cunflittu oppone a catena chì pruduce a seria, a 20th Century Fox è l'attori chì facenu e voci di a seria. Sin'avà, ùn si sò micca cuntrati. A Fox vole calà di 45% e paghe di l'attori, chì accettanu di calà di 30%. 
+Puderia dunque a fine di a cunnisciutissima famiglia americana è u puverettu d'Homer puderia ritruvassi disimpiegatu. Hè veramente a crisa à Hollywood postu chì si tratta dinù di piantà a seria Dexter. 
+Homer Simpson è Dexter, ferà u mondu in più à Pôle Emploi. 
+In Corsica avemu l'abitutine. Cun 13.000 disimpiegati è a disoccupazione chì hè crisciuta di 7% st'estate, a situazione cummencia veramente à fà paura (da leghje l'articulu di Corse-Matin). 
+Ma bon, cuntinuvemu à crede chì u turisimu ci salverà è ch'è no diventeremu tutti ricchi in dui mesi d'estate...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

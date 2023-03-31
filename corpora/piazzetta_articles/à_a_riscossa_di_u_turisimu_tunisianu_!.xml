@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     À a riscossa di u turisimu tunisianu !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-a-riscossa-di-u-turisimu-tunisianu-_a2205.html"/>
+     <date>
+      Sun, 03 May 2015 13:12:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    À a riscossa di u turisimu tunisianu !
+   </head>
+   <div type="excerpt">
+    <p>
+     Dop'à l'attentatu di u museu di Tunis, una campagna publicitaria vene in aiutu à u turisimu tunisianu. Preghemu ch'ellu ùn si passi nunda ind'è noi...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Veramente a ghjente di u show è di u bizz sò bravucci è ancu quissi di a pulitica. Dopu à u macellu di u museu di u Bardo in Tunis (20 morti), ani tutti a paura di u fiascu di a frequentazioni turistica di a Tunisia chì hè caduta di 18% dapoi st'avenamenti. 
+Pà salvà a Tunisia è a so ecunumia ci hè una campagna intitulata "Tunisie, moi j'y vais" ! 
+Dunque, annanti à l'affissi ci hè Bertand Delanoë (iddu hè nurmale hè natu quallà in u 1950) è... Frédéric Mitterand. Quissu quì hè tunisianu vera, hà avutu a naziunalità tunisiana in u 1995 sottu à Ben Ali (elettu in u 94 cu 99,91% di i voti...) 
+Ma u peghju hà da vene. Sò annunziati ancu u poveru Hugues Auffray, Catherine Lara, Michel Boujenah (ancu quissu hè natu in Tunis), Juliette Greco (a meza capicursina), Leee John (quissu di u gruppu Imagination) Smaïn è... Aznavour, ziu Carlu ! 
+Speremu ch'ellu ùn si passarà nudda à u museu Fesch.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

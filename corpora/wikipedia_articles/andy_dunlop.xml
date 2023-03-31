@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Andy Dunlop
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Andy%20Dunlop"/>
+     <date>
+      2015-07-16T12:42:15Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Andy Dunlop
+   </head>
+   <p>
+    Andy Dunlop hè u lead-chitarristu di u gruppu di rock scuzzese Travis.
+   </p>
+   <p>
+    Dunlop, Andy
+   </p>
+   <p>
+    Dunlop, Andy
+   </p>
+  </body>
+ </text>
+</TEI>

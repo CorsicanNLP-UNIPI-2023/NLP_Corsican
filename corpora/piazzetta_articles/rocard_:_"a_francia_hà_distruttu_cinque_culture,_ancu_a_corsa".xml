@@ -1,0 +1,70 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Rocard : "A Francia hà distruttu cinque culture, ancu a corsa"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Rocard-A-Francia-ha-distruttu-cinque-culture-ancu-a-corsa_a1718.html"/>
+     <date>
+      Mon, 21 Apr 2014 22:57:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Rocard : "A Francia hà distruttu cinque culture, ancu a corsa"
+   </head>
+   <div type="excerpt">
+    <p>
+     L'hà detta l'anzianu primu ministru : "La France s'est créée en détruisant cinq cultures : bretonne, occitane, alsacienne, corse et flamande". Si ritrova nant'à Wikileaks. Casca bè, si dice chì Valls saria "roccardianu"...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Bon d'accordu l'infurmazione hè vechja è circuleghja dapoi una bella stonda nant'à internet. Si pò leghje nant'à Wikileaks. 
+Si tratta d'un "câble diplomatique", una discussione privata ch'anu avutu l'anzianu imbasciadore americanu in Francia è Michel Rocard, in u 2005. 
+In inglese, dà cusì : "France created itself by destroying five cultures -- Breton, Occitan, Alsatian, Corsican, and Flemish". 
+Nò, ùn hè nè Jean-Guy nè Edmond chì parla, ma un anzianu primu ministru francese. 
+Più tardi, a dicerà di manera appena differente à u Nouvel Obs : 
+"La naissance de la France se réalise par la conquête militaire d'au moins cinq cultures - j'appelle culture la coïncidence entre une langue et un art de prier. Je veux parler de la Bretagne, de l'Occitanie, de l'Alsace, d'une partie de la Flandre, de la Corse, et puis de notre petit bout du Pays basque. " 
+Ùn si parla più di distruzzione, ma l'idea hè a listessa. 
+Ùn hè micca veramente stunante, ellu chì hà fattu parte d'una manca riformista è "decentralizatrice", opposta à "ghjacubini". Da leghje a so lettera Corse : Jacobins, ne tuez pas la paix ! in u 2000, à u mumentu di l'accordi di Matignon. Cunniscite a seguita di a storia, i "jacobins" anu finitu per vince. 
+Ma casca bè què, da per tuttu si dice chì i "roccardiani" sò di ritornu à u pudere : 
+Nant'à France Info : Avec Manuel Valls, le rocardisme de retour à Matignon ?.  Nant'à Le Figaro : Manuel Valls, l'ambitieux rocardien devenu premier ministre.  In Slate : Valls, Macron, Sapin: ce que signifie la présence massive de disciples de Rocard au pouvoir 
+Allora, chì ne serà di l'azzione di Manuellu in Corsica ? Per avà, principia abbastanza male...
+    </p>
+    <p>
+     U giurnale "Bretons" hà ripigliatu l'infurmazione :
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

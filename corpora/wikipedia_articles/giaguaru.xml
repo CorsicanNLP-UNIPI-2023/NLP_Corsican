@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Giaguaru
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Giaguaru"/>
+     <date>
+      2013-03-09T01:41:13Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Giaguaru
+   </head>
+   <p>
+    U giaguaru o ghjaguaru (Panthera onca) hè un mammiferu di a famiglia di i Felidae. Hè u terzu più grande felinu di u mondu, rispettivamente u più grande dopu u tigru (Panthera tigris) è u lione (Panthera leo).
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Natalia Oreiro
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Natalia%20Oreiro"/>
+     <date>
+      2018-03-25T14:00:42Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Natalia Oreiro
+   </head>
+   <p>
+    Natalia Oreiro (19 di maghju 1977) hè un'attrice è cantadora.
+   </p>
+   <p>
+    Attrice
+   </p>
+   <p>
+    Musicante
+   </p>
+  </body>
+ </text>
+</TEI>

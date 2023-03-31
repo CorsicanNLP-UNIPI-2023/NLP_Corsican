@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     John Belushi
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/John%20Belushi"/>
+     <date>
+      2015-07-01T17:58:02Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    John Belushi
+   </head>
+   <p>
+    John Adam Belushi (* 24 di ghjennaghju 1949 Chicago, Illinois, SUA; † 5 di marzu 1982 Los Angeles, California, SUA) hè statu un attore americanu.
+   </p>
+   <p>
+    Belushi, John
+   </p>
+  </body>
+ </text>
+</TEI>

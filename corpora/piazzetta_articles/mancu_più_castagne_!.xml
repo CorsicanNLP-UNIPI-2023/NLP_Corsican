@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mancu più castagne !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Mancu-piu-castagne-_a1564.html"/>
+     <date>
+      Fri, 10 May 2013 15:42:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Mancu più castagne !
+   </head>
+   <div type="excerpt">
+    <p>
+     "Si la Corse est indépendante on mangera quoi ? Des châtaignes ?" Nò, mancu quessa. Ancu i castagni corsi averanu forse da smarrisce per via di un insettu, u "cynips".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U "Cynips du châtaignier" ùn hà mancu u so nome in corsu, è purtantu face i disguasti tremendi in Corsica. 
+St'insettu venutu da China hè in traccia di stirpà u castagnetu corsu. Una sola bestia pò arruvinà un arburu, è fà calà a so pruduttività da 60 à 80%. 
+Ci hè di menu in menu frutti è pocu à pocu sò abbandunati i castagneti, digià tocchi da e malatie è da u inchjostru. 
+I mezi per luttà contr'à questu quì sò pochi. U trattamentu chìmicu ùn marchja micca. Sola una piccula vespa, chjamata Torymus Sinensis, chì s'attacca à u Cynips ottene risultati. Pocu à pocu si prova d'introduce sta vespuccia in u castagnetu corsu ma ùn si sà s'ellu viaghjerà. U trattamentu serà longu. I pruduttori di castagne è di farina pisticcina sò inchieti assai. 
+Averemu ancu da perde u nostru arburu, introduttu 2000 anni fà da i Rumani ? 
+Addiu pulenda, fasgiole, frittelle è torte pisticcine... 
+È a CTC ferà una cummissione pè truvà un altru nome à a Castagniccia. 
+A stagione turistica cummencia è ci lagnemu di l'invasione di pumataghji, chì ùn durerà chè qualchì settimana. Ma ci sò certi "envahisseurs" chì facenu peghju è chì arruvinanu a Corsica in prufundura.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

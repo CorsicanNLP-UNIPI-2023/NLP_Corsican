@@ -1,0 +1,141 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Perimetru
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Perimetru"/>
+     <date>
+      2015-07-09T08:20:09Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Perimetru
+   </head>
+   <p>
+    In giumitria, u perimetru hè a misura di a lunghezza di u cuntornu d'una figura piana. Hè diffusa a cunvinzioni di indicà lu incù a sigla 2p (oppuri "P"), chì significheghja quì dui volti p, induva p hè dunqua a mità di u perimetru o mezu perimetru. A parola diriveghja di u grecu perímetros, cumpostu di perí, intornu, è métron, misura.
+   </p>
+   <p>
+    == Formuli ==
+   </p>
+   <p>
+    === Poliguni ===
+   </p>
+   <p>
+    In i poliguni par truvà u perimetru bisogna summà i so lati: (par asempiu in un quadrilateru a + b + c + di). In i poliguni equilateri (com'è triangulu equilateru è quatratu) si pò multiplicà a lunghezza d'un latu par u numaru di i lati di a figura (par asempiu in u quatratu l \cdot 4).
+   </p>
+   <p>
+    === Chjerchji ===
+   </p>
+   <p>
+    In u chjerchju u perimetru ùn hè micca cumpostu da lati ma da una linia curva cuntinua chì i so punti sò equidistanti da un puntu chjamatu centru. Sta linia hè ditta circumfarenza.
+   </p>
+   <p>
+    A formula par truvà a lunghezza di a circumfarenza hè:
+   </p>
+   <p>
+    \mathrm{Crf}=2 \cdot \pi \cdot r
+   </p>
+   <p>
+    o
+   </p>
+   <p>
+    \mathrm{Crf}=di \cdot \pi
+   </p>
+   <p>
+    Induva:
+   </p>
+   <p>
+    \mathrm{Crf} stà par a circumfarenza;
+   </p>
+   <p>
+    \pi stà par pi grecu (\pi=3.14159265...);
+   </p>
+   <p>
+    r stà par u raghju di u chjerchju;
+   </p>
+   <p>
+    di stà par u diamitru di u chjerchju.
+   </p>
+   <p>
+    == Da veda dinò ==
+   </p>
+   <p>
+    Circumfarenza
+   </p>
+   <p>
+    Toru (giumitria)
+   </p>
+   <p>
+    Giumitria piana
+   </p>
+   <p>
+    Angulu rettu
+   </p>
+   <p>
+    Catetu
+   </p>
+   <p>
+    Mezaretta
+   </p>
+   <p>
+    Sigmentu
+   </p>
+   <p>
+    Triangulu isusceli
+   </p>
+   <p>
+    Triangulu equilateru
+   </p>
+   <p>
+    Tiurema di Pitagora
+   </p>
+   <p>
+    Iputenusa
+   </p>
+   <p>
+    Tangenti
+   </p>
+   <p>
+    Trigunumitria
+   </p>
+   <p>
+    Triangulu
+   </p>
+   <p>
+    Uttaedru
+   </p>
+   <p>
+    == Noti ==
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia in talianu.
+   </p>
+   <p>
+    Matematica
+   </p>
+  </body>
+ </text>
+</TEI>

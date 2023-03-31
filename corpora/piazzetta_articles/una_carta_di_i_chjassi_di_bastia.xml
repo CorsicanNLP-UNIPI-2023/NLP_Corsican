@@ -1,0 +1,70 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Una carta di i chjassi di Bastia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Una-carta-di-i-chjassi-di-Bastia_a2555.html"/>
+     <date>
+      Sun, 05 Mar 2017 23:50:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Una carta di i chjassi di Bastia
+   </head>
+   <div type="excerpt">
+    <p>
+     Partite à scopre i lochi, a storia, u patrimoniu bastiacciu à traversu i so chjassi. Aprite l'ochji, pisate u nasu, è pigliate u vostru tempu chì Bastia hè cusì bella !
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Si sente spessu dì chì i Bastiacci si vergognanu di a so cità. Micca abbastanza bella à cantu à a dulcezza di u golfu d'Aiacciu, micca abbastanza corsa pè i paisani chì a fughjenu l'estate, micca abbastanza ricca, o troppu brutta. 
+Ma un ghjornu, capisceranu chì Bastia hè bella. Cità carca di storia, aperta à tempu nant'à u mare (a stampa ghjenuvese hè forte) è nant'à l'internu (hè stata fatta da i paisani), hà parechje identità chì ne facenu a so originalità è a so ricchezza. 
+À traversu i so chjassi, i so carrughji, e so vie, è i so nomi (certi scurdati) vi prupunimu di scoprene a so anima. 
+È chì ci hè di megliu per scopre una cità ch'è di parte à pedi ? Eccu unepoche di pruposte d'itinerarii. Fatene ciò ch'è vo vulete, a cità hè vostra. I chjassi sò cumunali, u duminiu publicu appartene à tutti. In certi lochi ci dispiace d'avè vistu stu spaziu chjosu è privatizatu. 
+Forse, pudemu ancu sperà di vede un ghjornu i puteri publichi piglià cuscenza di l'impurtanza di stu patrimoniu. Forse, un ghjornu tutti sti chjassi seranu messi in valore è puliti cum'ellu si deve ? (è ancu resi à u publicu per quelli chì sò stati privatizati ?) 
+Ah iè, un'ultima cosa : Bastia hè bella. Merita ch'è vo apriite l'ochji. Pisate u nasu è... pigliate u vostru tempu per scoprela. U piacè serà ancu più grande... 
+Eccu dunque una prova di carta, chì serà arricchita pocu à pocu. 
+Fidighjate bè, à ogni icona di a carta hè assuciatu un ritrattu cù una corta spiegazione !    Ci ponu esse sbagli è aspettemu e vostre riazzione. 
+Pè avè direttamente a leia di a Google Map
+    </p>
+    <p>
+     Da leghje dinù : I chjassi di Bastia 
+Ma vi ramintemu chì stu travagliu ùn hè compiu è ch'ellu serà cuntinuvatu à esse arricchitu. 
+Tanti ringrazii à Cisariu Raffini pè u so aiutu preziosu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

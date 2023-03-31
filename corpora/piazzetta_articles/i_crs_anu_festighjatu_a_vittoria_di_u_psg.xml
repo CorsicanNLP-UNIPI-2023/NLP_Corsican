@@ -1,0 +1,70 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I CRS anu festighjatu a vittoria di u PSG
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-CRS-anu-festighjatu-a-vittoria-di-u-PSG_a1414.html"/>
+     <date>
+      Sun, 23 Sep 2012 21:00:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I CRS anu festighjatu a vittoria di u PSG
+   </head>
+   <div type="excerpt">
+    <p>
+     I CRS dinù anu u dirittu di manifestà a so gioia in Furiani. Per festighjà a disfatta bastiaccia, si sò fatti piacè.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ùn c'eranu micca 17.000 persone triste in Furiani sabbatu. Dopu à a concia pigliata da u Sporting, i CRS anu tenutu à festighjà anch'elli a disfatta. 
+D'abitutine, si tiranu fucilate in l'aria quandu u Sporting vince. Quand'ellu perde, i CRS tiranu i lacrimògeni. 
+Bilanciu : sei pulizzeri feriti è trè bastiacci in l'incidenti dopu à a partita. 
+Hè l'organizazione pulizzera chì hè messa in causa. 
+L'incidenti sò nati davant'à a tribuna Nord è u longu di u caminu di ferru, vicinu di a gara di Furiani. In sti dui lochi, e cusì dette "forze di l'ordine" anu bluccatu l'accessi. U longu di a via ferrata, i CRS impedianu a ghjente chì vulia raghjunghje a so vittura di passà. Perchè? Hè custì ch'elli sò nati l'azzuffi. 
+Malgradu e so spiegazione, a prefettura ùn hà ancu rispostu nant'à stu puntu. U club ellu si lagna ch'ellu ùn hè mai statu à sente. I servizii di a prefettura elli mettenu i causa i stadieri chì ùn anu micca fattu u so travagliu dopu à u macciu. Stranu... 
+In cunsequenza di e baruffe, u bus di u PSG hà avutu quaranta minuti di ritardu è i parigini facianu u musu, ci dice Le Parisien (chì scrive Encore et toujours des incidents à Furiani) è chì parla d'un "Carlo Ancelotti dépité et bougon". 
+À u prezzu ch'elli sò pagati cù i soldi di u Qatar, ponu bè aspettà appena.
+    </p>
+    <p>
+     [S.C.Bastia] Incidents avec les CRS (après le... par forzabastia_2b
+    </p>
+    <p>
+     Conférence des dirigeants suite aux incidents... par SportingClubBastia
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

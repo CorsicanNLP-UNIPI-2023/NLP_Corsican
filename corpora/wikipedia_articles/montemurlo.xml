@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Montemurlo
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Montemurlo"/>
+     <date>
+      2014-03-23T14:40:53Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Montemurlo
+   </head>
+   <p>
+    Montemurlo hè una cumuna toscana di a pruvincia di Pratu.Teni 18.097 abitanti.
+   </p>
+   <p>
+    Cumuna di Toscana
+   </p>
+  </body>
+ </text>
+</TEI>

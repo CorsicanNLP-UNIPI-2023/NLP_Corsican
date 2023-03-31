@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ancu Fred Testot leghje A Piazzetta
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ancu-Fred-Testot-leghje-A-Piazzetta_a1893.html"/>
+     <date>
+      Fri, 20 Jun 2014 01:39:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ancu Fred Testot leghje A Piazzetta
+   </head>
+   <div type="content">
+    <p>
+     Twitter ci riserva ogni tantu qualchì surpresa. 
+Nant'à u so contu, Fred Testot hà spartutu un articulu di A Piazzetta. Si tratta di quellu nant'à a cuppa di u mondu in Corsica. 
+Bon d'accordu, tuttu u mondu si n'impippa, ma à noi ci hà fattu surride. 
+Fred Testot hè un magagnone. Un ghjornu hà fattu crede à una giurnalista di Libé ch'ellu era corsu, è tuttu u mondu hà ripresu l'infurmazione. Ci vene spessu, è l'accentu corsu u tene bè. 
+Si pò ancu vedelu parlà corsu, in u filmu Au Bistro du coin chì hè statu duppiatu in parechje lingue dette "regiunali". 
+À ringraziatti, o Vred !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Un omagiu à Butagaz
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-omagiu-a-Butagaz_a2410.html"/>
+     <date>
+      Thu, 26 May 2016 00:09:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Un omagiu à Butagaz
+   </head>
+   <div type="excerpt">
+    <p>
+     L'artistu Marcellu Lepidi-Acquaviva hà publicatu nant'à a so pagina Facebook a so ultima opera : una buttiglia di Butagaz.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Una buttiglia di gaz cum'è opera d'arte ? È perchè micca. Eccu u testu publicatu da l'artistu nant'à a so pagina Facebook  : 
+Iè, ci hè a macagna. L'ogettu hè diventatu opera d'arte, à l'usu pop-art. Ma al dilà di quessa, ci hè dinù un omagiu. Da u 1976 à u 2016 sò passati quarant'anni. Quarant'anni chì anu marcatu a mo zitellina, a mo ghjuventù, a mo manera di pensà, di vede a Corsica. Quarant'anni hè u tempu ch'ella hè durata sta lotta, sta speranza d'un lindumane più bellu per stu populu è stu paese. Hè forse statu un sognu cullettivu ancu. 
+È quarant'anni dopu, chì si po ritene ? U sacrifiziu di centinaie d'omi chì ci anu cridutu, chì avianu e so idee è a difesa di sta terra arradicata in elli. Allora hè vera, hè forse troppu prestu per fà u bilanciu. Ci sò stati i guai, i doli, l'anni di prigiò lampati à a lestra, l'urfagni è e veduve. U paradossu hè quì : a guerra trà di i naziunalisti hà fattu di più morti ch'è quella contr'à l'invasore. Ci semu di più tombi trà di noi ch'è no avemu tumbatu à l'altri. I sturiani studieranu megliu quessa ch'è mè. 
+Ma oghje vulia solu rende omagiu à quelli chì sò andati sin'à mette in periculu a so vita per e so idee, per u cullettivu, chì anu cridutu à una sucetà più ghjusta. À l'ora di l'invidualisimu generalizatu, di u soldu rè, di u parè, di u cunsumerisimu, di a "mercantilizazione" di a Corsica chì arruvina appena di più ogni ghjornu stu paese, era bè di dilla, casu mai averiamu l'idea di scurdaccine. Ùn si sà mai.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

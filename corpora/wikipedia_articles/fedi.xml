@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Fedi
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Fedi"/>
+     <date>
+      2016-05-18T13:36:51Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Fedi
+   </head>
+   <p>
+    A fedi o (fede) hè u crede.
+   </p>
+   <p>
+    == Citazioni ==
+   </p>
+   <p>
+    Accadi chì a fedi fussi mintuvata in a litteratura è a cultura corsa. Par asempiu, in i pruverbii:
+   </p>
+   <p>
+    Aghji fedi è Diu pruvvedi.
+   </p>
+   <p>
+    == Rifarenzi ==
+   </p>
+   <p>
+    Saravelli-Retali, 1976, A vita in Corsica per via di i pruverbii è i detti - La vie en Corse à travers proverbes et dictons, Nice: Don Bosco
+   </p>
+   <p>
+    Religione
+   </p>
+  </body>
+ </text>
+</TEI>

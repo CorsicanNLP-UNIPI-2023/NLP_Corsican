@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Scuperta : anu trovu cumu impedisce a vechjaia. Festa per l'eletti Corsi
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Scuperta-anu-trovu-cumu-impedisce-a-vechjaia-Festa-per-l-eletti-Corsi_a1205.html"/>
+     <date>
+      Mon, 07 Nov 2011 20:27:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Scuperta : anu trovu cumu impedisce a vechjaia. Festa per l'eletti Corsi
+   </head>
+   <div type="excerpt">
+    <p>
+     I scentifichi anu scupertu cumu impedisce à e cèllule umane d'invechjà. Listessu ghjornu, s'ampara ch'Emile Zuccarelli puderebbi turnà à presentassi.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A ricerca hà fattu un prugressu maiò : u mitu di a giuventù eterna hè forse vicinu. Hè una squadra di circadori di Montpellier chì l'hà scuperta. Anu trovu cumu impedisce à cèllule umane di vechji macucchi d'invechjà : « On a donc fait rajeunir les cellules en supprimant toute trace de vieillissement » spiega un circadore. 
+Da leghje : Le vieillissement cellulaire est réversible !. 
+Ùn anu ancu trovu a sòsula di a vita eterna, ma sta nutizia ne face sunnià più d'unu. In i QG di l'omi pulitichi corsi, l'infurmazione hè stata celebrata cun champagne è frittelle. 
+D'altronde, u listessu ghjornu s'ampara in Corse-Matin ch'Emile Zuccarelli puderia turnà à presentassi à e prussime elezzioni in Bastia. U titulu spaventosu hè degnu di l'Histoire sans fin : Emile Zuccarelli : et s'il se représentait ? (da leghje quì). 
+A scenza à u serviziu di a pulitica corsa, oramai hè pussìbule.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

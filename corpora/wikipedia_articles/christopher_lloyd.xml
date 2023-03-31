@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Christopher Lloyd
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Christopher%20Lloyd"/>
+     <date>
+      2015-07-01T12:59:25Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Christopher Lloyd
+   </head>
+   <p>
+    Christopher Lloyd hè un attore americanu. Hè cunnisciutu soprattuttu per u so rollu di u Duttore Emmett Brown in a trilugìa famosa di Back to the Future.
+   </p>
+   <p>
+    Lloyd, Christopher
+   </p>
+   <p>
+    Lloyd, Christopher
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sò ghjunti !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/So-ghjunti-_a1352.html"/>
+     <date>
+      Sat, 02 Jun 2012 11:49:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sò ghjunti !
+   </head>
+   <div type="excerpt">
+    <p>
+     Ùn pare micca, ma l'estate hè principiata. Semu partuti pè trè mesi d'infernu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Sò ghjunti i primi camping-cars, i primi saccadò, i primi turisti in sàndale cù e calzette. Semu partuti pè trè mesi di lamenti, di "ci n'hè troppu", d'annerbamenti in vittura, di saisonniers fidighjati in catarochju in i ristruanti ("cum'ellu hè antipàticu quessu") è di cummercianti chì si lagnanu "cette année alors y a pas de touristes". 
+Toccu l'estate, ci lagnemu sempre. Ma a Corsica hè sottumessa à u tuttu turisimu ("souvent conquise, jamais soumise" dicianu...) è ùn femu nunda pè sorte di sta situazione. Hè talmente più faciule di fassi una baracca è di vende i pomi fritti durante un mese chè di circà d'altre vie di sviluppu. 
+À quandu una vera riflessione di i Corsi nant'à a u tuttu turisimu ? 
+O allora, ùn ci lagnemu più.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

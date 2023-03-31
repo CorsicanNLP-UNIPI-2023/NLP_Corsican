@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bon Natale
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Bon-Natale_a2099.html"/>
+     <date>
+      Wed, 24 Dec 2014 23:00:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bon Natale
+   </head>
+   <div type="excerpt">
+    <p>
+     A squadra di A Piazzetta è u Sergente Istruttore Hartman vi preganu un bon Natale.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Quale ci pò esse di megliu ch'è u Sergente Hartman di u filmu di Stanley Kubrick Full Metal Jacket per l'auguri di Natale ? 
+Ecculi in VO :
+    </p>
+    <p>
+     A versione taliana :
+    </p>
+    <p>
+     Ch'è vo l'avessite digià vistu o nò, prufittate di e feste per fidighjà stu filmone (forse u più grande nant'à l'orrori di a guerra ?). 
+Bon Natale à tutti !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Gerard Piqué (FC Barcelona) per l'indipendenza di a Catalonia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Gerard-Pique-FC-Barcelona-per-l-indipendenza-di-a-Catalonia_a1941.html"/>
+     <date>
+      Fri, 12 Sep 2014 00:30:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Gerard Piqué (FC Barcelona) per l'indipendenza di a Catalonia
+   </head>
+   <div type="excerpt">
+    <p>
+     U futbalore l'hà detta, è hà manifestatu in Barcelona in a manifestazione gigante di l'indipendentisti catalani (1,8 milioni di manifestanti).
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Mai havia viscut res semblant! Simplement inoblidable! #Diada2014 pic.twitter.com/sB67mbb652
+— Gerard Piqué (@3gerardpique) 11 Septembre 2014
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

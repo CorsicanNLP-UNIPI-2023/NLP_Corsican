@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lingua bulgara
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Lingua%20bulgara"/>
+     <date>
+      2014-03-23T14:32:08Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lingua bulgara
+   </head>
+   <p>
+    A lingua bulgara hè a lingua slava parlata in Bulgaria.
+   </p>
+   <p>
+    Bulgaru
+   </p>
+  </body>
+ </text>
+</TEI>

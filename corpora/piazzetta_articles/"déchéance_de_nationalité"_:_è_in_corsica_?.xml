@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "Déchéance de nationalité" : è in Corsica ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Decheance-de-nationalite-e-in-Corsica_a2327.html"/>
+     <date>
+      Tue, 05 Jan 2016 10:10:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "Déchéance de nationalité" : è in Corsica ?
+   </head>
+   <div type="excerpt">
+    <p>
+     A cadenza di a naziunalità face pocu rimusciu in Corsica. Forse un elementu di dibattitu, cù stu dissegnu di Foolz esciutu in Charlie Hebdo a settimana scorsa.
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

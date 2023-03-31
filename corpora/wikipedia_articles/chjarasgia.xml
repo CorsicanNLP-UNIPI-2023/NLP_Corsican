@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chjarasgia
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Chjarasgia"/>
+     <date>
+      2015-07-01T22:48:22Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chjarasgia
+   </head>
+   <p>
+    A chjarasgia hè u fruttu di u chjarasgiu.
+   </p>
+   <p>
+    == A chjarasgia in Corsica ==
+   </p>
+   <p>
+    In Corsica ci sò chjarasgie.
+   </p>
+   <p>
+    == Riferenzi esterni ==
+   </p>
+   <p>
+    Fruttu
+   </p>
+  </body>
+ </text>
+</TEI>

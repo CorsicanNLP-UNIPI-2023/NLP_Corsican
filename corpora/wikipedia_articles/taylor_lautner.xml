@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Taylor Lautner
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Taylor%20Lautner"/>
+     <date>
+      2016-09-22T15:42:14Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Taylor Lautner
+   </head>
+   <p>
+    Taylor Lautner (Grand Rapids - Michigan, 11 Ferraghju 1992) hè un attore americanu.
+   </p>
+   <p>
+    Attore
+   </p>
+   <p>
+    Americanu
+   </p>
+  </body>
+ </text>
+</TEI>

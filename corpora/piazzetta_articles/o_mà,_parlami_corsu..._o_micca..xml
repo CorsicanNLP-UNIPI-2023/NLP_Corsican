@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     O mà, parlami corsu... o micca.
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/O-ma-parlami-corsu-o-micca_a1224.html"/>
+     <date>
+      Sat, 03 Dec 2011 15:26:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    O mà, parlami corsu... o micca.
+   </head>
+   <div type="content">
+    <p>
+     D'appressu à un dissegnu di Battì
+    </p>
+    <p>
+     Eccu l'originale :
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È avà, u tràfficu di cuppulate
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-ava-u-trafficu-di-cuppulate_a1350.html"/>
+     <date>
+      Wed, 30 May 2012 23:50:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È avà, u tràfficu di cuppulate
+   </head>
+   <div type="excerpt">
+    <p>
+     In una settimana, 500 grammi di cuccaina sò stati chjappi da a pulizza in Portivechju è... 52 cuppulate in Aiacciu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cunnisciamu u tràfficu di droga, u tràfficu d'arme, ma micca u tràfficu di cuppulate. 
+Megliu chè i latri di statue di San Petru, megliu chè u tràfficu di zinzì, e cuppulate.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

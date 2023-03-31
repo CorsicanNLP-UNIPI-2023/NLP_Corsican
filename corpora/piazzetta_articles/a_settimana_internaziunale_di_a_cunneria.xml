@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A settimana internaziunale di a cunneria
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-settimana-internaziunale-di-a-cunneria_a1561.html"/>
+     <date>
+      Wed, 08 May 2013 12:32:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A settimana internaziunale di a cunneria
+   </head>
+   <div type="excerpt">
+    <p>
+     C'era u festivale di Cannes, noi simu à u primu rangu di u festivale di i Conni. Ma ùn sapemu micca quandu si pianterà.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Aviate passatu una dumenicata appena strana. Mentre ch'è vo pensavate sempre à a strage di Furiani, Thiriez ellu dicia : "pas question de faire du 5 mai une journée sans football". 
+Hè appena dura, ma avà avete capitu ch'ellu ùn ci hè nunda da aspettà da a u presidente di a LFP è da u futbol prufessiunale, induve i soldi sò rè. 
+Aviate sempre u 5 di maghju di traversu in a gola eppò surpresa ! Hà attaccatu Valls, scatinatu. S'hè cappiatu nant'à France Inter. Trè volte, malgradu e rimarcate di i giurnalisti, hà ripetutu chì "la violence est enracinée dans la culture corse". 
+Passemu nant'à 40 anni di lascia corre di u Statu è di sottu sviluppu chì anu permessu à e maffie di prusperà in Corsica. A dice u ministru : hè culturale, hè dunque tutta colpa vostra è ùn ci hè nunda à fà. Purtemu tutti a viulenza in noi, ùn simu micca cum'è l'altri ma ci la feranu à civilizacci. 
+Dopu hè cascata a sanzione di a LFP : si ghjucheranu i derby à porte chjose è in cuntinente. Bon d'accordu avemu fattu i conni noi dinù. Ma hè culturale vi dimu ! 
+Infine oghje 8 di maghju casca l'articulu di Le Point nant'à Ponte Novu : 
+"On connaît le Corse poseur de bombes, le Corse incendiaire, le Corse gabelou, le Corse fatigué, le Corse chanteur a cappella, le Corse truand, le Corse "si tu touches à ma soeur, t'est mort !". Mais peu le Corse "sauve-qui-peut". Pour cela, il faut remonter au 8 mai 1769, le jour de la bataille de Ponte Novu qui vit le massacre de centaines de Corses par l'armée de Louis XV. Ces nationalistes de la première heure ne combattent pas encore la tête dans une cagoule, mais l'arme au poing à visage découvert. Remarquez, cela ne leur réussit pas tant que ça : ce jour-là, non seulement le fier Corse prend ses jambes à son cou devant la mitraille ennemie, mais il se fait massacrer par ses alliés prussiens" 
+È dumane, chì cascherà pè a settimana internaziunale di a cunneria ? Ma dopu, rassigurateci, serà finita, chè ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

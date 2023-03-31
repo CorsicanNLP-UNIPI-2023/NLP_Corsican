@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Visità à Pisa
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Visita-a-Pisa_a2681.html"/>
+     <date>
+      Thu, 30 Nov 2017 10:55:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Visità à Pisa
+   </head>
+   <div type="content">
+    <p>
+     Pape urbain II accorde l'investiture temporelle à perpetuité à l'évque de Pise 28.6.1091, elevé à la dignité d'archeveque 1 an plus tard 
+Genes s'est estimée lesée, eu egard à l'expulsion des sarrasins de la mer thyrrénienne 
+Hè vicina  A torra  A piazza dei miracoli : duomo : dui seculi di custruzzione, principiata à u XIu  U Borgu strettu  Keith Haring  Piazza dei cavalieri  l'arte scultata  palazzo dell'orilogio  santa caterina  san francesco  E mure  Galileu  A tifoseria  A Meloria  Via della Corsica è Via Pasquale Paoli 
+Basilica romanica di San Piero a Grado https://www.tripadvisor.fr/Attraction_Review-g187899-d5971721-Reviews-Basilica_romanica_di_San_Piero_a_Grado-Pisa_Province_of_Pisa_Tuscany.html 
+Museo Nazionale di San Matteo https://www.tripadvisor.fr/Attraction_Review-g187899-d195719-Reviews-National_Museum_of_San_Matteo-Pisa_Province_of_Pisa_Tuscany.html 
+Torre del Campano https://www.tripadvisor.fr/Attraction_Review-g187899-d12219906-Reviews-Torre_del_Campano-Pisa_Province_of_Pisa_Tuscany.html 
+https://toolito.com/visiter-pise-faire-voir/ 
+https://www.carigami.fr/magazine/un-avant-gout-de-vacances/tour-a-pise.html 
+https://www.monnuage.fr/point-d-interet/musee-de-lopera-du-dome-de-pise--a180734
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tremeca
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Tremeca"/>
+     <date>
+      2019-10-03T11:17:26Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tremeca
+   </head>
+   <p>
+    Tremeca hè un situ archiulogicu situatu annantu à a cumuna di Casaglione.
+   </p>
+   <p>
+    == Rifarenzi ==
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    Situ archiulogicu di Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

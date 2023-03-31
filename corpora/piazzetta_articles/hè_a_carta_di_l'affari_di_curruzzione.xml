@@ -1,0 +1,71 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hè a carta di l'affari di curruzzione
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/He-a-carta-di-l-affari-di-curruzzione_a2066.html"/>
+     <date>
+      Tue, 09 Dec 2014 09:22:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hè a carta di l'affari di curruzzione
+   </head>
+   <div type="excerpt">
+    <p>
+     "Transparency International", un'ONG, hà lanciatu una carta interattiva di l'affari di curruzzione.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U nove di dicembre hà a Ghjurnata internaziunale di lotta contr'à a curruzzione. 
+À st'occasione, l'organizazione Transparency International hà lanciatu u so situ visualiserlacorruption.fr. 
+Per piglià cuscenza di l'impurtanza di u fenòmenu, una carta vale di più ch'è un discorsu longu. Ogni puntu currisponde à un'affare di curruzzione cunnisciutu. 
+Da vede quì.
+    </p>
+    <p>
+     Visualiser la #corruption en France : objectif ? Sensibiliser les citoyenshttp://visualiserlacorruption.fr/#agircontrelacorruption
+— Transparency France (@TI_France) 9 Décembre 2014
+    </p>
+    <p>
+     Ce qui a le plus frappé nos bénévoles? La durée des procédures: 45 affaires ont un délai &gt; 15 ans entre les faits et la condamnation
+— Transparency France (@TI_France) 9 Décembre 2014
+    </p>
+    <p>
+     Europe 1 aghjusta : "Transparency International avait établi son classement annuel de 175 pays, du plus vertueux au plus corrompu. Le Danemark arrive en tête, avec une note de 92 sur 100. La France, 26ème, est en revanche moins bien notée qu'en 2013, avec une note de 69/100."
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

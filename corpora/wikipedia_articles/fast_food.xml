@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Fast food
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Fast%20food"/>
+     <date>
+      2015-07-07T20:57:43Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Fast food
+   </head>
+   <p>
+    Fast food hè una parulla inglese chì vole dì : «alimentazione rapida». Si manghja in i ristoranti «fast food». L'esempiu u più emblematicu di fast food hè a cucina di Mac Donald, una catena di ristoranti americana, chì prupone (frà altri alimenti)
+   </p>
+  </body>
+ </text>
+</TEI>

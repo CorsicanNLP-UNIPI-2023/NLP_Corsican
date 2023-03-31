@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vendi i to morti
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Vendi-i-to-morti_a1397.html"/>
+     <date>
+      Fri, 10 Aug 2012 01:50:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Vendi i to morti
+   </head>
+   <div type="excerpt">
+    <p>
+     Pensavate chè no aviamu tuccatu u fondu ? Nò, cuntinuvemu à zappà...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Dopu à "diventa riccu, vendi a to terra ", eccu "diventa riccu, vendi i to morti". 
+Stu ritrattu vene da Facebook è ùn si sà micca veramente induv'ellu hè ("dans le sud de la Corse", ci dicenu...). 
+A Corsica, u paese induve ancu i morti sò à vende nant'à eBay...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

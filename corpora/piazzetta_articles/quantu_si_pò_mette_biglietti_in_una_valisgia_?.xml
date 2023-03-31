@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quantu si pò mette biglietti in una valisgia ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quantu-si-po-mette-biglietti-in-una-valisgia_a1172.html"/>
+     <date>
+      Sun, 25 Sep 2011 11:33:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quantu si pò mette biglietti in una valisgia ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Quand'elli partenu in vacanze in Africa, l'omi pulitichi francesi voltanu cun pienu di ricordi in e so valisgie.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Robert Bourgi a dice, hà vistu à Chirac è à Villepin cuntà i biglietti chì venianu da i dirigenti africani (da leghje in u JDD). 
+Ma a dumanda chì tuttu ognunu si pone hè quantu si ponu mette soldi in una valisgia ? 
+A risposta a truvemu nant'à u situ di RFI : in un attaché-case ci ponu stà 12 000 biglietti di 500 €, sia 6 milioni d'euri. 
+È s'è vo ùn avete valisgia, cumu fate ? Hè semplice : mettite i soldi in un djembé. Ma tandu puderete ficcacci solu 3 milioni di dòllari, a ci dice Bourgi. 
+Eccu avà a sapete. Bone vancanze à tutti.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

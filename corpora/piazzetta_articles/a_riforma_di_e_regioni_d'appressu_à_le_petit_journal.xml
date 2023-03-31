@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A riforma di e regioni d'appressu à Le Petit Journal
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-riforma-di-e-regioni-d-appressu-a-Le-Petit-Journal_a1864.html"/>
+     <date>
+      Fri, 06 Jun 2014 00:57:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A riforma di e regioni d'appressu à Le Petit Journal
+   </head>
+   <div type="excerpt">
+    <p>
+     Le Petit Journal di Canal+ hà trattatu à a so manera di a riforma territuriale di u guvernu. Si tratta dinù (appena) di a Corsica...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Da vede nant'à u contu Dailymotion d'antofpcl
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tunnara
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Tunnara"/>
+     <date>
+      2013-03-08T21:59:46Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tunnara
+   </head>
+   <p>
+    A Tunnara hè un tipu di reta chì hè usata in Corsica. A tunnara servi par piscà u tonnu.
+   </p>
+   <p>
+    == Rifarenzi ==
+   </p>
+   <p>
+    Pesci di Corsica è di u Meditterraniu - Parcu Naturali di Corsica, Arpege, 1980 (in francesu)
+   </p>
+   <p>
+    Reta
+   </p>
+  </body>
+ </text>
+</TEI>

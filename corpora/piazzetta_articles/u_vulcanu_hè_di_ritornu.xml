@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U vulcanu hè di ritornu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-vulcanu-he-di-ritornu_a1102.html"/>
+     <date>
+      Mon, 23 May 2011 00:34:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U vulcanu hè di ritornu
+   </head>
+   <div type="excerpt">
+    <p>
+     BHL vene forse di truvà un amicu pè a so campagna di boycott di u turisimu in Corsica : un antru vulcanu islandese.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     V'arricurdate tutti d'Eyjafjallajökull, u vulcanu islandese chì hà messu una panicca nera in Auropa annu passatu è ch'avia paralizatu unepochi d'aviò. 
+Ebbeh sta volta hè u so cuginu chì s'hè discitatu. Anch'ellu hà un nome chì nimu ci la ferà à prununzià : Grimsvötn. 
+Bon, per avà hè menu gattivu ch'è quill'altru, ma ùn semu ch'è à principiu. D'appressu à i spezialisti, e cènnere tuccheranu a Francia à partesi da ghjovi 
+È s'ellu s'annerba veramente, puderia pone qualchì prublema à cumpagnie aeree. 
+Tandu avete da sente "les professionnels du tourisme qui sont déçus", cum'è tutti l'anni. 
+U vulcanu islandese serà più forte ch'è BHL ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

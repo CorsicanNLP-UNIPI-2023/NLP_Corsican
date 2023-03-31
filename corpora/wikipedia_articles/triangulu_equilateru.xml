@@ -1,0 +1,189 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Triangulu equilateru
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Triangulu%20equilateru"/>
+     <date>
+      2015-07-09T08:21:36Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Triangulu equilateru
+   </head>
+   <p>
+    Un triangulu equilateru hè un triangulu incù tutti i lati cungruenti è dunqua hè un poligunu rigulari incù trè lati. L'anguli sò tutti uguali è pari à 60° = \frac{\pi}{3} rad.
+   </p>
+   <p>
+    I trianguli equilateri sò trianguli isusceli  particulari. Tutti i trianguli equilateri sò simili trà eddi: par carattarizà metricamenti un triangulu equilateru, vali à dì par carattarizà a classa di i trianguli equilateri in u pianu chì si poni uttena l'uni da l'altri par via di traslazioni è rutazioni, servi è basta un parametru estinsivu: tipicamenti s'usa a lunghezza di i so lati.
+   </p>
+   <p>
+    In i trianguli equilateri, i bisettrici, i mediani, l'altezzi è l'assi si soprapponini di tali manera ch'è listessu puntu ripprisenta l'ortucentru, u baricentru, l'incentru è u circucentru.
+   </p>
+   <p>
+    U gruppu di i simmetrii di u triangulu equilateru hè custituitu da l'idantità, da i rutazioni intornu à u so centru di 120° è di 240° è da i riflissioni rispettu à i bisettrici di l'anguli. Stu gruppu hè isumorfu à u gruppu simetricu di 3 ughjetti S3.
+   </p>
+   <p>
+    == Custruzzioni ==
+   </p>
+   <p>
+    Com'è a dimostra Euclide in i so Elementi I, 1 (hè a prima prupusizioni di tutta l'opara), u triangulu equilateru datu u latu AB si pò custruiscia incù riga è cumpassu in 'ssa manera:
+   </p>
+   <p>
+    Si poni u cumpassu in A incù l'apartura AB è si traccia una circumfarenza;
+   </p>
+   <p>
+    Si poni u cumpassu in B incù l'apartura BA è si traccia una circumfarenza;
+   </p>
+   <p>
+    U puntu d'incontru di i circumfarenzi C hè u terzu puntu circatu;
+   </p>
+   <p>
+    Uniscendu A, B è C s'otteni un triangulu equilateru.
+   </p>
+   <p>
+    A dimustrazioni hè simplicia: essendu, par difinizioni, tutti i punti di a circumfarenza equidistanti da u centru, u sigmentu AB hè cungruenti à AC, è AB hè cungruenti à BC. Ma tandu par a prubità transitiva di a cungruenza, AB = AC = BC è u triangulu hè equilateru.
+   </p>
+   <p>
+    == Formuli ==
+   </p>
+   <p>
+    Rifirendu si incù l à u latu di u triangulu, incù 2P u perimetru, incù A l'aria, incù b a basa è incù h l'altezza s'hà:
+   </p>
+   <p>
+    ===Perimetru===
+   </p>
+   <p>
+    2P=l\cdot3
+   </p>
+   <p>
+    l=\frac{2P}{3}
+   </p>
+   <p>
+    ===Aria===
+   </p>
+   <p>
+    A=\frac{b \cdot h}{2}=\frac{l^2}{4}\cdot\sqrt{3}
+   </p>
+   <p>
+    h=\frac{A \cdot 2}{b}
+   </p>
+   <p>
+    b=\frac{A \cdot 2}{h}
+   </p>
+   <p>
+    ===Appiigazioni di u Tiurema di Pitagora===
+   </p>
+   <p>
+    h=\sqrt{l^2-\left(\frac{l}{2}\right)^2}=\sqrt{l^2-{\frac{l^2}{4}}}=\sqrt{\frac{4l^2-l^2}{4}}=\sqrt{\frac{3l^2}{4}}=\frac{\sqrt{l^2}\cdot{\sqrt{3}}}{\sqrt{4}}=\frac{2} = \frac{l}{2}\sqrt{3}
+   </p>
+   <p>
+    l=\frac{2h}{\sqrt{3}}
+   </p>
+   <p>
+    ===Circumfarenza inscritta è circuscritta===
+   </p>
+   <p>
+    U centru giumetricu di u triangulu hè u centru di i circumfarenzi iscritta è circuscritta à u triangulu equilateru
+   </p>
+   <p>
+    U raghju di a circumfarenza circuscritta hè R=\frac{\sqrt{3}}{3} l
+   </p>
+   <p>
+    da u quali l=R \sqrt{3}
+   </p>
+   <p>
+    U raghju di a circumfarenza inscritta hè r=\frac{\sqrt{3}}{6} l
+   </p>
+   <p>
+    da u quali R=2 \cdot r
+   </p>
+   <p>
+    Aria (nota R) A=\frac{3 \cdot R^2}{4} \cdot \sqrt{3}
+   </p>
+   <p>
+    == Da veda dinò ==
+   </p>
+   <p>
+    Criterii di cungruenza di i trianguli
+   </p>
+   <p>
+    Triangulu
+   </p>
+   <p>
+    Triangulu isusceli
+   </p>
+   <p>
+    Triangulu scalenu
+   </p>
+   <p>
+    Toru (giumitria)
+   </p>
+   <p>
+    Giumitria piana
+   </p>
+   <p>
+    Angulu rettu
+   </p>
+   <p>
+    Catetu
+   </p>
+   <p>
+    Mezaretta
+   </p>
+   <p>
+    Perimetru
+   </p>
+   <p>
+    Sigmentu
+   </p>
+   <p>
+    Tiurema di Pitagora
+   </p>
+   <p>
+    Iputenusa
+   </p>
+   <p>
+    Tangenti
+   </p>
+   <p>
+    Trigunumitria
+   </p>
+   <p>
+    Uttaedru
+   </p>
+   <p>
+    == Noti ==
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia in talianu.
+   </p>
+   <p>
+    Equilateru
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È avà, chì ponu fà i naziunalisti ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-ava-chi-ponu-fa-i-naziunalisti_a2313.html"/>
+     <date>
+      Thu, 17 Dec 2015 00:23:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È avà, chì ponu fà i naziunalisti ?
+   </head>
+   <div type="excerpt">
+    <p>
+     U mullizzu, a salute, i trasporti, a precarità chì cresce è un'ecunumia à paghjolu
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     - Lancià un prugramma atomicu è fabricà una bomba atomica  - Fà unepochi di ghjorni di festa per scambià di l'ottu di dicembre (si cotra)  - Avè una vera squadra naziunale  - Ricuperà à Capraia  - Sorte infine di u tuttu-vittura è rilancià d'altri mezi di trasportu di più ecologichi (ci n'hè una techja di l'ingorghi)  - Ricuperà unepoche di case segundarie  - Ricuperà unepochi di luttizzamenti di ricconi è piantacci i pomi  - Apresi infine da l'altri lati di u Mediterraniu  - Fà una statua à Claude Papi  - Sbattizà unepochi di lucacci (omancu a Côte des Nacres, Portovèque è  - Sbandisce definitivamente à Claude François, u karaoké è "Une autre histoire" di Gérard Blanc  - Custruisce menu ronds-points è suvvenziunà appena di più u rock corsu  - Dà a naziunalità corsa à Emile Kostadinov  - Cursizà i nomi di marche  - Fà vene i Rolling Stones in Furiani  - Scrivesi à a FIFA nunda ch'è per vutà contr'à Platini  -  -
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

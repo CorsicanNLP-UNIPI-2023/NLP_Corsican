@@ -1,0 +1,71 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cumu vestesi st’inguernu ? Basterà un t-shirt !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cumu-vestesi-st-inguernu-Bastera-un-t-shirt%C2%A0_a2738.html"/>
+     <date>
+      Sat, 22 Sep 2018 13:03:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cumu vestesi st’inguernu ? Basterà un t-shirt !
+   </head>
+   <div type="content">
+    <p>
+     Météo France hà publicatu l’evuluzione di e timperature in parechje cità. Eccu e fiure chì ci mostranu u riscaldamentu in Bastia, in Aiacciu è in Pertusatu.
+    </p>
+    <p>
+     Le réchauffement climatique au pas de la porte : retrouvez l’évolution des températures dans votre ville depuis le début du XXe siècle https://t.co/pC1Fnztj1z pic.twitter.com/AxgYRsm6i8
+— Les Décodeurs (@decodeurs) 14 septembre 2018
+    </p>
+    <p>
+     E rigature di riscaldamentu (warning stripes, in francese rayures de réchauffement ) sò bellucce è puderianu ghjuvà di tapizzeria in camera di i zitelli... ma attenti à i sunniacci : si vede bè chì e cose impeghjuriscenu.
+    </p>
+    <p>
+     Per Bastia : da u turchinu (fretu) à u rossu accesu (caldu)
+    </p>
+    <p>
+     Per Aiacciu : da u celestu (fretu) à u crimisinu (caldu)
+    </p>
+    <p>
+     Per Pertusatu : da u turchinicciu (fretu) à u rossu fiamone (caldu)
+    </p>
+    <p>
+     Ed hè cusì in ogni locu... ùn vale à cumprassi un mantillone pè l’inguernu !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

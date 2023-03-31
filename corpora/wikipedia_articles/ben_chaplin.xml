@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ben Chaplin
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Ben%20Chaplin"/>
+     <date>
+      2015-07-07T22:55:23Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ben Chaplin
+   </head>
+   <p>
+    Ben Chaplin hè un attore britannicu.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    The Thin Red Line
+   </p>
+   <p>
+    Chaplin, Ben
+   </p>
+   <p>
+    Chaplin, Ben
+   </p>
+  </body>
+ </text>
+</TEI>

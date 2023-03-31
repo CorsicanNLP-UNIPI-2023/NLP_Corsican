@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Washington DC
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Washington%20DC"/>
+     <date>
+      2017-02-22T01:11:24Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Washington DC
+   </head>
+   <p>
+    Washington DC (o Washington, DC o D.C. chi vole dì District of Columbia) hè a capitale di i USA. Hà circa mezu milione d'abitanti.
+   </p>
+  </body>
+ </text>
+</TEI>

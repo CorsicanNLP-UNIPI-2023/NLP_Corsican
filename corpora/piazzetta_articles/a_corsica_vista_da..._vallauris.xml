@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Corsica vista da... Vallauris
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-Corsica-vista-da-Vallauris_a2112.html"/>
+     <date>
+      Tue, 06 Jan 2015 09:10:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A Corsica vista da... Vallauris
+   </head>
+   <div type="content">
+    <p>
+     Hè spessu di ghjennaghju chì u tempu hè u più chjaru è a vista a più bella (furtunati quelli chì ponu cullà in muntagna !). 
+Dop'à a Corsica vista da Genuva, eccu chì un lettore ci manda stu ritrattu di a nostra isula vista da Vallauris. Era luni matina à l'alba.
+    </p>
+    <p>
+     Articulu traduttu nant'à u situ Ampargu a lingua corsa
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

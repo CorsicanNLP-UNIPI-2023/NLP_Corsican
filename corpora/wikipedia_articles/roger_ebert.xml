@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Roger Ebert
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Roger%20Ebert"/>
+     <date>
+      2015-07-01T19:33:13Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Roger Ebert
+   </head>
+   <p>
+    Roger Joseph Ebert (1942-2013) hè un scrittore è attore americanu.
+   </p>
+   <p>
+    Ebert, Roger
+   </p>
+  </body>
+ </text>
+</TEI>

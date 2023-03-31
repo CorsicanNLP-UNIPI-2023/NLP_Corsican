@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chì sò i gruppi corsi chì anu u più successu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Chi-so-i-gruppi-corsi-chi-anu-u-piu-successu_a1983.html"/>
+     <date>
+      Thu, 09 Oct 2014 23:32:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ULTIMI
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chì sò i gruppi corsi chì anu u più successu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Sta dumanda, tuttu ognunu a si pone, è Jacques Bastianesi dinù. Avemu infine un elementu di risposta.
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

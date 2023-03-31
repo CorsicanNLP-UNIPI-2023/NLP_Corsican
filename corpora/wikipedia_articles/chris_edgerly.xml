@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chris Edgerly
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Chris%20Edgerly"/>
+     <date>
+      2015-07-01T16:40:43Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chris Edgerly
+   </head>
+   <p>
+    Christopher "Chris" Edgerly hè un attore canadianu.
+   </p>
+   <p>
+    Edgerly, Chris
+   </p>
+  </body>
+ </text>
+</TEI>

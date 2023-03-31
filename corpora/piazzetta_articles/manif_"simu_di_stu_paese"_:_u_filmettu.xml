@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Manif "simu di stu paese" : u filmettu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Manif-simu-di-stu-paese-u-filmettu_a1777.html"/>
+     <date>
+      Tue, 06 May 2014 11:43:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Manif "simu di stu paese" : u filmettu
+   </head>
+   <div type="excerpt">
+    <p>
+     S'avvicina a manifestazione di u 10 di maghju in Bastia. È ci hè ancu un "trailer" à a manera di quella d'un blockbuster per chjamà à manifestà, staring Jean-Pierre Chevènement, Christophe Barbier è Manuel Valls. Chì ne serà di a fine ?
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

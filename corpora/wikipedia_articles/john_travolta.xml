@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     John Travolta
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/John%20Travolta"/>
+     <date>
+      2015-07-07T22:56:51Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    John Travolta
+   </head>
+   <p>
+    John Travolta hè un attore americanu.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    The Thin Red Line
+   </p>
+   <p>
+    Travolta
+   </p>
+   <p>
+    Travolta
+   </p>
+  </body>
+ </text>
+</TEI>

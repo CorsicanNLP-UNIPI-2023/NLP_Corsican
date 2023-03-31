@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     The Wounded Tone
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/The%20Wounded%20Tone"/>
+     <date>
+      2016-08-14T04:56:24Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    The Wounded Tone
+   </head>
+   <p>
+    The Wounded Tone hè un gruppu di rock progressivu, fundatu in Stockholm, Svezia in u 2009.
+   </p>
+   <p>
+    Gruppu di rock
+   </p>
+  </body>
+ </text>
+</TEI>

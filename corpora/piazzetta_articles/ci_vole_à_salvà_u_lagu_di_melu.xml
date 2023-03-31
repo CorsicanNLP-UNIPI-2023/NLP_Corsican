@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ci vole à salvà u lagu di Melu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ci-vole-a-salva-u-lagu-di-Melu_a1155.html"/>
+     <date>
+      Wed, 31 Aug 2011 09:57:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ci vole à salvà u lagu di Melu
+   </head>
+   <div type="excerpt">
+    <p>
+     Avete circatu di passà una ghjurnata à u lagu di Melu l'estate ? Ci sì conta di più mondu in espadrilles ch'è in Meindl.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A Ristonica hè unu di i più belli lochi di Corsica, è u lagu di Melu unu di i so giuielli. Faciule d'accessu (1 ora di marchja da u parking di E Gruttelle), a so frequentazione cummencia à pone parechji prublemi. L'estate si conta 2 000 persone à ghjornu (l'hà detta Martial Lacroix à Corse-Matin)... ùn saria micca appena troppu ? 
+Vechji cucchi, animali, turiste in bikini, pumataghji in tongs, criature chì pienghjenu... Certi collanu à u lagu di Melu cum'elli vanu à a Foir'fouille. 
+À chì ci và pè brunzà, à chì pè manghjà è beie, à chì pè bagnassi, à chì pè ghjucà à ballò... 
+Purtantu, l'ambiu hè dilicatu assai è ci vole à priservallu. U calpighjime di i visitori hà zuccatu chjassi prufondi in l'erba. È vistu ciò ch'ellu ci passa cum'è ghjente, erba in certi lochi ùn ci n'hè più. 
+Chì sò e cunsequenze di a frequentazione (degna di Disneyland) di tanta ghjente in un locu di muntagna ? À quandu una vera riflessione nant'à a frequentazione di i lochi turistichi in Corsica ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

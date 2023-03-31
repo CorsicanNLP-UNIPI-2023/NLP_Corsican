@@ -1,0 +1,71 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hè a bandera corsa a più grande di u mondu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/He-a-bandera-corsa-a-piu-grande-di-u-mondu_a2050.html"/>
+     <date>
+      Tue, 02 Dec 2014 11:38:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hè a bandera corsa a più grande di u mondu
+   </head>
+   <div type="excerpt">
+    <p>
+     Facenu sedeci anni chì in Conca hè festighjatu l'ottu dicembre. E in a muntagna appiccicheghjanu a bandera corsa a più grande di u mondu. Di chè fà scimisce à Estrosi è à Thiriez.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè tamanta, face 300 m², hè stinzata nant'à a Punta Calcina in Conca (si pò vede da a strada), hè schjarita di notte, è hè dunque a bandera corsa a più grande di u mondu. 
+Di chè dà u trimuleghju à Estrosi, Thiriez, è u publicu di l'Allianz Riviera di Nizza. 
+Hè l'associu A Punta di l'Ortu chì hà in qualchì modu inventatu st'operazione "una muntagna, una bandera". 
+Pè a festa di a nazione, duie bandere corse tamantone sò appiccicate in a muntagna : quella di a Punta Calcina dunque, è un'altra nant'à a Punta di l'Ortu, più chjuca (63 m² quantunque).
+    </p>
+    <p>
+     Si prepara l'altra bandera, più chjuca (63 m²), è a bandera storica cù i giganti marini è a curona :
+    </p>
+    <p>
+     Ma u prugramma di a festa di a nazione in Conca ùn si reduce micca à e bandere in a muntagna. Quist'annu e festività sò previste pè u sabbatu u 6 di dicembre. 
+Ci seranu canti è soni a sera, ma ancu una sfilata cù un "curteghju stòricu" cù I Naziunali ma ancu ghjente di parechji paesi (una quindecina !) è cunchesi. Omancu 150 persone in custumi appruntati à posta da i paisani sò aspettate ! 
+Eccu l'affissu :
+    </p>
+    <p>
+     St'articulu hè statu traduttu nant'à u situ Ampargu a lingua corsa.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

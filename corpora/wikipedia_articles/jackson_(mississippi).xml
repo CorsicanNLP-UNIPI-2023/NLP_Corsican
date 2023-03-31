@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Jackson (Mississippi)
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Jackson%20%28Mississippi%29"/>
+     <date>
+      2013-03-11T09:36:45Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Jackson (Mississippi)
+   </head>
+   <p>
+    Jackson hè una cità di i Stati Uniti d'America capitale di u Mississippi.
+   </p>
+   <p>
+    Tene una populazione di 184.256 abitanti (2000).
+   </p>
+   <p>
+    == Geografia ==
+   </p>
+   <p>
+    A zona uraria di Jackson hè sei ore à l'uvestu di u meridianu di Greenwich.
+   </p>
+  </body>
+ </text>
+</TEI>

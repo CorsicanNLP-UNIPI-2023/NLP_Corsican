@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Arecales
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Arecales"/>
+     <date>
+      2016-05-18T13:21:24Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Arecales
+   </head>
+   <p>
+    Arecales  hè un'ordine di piante chì cumprende un'unica famiglia: l'Arecaceae, cumunamente chjamate "palme".
+   </p>
+   <p>
+    Flora di Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

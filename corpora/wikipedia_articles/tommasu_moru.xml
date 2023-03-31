@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tommasu Moru
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Tommasu%20Moru"/>
+     <date>
+      2015-07-01T16:48:46Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tommasu Moru
+   </head>
+   <p>
+    Tommasu Moru hè un filosofu natu in Londra u 7 ferraghju di u 1478 è hè mortu u 6 di lugliu di u 1535.
+   </p>
+  </body>
+ </text>
+</TEI>

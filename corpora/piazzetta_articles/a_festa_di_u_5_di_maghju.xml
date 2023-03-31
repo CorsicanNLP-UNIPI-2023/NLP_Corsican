@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A festa di u 5 di maghju
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-festa-di-u-5-di-maghju_a1556.html"/>
+     <date>
+      Fri, 03 May 2013 16:29:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A festa di u 5 di maghju
+   </head>
+   <div type="excerpt">
+    <p>
+     Finite e prumesse ! Thiriez hè statu chjaru : « pas question de faire du 5 mai une journée sans football en France ». U PSG festighjerà forse u so tìtulu di campione un 5 di maghju.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     I vint'anni di a catastrofa di Furiani è a ricullata di u Sporting in L1 avianu messu in lume a necessità d'onorà a memoria di quelli chì avianu persu a vita u 5 di maghju 1992. 
+U successu di a petizione, u travagliu di u cullettivu di e vìttime, e dichjarazioni di certi presidenti, omi pulitichi, spurtivi, giurnalisti, ci facianu pensà chì forse, pudiamu ghjunghje à qualcosa. 
+Ma nò. È quandu Thiriez dice nò, hè nò : « Il n’est pas question de faire du 5 mai une journée sans football en France. Une journée sans football est une mauvaise réponse à un véritable drame. Cette position a été arrêtée au plus haut niveau de la Fédération, et nous n’en bougerons pas. » 
+U 5 maghju 2013 ci seranu dunque trè scontri di L1. U PSG riceve à Valenciennes. À quattru ghjurnate di a fine di a stagione, i Parigini seranu forse sacrati campioni di Francia. 
+À partesi da dumenica sera, ùn ci serà più chè pè u PSG, novu campione di Francia. I capizzoni di a LFP anderanu à felicità i dirigenti parigini à u Parcu di i Principi, sbarrazzatu di i so sgaiuffi di e tribune pupulare d'Auteuil è di Boulogne. E stars tratechje di u PSG feranu nece d'esse cuntenti. Tutti festighjeranu sta bella vittoria di u futbol novu, quellu di i soldi è di i petrodollari. E catene d'infurmazione ripeteranu à l'infinita chì infine u PSG hè campione. È noi... 
+È noi risenteremu qualcosa di stranu in a nostra gola. 
+E vìttime si chjamavanu Antoine Angelini, Guy Brunel, Marie-Pierre Campana nata Clement, André Casta, Alexandra Drillaud, Jean-Baptiste Dumas, Antoine Geronimi, Thierry Giampietri, Dominique Giannoni, Santa Grimaldi, Pierre-Jean Guidicelli, Cédric Lalliat, Lucien Marsicano, Christian Mattei, Michel Mortier, Marie-Laure Ottaviani nata Guerrieri, Patrick Rao, Michel Vivarelli. 
+Ùn ci scurderemu mai.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

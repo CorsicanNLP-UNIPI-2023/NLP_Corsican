@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cunniscite stu dettu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cunniscite-stu-dettu_a2592.html"/>
+     <date>
+      Tue, 23 May 2017 09:10:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cunniscite stu dettu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Ci hè un dettu chì face : "Ùn ti ne ride di u mo dolu, quandu u meiu serà vechju, u toiu serà novu"...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Trè anni fà aviamu parlatu di l'affare di a cascia à i culori di l'ACA in tribuna Petrignani, quandu u club aiaccinu si n'era falatu in lega 2. Da leghje quì : A cascia di u derby, novu affare Dreyfus nustrale 
+Ferma cum'è unu di st'episodii chì i Corsi cunnoscenu bè, è chì face nasce baruffe tremende nant'à e rete suciale è splusà u standard di u forum di RCFM (allora chì forse, ci sò affari più gravi ma chì facenu nasce menu riazzioni). 
+Bella sigura, i sustenidori bastiacci ùn anu inventatu sta magagna, chì si vede spessu in Italia. Per esempiu in u derby sicilianu, quandu i sustenidori di Palermu anu purtatu a cascia di Catania dop'à a so falata. O quella in Ghjenuva à i culori di a Sampdoria purtata da i nemichi di u Genoa. 
+Ma a vita hè fatta à scala, à chì colla, à chì fala. È oghje sò i sustenidori di l'ACA à piglià a so rivincita.
+    </p>
+    <p>
+     Rammintemu ch'elli ci seranu 6 derbys corsi quist'annu chì vene in lega 2 (almenu chì a DNCG ne decidi altrimenti è chì u Sporting si ne fali ancu di più in fondu). 
+Per avà ùn si sà cun chì dirigenti, staff è ghjucadori Bastia torna à parte. È mancu cun chì sustenidori, vistu chì parechji si steranu in casa quist'annu chì vene...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

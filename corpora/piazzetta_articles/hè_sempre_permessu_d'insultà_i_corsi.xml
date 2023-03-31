@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hè sempre permessu d'insultà i Corsi
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/He-sempre-permessu-d-insulta-i-Corsi_a1140.html"/>
+     <date>
+      Mon, 25 Jul 2011 12:22:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hè sempre permessu d'insultà i Corsi
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè longa a cumpagnia di i nostàlgichi di a Francia putenza culuniale. François Hauter hè giurnalistu à u Figaro, ma ùn hè micca razzistu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A radio Alta Frequenza riproduce nant'à u so situ l'articulu cumpetu di François Hauter intitulatu L'ile où le pardon n'existe pas. 
+Eccune u fiore : 
+De la Corse, je ne sais rien. Jamais été là-bas. J’ai un a priori péjoratif : la Corse est un drame de la centralisation. Tous les gens intelligents de l’île sont « montés » à Marseille, Paris, ou partis à l’étranger. Ceux qui n’en ont pas eu le courage ou les capacités intellectuelles de le faire sont restés sur place. 
+Davantage encore que sur le continent, les cafés sont bondés à n'importe quelle heure du jour et de la soirée: Tous les rendez-vous sont fixés en terrasse. Les gens vous épient, ils parlent bas, ils ont l'air sur la défensive. C'est vrai, ils ne sont que 300000 sur l'île. Et 55 000 dans cette plus grande ville du coin. Un nouveau, ça se remarque. 
+À Bastia, le premier fast-food vient d'ouvrir. Les Corses ont fait la queue trois mois durant pour découvrir les hamburgers. 
+Voici le village minuscule, fiché sur la pente raide de la montagne. Voici la maison où l'on m'attend pour diner. J'apporte des fleurs. On ne sait qu'en faire. On les dépose sur une chaise. « Ici, le salon, c'était l'étable, avant.», m'explique-t-on.  
+Les «fratelli», les nationalistes, paradent dans leurs battle-dress ridicules, au volant de leurs vieux 4 x 4. Ils incarnent cette violence d'un autre âge qui poisse la Corse et qui, parfois, comme à Corte, tourne à la sauvagerie. Leur tribu montagnarde s'est toujours battue contre les gens de l'extérieur. Les voilà désormais encerclés par l'autre Corse, celle des plaines et des villes. Ce n'est pas un mal. « Les Corses ont une lourde responsabilité dans le destin médiocre qui est le leur », concède le Dr Edmond Simeoni, dont la famille a été la cible de soixante-quatre attentats. Le vieux nationaliste ajoute, à une terrasse de café de Bastia: « La Corse a changé, elle va basculer. Les Corses ne le savent pas. Paris le sait. » Oui, Corte, avec son université corse médiocre, est un réduit, la réserve naturelle d'une espèce française primitive, en voie d'extinction. Je m'envole pour Paris: cap sur une autre tribu, aux rites bien singuliers elle aussi. Celle que les Français nomment « les élites ». 
+J'avais un a priori péjoratif avia dettu. 
+Ancu di grazia ch'ellu ci avia prevunutu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

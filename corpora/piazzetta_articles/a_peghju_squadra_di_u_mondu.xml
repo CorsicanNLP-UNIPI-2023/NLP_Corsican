@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A peghju squadra di u mondu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-peghju-squadra-di-u-mondu_a1432.html"/>
+     <date>
+      Tue, 30 Oct 2012 02:24:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A peghju squadra di u mondu
+   </head>
+   <div type="content">
+    <p>
+     http://www.slate.fr/lien/63519/pire-equipe-football-monde 
+http://roadto2014.footblog.fr/887475/Turks-et-Caicos-claques-et-non-repechage/
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

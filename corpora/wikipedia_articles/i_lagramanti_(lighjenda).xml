@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I Lagramanti (lighjenda)
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/I%20Lagramanti%20%28lighjenda%29"/>
+     <date>
+      2018-03-02T04:04:42Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I Lagramanti (lighjenda)
+   </head>
+   <p>
+    Durante e notte nibbiose, i lagramanti, spiriti di a nebbia, campanu accantu à corsi di fiumi.
+   </p>
+   <p>
+    I so lagni terrificanti attreanu i passanti versu acque tetre, induv'elli spariscenu per sempre.
+   </p>
+  </body>
+ </text>
+</TEI>

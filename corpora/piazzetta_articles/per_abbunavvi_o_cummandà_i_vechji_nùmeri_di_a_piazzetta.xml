@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Per abbunavvi o cummandà i vechji nùmeri di A Piazzetta
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Per-abbunavvi-o-cummanda-i-vechji-numeri-di-A-Piazzetta_a1191.html"/>
+     <date>
+      Thu, 25 Aug 2011 11:38:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       GIURNALE
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Per abbunavvi o cummandà i vechji nùmeri di A Piazzetta
+   </head>
+   <div type="excerpt">
+    <p>
+     Pudete abbunavvi à u giurnale A Piazzetta (chì sorte tutti i trè mesi) è cummandà l'anziani nùmeri in linea, paghendu cun Paypal (pagamentu securizatu).
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Sceglite 4 nùmeri (1 annu)€15,00 EUR Abbunamentu di sustegnu€40,00 EUR Cummandà l'anziani nùmeri€20,00 EUR
+    </p>
+    <p>
+     S'è vo ùn site pràticu cun internet è cun Paypal, pudete dinù abbunavvi mandendu un sceccu à l'ordine di l'Associu Lingua Scritta à st'indirizzu : 
+Associu Lingua Scritta  1, carrughju Canònicu Bartoli  20200 Bastia
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

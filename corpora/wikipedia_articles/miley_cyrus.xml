@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Miley Cyrus
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Miley%20Cyrus"/>
+     <date>
+      2016-08-14T04:22:51Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Miley Cyrus
+   </head>
+   <p>
+    Miley Ray Cyrus hè un'attrice è cantadora americana.
+   </p>
+   <p>
+    Attrice
+   </p>
+   <p>
+    Americana
+   </p>
+   <p>
+    Musicante
+   </p>
+  </body>
+ </text>
+</TEI>

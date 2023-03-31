@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     50% di u liturale ùn ci appartene più
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/50-di-u-liturale-un-ci-appartene-piu_a1027.html"/>
+     <date>
+      Thu, 10 Feb 2011 01:34:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    50% di u liturale ùn ci appartene più
+   </head>
+   <div type="excerpt">
+    <p>
+     L'infurmazione vene da u giurnale di U Levante : 50% di i prupietarii di bor'di mare ùn stanu micca in Corsica.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In u nùmeru di ghjennaghju d'Ambiente, u giurnale di l'associu di U Levante si n'ampara una bella : "50% des propriétaires du bord de mer ne résident pas en Corse". 
+L'inchiesta porta nant'à parechje cumune di Balagna è di u meziornu (Pianottuli, Sartè, Bunifaziu...). 
+In certi lochi (cum'è in Tizzà) ne semu à più di 80% di pruprietarii fresteri. 
+In causa, e residenze segundarie chì rapresentanu più di 60% di e case in sti lochi. 
+Bisognu d'aghjustà qualcosa ? 
+Per avà, stu fenòmenu ùn tocca ch'è u liturale. Ma sin'à quandu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

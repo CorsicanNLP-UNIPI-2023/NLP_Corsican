@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "Quatre ventes sur cinq se font aujourd'hui à des non-Corses"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quatre-ventes-sur-cinq-se-font-aujourd-hui-a-des-non-Corses_a1762.html"/>
+     <date>
+      Sun, 27 Apr 2014 23:50:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "Quatre ventes sur cinq se font aujourd'hui à des non-Corses"
+   </head>
+   <div type="excerpt">
+    <p>
+     ...È dunque quattru Corsi nant'à cinque vendenu à fresteri.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U votu di a CTC nant'à u statutu di residente hà u meritu di fà parlà di e quistioni di fundiariu è di demugrafia. 
+Le Parisien hà scrittu cusì chì : 
+"Environ 310 000 personnes, en majorité d'origine non corse, vivent dans l'île où s'installent chaque année 4 à 5 000 nouveaux venus." 
+Sò elli chì a dicenu. 
+È un blog di Le Monde di ripiglià st'infurmazione data da Alain Spadoni : 
+"Quatre ventes sur cinq se font aujourd'hui à des non-Corses". 
+Era in u 2010, à l'epica di "L'assises du foncier". N'aviamu parlatu tandu. 
+Ci sò d'altre statistiche è d'altri sciffri inchietanti. Ma per oghje pianteremu quì, ci n'hè abbastanza.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

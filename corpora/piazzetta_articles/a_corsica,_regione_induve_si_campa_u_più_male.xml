@@ -1,0 +1,74 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Corsica, regione induve si campa u più male
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-Corsica-regione-induve-si-campa-u-piu-male_a2471.html"/>
+     <date>
+      Tue, 27 Sep 2016 15:46:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A Corsica, regione induve si campa u più male
+   </head>
+   <div type="excerpt">
+    <p>
+     A sucetà di smubulamentu Movehub hà fattu un studiu per sapè in chì regione di Francia si stà u megliu. A Corsica hè l'ultima.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A Corsica hè dunque ufficialmente a regione di Francia induve si campa u menu bè. Ùn semu micca noi chì a dimu, hè un studiu di a sucetà Movehub. 
+Da scopre : Le bien-être dans les régions françaises 
+S'ampara chì a Corsica hè l'ultima pè l'impiegu : "la Corse serait la région la moins stable en termes d’emploi avec un taux de chômage de 10% et d’emploi de 31,3% seulement" 
+Hè l'ultima pè i rivenuti : "la Corse se glisse en bas du palmarès avec un revenu disponible de seulement 17 521€" 
+Hè l'ultima pè l'educazione, o piuttostu pè a quantità di ghjente diplumata : "Avec un taux de 74,4%, c’est la Corse qui se retrouve à nouveau en bas du classement" 
+Infine hè nanz'à l'ultima pè l'alloghju ("nombre de pièces en moyenne par personne"). L'ultima hè l'Ile de France.
+    </p>
+    <p>
+     In cunsulazione, s'ampara chì a Corsica hè prima pè u benestà. I Corsi anu rispostu ch'elli eranu felici à a dumanda « en termes de satisfaction de vie, où vous situeriez-vous sur une échelle de 0 à 10 ? » 
+Pè riassume : ùn ci hè micca travagliu, simu pagati male, i diplomi sò pochi, ci sò assai difficultà per truvà una casa, ma quì simu cuntenti. 
+Senza cuntà chì a Corsica riceve di più in più mondu :
+    </p>
+    <p>
+     316.257 habitants en Corse selon l'@InseeFr, plus forte croissance démographique de France métropolitaine http://t.co/HqOQw9Forr
+— France 3 Corse (@FTViaStella) 4 janvier 2015
+    </p>
+    <p>
+     Era Charles Aznavour chì cantava "la misère serait moins pénible au soleil".
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

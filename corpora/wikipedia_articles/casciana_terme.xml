@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Casciana Terme
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Casciana%20Terme"/>
+     <date>
+      2015-05-05T01:59:43Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Casciana Terme
+   </head>
+   <p>
+    Casciana Terme hè una cumuna taliana di a pruvincia di Pisa.
+   </p>
+   <p>
+    == Paisoli ==
+   </p>
+   <p>
+    Ceppato, Collemontanino, Parlascio, Sant'Ermo.
+   </p>
+   <p>
+    == Cumune in cunfina ==
+   </p>
+   <p>
+    Chianni, Lari, Lorenzana, Santa Luce, Terricciola.
+   </p>
+   <p>
+    Cumuna di a pruvincia di Pisa
+   </p>
+  </body>
+ </text>
+</TEI>

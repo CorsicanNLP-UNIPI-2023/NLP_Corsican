@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Torra genuvese d'occasione, 963.000 €
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Torra-genuvese-d-occasione-963-000_a1381.html"/>
+     <date>
+      Sun, 01 Jul 2012 23:44:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Torra genuvese d'occasione, 963.000 €
+   </head>
+   <div type="excerpt">
+    <p>
+     Cuntinuveghja a seria "diventa riccu, vendi a to terra". Oghje, a torra genuvese.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Nicolas Sarkozy hà fattu a so più grande cacciata di a campagna in u so meeting d'Aiacciu. Ci avia dettu chì : "ici, on n’est pas dans un paradis qui se vend, ici rien n’est à vendre, ici, on est dans un territoire de culture". 
+A sapete bè voi chì a Corsica hè diventata u paese induve tuttu si vende, sopr'à tuttu u patrimoniu stòricu. Dopu à u cunventu à 3 milioni, eccu a torra genuvese à 1 milione. 
+L'annunziu si trova nant'à internet. A torra genuvese si trova nant'à a cumuna di Casaglione. Tenitevi bè : 
+Vente Site remarquable, CASAGLIONE, une presqu'île de 50 hectares, ses 2 tours génoises et 1 bergerie.Prix : 963 000 € (frais d'agence inclus). 
+Vi dumandavate quantu pò custà un pezzu di a storia di a Corsica, avà a sapete. Durante 500 anni sta piccula torra averà resistitu à l'assalti barbareschi... ma micca à i soldi. 
+"Souvent conquise, jamais soumise", dicia quellu. Ah iè ? Veramente ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

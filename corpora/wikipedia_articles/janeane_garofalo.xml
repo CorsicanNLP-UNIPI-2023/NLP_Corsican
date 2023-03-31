@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Janeane Garofalo
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Janeane%20Garofalo"/>
+     <date>
+      2016-03-12T23:15:34Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Janeane Garofalo
+   </head>
+   <p>
+    Janeane Garofalo hè un'attrice canadiana.
+   </p>
+   <p>
+    Garofalo, Janeane
+   </p>
+  </body>
+ </text>
+</TEI>

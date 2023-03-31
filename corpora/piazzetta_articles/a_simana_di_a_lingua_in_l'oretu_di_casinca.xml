@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A simana di a lingua in L'Oretu di Casinca
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-simana-di-a-lingua-in-L-Oretu-di-Casinca_a1862.html"/>
+     <date>
+      Thu, 05 Jun 2014 00:47:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A simana di a lingua in L'Oretu di Casinca
+   </head>
+   <div type="content">
+    <p>
+     In Casinca dinù si prepara a Simana di a lingua. 
+I sculari di parechje scole (L'Oretu, U Borgu, Cervioni, Subissi, Tagliu Isulacciu...) s'anu da scuntrà per passà una stonda inseme : canti, ghjochi, balli è spartera. 
+Di più infurmazioni nant'à a pagina Facebook
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

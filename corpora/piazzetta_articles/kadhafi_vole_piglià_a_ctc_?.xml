@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Kadhafi vole piglià a CTC ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Kadhafi-vole-piglia-a-CTC_a1052.html"/>
+     <date>
+      Wed, 09 Mar 2011 00:25:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Kadhafi vole piglià a CTC ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Muammar Kadhafi ci cunnosce, l'hà detta à un giurnalistu di France 24. Interrugatu nant'à a pusizione di a Francia, hà rispostu chì ellu ùn s'occupava micca di l'affari di a Corsica.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Una prova suplementaria di i raporti speziali trà Kadhafi è a Corsica ? 
+Interrugatu da France 24, Muammar si n'hè pigliatu à a Francia : 
+"Veramente, face ride st'ingerenza in l'affari d'un paese. Hè cum'è s'è no ci occupavamu di l'affari di a Corsica o di a Sardegna..." 
+In tantu ch'è Corsu di a diaspora, ùn ci saria nunda di male. Anch'ellu hà u dirittu d'avè u so avisu. Imaginate appena cìò ch'ellu puderia esse : "Kadhafi hè contr'à u Padduc"... "Kadhafi ripiglia l'ADEC"... "Kadhafi pè l'avvicinamentu di i prigiuneri"... "Kadhafi è u Galsi"... "Kadhafi per u Sporting"... "Kadhafi vole pigliassi un box à l'Acapulco"... 
+Finalmente, hè peccatu chì u Guida di a Rivuluzione sia contr'à l'ingerenza, sariamu felici d'avè u so parè nant'à a situazione corsa. Chè o Muammar ? 
+U strattu di a videò:
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

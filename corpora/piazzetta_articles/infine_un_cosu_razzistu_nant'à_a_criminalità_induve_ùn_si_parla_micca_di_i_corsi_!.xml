@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Infine un cosu razzistu nant'à a criminalità induve ùn si parla micca di i Corsi !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Infine-un-cosu-razzistu-nant-a-a-criminalita-induve-un-si-parla-micca-di-i-Corsi-_a1724.html"/>
+     <date>
+      Wed, 23 Apr 2014 01:53:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Infine un cosu razzistu nant'à a criminalità induve ùn si parla micca di i Corsi !
+   </head>
+   <div type="excerpt">
+    <p>
+     Un'infugrafia esciuta in u cutitianu "Le Progrès" chjamata "délinquance : à chacun sa spécialité" pruvucheghja un scandalu : ùn si parla mancu di i Corsi.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè a pulèmica chì hà infiaratu Twitter oghje. 
+Un'infugrafia classa i malfattori segondu a so orìgine è e so spezialità : 
+l'Albanesi arrubanu, i Russii attaccanu i distributori di soldi, l'Arabi facenu a droga... i Roms elli, facenu appena di tuttu. 
+Un generu d'internaziunale di a "violence culturelle". 
+Ma u giurnale di Liò si spiega : "i[nous avons interrogé les services de police, de gendarmerie et des douanes qui [leur] ont donné les grandes tendances basées sur leurs observations et les arrestations]i". 
+In fatti, sò i pulizzeri chì anu datu l'infurmazioni. 
+Tuttu và bè dunque. U FN ellu, si campa. 
+Ma ciò chì hè ancu di più scandalosa, hè chì in sta classifica ùn ci hè mancu una traccia di Corsi. 
+Mancu un traccia di trafficanti di droga, di spezialisti di u braccasgiu, di u sbiancamentu di soldi, di ghjochi illegali, nunda ! 
+U mezu corsu ùn hè più ciò ch'ellu era... I Corsi averianu infine pigliatu a via di u prugressu è giratu u spinu à l'antica viulenza endèmica ? Ci sariamu infine sbarazzati di a nostra viulenza culturale ? 
+Ùn ci hè più un palmu di nettu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

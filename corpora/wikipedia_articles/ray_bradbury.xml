@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ray Bradbury
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Ray%20Bradbury"/>
+     <date>
+      2018-05-06T19:25:25Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ray Bradbury
+   </head>
+   <p>
+    Ray Bradbury, natu u 22 agostu 1920 à Waukegan (Illinois), hè unu scrivanu americanu di scienza fizzione.
+   </p>
+   <p>
+    Ray Bradbury hè mortu u 5 di ghjugnu 2012.
+   </p>
+   <p>
+    ==Opere principali==
+   </p>
+   <p>
+    Fahrenheit 451
+   </p>
+   <p>
+    Cronache marziane
+   </p>
+   <p>
+    Scrivanu
+   </p>
+  </body>
+ </text>
+</TEI>

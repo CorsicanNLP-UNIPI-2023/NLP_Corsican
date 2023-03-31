@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ùn si deve più ghjucà un 5 di maghju !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-si-deve-piu-ghjuca-un-5-di-maghju-_a1226.html"/>
+     <date>
+      Mon, 05 Dec 2011 18:15:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ùn si deve più ghjucà un 5 di maghju !
+   </head>
+   <div type="excerpt">
+    <p>
+     I dirigenti di u futbol francese l'avianu prumessa, ma sò bugiardi. In rispettu di i 18 morti è di i 2300 feriti di a catastrofa di u 1992, firmate a petizione !
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In Inghilterra ùn si ghjoca più i ghjorni di e catastrofe d'Hillsborough (15 d'aprile) è di u Heysel (29 di maghju). 
+In Francia di siguru, una ghjurnata di campiunatu hè prevista u 5 di maghju 2012. Purtantu, i dirigenti di l'epica avianu prumessu ch'ellu ùn ci saria più una sola partita prufessiunale organizata stu ghjornu. 
+Firmate a petizione nant'à stu situ : petitionfuriani.com
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

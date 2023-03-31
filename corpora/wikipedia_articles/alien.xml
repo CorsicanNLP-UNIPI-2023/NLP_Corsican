@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Alien
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Alien"/>
+     <date>
+      2015-07-02T18:04:25Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Alien
+   </head>
+   <p>
+    Alien hè un filmu d'horror-fintascienza di u realizatore Ridley Scott di l'annu 1979, cun Sigourney Weaver, Tom Skerritt, Veronica Cartwright, John Hurt, Harry Dean Stanton, Ian Holm è Yaphet Kotto.
+   </p>
+   <p>
+    Filmu di l'anni 1970
+   </p>
+   <p>
+    Filmu di fintascienza
+   </p>
+   <p>
+    Filmu americanu
+   </p>
+  </body>
+ </text>
+</TEI>

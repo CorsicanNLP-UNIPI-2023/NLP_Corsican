@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Forrest Gump
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Forrest%20Gump"/>
+     <date>
+      2015-07-01T18:31:07Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Forrest Gump
+   </head>
+   <p>
+    Forrest Gump hè un filmu drama americanu di u 1994, realizatu da Robert Zemeckis. U rollu principale hè statu ghjucatu da Tom Hanks. In rolli secundarii si ponu vede Robin Wright Penn (tandu torna Robin Wright), Gary Sinise, Mykelti Williamson è Sally Field. U filmu hà ricevutu sei Oscar.
+   </p>
+   <p>
+    Filmu di l'annu 1994
+   </p>
+   <p>
+    Drama (Filmu)
+   </p>
+   <p>
+    Filmu americanu
+   </p>
+  </body>
+ </text>
+</TEI>

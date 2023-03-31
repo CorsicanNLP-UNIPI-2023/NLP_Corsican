@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     5 maghju 92 : u messagiu di Jean-Louis Leca
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/5-maghju-92-u-messagiu-di-Jean-Louis-Leca_a1776.html"/>
+     <date>
+      Mon, 05 May 2014 14:36:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    5 maghju 92 : u messagiu di Jean-Louis Leca
+   </head>
+   <div type="content">
+    <p>
+     Eccu ciò ch'ellu hà scrittu Jean-Louis Leca, futbalore prufessiunale à u Sporting Club di Bastia, nant'à u so contu Twitter : 
+"In stu tristu anniversariu, noi astri, ghjucadori bastiacci, vulemu dì a nostra cumpassione à e famiglie di e vittime di u 5 maghju 92, è spartimu a so pena chì u so dulore hè dinù nostru.  Figlioli di sta terra è tocchi da u dolu di i nostri, vulemu dì, sta sera, à tutte l'istanze, un messagiu chjaru è sinceru per ricurdassi di sta strage è purtà u nostru sustegnu à e famiglie : mai più macci di ballò u 5 di maghju !"
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

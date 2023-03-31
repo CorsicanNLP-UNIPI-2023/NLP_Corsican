@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Eccu i "néo-fachos-corsicos"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Eccu-i-neo-fachos-corsicos_a2260.html"/>
+     <date>
+      Tue, 22 Sep 2015 07:29:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Eccu i "néo-fachos-corsicos"
+   </head>
+   <div type="excerpt">
+    <p>
+     U dissegnu di Dumenica Fumaroli.
+    </p>
+   </div>
+   <div type="content">
+   </div>
+  </body>
+ </text>
+</TEI>

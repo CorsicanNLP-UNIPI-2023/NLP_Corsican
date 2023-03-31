@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Stéphanie Grimaldi contr'à "u zystème"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Stephanie-Grimaldi-contr-a-u-zysteme_a1347.html"/>
+     <date>
+      Sat, 26 May 2012 11:54:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       LEGISLATIVE-2012
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Stéphanie Grimaldi contr'à "u zystème"
+   </head>
+   <div type="excerpt">
+    <p>
+     "Je suis la candidate antisystème", hà dettu Stéphanie Grimaldi. Eccu a prima cacciata di a campagna.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Avete da vede, avemu da ride durante a campagna di l'elezzione legislative. Stéphanie Grimaldi attacca è hà sceltu una strana manera di difende u so prugramma. A dice à u situ Corse Net Infos. 
+In generale, quandu qualchissia si dice "contr'à u sistemu" allora ch'ellu campa nentru, hè gattivu segnu. Nicolas Sarkozy ùn s'hè mancu vergugnatu di presentassi ellu dinù "contre le système" durante a campagna presidenziale. "Plus c'est gros, mieux ça passe" avia dettu Chirac. 
+Pè a candidata di l'UMP : « Je suis la candidate antisystème. Je dénonce le système et les pratiques archaïques électoralistes qui sont mises en place par mon adversaire, notamment le fait de se servir des collectivités comme d'outils politiques pour faire carrière ». 
+Bon in fatti "U Zystème" deve esse u cugnome di Paul Giacobbi, dopu à "Paul Emploi". 
+Ma quand'ellu si sà chì durante 25 anni a diritta hè stata à u pudere, chì Stéphanie Grimaldi hà pigliatu a seguita di u so babbu à a merria di A Porta, ch'ella hè stata à u capu d'un offiziu di a CTC, ci hè forse megliu cum'è candidatu "anti sistema"... 
+È perchè micca Marcel Francisci autonomistu, Corsica Libera diventati fanatichi di Napulione, è François Filoni (MDC, chevenementistu) sustene un indipendentistu ? 
+Ma forse ùn avemu capitu nunda hè vulia dì ch'ella hè contra à u gruppu Magic System.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

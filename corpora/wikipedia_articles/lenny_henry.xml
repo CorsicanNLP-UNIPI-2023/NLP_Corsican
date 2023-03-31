@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lenny Henry
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Lenny%20Henry"/>
+     <date>
+      2015-12-29T22:43:08Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lenny Henry
+   </head>
+   <p>
+    Lenworth George "Lenny" Henry hè un attore brittannicu.
+   </p>
+   <p>
+    Henry, Lenny
+   </p>
+  </body>
+ </text>
+</TEI>

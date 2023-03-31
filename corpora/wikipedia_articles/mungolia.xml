@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mungolia
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Mungolia"/>
+     <date>
+      2016-08-23T09:32:30Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Mungolia
+   </head>
+   <p>
+    A Mungolia (Монгол Улс) hè unu statu di l'Asia, grande 1.566.000 km², incù 3.081.677 abitanti (2016).
+   </p>
+   <p>
+    Asia
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     In Corsica ùn avemu micca petroliu, ma avemu u bettonu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/In-Corsica-un-avemu-micca-petroliu-ma-avemu-u-bettonu_a1545.html"/>
+     <date>
+      Wed, 17 Apr 2013 00:50:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    In Corsica ùn avemu micca petroliu, ma avemu u bettonu
+   </head>
+   <div type="excerpt">
+    <p>
+     Piana, Coti Chjavari, Figari... Hè u grande ritornu di a pressione di u bettonu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ciò chì face chì i turisti anu u laziu di scopre a Corsica, hè a nostra natura salvatica è u nostru liturale più o menu priservatu (o ciò chì ne ferma), unicu in u nostru scornu di Mediterraniu. 
+Ma quandu l'astutoni averanu arruvinatu u pocu chì ci ferma, a Corsica serà sempre attrattiva ? Quandu a Corsica s'assumiglierà à a Côte d'Azur, chì serà l'interessu di u stu paese ? 
+Oghje hè u situ di a Testa Vintilegna, cumuna di Figari, chì hè minacciatu. Ma e cumune di Piana è di Coti Chjavari facenu pressione per rende custruttibili terre chì eranu prutette. 
+A Testa Vintilegna hè u sìmbulu di a lotta contr'à a speculazione è a pressione immubiliaria in l'anni novanta. I prugetti chì ùn si sò pussuti fà vinti anni fà sò di ritornu. 
+Hè per quessa chì u Cullettivu pè u rispettu di a lege liturale è parechje organizazioni pulitiche chjamanu à una merendella dumenica 21 aprile à partesi da 10 ore nant'à a Testa Vintilegna. 
+Dopu, ùn ci vulerà micca à pienghje.
+    </p>
+    <p>
+     Spéculation en #corse 1990 Testa Ventilegne... par antofpcl
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

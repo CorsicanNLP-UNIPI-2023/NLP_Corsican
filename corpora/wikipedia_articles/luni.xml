@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Luni
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Luni"/>
+     <date>
+      2014-03-23T14:34:34Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Luni
+   </head>
+   <p>
+    U Luni hè u ghjornu di a sittimana chì veni dopu à a Dumenica è innanzi à u Marti.
+   </p>
+   <p>
+    == In Corsica ==
+   </p>
+   <p>
+    U luni hè mintuvatu calchì volta in i pruverbii è in i sprissioni corsi. Par asempiu:
+   </p>
+   <p>
+    Nè in vennari nè in luni ùn dà principiu à a to funi.
+   </p>
+   <p>
+    == Riferimenti ==
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    Ghjorni di a sittimana
+   </p>
+  </body>
+ </text>
+</TEI>

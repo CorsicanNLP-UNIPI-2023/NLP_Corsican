@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quandu a Sguizzera dicia di nò à e residenze segundarie
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quandu-a-Sguizzera-dicia-di-no-a-e-residenze-segundarie_a1752.html"/>
+     <date>
+      Sat, 26 Apr 2014 13:19:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quandu a Sguizzera dicia di nò à e residenze segundarie
+   </head>
+   <div type="content">
+    <p>
+     « Pour en finir avec les constructions envahissantes de résidences secondaires » era u tema di campagna à un referendum d'un ecologistu sguizzeru, Franz Weber. Da vede quì . L'ogettivu hè di limità à 20% per cummuna e case segundarie. N'aviamu parlatu tandu. 
+E ragioni : in Sguizzera à u principiu di l'anni 2000 c'era 12 % di residenze segundarie (in Corsica ne simu à 40%, è sin'à 70% in certe cumune). 
+L'argumenti :  1. Ci n'hè troppu è sò viote tuttu l'annu  2. Hè goffu : "Finissons-en avec ces lotissements sans âme de résidences secondaires qui dévorent et enlaidissent nos paysages !"  3. I turisti venenu per prufittà d'un paisaghju priservatu, arruvinallu saria perde sta clientela.  4. A speculazione face cullà i prezzi è l'abitanti ùn ponu più cumprà  5. Si perde cusì e terre agrìcule, cusì preziose 
+Di siguru "toute ressemblance avec des situations existantes... etc." 
+Era in u 2012. È u peghju è ch'ellu viaghja. Da leghje : La loi sur les résidences secondaires semble porter ses fruits
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

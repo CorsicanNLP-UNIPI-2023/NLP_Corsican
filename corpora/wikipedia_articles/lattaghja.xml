@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lattaghja
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Lattaghja"/>
+     <date>
+      2006-11-03T13:16:20Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lattaghja
+   </head>
+   <p>
+    a Lattaghja: una parsona chì vendi u latti
+   </p>
+   <p>
+    a Lattaghja: una petra platta annantu à certi casi antichi
+   </p>
+  </body>
+ </text>
+</TEI>

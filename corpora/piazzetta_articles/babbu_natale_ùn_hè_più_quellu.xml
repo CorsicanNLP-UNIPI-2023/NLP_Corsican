@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Babbu Natale ùn hè più quellu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Babbu-Natale-un-he-piu-quellu_a1653.html"/>
+     <date>
+      Mon, 16 Dec 2013 13:16:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Babbu Natale ùn hè più quellu
+   </head>
+   <div type="excerpt">
+    <p>
+     Nanzu, Babbu Natale facia i rigali. Oghje, rigala i cazzotti.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     È voi chì pensavate chì u spiritu di Natale era di ritornu... 
+U "SantaCon" (pè Santa Claus Convention) hè un ghjornu induve a ghjente si veste in Babbu Natale per fà i pazzi in i carrughji in America. Wikipedia ci dice chì : "ils recherchent la spontanéïté, la créativité et l'improvisation pour se donner du bon temps". 
+Ma certe volte, circheranu ancu i pattoni. Una baruffa tamanta di Babbi Natale hè schjattata in i carrughji di New-York. 
+A videò hè stata chjamata... "Santapocolypse NYC 2013"... 
+Nanzu, babbu Natale purtava i rigali.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

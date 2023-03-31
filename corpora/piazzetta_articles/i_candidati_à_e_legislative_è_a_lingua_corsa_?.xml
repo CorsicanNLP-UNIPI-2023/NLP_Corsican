@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I candidati à e legislative è a lingua corsa ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-candidati-a-e-legislative-e-a-lingua-corsa_a1356.html"/>
+     <date>
+      Mon, 04 Jun 2012 23:12:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       LEGISLATIVE-2012
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I candidati à e legislative è a lingua corsa ?
+   </head>
+   <div type="excerpt">
+    <p>
+     L'associu di l'insignanti di/in lingua corsa hà dumandatu à i candidati à e legislative a so pusizione nant'à a lingua corsa. Aspettemu e risposte !
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cù un cummunicatu di stampa è nant'à u so situ internet, l'AILCC (Associu di l'insignanti di/in lingua corsa) pone cinque dumande à i candidati à l'elezzione legislative : 
+1/ Site à favore di a coofizialità ? 
+2/ Site per l'appiicazione intera è sana di u prugettu purtatu da a CTC (foglia di rotta, pruposta di statutu per a cuufizialità, travagliu di a cummissione di e lege...) ? 
+3/ Ch'o sinnò, site per a generalizazione di e filiere bislingue in i stabilimenti sculari ? Tandu chì mezi cuntate di mette in motu da tuccà st’ogettivu ? 
+4/ Sè vo site elettu à l'Assemblea Naziunale, v'impignerete per un' azzione à prò di a lingua corsa, circhendu soprattuttu à fà mudificà -o ancu supprime- l'articulu 2 di a custituzione ? 
+5/ Site prontu à zifrà a Cartula di e Lingue minuritarie à u so gradu u più altu ? 
+Ci vole à sapè chì ancu si i prugressi sò stati fatti, u sistema attuale ùn cunvene micca. Nè pè l'insignamentu di a lingua corsa, nè pè l'insignamentu bislingu. Bisogna à andà più luntanu s'è no vulemu salvà a nostra lingua (immersione ? coofizialità ? obligazione di l'insignamentu ?). 
+Rispunderanu ? Metteremu e risposte quì.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

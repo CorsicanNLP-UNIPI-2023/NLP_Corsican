@@ -1,0 +1,87 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     James Joyce
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/James%20Joyce"/>
+     <date>
+      2018-12-18T17:54:48Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    James Joyce
+   </head>
+   <p>
+    Scrivanu, dramaturgu è pueta in lingua inglese.
+   </p>
+   <p>
+    James Augustine Aloysius Joyce hè natu à Dublinu u 2 di fevraghju di u 1882 è hè mortu à Zurigu u 13 di ghjennaghju di u 1941.
+   </p>
+   <p>
+    == Opere principale ==
+   </p>
+   <p>
+    === Prosa ===
+   </p>
+   <p>
+    1914: Dubliners
+   </p>
+   <p>
+    1916: A Portrait of the Artist as a Young Man
+   </p>
+   <p>
+    1922: Ulysses
+   </p>
+   <p>
+    1939: Finnegans Wake
+   </p>
+   <p>
+    1944: Stephen Hero
+   </p>
+   <p>
+    === Puesia ===
+   </p>
+   <p>
+    1907: Chamber Music
+   </p>
+   <p>
+    1914: Giacomo Joyce
+   </p>
+   <p>
+    1927: Pomes Penyeach
+   </p>
+   <p>
+    1936: Collected Poems
+   </p>
+   <p>
+    === Teatru ===
+   </p>
+   <p>
+    1918: Exiles
+   </p>
+   <p>
+    Scrivanu
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Brahmagupta
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Brahmagupta"/>
+     <date>
+      2015-07-03T10:07:52Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Brahmagupta
+   </head>
+   <p>
+    Brahmagupta (Hindi ब्रह्मगुप्त) (598 - 668) hè statu un matematicu è astrunomu indianu.
+   </p>
+   <p>
+    ==Biugrafia==
+   </p>
+   <p>
+    Brahmagupta gistiti l'ussirvatoriu astrunomicu d'Ujjain, è duranti a so pirmanenza scrissi dui opari di matematica è astrunumia: u Brahmasphuta Siddhānta in u 628, è u Khandakhadyaka in u 665.
+   </p>
+   <p>
+    U Brahmasphuta Siddhānta custituisci a fonti più antica cunnisciuta, eccittuatu u sistemu di numarazioni maya, à trattà u zeru com'è un numaru incù tutti i so effetti. Hè andatu dinò aldilà, quantunqua, enuncendu i reguli di l'aritmetica annantu à i numari negativi è nantu à u zeru ch'è sò piuttostu vicini à u modu di raghjunà  mudernu. A principali divirghjenza hè custituita da u tentativu di Brahmagupta di difiniscia a divisioni par zeru, chì hè inveci lasciata indefinita in a matematica muderna. Par asempiu, afferma ch'è 0/0 = 0, chì saria un ostaculu à a discussioni di i discuntinuità eliminabili in u calculu diffirinziali è inoltri, 1/0 = Infinitu.
+   </p>
+   <p>
+    Brahmagupta deti nutevuli cuntributi à l'algebra: in a so opara si trovani suluzioni generali à l'equazioni di sicondu gradu, cumprindendu dui radichi ancu in u casu ch'è una d'eddi sii nigativa. Deti parecchi cuntributi ancu à u sviluppu di l'analisi inditarminata. Fù u prima à dà una suluzioni generali à l'equazioni diufantea liniari ax + by =ci ', induva à, b,ci ' sò numari intrei. Parchì st'equazioni aghji suluzioni intrei ci voli ch'è u massimu cumunu divisori d'à è b dividi ancu c; Brahmagupta sapia ch'è s'è à è b sò primi frà eddi, tutti i suluzioni di l'equazioni sò dati da x = p + mb, y = q - ma, induva m hè un numaru intreiu arbitrariu. Sughjirì ancu l'equazioni diufantea di sicondu gradu x2 = 1 + py2, chì piglia u so nomu da John Pell (1611-1685), ma chì hè usata par a prima volta in u prublemu archimedeu di i boi.
+   </p>
+   <p>
+    L'equazioni attribuita à Pell fù risolta par parechji casi spiciali da un antru matematicu indianu d'ebbica pustiriori, Bhaskara (1114-1185). Riveni à Brahmagupta u pienu meritu d'avè furnitu tutti i suluzioni intrei di l'equazioni diufantea liniari, mentri Diofanto s'era limitatu à dà una suluzioni ditagliu d'un'equazioni inditarminata.
+   </p>
+   <p>
+    == Bibliugrafia ==
+   </p>
+   <p>
+    Carl B. Boyer, Storia di a Matematica, Oscar Mondadori, 1990.
+   </p>
+   <p>
+    H.T. Colebrooke, Algebra, with Arithmetic and Mensuration, from the Sanscrit of Brahmagupta and Bhaskara, 1817.
+   </p>
+   <p>
+    == Da veda dinò ==
+   </p>
+   <p>
+    formula di Brahmagupta
+   </p>
+   <p>
+    == Liami esterni ==
+   </p>
+   <p>
+    Biugrafia annantu à MacTutor
+   </p>
+   <p>
+    Astrunomi indiani
+   </p>
+   <p>
+    Matematichi indiani
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia in talianu.
+   </p>
+  </body>
+ </text>
+</TEI>

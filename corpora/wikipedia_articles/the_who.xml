@@ -1,0 +1,81 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     The Who
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/The%20Who"/>
+     <date>
+      2015-07-07T22:59:23Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    The Who
+   </head>
+   <p>
+    The Who sò un gruppu di musica rock britannicu, fundatu in Londra in u 1964.
+   </p>
+   <p>
+    I membri originali èranu: Pete Townshend (chitarrista è autore di a più grande parte di e canzone), Roger Daltrey (voce), John Entwistle (bassu elèttricu) è Keith Moon (batterìa).
+   </p>
+   <p>
+    == Album ==
+   </p>
+   <p>
+    1965: My Generation
+   </p>
+   <p>
+    1966: A Quick One
+   </p>
+   <p>
+    1967: The Who Sell Out
+   </p>
+   <p>
+    1969: Tommy
+   </p>
+   <p>
+    1971: Who's Next
+   </p>
+   <p>
+    1973: Quadrophenia
+   </p>
+   <p>
+    1975: The Who by Numbers
+   </p>
+   <p>
+    1978: Who are you
+   </p>
+   <p>
+    1981: Face Dances
+   </p>
+   <p>
+    1982: It’s Hard
+   </p>
+   <p>
+    2006: Endless Wire
+   </p>
+   <p>
+    Gruppu di rock
+   </p>
+  </body>
+ </text>
+</TEI>

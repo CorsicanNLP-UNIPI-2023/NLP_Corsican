@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ali Larter
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Ali%20Larter"/>
+     <date>
+      2017-03-04T12:17:11Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ali Larter
+   </head>
+   <p>
+    Ali Larter (28 Ferraghju 1976) hè un'attrice americana.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Listinu di l'attori americani
+   </p>
+   <p>
+    Larter, Ali
+   </p>
+   <p>
+    Americana
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È s'elli avianu ragiò di falà in carrughju ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-s-elli-avianu-ragio-di-fala-in-carrughju_a1667.html"/>
+     <date>
+      Thu, 16 Jan 2014 21:13:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È s'elli avianu ragiò di falà in carrughju ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Tuttu u mondu si ne ride d'elli. À quandu sarianu micca pulitizati, à quandu sarianu manipulati... I giovani sò falati in carrughju. È l'altri ch'aspettanu ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A magagna corre dapoi parechji ghjorni. Un liceanu averia dettu ch'ellu facia greva perchè "ils ont arrêté Miot". 
+Bon và bè, a magagna face ride è tuttu u mondu ci crede. Ma face una stonda ch'ella circuleghja nant'à u net (vede nant'à stu tweet quì sottu... di u 2012). 
+I liceani sò fallati in carrughju, è si sente di tuttu. Sti giovani sarianu manipulati, o micca pulitizati. O allora facenu greva per ùn travaglià micca. 
+I vechji i si ghjocanu à a risa... ma ciò ch'elli ùn dicenu micca, hè ch'elli anu fattu listessa quand'elli eranu più giovani... Eppo s'è vo truvate un cullegiante chì riesce à spiecavvi in detagliu l'affare di l'arrestatu Miot, signalatecila. Capisce qualcosa cusì cumplessu à l'età di 12 anni, hè c'ellu ci vole à numinalu subbitu per un premiu Nobel. 
+Povera giuventù, chì hà capitu chì qualcosa ùn andava in stu paese è chì si mubilizeghja per u so avvene. I so vechji ùn li pardonanu nunda è i si piglianu à a risa. 
+U Statu purtantu ci hà messu un bellu pattone : innò à a cuufficialità (vutata purtantu da l'eletti di a Corsica), innò à una piazza pè a Corsica in a custituzione, innò à l'arrestatu Miot, innò à un statutu di residente. 
+Allora ch'aspettanu per falà in carrughju ?
+    </p>
+    <p>
+     L'heure est aux jeux de mots...
+“@femuacorsica: Exclusif : Ils ont arrêté Miot. http://t.co/NHm1cvyV via @sharethis”
+— Damien Mattei (@aurisacrafames) 30 Décembre 2012
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

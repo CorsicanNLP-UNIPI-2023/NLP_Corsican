@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I morti fora
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-morti-fora_a1239.html"/>
+     <date>
+      Wed, 04 Jan 2012 02:39:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I morti fora
+   </head>
+   <div type="excerpt">
+    <p>
+     A frenesia immubiliare è bettunizatrice ùn tocca micca solu u liturale. Stu ritrattu hè statu pigliatu in Corti è si passa di cummenti.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ancu di grazia chì in Corsica, avemu u rispettu di i morti, di e tradizioni è di l'antichi...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

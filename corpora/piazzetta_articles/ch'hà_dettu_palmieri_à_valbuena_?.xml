@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ch'hà dettu Palmieri à Valbuena ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ch-ha-dettu-Palmieri-a-Valbuena_a1557.html"/>
+     <date>
+      Sat, 04 May 2013 20:47:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ch'hà dettu Palmieri à Valbuena ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Julian Palmieri è Mathieu Valbuena si sò appena intuppati in a partita trà Marseglia è Bastia. Ma i microfoni di Canal + ùn ci anu micca permessu di senti ciò ch'elli dicianu. D'appressu à voi ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Pruposta 1 : "A t'avia detta mammone ch'ellu ci vulia à manghjà a suppa pè ingrandà !" 
+Pruposta 2 : "A prussima volta ch'o ti vecu, ti mettu un sciambulone. Ai capitu ?" 
+Pruposta 3 : "Sè tù cuntinuveghji cusì, ti lascemu solu solu cù Ménès è Cappone." 
+Pruposta 4 : "Ascoltami bè o faccia à peuneu..." 
+Pruposta 5 : "O Mattè, a cunnosci quessa ? Monsieur è madame Trelle anu una figliola..." 
+Pruposta 6 : "T'aghju digià dettu ch'ellu ùn si dice micca broutch !" 
+Pruposta 7 : "S'o ti vecu torna in traccia di fà un harlem shake ti techju di colpi." 
+Pruposta 8 : "Et là fratè, j'arrive à l'Acapulco et je dis au type : "coco, va me chercher des glaçons ou je mets le feu à ta boîte...'' 
+Pruposta 9 : "Micca bracce, micca cicculata." 
+Pruposta 10 : "Nò, sta sera sì punitu; Ùn fidighjerai micca The Voice !" 
+Pruposta 11 : "Ti vogliu fà una canzunetta, pè fà u giru di u pianeta..." 
+Fate e vostre pruposte !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

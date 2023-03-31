@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sorso
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Sorso"/>
+     <date>
+      2019-07-11T17:44:20Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sorso
+   </head>
+   <p>
+    Sossu (in sassaresu - talianu Sorso) hè una cumuna taliana di 14.860 abitanti in a pruvincia di Sassari.
+   </p>
+   <p>
+    == Cumuni in cunfina ==
+   </p>
+   <p>
+    Poltu Torra, Sennori, Sassari, Casteddu Saldu.
+   </p>
+   <p>
+    Cumuna di Sardegna
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Terry Crews
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Terry%20Crews"/>
+     <date>
+      2016-09-22T15:39:03Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Terry Crews
+   </head>
+   <p>
+    Terrence Alan "Terry" Crews (Michigan, 30 lugliu 1968) hè un attore americanu.
+   </p>
+   <p>
+    Crews, Terry
+   </p>
+  </body>
+ </text>
+</TEI>

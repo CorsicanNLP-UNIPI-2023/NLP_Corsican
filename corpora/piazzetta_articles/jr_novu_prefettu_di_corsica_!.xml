@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     JR novu prefettu di Corsica !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/JR-novu-prefettu-di-Corsica-_a1055.html"/>
+     <date>
+      Sat, 12 Mar 2011 11:53:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    JR novu prefettu di Corsica !
+   </head>
+   <div type="excerpt">
+    <p>
+     L'anzianu prefettu Bouillon hè statu prumossu à u ministeriu di l'internu ; hè rimpiazzatu da JR Ewing.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Vene di sorte u 107esimu prefettu di Corsica, si chjama Patrick Strzoda. 
+A bona nutizia hè ch'ellu era prefettu di e Hauts de Seine, u feudu di Nicolas Sarkozy è di Charles Pasqua. Hè dunque un "Sarkoboy" (spressione di stu catinu di Boris Boillon chì vene in Corsica. Pudemu esse siguri ch'ellu ùn ghjunghje micca in terra scunnisciuta. 
+Eccu dunque un cumpagnu novu pè u novu capimachja di RCFM, Hervé de Haro. 
+S'ellu fiasca, Strzoda puderà almenu cummincià una carriera di susia officiale di JR Ewing...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

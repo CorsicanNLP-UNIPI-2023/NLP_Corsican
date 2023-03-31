@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bayrou hè cullatu à strappà i voti in a casa di Pasquale Paoli
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Bayrou-he-cullatu-a-strappa-i-voti-in-a-casa-di-Pasquale-Paoli_a1311.html"/>
+     <date>
+      Sun, 01 Apr 2012 18:22:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       PRESIDENZIALI-2012
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bayrou hè cullatu à strappà i voti in a casa di Pasquale Paoli
+   </head>
+   <div type="excerpt">
+    <p>
+     François Bayrou face u giru di e case pè strappà i voti. U corciu, nimu l'avia prevenutu ch'ellu ùn ci stà più nimu in quella di Pasquale Paoli...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U candidatu di u Modem era dunque in Corsica sta dumenicata. Ellu ùn hà micca cantatu u Diu vi salvi Regina. Ma dopu à un pastizzu nant'à u vechju portu di Bastia, hè cullatu in Merusaglia à visità a casa di Pasquale Paoli. U corciu, era cullatu à strappà i voti ma nimu l'avia dettu ch'ellu ùn ci hè più nimu. 
+S'hè dunque firmatu un mumentinu davant'à a tomba di u Babbu di a pàtria. Serà statu centristu Pasquale Paoli ? 
+Trà Marine Le Pen è l'UMP chì cantanu u Diu vi salvi è Corsica Libera chì canta L'Ajaccienne, l'averemu viste tutte in sta campagna. Si pò teme u peghju per a vìsita di Sarkozy a settimana chì vene. 
+Ma fidighjemu ciò ch'ellu dice Bayrou pè a Corsica : 
+Lingua : Cum'è Hollande è Joly, dice ch'ellu firmerà a càrtula di e lingue regiunali :  Ceux qui pensent que la diversité est une atteinte à l'unité nationale ont tout faux. Oui, j'aime les langues régionales et j'ai annoncé que je signerai la Charte européenne des langues régionales ou minoritaires. 
+Statutu di residente : micca  Je suis plus prudent sur le sujet. 
+Evuluzione ? Perchè micca  Je suis favorable à l'autonomie de la Corse dans le consensus et pas dans le but de créer des tensions. Je crois que cette évolution constitutionnelle se fera un jour de façon très naturelle. 
+In fine di contu, dice pocu affare differente d'Hollande. Ellu chì parla a lingua bearnese è chì hè statu sempre à favore di dà più pudere à e regioni hà ancu avutu a visita d' Edmond Simeoni è di Jean-Christophe Angelini in Aiacciu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

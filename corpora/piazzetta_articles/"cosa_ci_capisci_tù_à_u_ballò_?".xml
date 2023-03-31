@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "Cosa ci capisci tù à u ballò ?"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cosa-ci-capisci-tu-a-u-ballo_a1487.html"/>
+     <date>
+      Wed, 23 Jan 2013 16:44:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       TRIBUNA-DI-I-LETTORI-AZEZI
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "Cosa ci capisci tù à u ballò ?"
+   </head>
+   <div type="excerpt">
+    <p>
+     Certe volte, A Piazzetta publicheghja ancu una "tribuna libera di e lettrice". Casca bè, elle dinù sò azeze !
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cusi m'ha dettu u me maritu dopu a partita contra Rennes. Cusi hè nata a baruffa in casa.    "Dimmi o merdosu, ùn eri ancu natu ch´eru dighjà in Furiani ! Sò nata in lu 78 eiu ! E pò, ùn aghju aspittatu à tè pà sustene u Sporting o u Gaz ! Aghju ancu sustenutu a JSA ! Iè, quella JSA di Khazri ; l'aghju vistu nasce eiu à Whabi ! 
+Hè vera, ùn possu micca passà i me ghjurnati à leghje l'Equipe, à fighjulà u Canal Football Club o annantu à Camperemu parchi, eiu, tempu ùn ne aghju !  Ma sai, anch´eiu possu imparà à l'ammente tutti i sciffri, tutti i statistichi. Anch´eiu possu parlà di una partita di u 1983. Anch´eiu possu parlà ore sani di un macciacciu cù i me amichi. E allora ? Farà di mè un spezialistu di u ballò ? Innò di sicuru... 
+Sapia chi, pà mè, ci sò livelli sfarenti di spezialisti. Mentre chì tù parli di u Sporting dicendu "noi", mentre chì tù vai in Furiani, mughji, leghji, analiseghji i prupositi di Hantz, sai tuttu di u "mercato", eiu tengu i zitelli, ùn dicu nunda quandu ci vole à pagà l'abbunamentu, ùn dicu nunda quandu quellu abbunamentu ùn serve è chì "noi" andemu à ghjucà in Gueugnon o à "huis clos"... Ti rigalu un "maillot porté" pà Natale, vocu a sera in Décathlon à cumprati un calzone contra u fretu chi face in "Sainté"... 
+Allora stà mi à sente, è quessa vale pà tutti i to amichi di Camperemu chì criticheghjanu i donni : esisteria Cahu senza a so mamma ? Hè solu u figliulinu di Pierre Cahuzac ? Nò, hè soprattuttu u figliolu di a so mamma ! Vale à dì, di una donna ! 
+Forse, à u ballò ùn ci capiscu nunda, ma mi pare chi facciu un sforzu tamantu pà capisce l'impurtante pà tè, ùn hè vera ? 
+Avà, và ti ni in "Sainté", mi farà appena di vacanzi ! Ancu assai ch´ellu ci hè stu ballò..." 
+Chì hè u ballò pà voi ? U piacè è a tranquilità quandu u vostru maritu parte ? Un remake di " Kramer contre Kramer ?" 
+Toute ressemblance avec des personnes ou des faits existant ou ayant existé n'est que pure coïncidence.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

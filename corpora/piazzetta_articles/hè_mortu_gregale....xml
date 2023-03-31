@@ -1,0 +1,78 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hè mortu Gregale...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/He-mortu-Gregale_a2114.html"/>
+     <date>
+      Thu, 08 Jan 2015 01:51:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hè mortu Gregale...
+   </head>
+   <div type="excerpt">
+    <p>
+     Si n'hè andatu Prete Filippi, dettu Gregale. Arradicatu à u so paese, hè statu resistente, scrittore, pueta...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Prete Paulu Filippi, di u paese di Tòcchisu, dettu Gregale, avia fattu a scelta d'entre in religione. Ma era un prete attìpicu, cumu a Corsica i sà fà. 
+Natu in u 1921, hè statu resistente. Arrestatu da a Gestapo, hè statu dipurtatu durante trè anni in Alemagna. 
+Attaccatu à a so cultura, era prete in Sermanu in l'anni 50. Custì, cun Ghjacumu Luciani hà fundatu u gruppu A Mannella, in u 1958. Tramindui si piglianu di passione per una cultura chì pare ùn interessà più à nimu. Arregistreghjanu l'antichi chì cantanu e paghjelle, chì sonanu di viulinu. 
+A Mannella hè stata u primu gruppu à cantà una paghjella nant'à una scena. Ghjacumu Luciani cuntava sempre chì l'accogliu era statu fretu... Stu gruppu ghjucherà un rollu impurtante di trasmissione trà a generazione chì hà cunnisciutu a Corsica "tradiziunale" è quella di u settanta. 
+Gregale hà scrittu parechje puesie, è scrittu pè a rivista U Muntese. 
+Quale ùn cunnosce a canzona "U Pastore", immurtalizata da Carlu Rocchi ?
+    </p>
+    <p>
+     Ma li piacia dinù à cantà, cum'ellu si pò vede nant'à stu filmettu :
+    </p>
+    <p>
+     GREGALE par rinarota
+    </p>
+    <p>
+     È esciutu un discu :
+    </p>
+    <p>
+     Da stà à sente nant'à Deezer.
+    </p>
+    <p>
+     Per sapene di più : 
+- nant'à Isula Foru  - nant'à Corti d'eri  - nant'à Estricuntrasti
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

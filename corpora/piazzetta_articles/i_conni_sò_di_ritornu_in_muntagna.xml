@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I conni sò di ritornu in muntagna
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-conni-so-di-ritornu-in-muntagna_a2154.html"/>
+     <date>
+      Mon, 16 Feb 2015 00:44:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I conni sò di ritornu in muntagna
+   </head>
+   <div type="excerpt">
+    <p>
+     A statua di San Petru in cima di u San Petrone era stata arrubata trè anni fà. Sta volta, hè arruvinata.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Vi n'arricurdate ? Trè anni fà a piccula statua di San Petru, in cima di u monte San Petrone era stata arrubata da qualchì vàndalu. 
+Un'altra hè stata messa à a piazza. 
+Ma eccu chì i conni anu fattu u so ritornu in cima. Avemu amparatu dumenica nant'à e rete suciale chì a statua hè stata vandalizata :
+    </p>
+    <p>
+     A statula di u San Petrone hè stata sfigurata à petrate...
+@Corse_Matin @FTViaStella @FranceBleuRCFM pic.twitter.com/cQTE09KxBT
+— Alex Negroni (@AlexNegroni) 15 Février 2015
+    </p>
+    <p>
+     L'aria pura ùn guerisce micca di u sumerisimu, s'ellu c'era un dubbitu avà a sapemu. 
+I conni anu dunque decisu di piglià d'assaltu ancu a muntagna. Ci lasceranu omancu un locu tranquilli ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

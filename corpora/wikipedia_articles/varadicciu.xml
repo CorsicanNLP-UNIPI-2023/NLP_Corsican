@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Varadicciu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Varadicciu"/>
+     <date>
+      2014-03-23T15:10:13Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Varadicciu
+   </head>
+   <p>
+    Varadicciu (in Francesu Gualdariccio) hè un paisolu di a cumuna di San Gavinu di Carbini, in Alta Rocca, chi com'è tutti i paisoli di muntagna si ni mori à picculu focu.
+   </p>
+   <p>
+    Giugrafia
+   </p>
+   <p>
+    Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

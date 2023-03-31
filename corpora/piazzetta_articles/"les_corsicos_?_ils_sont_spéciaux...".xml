@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "Les Corsicos ? Ils sont spéciaux..."
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Les-Corsicos-Ils-sont-speciaux_a2135.html"/>
+     <date>
+      Tue, 20 Jan 2015 15:29:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "Les Corsicos ? Ils sont spéciaux..."
+   </head>
+   <div type="excerpt">
+    <p>
+     Le Monde hà publicatu oghje nant'à u so situ l'ascolte telefoniche in l'affare di e prove di i dirigenti di u club du ballò di Nîmes pè arangià e partite di L2, annu passatu. Ben intesu, si parla di noi.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     " Matchs truqués présumés : ce que révèlent les écoutes ", hè cusì ch'ellu s'intituleghja l'articulu di Le Monde. I dirigenti messi in causa sò quelli di Nîmes è micca tantu aggalabati. 
+À u telefunu parlanu, contanu tuttu, è ùn parenu mancu siguri di u so colpu. U giurnalistu parla di "l'amateurisme des petites combines employées pour tenter de maintenir le club". 
+Tandu, u CAB hè in Lega 2. I dirigenti avianu tenutu una cunferenza di stampa per disculpassi. 
+Da leghje : Corruption en Ligue 2 : "Le CAB dément formellement" 
+Ma si parla quantunque di i Corsi, chì i dirigenti di Nîmes Jean-Marc Conrad è Serge Kasparian anu circatu d'arrangià a partita contr'à u club bastiacciu. Eccu u strattu : 
+Serge Kasparian : « Ouais, avec les Corsicos c’est… »  Franck Toutoundjian : « Ouais, c’est pas des cadeaux.  – Non, ils sont spéciaux.  – Ils sont spéciaux, je sais.  – On les connaît par cœur. » 
+Chì hà vulsutu dì ? Ùn si sà. 
+U presidente di Nîmes hà pruvatu, ma conta : 
+« C’est compliqué… On a bien discuté, mais ils ont eu des problèmes avec la brigade des jeux… » 
+E duie squadre feranu 1 à 1. A seguita : Matchs truqués présumés : ce que révèlent les écoutes 
+Alè, s'ellu manca d'idee, Ruquier ci ferà ride sabbatu sera.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Topeka
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Topeka"/>
+     <date>
+      2014-03-23T15:04:28Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Topeka
+   </head>
+   <p>
+    Topeka hè una cità di i Stati Uniti, capitale di Kansas. Tene 127.473  abitanti (2010).
+   </p>
+   <p>
+    Stati Uniti d'America
+   </p>
+  </body>
+ </text>
+</TEI>

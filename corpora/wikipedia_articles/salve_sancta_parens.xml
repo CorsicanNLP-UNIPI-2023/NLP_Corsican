@@ -1,0 +1,78 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Salve sancta parens
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Salve%20sancta%20parens"/>
+     <date>
+      2015-07-01T23:53:57Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Salve sancta parens
+   </head>
+   <p>
+    ==Salve sancta parens==
+   </p>
+   <p>
+    Salve sancta parens
+   </p>
+   <p>
+    Enixa puerpera Regem
+   </p>
+   <p>
+    Qui caelum terramque regit
+   </p>
+   <p>
+    In saecula saeculorum
+   </p>
+   <p>
+    Eructavit cor meum
+   </p>
+   <p>
+    Verbum bonum
+   </p>
+   <p>
+    Dico ego opera mea Regi
+   </p>
+   <p>
+    Gloria patri et filio
+   </p>
+   <p>
+    Et spiritui sancto
+   </p>
+   <p>
+    Sicut erat in principio
+   </p>
+   <p>
+    Et nunc et semper
+   </p>
+   <p>
+    Et in saecula saeculorum
+   </p>
+   <p>
+    Amen
+   </p>
+  </body>
+ </text>
+</TEI>

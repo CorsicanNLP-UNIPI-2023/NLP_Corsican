@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Abbadia San Salvatore
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Abbadia%20San%20Salvatore"/>
+     <date>
+      2015-07-09T15:24:06Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Abbadia San Salvatore
+   </head>
+   <p>
+    Abbadia San Salvatore hè una cumuna tuscana di a pruvincia di Siena. Teni 6.816 abitanti.
+   </p>
+   <p>
+    Cumuna di Toscana
+   </p>
+  </body>
+ </text>
+</TEI>

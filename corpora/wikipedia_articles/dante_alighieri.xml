@@ -1,0 +1,81 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Dante Alighieri
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Dante%20Alighieri"/>
+     <date>
+      2018-05-06T19:12:59Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Dante Alighieri
+   </head>
+   <p>
+    Scrittore è poeta in lingua italiana.
+   </p>
+   <p>
+    Dante Alighieri hè natu à Firenze u 22 di maghju di u 1265 è hè mortu à Ravenna u 14 di settembre di u 1321.
+   </p>
+   <p>
+    == Opere principali ==
+   </p>
+   <p>
+    Dante hè autore di un puema longu, 56 compunimenti in versi, un libru in prosa è puesia, 3 assaghji.
+   </p>
+   <p>
+    === Puesia ===
+   </p>
+   <p>
+    Divina Commedia (1304-1321)
+   </p>
+   <p>
+    Rime
+   </p>
+   <p>
+    Vita nuova (1292-1294)
+   </p>
+   <p>
+    Egloghe
+   </p>
+   <p>
+    === Assaghji ===
+   </p>
+   <p>
+    De vulgari eloquentiae (1303-1305)
+   </p>
+   <p>
+    Convivio (1304-1307)
+   </p>
+   <p>
+    De Monarchia (1312-1313)
+   </p>
+   <p>
+    Quaestio de aqua et terra
+   </p>
+   <p>
+    Alighieri, Dante
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U preistoricu di Sollacaro
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-preistoricu-di-Sollacaro_a1169.html"/>
+     <date>
+      Fri, 16 Sep 2011 11:16:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U preistoricu di Sollacaro
+   </head>
+   <div type="excerpt">
+    <p>
+     Scuperta maiò in l'archeulugia corsa : Sollacaro hè dunque bè un omu di a preistoria.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A sapiamu ch'ellu c'era un prublema cun Sollacaro. Avà avemu capitu perchè : l'omi i più vechji di Corsica sò stati scuperti, Corse-Matin a ci spieca. 
+Serà tristu Jean-Charles Orsucci, u merre di Bunifaziu. L'umanu u più anticu di Corsica ùn hè più a nostra vechjetta, a Donna di Bunifaziu ma i sette pistunati di Suddacarò. 
+Iè, u nome corsu ùn hè micca Sollacaro ma Suddacarò. 
+Hè nant'à sta cumuna di Corsica Suttana ch'elli stavanu stracquati i sette tippi. 
+Anu finitu per avè a pelle di a nostra puveretta vechjatella bunifazinca, a tinta... Sette pistunati chì li passanu davanti d'un colpu, face male. 
+Hè a dura realità di a Corsica...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

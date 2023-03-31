@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Era a serata di A Piazzetta, Compru in corsu è Praticalingua
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Era-a-serata-di-A-Piazzetta-Compru-in-corsu-e-Praticalingua_a2450.html"/>
+     <date>
+      Mon, 18 Jul 2016 16:37:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       GIURNALE
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Era a serata di A Piazzetta, Compru in corsu è Praticalingua
+   </head>
+   <div type="excerpt">
+    <p>
+     E trè strutture si sò assuciate per pruponevi una serata. Era in Patrimoniu, u 9 di lugliu scorsu. Hè l'occasione per noi di ringrazià tutti quelli chì sò venuti à passà un mumentu è chì ci anu aiutatu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Praticalingua hà da prupone corsi di corsu è attività in immersione à partesi da a rientrata prussima in Bastia. 
+Compru in corsu hè u primu annuariu di cummerci, artigiani è prufessione liberale cursòfuni. 
+A Piazzetta, a cunniscite. 
+U tempu d'una serata, vi vuliamu tutt'è trè vi vuliamu prupone una seratuccia per ritruvacci intornu à un bichjeru è appena di musica. 
+Tanti ringrazi à tutti quelli chì sò venuti. Site voi chì ci date curagiu è fiatu. 
+Tanti ringrazi à tutti quelli chì anu cantatu è sunatu è chì anu fattu di sta serata una riescita (saria troppu longa di citalli tutti...) 
+Ringraziemu torna quelli chì ci anu aiutatu : a municipalità di Patrimoniu, a brasseria Pietra, l'acque di Zilia, Hély, l'associu culturale è spurtivu di Patrimoniu, Notte Nere, Les Nuits de la guitare, U Bartavin.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Legislative : Retour vers le futur
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Legislative-Retour-vers-le-futur_a1370.html"/>
+     <date>
+      Fri, 15 Jun 2012 10:02:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       LEGISLATIVE-2012
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Legislative : Retour vers le futur
+   </head>
+   <div type="excerpt">
+    <p>
+     St'ultime settimane
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ciò chì ci vole à ritene di u primu giru
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cio-chi-ci-vole-a-ritene-di-u-primu-giru_a1365.html"/>
+     <date>
+      Sun, 10 Jun 2012 23:49:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       LEGISLATIVE-2012
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ciò chì ci vole à ritene di u primu giru
+   </head>
+   <div type="excerpt">
+    <p>
+     Frédéric Hantz si porta bè, un candidatu hà fatu 0,01%, quelli chì ridenu è quelli chì anu pigliatu una vesta, tuttu ciò ch'ellu ci vole à sapè nant'à stu primu giru cù i nostri ritratti.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Una diritta in testa ma chì piglia a falata :   In Aiacciu avia fattu 45% in u 2007, Laurent Marcangeli face 30% Sauveur Gandolfi-Scheit avia fattu 44,% in u 2007, face 32% Camille de Rocca Serra hè statu elettu cun 51% di i voti in u 2007, perde guasi 20 punti è face 33% Stéphanie Grimaldi perde 16 punti in 5 anni. A so campagna contr'à "le système" ùn hà micca viaghjatu. Face 84% in a so cumuna di A Porta d'Ampugnani. I picculi 16% chì ùn anu micca vutatu per ella non più ùn sò micca in u "système".  L'altre falate :  U clanu Zuccarelli : Emile avia fattu 33,5% cinque anni fà, Jean-Jean face 10 punti di menu, malgradu a vittoria di a manca à a presidenziale In Bastia solu 600 voti di differenza trà Zuccarelli è Simeoni Corsica Libera, in tutte e circuscrizzioni, u FN li passa in davanti. Iè, Tony Cardi davant'à CL...  Quelli chì anu manghjatu e frittelle :  Simon Renucci chì tuttu u mondu vede perde à ogni elezzione è chì hè sempre quì Paul Giacobbi. Ùn hà più nemichi in a so circuscrizzione è s'annoia. Allora a si caccia contr'à l'IFOP, vistu chì à l'UMP ùn ci hè più nimu... Gilles Simeoni è Jean-Christophe Angelini, pè a prima volta ci serà dui candidati naziunalisti à u segondu giru d'una legislativa U FN. Tony Cardi è i so amichi facenu in giru à 10%. Iè, Tony Cardi... Quellu chì prupone "la priorité d'emploi aux Français et la priorité d'emploi aux logements" 
+Frédéric Hantz 2012  Frédéric Hantz face torna una bella elezzione. 67 voti in A Vulpaiola, ghjunghje segondu daretu à Paul Giacobbi. 
+U misteriu  Pierre-Noël Tucci, candidatu Génération Ecologie-PRG hà riesciutu à fà 4 voti, sia 0,01% in a prima circuscrizzione di Corsica Suttana. Un prublema l'hà impeditu d'avè biglietti di votu. Peccatu, era in forma. À u dibattitu di Via Stella avia dettu chì "tant qu'il y aura les clans et le système, il n'y aura AUCUN développement économique en Corse". Cun l'etichetta PRG dunque. 
+A pulèmica  Femu a Corsica accusa a merria di Bastia d'avè pigliatu i quaterni di e firme, (cahiers d'émargement) per fà e fotocopie 
+Tutti i risultati nant'à elections-corse.com  Tutti e video nant'à France 3 Corse
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

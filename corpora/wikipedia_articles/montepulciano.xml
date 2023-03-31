@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Montepulciano
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Montepulciano"/>
+     <date>
+      2014-03-23T14:40:56Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Montepulciano
+   </head>
+   <p>
+    Montepulciano hè una cumuna toscana di a pruvincia di Siena. Teni 13.870 abitanti.
+   </p>
+   <p>
+    Cumuna di Toscana
+   </p>
+  </body>
+ </text>
+</TEI>

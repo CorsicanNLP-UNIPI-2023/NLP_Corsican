@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Megliu ch'è Le Bon Coin : l'annunziu nant'à u 4x4
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Megliu-ch-e-Le-Bon-Coin-l-annunziu-nant-a-u-4x4_a2395.html"/>
+     <date>
+      Mon, 09 May 2016 00:59:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Megliu ch'è Le Bon Coin : l'annunziu nant'à u 4x4
+   </head>
+   <div type="excerpt">
+    <p>
+     Ci sò quelli chì facenu passà i so annunzi nant'à i siti internet cum'è Le Bon Coin. Ci sò quelli chì bumbardanu tutta a ghjurnata nant'à Facebook. Eppo ci sò quelli chì i mettenu nant'à i so 4x4.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Megliu ch'è internet : u missaghju scrittu nant'à u vetru di daretu di a so vittura. È in più di quessa, tuttu in corsu. 
+Allora quellu chì hà arrubatu l'incudine in Tagliu Isulacciu, sì veramente un mullizzu. 
+Eccu, avà tuttu u mondu a sà. 
+Ringrazi à ML pè u so ritrattu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

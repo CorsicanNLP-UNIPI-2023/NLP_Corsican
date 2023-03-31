@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Karl Jatho
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Karl%20Jatho"/>
+     <date>
+      2016-10-13T09:04:42Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Karl Jatho
+   </head>
+   <p>
+    Karl Jatho - 3 ferraghju 1873, 8 dicembre 1933 - hè statu un inventore alimannu cunnsciutu pè esse unu di i piunnieri di l'Aeronautica.
+   </p>
+  </body>
+ </text>
+</TEI>

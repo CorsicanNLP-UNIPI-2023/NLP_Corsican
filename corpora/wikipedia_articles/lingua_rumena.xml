@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lingua rumena
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Lingua%20rumena"/>
+     <date>
+      2016-11-03T01:59:31Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lingua rumena
+   </head>
+   <p>
+    A lingua rumena (rispittivamente romena; in rumenu/romenu: româneşte o limba românǎ) hè una lingua romanica chì hè parlata in Rumania, Moldavia è Vojvodina (Serbia). Incù circa 28 milioni di locutori u rumenu hè a quinta più grande lingua romanica.
+   </p>
+   <p>
+    Rumenu
+   </p>
+  </body>
+ </text>
+</TEI>

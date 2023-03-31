@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Un ghjornu, ùn puderemu più bagnacci in u Mediterraniu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-ghjornu-un-puderemu-piu-bagnacci-in-u-Mediterraniu_a1129.html"/>
+     <date>
+      Tue, 05 Jul 2011 18:37:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Un ghjornu, ùn puderemu più bagnacci in u Mediterraniu
+   </head>
+   <div type="excerpt">
+    <p>
+     Mullizzu, urbanizazione sfrenata nant'à u liturale, battelli chì lampanu a so rubbaccia, turisimu incuntrullatu... Un raportu di u Senatu ci prevene chì u Mediterraniu hè in perìculu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     È sì u fattu di ciuttassi in u mare Mediterraniu diventerà un lussu chì i vostri figliulini ùn puderanu fà ? 
+Un raportu di u senatore Courtaud chì u Mare Nostru hè in una situazione inchietante. 
+Più ch'è u riscaldamentu climàticu, hè l'urbanizazione è a frequentazione troppu forte di u liturale chì minaccia l'ambiu. In 30 anni, a pupulazione in bor' di mare hè crisciuta di 50%, senza chì l'infrastrutture di trattamentu di l'acque brutte seguitinu. Peghju : sta pupulazione duveria cresce di 41% à l'orizonte 2025. 
+È ùn parlemu mancu di a pressione turìstica... 
+D'altre inchieste avianu dimustratu chì i pesci eranu pieni di materie plàstiche è ch'elli ci sò pienu di piccule partìcule chìmiche, resti di creme pè u sole è di medicine... 
+Tuttu quessa hè di siguru un dannu pè a biodiversità di u mare. Quand'ellu si sà chì u Mediterraniu hè à metà chjosu è ch'ellu ci vole un seculu pè rinnuvellà l'acque, ci hè da trimà per l'avvene. 
+Ma bon, tantu ch'ellu face prò à l'ecunumia, chì l'urbanizazione è u turìsimu mal pensati di tutte e manere "iè ma capisci, ça va créer des emplois", tuttu và bè...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

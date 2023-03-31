@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sta volta po nò, u sumerismu di certi ùn turnerà micca cunsumerisimu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Sta-volta-po-no-u-sumerismu-di-certi-un-turnera-micca-cunsumerisimu_a2173.html"/>
+     <date>
+      Tue, 24 Mar 2015 19:04:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sta volta po nò, u sumerismu di certi ùn turnerà micca cunsumerisimu
+   </head>
+   <div type="excerpt">
+    <p>
+     Un altru magazinone di millaie di metri quadrati hà da apre in a periferia d'Aiacciu. Ma sta volta, da i quattru orizonti di l'isula, da e cime altiere à e sponde di u Mare Terraniu, si pesa un ventu di rivolta.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     - Cumu, dicenu e donne, ci volenu mette in cascia, pruponeci un impiegu à vint'ore à simana, mancu un stantapane, incù un spartitempu flessìbile, è una paga mischina, curate da una càmera da a mane à a sera, à ripete i listessi gesti, senza pudè girà u capu, à abbuchjassi centinaie di clienti corti di pazienza chì trepidanu è sceffi chì abbaghjanu, serà què u prugressu ? 
+- Cumu, dichjaranu l'operai sindicati (quelli chì ùn sò ancu sdinticati), hà da stallassi torna una impresa gigante, diretta da azziunarii anònimi è cìnichi chì si n'infuttenu di a nostra vita isulana ? 
+- Cumu, serà pussìbule, pè sti lochi, s'inzerganu i paisani, di lascià fà custruzzioni chì anu da copre parechji èttare di terra è patroni ingordi di soldi chì anu da mette i pruduttori lucali in ghjinochje ? 
+- Cumu, aghjunghjenu i savii à l'anticu è e mammone astute, vende frutti è legumi impurtaticci, fora di stagione, piatti scucinati senza gustu, attrazzi ghjittevuli ? Spulà a nutritura ? Pocu travagliu quessu ! 
+- Cumu, si stonanu i machjaghjoli è e pin-up biò à chjome sciolte, avidi d'aria fresca, averemu à chjodeci in un casamentu goffu tutti i sabbati è à trascinà un caddie tracarcu d'emballasgii più chè di marcanzia ? 
+- Cumu, ripiglianu l'amurosi di i carrughji aiaccini, volenu tumbà a vita in core di a cità è incuragisce torna "l'étalement urbain" ? 
+- Ah iè, simu bè !! dicenu i giovanni idealisti, torna un magazinone ? Quella vechja ecunumia superata, centralizata, alienante, ieràrchica, sucicante, ? Serà a Corsica ubligata di passà per custì ? 
+Sta volta, po nò, u sumerismu di certi ùn tornerà micca cunsumerisimu.
+    </p>
+    <p>
+     Da leghje :  Corse-Matin : Un hypermarché de 9.000 m2 signé Leclerc bientôt à Ajaccio  Slate : La guerre des zones commerciales est déclarée
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

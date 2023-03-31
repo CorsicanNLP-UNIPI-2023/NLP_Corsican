@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U FLNC s'occupa di u travagliu di i seniors
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-FLNC-s-occupa-di-u-travagliu-di-i-seniors_a1097.html"/>
+     <date>
+      Mon, 16 May 2011 00:35:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U FLNC s'occupa di u travagliu di i seniors
+   </head>
+   <div type="excerpt">
+    <p>
+     U FLNC serà ultraliberale ? Ci hè da dumandassi quand'ellu si sà chì u commandò hà dettu à u coppiu di ritirati plasticati in Villanova : « Ils nous ont dit reprendre le travail ».
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Margaret Thatcher, Ronald Reagan, Alain Madelin, Jean-Marc Sylvestre, Le Figaro, Eric Zemmour, a World Company... è u FLN ? 
+U Fronte s'impatrunisce di u dibàttitu nant'à l'età di a ritirata è u travagliu di i seniors (avà per dì "vechju" ci vole à dì "senior", hè megliu). 
+L'infurmazione si pò leghje in Corse-Matin dopu à l'attentatu di Villanova induve un coppiu di ritirati hè statu "insalsiccicatu" a settimana passata. 
+Jean-Pierre Moulon, 56 anni (è digià à a ritirata stu furtunatu !) avia una splèndida villà nant'à u golfu di Lava. A seguita a conta ellu à u giurnalistu : « On rentrait à la maison avec ma femme. On venait de faire les courses quand quatre ou cinq hommes sont entrés dans le salon. lls nous ont plaqués contre le mur, je les raisonnais : ils m'ont dit que si je continuais cela allait mal se passer » 
+« Ils nous ont dit de ne pas revenir, et de reprendre le travail...». Quandu si sà a difficultà ch'ellu hà avutu u guvernu di Fillon à fà passà a riforma di e ritirate, ci hè da dumandassi. Cù un argumentu cusì, si vede male Sarkozy cundannà l'attentatu. 
+A crémaillère  ella, era prevista per oghje.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

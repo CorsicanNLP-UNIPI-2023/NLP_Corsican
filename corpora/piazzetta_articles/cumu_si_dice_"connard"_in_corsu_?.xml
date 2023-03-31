@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cumu si dice "connard" in corsu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cumu-si-dice-connard-in-corsu_a2657.html"/>
+     <date>
+      Fri, 29 Sep 2017 10:11:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cumu si dice "connard" in corsu ?
+   </head>
+   <div type="content">
+    <p>
+     quelqu'un qui se comporte de façon déplaisante ou déplacée, par manque d'intelligence, de savoir-vivre ou de scrupules. 
+cunnacciu  connu finitu 
+testa di cazzu  stronzu
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

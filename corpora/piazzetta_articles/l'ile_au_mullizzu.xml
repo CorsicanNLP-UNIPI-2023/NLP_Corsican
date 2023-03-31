@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     L'ile au mullizzu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/L-ile-au-mullizzu_a2255.html"/>
+     <date>
+      Tue, 15 Sep 2015 16:14:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    L'ile au mullizzu
+   </head>
+   <div type="content">
+    <p>
+     http://www.20minutes.fr/marseille/1692331-20150922-corse-conflit-dechets-enlise 
+http://france3-regions.francetvinfo.fr/corse/2015/05/23/poubelles-business-banditisme-et-traitement-des-dechets-en-corse-730691.html 
+http://www.francetvinfo.fr/monde/environnement/la-corse-submergee-de-dechets_1078377.html 
+http://www.ulevante.fr/dechets-en-corse-decharges-immondes-et-projets-inutiles-stop/ 
+https://www.facebook.com/zerufrazu?fref=nf 
+http://elizabethpardon.hautetfort.com/archive/2015/09/16/quelques-verites-sur-les-dechets-menagers-5685600.html
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

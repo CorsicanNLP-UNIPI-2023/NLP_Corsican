@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ariana Grande
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Ariana%20Grande"/>
+     <date>
+      2019-05-15T02:57:17Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ariana Grande
+   </head>
+   <p>
+    Ariana Grande-Butera hè un'attrice è cantadora americana.
+   </p>
+   <p>
+    Attrice
+   </p>
+   <p>
+    Americana
+   </p>
+   <p>
+    Musicante
+   </p>
+  </body>
+ </text>
+</TEI>

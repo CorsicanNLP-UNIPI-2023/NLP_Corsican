@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Eccu l'urna intrappulata di Luri
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Eccu-l-urna-intrappulata-di-Luri_a1063.html"/>
+     <date>
+      Sun, 20 Mar 2011 19:45:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Eccu l'urna intrappulata di Luri
+   </head>
+   <div type="excerpt">
+    <p>
+     Quand'ellu si tratta d'elezzioni, e truvemu tutte. Pè e cantunali, un'urna hà pigliatu focu in Luri. Ùn s'era vista indocu, mancu in Iraccu o in Afganistanu...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Accade sempre un miràculu pè l'elezzioni in Corsica. Sta volta, hè stata quella di l'urna capicursina chì hà picciatu, in pienu scrutinu.. 
+Ùn ridite micca, ùn hè micca una magagna ! Da leghje nant'à 24 Ore è Corse-Matin. 
+Serà u risultatu di e prim radiazioni di Fukushima chì toccanu a Corsica ? Dopu à a fusione di a centrale giappunese, eccu a fusione di l'urna lurese. 
+Serà un colpu di i militanti di pro-Kadhafi ? 
+O u gestu addisperatu d'un elettore chì ùn hà micca avutu a so piazza à u Cunsigliu Generale ? 
+"Les enquêteurs n'excluent aucune piste", dicenu quelli...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

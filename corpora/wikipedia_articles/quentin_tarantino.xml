@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quentin Tarantino
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Quentin%20Tarantino"/>
+     <date>
+      2015-09-09T08:20:35Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quentin Tarantino
+   </head>
+   <p>
+    Quentin Tarantino hè un realizadore americanu. Era natu 27 di marzu 1963 in Knoxville, Tennessee.
+   </p>
+   <p>
+    Americanu
+   </p>
+   <p>
+    Americanu
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     C'era Manuel Valls à u carnavale di Brandu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/C-era-Manuel-Valls-a-u-carnavale-di-Brandu_a2342.html"/>
+     <date>
+      Thu, 11 Feb 2016 14:46:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    C'era Manuel Valls à u carnavale di Brandu
+   </head>
+   <div type="excerpt">
+    <p>
+     Quist'annu, u rè di u carnavale di Brandu avia l'aria d'un primu ministru d'un paese amicu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ùn si presenta più u bellissimu carnavale di Brandu. Da vede i ritratti di Corse-Matin. 
+Ancu Jean-Pierre Pernaut n'hà parlatu in u so JT. 
+Ma quist'annu u rè hà pigliatu a chigna d'un omu puliticu cunnisciutu. U son nome : Rampuffu XII dettu Valls Vador. 
+Riesciutu, nò ?
+    </p>
+    <p>
+     Ritrattu pagina Facebook di Jean-Yves Casalta.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

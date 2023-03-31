@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "Le Petit Prince" traduttu in 300 lingue, è ancu in corsu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Le-Petit-Prince-traduttu-in-300-lingue-e-ancu-in-corsu_a2578.html"/>
+     <date>
+      Fri, 07 Apr 2017 11:04:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "Le Petit Prince" traduttu in 300 lingue, è ancu in corsu
+   </head>
+   <div type="excerpt">
+    <p>
+     U libru d'Antoine de Saint Exupéry "Le Petit Prince" hà vistu nasce a so tredecentesima traduzzione, in lingua hassanya, una lingua parlata in Sahara maruccanu. Una versione corse esiste dinù.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Esistenu dunque 300 versioni di u capidopera d'Antoine de Saint Exupéry, ci hà dettu Livres Hebdo. 
+Ne face u libru u più traduttu in u mondu, fora di i libri religiosi. Per a Bibbia per esempiu si contanu 600 traduzzioni, ci dice actualitte.com 
+A lingua hassanya hè parlata in u Sahara maruccanu. Hè dinù u locu induve Antoine de Saint-Exupéry hè statu è ci hà trovu l'ispirazione per scrive. 
+Frà ste 300 lingue ci hè u corsu. A traduzzione hè stata fatta da Santu Casta è editata da l'Associu Akenaton è A Squadra di u Finusellu in u 1990. Albiana hà turnatu à edità u libru in u 2015.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

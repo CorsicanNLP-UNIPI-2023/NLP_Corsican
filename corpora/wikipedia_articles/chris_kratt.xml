@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chris Kratt
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Chris%20Kratt"/>
+     <date>
+      2015-07-06T10:13:31Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chris Kratt
+   </head>
+   <p>
+    Christopher F. "Chris" Kratt hè un attore americanu.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Listinu di l'attori americani
+   </p>
+   <p>
+    Kratt, Chris
+   </p>
+  </body>
+ </text>
+</TEI>

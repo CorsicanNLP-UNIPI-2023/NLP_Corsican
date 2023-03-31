@@ -1,0 +1,72 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     François Fillon : "j'avais bu du rosé corse"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Francois-Fillon-j-avais-bu-du-rose-corse_a2486.html"/>
+     <date>
+      Mon, 21 Nov 2016 10:06:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    François Fillon : "j'avais bu du rosé corse"
+   </head>
+   <div type="excerpt">
+    <p>
+     François Fillon hè dinù quellu chì avia cappiatu a bomba "je suis à la tête d'un état en situation de faillite". Si passava in Corsica, in u 2007. Parechji anni dopu hà datu una spiegazione : "on était au soleil, on avait bu du rosé".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'ex primu ministru François Fillon hè dunque surtitu in testa di u primu giru di a primaria di a diritta (ma micca in Corsica induve Sarko face tombula)
+    </p>
+    <p>
+     #PrimaireDroite Les vainqueurs, département par département (carte interactive) https://t.co/DsmYL9YM1p pic.twitter.com/5Av1VEzs9X
+— franceinfo (@franceinfo) 20 novembre 2016
+    </p>
+    <p>
+     È sì Fillon ùn hà prugramma particulare per ciò chì tocca à a Corsica, hè quantunque ellu chì avia fattu sta cacciata spettaculare in u 2007, durante un spiazzementu in l'isula : 
+"Je suis à la tête d'un état qui est en situation de faillite sur le plan financier". 
+L'affare ùn era piaciutu à Nicolas Sarkozy, tantu presidente di a Republica, è a frasa era stata cumentata assai. 
+Parechji anni dopu, in u ducumentariu di Franz-Olivier Giesbert Nicolas Sarkozy, secrets d'une présidence, Fillon dà una spiegazione à sta cacciata : 
+"Je suis en Corse et ça fait deux heures que je subis les assauts des syndicalistes agricoles, on est au soleil, on a bu du rosé... Ils me disent 'on veut de l'argent'. Je leur dis au bout d'un moment : ça va ! On ne peut plus demander en permanence à l'état..."   
+In fine di contu, utilizeghja una vechja scusa chì i briaconi cunnoscenu bè per ghjustificassi d'avè fattu una cunneria : mette tuttu in colpu à l'alcool. 
+D'altronde, hè ciò ch'ellu dice Alain Minc : "Fillon fait un dérapage institutionnel hallucinant et moi je l'impute simplement au rosé corse". 
+Puntu pusitivu : sapemu chì à Fillon li piace u vinu corsu è ch'ellu cappia e bombe quand'ellu beie. 
+Ùn ci hè più soldi, ma almenu averemu forse l'occasione di ride. Pè u restu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

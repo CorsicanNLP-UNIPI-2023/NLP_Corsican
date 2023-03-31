@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È sè no eramu tutti "i-Mbecilli"?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-se-no-eramu-tutti-i-Mbecilli_a1643.html"/>
+     <date>
+      Fri, 29 Nov 2013 09:50:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È sè no eramu tutti "i-Mbecilli"?
+   </head>
+   <div type="excerpt">
+    <p>
+     "iDiots" hè u nome d'un filmettu chì si ne ride di noi tutti.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U filmettu ùn hè micca mal fattu. Si vede una mansa di robots appena baulli tutti incundiziunali di u so smartphone (tè ? ci serà una sumiglia cù u nostru caru iPhone ?). 
+I robots compranu teleffunini cari, ùn si parlanu più ma si mandanu textos allora ch'elli sò à cantu, si piglianu in ritrattu, "likanu" nant'à e rete suciali, ridenu di ritratti di ghjatti, compranu applicazioni inutile chì i facenu ride... sin'à chì un grande robot sciappessi tuttu. 
+Tandu i teleffuni ùn viaghjanu più. I robots sò addisperati è... si lampanu pè cumprà u novu "iDiot 5" chì vene di sorte. 
+Vi face pensà à qualcosa ? 
+Di siguru, ci hè una critica di a sucetà di cunsumazione, di "l'obsolescenza prugrammata" è di i nostri cumpurtamenti nant'à Facebook. 
+Quelli chì l'anu fattu si ne difendenu (dicenu ch'ellu hè solu un filmettu per fassi cunnosce) : «Ne prenez pas ce message trop sérieusement. C’est un film de promo que nous avons fait pour nous moquer de nous-mêmes. Nous avons tous un i-diot au fond de nous et c’est tellement drôle !». 
+Ma hè un bellu tacle assassinu quantunque.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

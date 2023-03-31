@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Voi dinù, tumbate una vacca corsa
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Voi-dinu-tumbate-una-vacca-corsa_a1163.html"/>
+     <date>
+      Sat, 10 Sep 2011 00:29:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Voi dinù, tumbate una vacca corsa
+   </head>
+   <div type="excerpt">
+    <p>
+     U merre di Coti Chjavari hà datu l'autorizazione di stinzà l'animali nant'à a so cumuna. I passiunati di far west è di "galibrate" seranu cuntenti.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cumu regulà u prublema di a divagazione di e vacche ? 
+In Coti Chjavari, u merre hà pigliatu una decisione radicale : s'è vo avete un permessu di caccighjà, avete u dirittu di tumbà una vacca (da sente nant'à u situ di RCFM). 
+Hè vera chì per avà ùn avemu trovu suluzioni à stu prublema, un veru perìculu per l'automobilisti. 
+Ma u ritornu à u far west serà una suluzione ? L'amatori d'arme è di galibrate s'anu da campà. Forse da quì à pocu a merria di Coti Chjavari puderà ancu prupone un "safari" pè andà à stinzà e vacche corse ? 
+Eccu un'idea chì puderà piace à i nostri amichi turisti amatori d'esotìsimu è di sensazioni forte. 
+Trà "moi cet été, j'ai tué une vache keurse" è "oh fraté, tu as vu comme on lui a mis le compte à la vache avec la kalach' ?", grosse discussioni in perspettiva...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

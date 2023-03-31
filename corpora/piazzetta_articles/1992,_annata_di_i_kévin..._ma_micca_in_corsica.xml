@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     1992, annata di i Kévin... ma micca in Corsica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/1992-annata-di-i-Kevin-ma-micca-in-Corsica_a1767.html"/>
+     <date>
+      Sun, 04 May 2014 14:04:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    1992, annata di i Kévin... ma micca in Corsica
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè surtita una inchiesta nant'à Le Monde nant'à i nomi i più dati in Francia dapoi u 1946. 1992 firmerà cum'è l'annu induve i Kévin anu invaditu a Francia... fora di a Corsica.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'articulu di Le Monde si chjama Quels sont les prénoms les plus populaires depuis 1946? 
+Ci si parla appena di a Corsica, chì hà a so particularità : 
+"Tout d'abord en conservant Marie et Jean au palmarès des prénoms les plus donnés jusqu'en 1974 pour les filles, et jusqu'en 1987 pour les garçons." A Corsica saria dunque appena "vieille France" ? 
+Dopu si vede appena di "cursizazione" di i nomi. I "Lisandru" anu pigliatu u pudere dapoi u 2003 : 
+Ces dernières années, les prénoms les plus populaires sur l'île sont régionaux : Lisandru et Ghjulia arrivent en tête en 2011. « Il y a une "corsification” des prénoms, c'est certain, note Baptiste Coulmont, mais il ne faut pas oublier que très peu de gens naissent en Corse. C'est aussi un effet statistique sur les très petits effectifs. » 
+Eh iè, sapete, a demugrafia, u fattu chì a natalità in Corsica sia troppu bassa per assigurà u rinnovu di e generazioni, tuttu què... 
+Ma u più forte ferma l'annata 1992. A Francia sana hè invadita da i Kévin. Tutta ? Nò, solu a Corsica resiste, sò l'Anthony chì ghjunghjenu in testa.
+    </p>
+    <p>
+     À partesi da u 2003, i Lisandru sò magiuritarii (fora di du 2004 è u 2007, annate di i "Lucas"). 
+À tutti i Lisandru è l'Anthony di Corsica : ùn hè micca una ragione per fà i macchi.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

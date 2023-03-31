@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tony Hale
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Tony%20Hale"/>
+     <date>
+      2016-09-22T14:55:33Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tony Hale
+   </head>
+   <p>
+    Anthony "Tony" Hale (West Point - New York (Statu), 30 Settembre 1970) hè un attore americanu.
+   </p>
+   <p>
+    Hale, Tony
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     B
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/B"/>
+     <date>
+      2017-02-26T01:04:59Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    B
+   </head>
+   <p>
+    B hè a seconda lettera di l'alfabetu latinu. Hè una consonante.
+   </p>
+   <p>
+    == Linguistica ==
+   </p>
+   <p>
+    == Referenze ==
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Alfabetu latinu
+   </p>
+  </body>
+ </text>
+</TEI>

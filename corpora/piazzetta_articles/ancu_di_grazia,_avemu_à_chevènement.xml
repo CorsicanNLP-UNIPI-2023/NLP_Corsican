@@ -1,0 +1,69 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ancu di grazia, avemu à Chevènement
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ancu-di-grazia-avemu-a-Chevenement_a1424.html"/>
+     <date>
+      Fri, 19 Oct 2012 16:25:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ancu di grazia, avemu à Chevènement
+   </head>
+   <div type="excerpt">
+    <p>
+     Cù una frasa, Jean-Pierre Chevènement ci face sminticà 15 ghjorni di baruffe pè u derby è un doppiu assassiniu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ùn a sapete forse micca, ma fidighjà Corsica Sera ogni ghjornu vi dà a voglia d'entre à u FLNC o à a Brise de mer. 
+Iè, da Geneviève Moindrot è Stéphane Usciati à u pane di plasticu o à u braccasgiu ùn ci hè chè un passu faciule à francà. Hè l'analisa chì Jean-Pierre Chevènement hà fattu nant'à Europe 1. 
+L'hà detta cusì : "La jeunesse est abandonnée à un endoctrinement, qui passe par tous les canaux de communication, France 3, Radio France Frequenza Mora. Je ne parle même pas du rectorat, de l'université. D'une façon générale la jeunesse corse victime de précarité comme toute la jeunesse française est abandonnée à une propagande". 
+Hà forse ragiò : 100% di i militanti clandestini anu fidighjatu à Corsica Sera almenu una volta in a so vita. 
+Michel Barat hà rispostu à l'anzianu preferitu di Zuccarelli nant'à Alta Frequenza dicendu chì "Monsieur Chevènement est très très vieux". 
+Jean-Vitus Albertini hà rispostu pè a redazzione di France 3. A videò face un bellu buzz nant'à u net corsu. 
+Una volta di più, pichjà nant'à a Corsica volta à a moda. Quessa, n'avemu l'abitutine. Cascà bè, à dui ghjorni d'un derby corsu chì ognunu hà a paura di vede parte in pistìcciuli, forse aviamu u bisognu di senteci appena di più uniti. 
+Aviamu dinù u bisognu di ride appena dop'à u doppiu assassiniu d'Aiacciu è d'Aregnu. 
+Durante vinti quattru ore, Chevènement hà riesciutu à facci sminticà a trista attualità corsa. Per quessa, li ne ringraziemu. 
+Ma avà, cumu femu pè luttà contr'à a rimigna maffiosa chì s'hè impatrunita di a Corsica, è di a scimità immubiliare chì hè à l'orìgine di sti guai ?
+    </p>
+    <p>
+     Chevènement : "la jeunesse corse endoctrinée"... par Europe1fr
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

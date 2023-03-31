@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I peghju d'Auropa
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-peghju-d-Auropa_a1446.html"/>
+     <date>
+      Sun, 25 Nov 2012 13:14:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I peghju d'Auropa
+   </head>
+   <div type="excerpt">
+    <p>
+     Bastia peghju difesa d'Auropa. È in Corsica, a peghju pulizza d'Auropa ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cun 33 buts incasciati (in 14 ghjurnate), Bastia hè a peghju difesa d'Auropa. Solu un club russiu, u Mordovia Saransk face megliu cun 38 buts pigliati in 17 ghjurnate. 
+Ma ci hè più grave, chì per avà u Sporting hè 13esimu di L1. 
+Ci dice Corse-Matin di u 24 nuvembre chì e statìstiche di a criminalità in Corsica parlanu da per elle : Règlements de comptes en Corse: 85 crimes, une résolution. 
+I pulizzeri chì sò in Corsica sarianu dunque appena l'equivalenti di François Marque è Mathieu Sans. 
+Ma cunniscite a ragione di tuttu què : i Corsi ùn parlanu micca abbastanza.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È u desertu avanza
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-u-desertu-avanza_a2628.html"/>
+     <date>
+      Wed, 30 Aug 2017 20:09:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ULTIMI
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È u desertu avanza
+   </head>
+   <div type="excerpt">
+    <p>
+     Poca acqua à u veranu, calore, è piogia chì ùn vene più... A Corsica hè tocca da a sicchia. In Italia, u "Corriere della Sera" parla di "effetto deserto".
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

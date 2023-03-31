@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U "développement économique harmonieux" d'appressu à Camillou
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-developpement-economique-harmonieux-d-appressu-a-Camillou_a2292.html"/>
+     <date>
+      Sun, 08 Nov 2015 12:50:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U "développement économique harmonieux" d'appressu à Camillou
+   </head>
+   <div type="excerpt">
+    <p>
+     Puru s'ella interessa pocu, a campagna di e territuriale hè lanciata. A battaglia di e piccule frase è di i tweets dinù. È Camillou attacca forte...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ma chì serà, stu "développement économique harmonieux" ?
+    </p>
+    <p>
+     (fiura : D. Fumaroli) 
+È nò, ùn hè micca una burla. Da vede nant'à u so contu Twitter :
+    </p>
+    <p>
+     Je vous présente le volet économique de notre programme https://t.co/vBRu6tIj7n @alta_frequenza #Territoriales2015 pic.twitter.com/1FOawZrLma
+— C. de Rocca Serra (@CdeRoccaSerra) 6 Novembre 2015
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

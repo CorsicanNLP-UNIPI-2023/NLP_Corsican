@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U sumerisimu corsu infine ricunnisciutu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-sumerisimu-corsu-infine-ricunnisciutu_a1326.html"/>
+     <date>
+      Mon, 16 Apr 2012 11:10:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U sumerisimu corsu infine ricunnisciutu
+   </head>
+   <div type="excerpt">
+    <p>
+     Corsica è Kurdistan : u mudellu puliticu corsu si sporta à l’internaziunale !
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Trè a Corsica è u Kurdistan, ci hè un ligame d’amicizia assai forte, a sapete. Dopu à parechji evenimenti culturali è umanitari, avà pudemu dì chì i Kurdi anu decisu di puntellà in veru u cuncorsu puliticu trà i dui paesi. 
+Per a prima volta ind’a storia, un partitu puliticu corsu maiò hà dà dispone d'un scagnu in un paese stranieru : infatti s’ampara chì in Souleimaniyeh, a sigonda cità di u Kurdistan, hè stata inaugurata a sede di u Partitu di i Sumeri, pussibilmente u più grande partitu corsu, incù una bella statua, omagiu è ritrattu di un puliticante corsu assai cunisciutu. 
+Una bella è grande riescita per u sumerisimu, è tamanta ricuniscenza per u mudellu puliticu corsu. Era ora ! 
+Da leghje : Le Parti des ânes dévoile sa statue au Kurdistan irakien
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

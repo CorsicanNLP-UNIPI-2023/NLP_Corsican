@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Turku
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Turku"/>
+     <date>
+      2016-12-28T10:46:54Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Turku
+   </head>
+   <p>
+    Turku (Åbo in lingua svedese) hè una cità di a Finlandia.
+   </p>
+   <p>
+    Hè a quinta cità finlandesa per populazione, incù 177.430 abitanti (2011) è i 286.765 abitanti di l'area metropulitana.
+   </p>
+   <p>
+    == Geografia ==
+   </p>
+   <p>
+    Turku si trova in a parte punente-meziornu di a Finlandia in a regione Varsinais-Suomi di qualessa hè u capilocu è hè bagnata da u Mar' Balticu.
+   </p>
+   <p>
+    Finlandia
+   </p>
+  </body>
+ </text>
+</TEI>

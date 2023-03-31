@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U misteru di u cappellu nant'à a "blage arrière" di a vittura
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-misteru-di-u-cappellu-nant-a-a-blage-arriere-di-a-vittura_a1401.html"/>
+     <date>
+      Tue, 21 Aug 2012 11:58:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U misteru di u cappellu nant'à a "blage arrière" di a vittura
+   </head>
+   <div type="excerpt">
+    <p>
+     Avete rimarcatu quantu ci sò vitture cù cappelli in daretu ? Quale seranu quelli chì facenu què ? Perchè ? Circhemu di sapè.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Facenu parechji anni avà ch'elli si vedenu i cappelli posti nant'à a "blage arrière" di a vittura (d'altronde cumu si dicerà "plage arrière de la voiture" in corsu ? fate e vostre pruposte). 
+Si ponu vede dui mudelli di cappelli, quellu in paglia (si vede spessu l'estate) è quellu chì luccicheghja, piuttostu l'inguernu. In tutti i casi, parenu esse cappelli di night. 
+Fenòmenu di moda ? Messagiu secretu ? Rete di ghjente chì si volenu ricunnosce trà d'elli ? E spiegazione cambianu. Avemu fattu a nostra inchiesta. 
+D'appressu à Marcu-Donovan "c'est un signe maçonnique". Eppo ? "face parte di 'u gomplot', c'est un truc de franc-macs". Ùn ne saperemu micca di più. 
+Per Corsicana, chì serve à a paillote  Korsi'K Beach a spiegazione hè più sèmplice : "c'est trop cool d'avoir un chapeau quand on va à la plage LOL". 
+Kévina ella hè più chjara : "ça fait plouc". 
+Antone, u sempiternu azezu, ci dice ellu chì hè u segnu chì u prupietariu di a vittura si vole fà passà per un tippu fashion-cool-branché di a night : 
+U cappellu vole dì "sò un nightore d'estate chì beie mojitjo è chì sorte sin'à quattr'ore di mane, mumentu quandu u DJ lampa i rigali (t-shirt goffi è cappelli spunsorizati da una marca di rhum à bon pattu) à a ghjente. Bon in fatti si face cacà, ma l'omu (o a donna) facenu crede ch'elli si campanu." 
+À voi di favvi a vostra opinione. Chì ne dite ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

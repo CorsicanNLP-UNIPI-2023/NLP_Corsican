@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chì si passa à u GFCA ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Chi-si-passa-a-u-GFCA_a1395.html"/>
+     <date>
+      Fri, 03 Aug 2012 10:55:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chì si passa à u GFCA ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Ch'elli lampinu fora à Dominique Veilex chì hà fattu passà u Gazélec da a CFA à a L2 in dui anni, passa ancu. Ma chì i dirigenti mettinu spechjetti cusì, ùn hè micca permessa...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A nutizia hà stunatu à tutti. I dirigenti di u GFCA anu messu fora u so intrenore, Dominique Veilex chì avia fattu un travagliu straordinariu à u Gaz : duie cullate in dui anni, u ritornu in u mezu prufessiunale è una mezafinale di cuppa di Francia contr'à l'OL. A dice anch'ellu : "J'ai pris un gros coup sur la tête ". 
+Speremu chì st'episodiu novu ùn impedisci micca a rinascita di stu club mìticu è pupulare, in piena ricustruzzione è chì i rossu è turchinu sì mantenganu in L2. Crucemu e dite ! 
+Ma a dumanda a più impurtante ferma : ma perchè spechjetti cusì ?!? 
+Da vede a videò nant'à u situ di France 3. 
+Da leghje dinù : L’abécédaire du G.F.C.Ajaccio nant'à un situ novu cunsacratu à u futbal corsu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

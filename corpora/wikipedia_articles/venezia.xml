@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Venezia
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Venezia"/>
+     <date>
+      2015-07-06T08:26:33Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Venezia
+   </head>
+   <p>
+    Venezia hè una cumuna è una cità taliana, capilocu di a regione di u Venetu è di a pruvincia omonima.
+   </p>
+   <p>
+    === Cumune cuntigue ===
+   </p>
+   <p>
+    Campagna Lupia, Cavallino-Treporti, Chioggia, Jesolo, Marcon, Martellago, Mira, Mogliano Veneto (TV), Musile di Piave, Quarto d'Altino, Scorzè, Spinea
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Gondula
+   </p>
+   <p>
+    Cumuna di Veneto
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Perchè ùn si ghjucheria micca u 5 di maghju ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Perche-un-si-ghjucheria-micca-u-5-di-maghju_a1552.html"/>
+     <date>
+      Mon, 29 Apr 2013 12:26:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Perchè ùn si ghjucheria micca u 5 di maghju ?
+   </head>
+   <div type="excerpt">
+    <p>
+     U presidente di a LFP l'hà detta : "pas question de ne pas jouer le 5 mai".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Sta volta hè chjara. Annu passatu i vint'anni di a catastrofa avianu messu in lume e 
+« Il n’est pas question de faire du 5 mai une journée sans football en France. Dans aucun pays d’Europe qui ont vécu des catastrophes similaires, le football n’a été supprimé, a rappelé Thiriez. Il y a des commémorations. C’est ce que nous allons faire sur l’ensemble des matches. Une journée sans football est une mauvaise réponse à un véritable drame. Cette position a été arrêtée au plus haut niveau de la Fédération, et nous n’en bougerons pas ». 
+http://www.mediafootmarseille.fr/opinions/5707-furiani-et-la-parole-divine 
+http://www.rmc.fr/front_office/outils/preview.php?id=371662&amp;page=0 
+Ci vole sempre à aspettà qualcosa di sta ghjente ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

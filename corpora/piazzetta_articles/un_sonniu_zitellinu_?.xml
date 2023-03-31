@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Un sonniu zitellinu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-sonniu-zitellinu_a1674.html"/>
+     <date>
+      Mon, 03 Feb 2014 23:04:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Un sonniu zitellinu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Avemu pussutu vede l’altru eri in l’ultima pagina di Corse-Matin una publicità per l’Agenzia di u Turisimu di a Corsica chì c'interrughjeghja.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Quella publicità palisava un zitellucciu stallatu à u scagnu d'un albergu, ghjustu davanti à l’armadiu di e cantarette per e chjave. 
+È u slogan ci parlava di l’avvene, ecc. U nostru scopu ùn hè micca di cundannà u turisimu, un settore chì face puru campà parechji corsi, è i zitelli sò à spessu aduprati da l’annunziatori, ùn hè micca a prima volta. Ma ci simu appena interrugati nant’à l’intensioni di sta publicità è u missaghju ch’ella vulia fà passà. 
+Di solitu, u fattu di parlà di i mistieri sunniati da i zitelli hè spessu l’occasione di mintuà i pumpieri, i duttori, i veterinari, l’astrunauti, ecc. Induve hè a parte di sonniu è di candore in sta publicità ? Perchè aduprà a fiura di un cininu per valurizà un settore d'attività assai dipendente di i cuntesti ecunomichi, è soprattuttu pocu ammaistratu in Corsica? 
+Forse simu noi i candidi, in stu mondu in crisi è pienu d’incertezza induve si deve primurà di l’impiegu è di u stenta pane u più prestu. 
+Ma dunque u missaghju quì postu seria chì u turisimu pò esse cunsideratu cum'è un puntellu essenziale di l’avvene, cum'è una vera scelta di sucetà, dirigendu u campà di e generazioni future ? 
+Forse sta questione meriteghja megliu chè una publicità in l’ultima pagina di u CM.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

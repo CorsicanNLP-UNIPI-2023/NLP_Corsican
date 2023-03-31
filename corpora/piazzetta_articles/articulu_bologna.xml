@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Articulu Bologna
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Articulu-Bologna_a2714.html"/>
+     <date>
+      Tue, 03 Apr 2018 15:17:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Articulu Bologna
+   </head>
+   <div type="excerpt">
+    <p>
+     È perchè ùn scupreriate micca à Bologna ? A capitale di a regione di l'Emilia Romagna hè piena di tesori è ùn hè ch'è à duie ore di strada da Livornu.
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

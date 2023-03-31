@@ -1,0 +1,78 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Logica
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Logica"/>
+     <date>
+      2015-05-15T09:34:28Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Logica
+   </head>
+   <p>
+    A logica hè a scenza chì hà per oggettu u studiu di a validità è l'articulazione di un discorsu per ciò chì cuncerna e so inferenze - in particulare deduttivi.
+   </p>
+   <p>
+    == Temi correlati ==
+   </p>
+   <p>
+    Logica matematica
+   </p>
+   <p>
+    * George Boole
+   </p>
+   <p>
+    * Gottlob Frege
+   </p>
+   <p>
+    * Logica furmale
+   </p>
+   <p>
+    * Operatore logicu
+   </p>
+   <p>
+    * Logica booleana
+   </p>
+   <p>
+    * Logica trascendentale
+   </p>
+   <p>
+    * Logica intuizionista
+   </p>
+   <p>
+    * Logica predicativa
+   </p>
+   <p>
+    Logica descrittiva
+   </p>
+   <p>
+    Logica fuzzy
+   </p>
+   <p>
+    Logica
+   </p>
+  </body>
+ </text>
+</TEI>

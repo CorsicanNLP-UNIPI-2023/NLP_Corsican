@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bon è bè, i Marsegliesi ci l'anu fatta à annerbacci
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/om-bastia-marseille-capitale-de-la-corse/"/>
+     <date>
+      Sat, 23 May 2015 22:03:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bon è bè, i Marsegliesi ci l'anu fatta à annerbacci
+   </head>
+   <div type="excerpt">
+    <p>
+     Regula numeru unu di i sustenidori : pruvà d'arrabbià i so avversarii. I Marsegliesi anu riesciutu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     "Marseille capitale de la Corse" cù una testa di moru intricciata à a croce turchina di l'arme di a cità di Marseglia... Era quessu u tifo di i South Winners pè l'ultima ghjurnata di campiunatu di L1 trà l'OM è u Sporting. 
+Bel omagiu à sta cità chì hà accoltu tantu Corsi... ma sopr'à tuttu bella manera d'annerbà i sustenidori di Bastia. I Winners è l'accaniti turchini ùn si ponu pate. È l'ultras di l'OM sanu bè chì stu generu di frasa face scimisce à certi. Omancu, custì anu riesciutu. 
+Bon, ci vole à dì chì quist'annu i Bastiacci anu riesciutu à rende scemi a metà di a Francia cù un striscione nant'à u Qatar. Sta volta simu noi à esse stuzzicati. 
+Scumettemu ch'ella ci serà una risposta à u prussimu Bastia - Marseglia ?
+    </p>
+    <p>
+     Cum'ella si pudia aspettà, u tifo di i Winners hè statu arci-cummentatu nant'à e rete suciale. 
+Ma serà veramente grave ?
+    </p>
+    <p>
+     Tu es incapable de descendre dans la rue pour sauver ton peuple mais tu es prêt à foutre le feu pour une banderole au Vélodrome.
+— Fédéric KANTZ (@federicKANTZ) 23 Mai 2015
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

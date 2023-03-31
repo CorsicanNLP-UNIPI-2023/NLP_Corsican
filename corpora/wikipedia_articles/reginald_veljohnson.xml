@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Reginald VelJohnson
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Reginald%20VelJohnson"/>
+     <date>
+      2015-07-01T17:41:19Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Reginald VelJohnson
+   </head>
+   <p>
+    Reginald VelJohnson hè un attore americanu.
+   </p>
+   <p>
+    VelJohnson, Reginald
+   </p>
+  </body>
+ </text>
+</TEI>

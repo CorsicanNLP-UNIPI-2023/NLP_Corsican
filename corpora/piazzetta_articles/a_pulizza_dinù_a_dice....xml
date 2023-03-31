@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A pulizza dinù a dice...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-pulizza-dinu-a-dice_a1875.html"/>
+     <date>
+      Wed, 11 Jun 2014 11:27:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A pulizza dinù a dice...
+   </head>
+   <div type="content">
+    <p>
+     Nant'à Le Parisien u sindicatu FO Police ne chjama à u ministru di l'internu per avè di più mezi. 
+Dumanda chì u guvernu "reconnaisse clairement qu'il y a de la mafia en Corse" è "que l'on nous donne les moyens, comme en Italie, de la combattre". 
+Si pò leghje in l'articulu : 
+«La question est de savoir où se situe le blocage», a ajouté le syndicaliste, rappelant que, «jamais autant de gens n'ont été protégés qu'actuellement par la police en Corse» depuis 1998, année de l'assassinat du préfet Claude Erignac qui fut suivi par une chasse effrénée aux militants nationalistes tandis que prospérait le grand banditisme. 
+Hè detta. 
+Le Parisien
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

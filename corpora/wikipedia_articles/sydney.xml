@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sydney
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Sydney"/>
+     <date>
+      2017-03-13T20:02:41Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sydney
+   </head>
+   <p>
+    Sidney hé a prima cità di l'Australia pè populazione cù 3.641.422 abitanti (4.504.469 a cità metropulitana) in u statu di u New South Wales.
+   </p>
+   <p>
+    Australia
+   </p>
+  </body>
+ </text>
+</TEI>

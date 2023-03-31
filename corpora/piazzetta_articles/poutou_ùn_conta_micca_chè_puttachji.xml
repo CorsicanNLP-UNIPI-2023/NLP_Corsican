@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Poutou ùn conta micca chè puttachji
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Poutou-un-conta-micca-che-puttachji_a1301.html"/>
+     <date>
+      Sun, 25 Mar 2012 15:39:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       PRESIDENZIALI-2012
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Poutou ùn conta micca chè puttachji
+   </head>
+   <div type="excerpt">
+    <p>
+     I candidati à l'elezzione presidenziale cuntinuveghjanu di fà campagna in Corsica. Philippe Poutou hà fattu u so meeting in Furiani è ùn hà micca cantatu u Diu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Philippe Poutou u candidatu di u NPA hè ghjuntu cun Olivier Besancenot. U fattore hè statu u primu (è u solu) à avè messu u Diu vi salvi Regina in u so meeting, in u 2007. 
+Quist'annu, a sapete u tube di a campagna hè l'innu corsu. L'UMP, Marine Le Pen è François Hollande l'anu passatu à a fine di i so meetings. Sta volta Poutou ùn hà micca cantatu u Diu, ma in i so temi di campagna ripiglia e rivindicazioni di i muvimenti naziunalisti. L'hà detta in a so intervista à Corse-Matin : 
+"Nous reprenons leurs propositions comme le droit à l'autodétermination du peuple corse. C'est en levant progressivement la tutelle de Paris que les Corses mettront en place les lois dont ils ont besoin pour se protéger des spéculateurs et des mafias. Les gouvernements libéraux destinent la Corse à être le bronzodrome de l'Europe mais votre peuple mérite un autre avenir." 
+E riforme : 
+"Une réforme institutionnelle doit s'accompagner d'un véritable pouvoir législatif et la moralisation de la vie publique implique une refonte du code électoral. Le fonctionnaire de passage ne peut voter en lieu et place du peuple corse" 
+E maffie è a speculazione : 
+"A Manca dénonce le lien entre organisations politico-mafieuses et spéculation immobilière. La violence que connaît l'île est davantage liée aux appétits que suscite un développement basé sur le tourisme et l'économie résidentielle. La solution, c'est de promouvoir un schéma économique plus conforme aux intérêts populaires" 
+Nant'à l'officializazione di a lingua : 
+"Cette revendication est légitime. La langue est un outil important pour bâtir la communauté de destin dont le peuple a besoin pour garantir sa survie, elle doit être préservée" 
+Stu discorsu serà intesu in Corsica ? Micca sigura, c'era pocu mondu à a so riunione in Furiani. Certi naziunalisti preferianu vutà pè Le Pen o Sarkozy ? 
+Eccu per Poutou. Avà aspettemu à l'altri candidati...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

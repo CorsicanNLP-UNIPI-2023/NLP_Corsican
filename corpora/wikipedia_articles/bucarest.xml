@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bucarest
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Bucarest"/>
+     <date>
+      2013-03-08T23:59:36Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bucarest
+   </head>
+   <p>
+    Bucarest hè a capitale di a Rumania.
+   </p>
+   <p>
+    Tene 1.944.367 di abitanti (2009) è una superficia di 228 km².
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Enceladu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Enceladu"/>
+     <date>
+      2015-05-08T20:06:44Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Enceladu
+   </head>
+   <p>
+    Enceladu (grecu Εγκέλαδος) hè un satellitu di a Saturnu scupertu in u 1789 (scupridore Wilhelm Herschel).  Enceladu pussedi tracce di atmosfera e geyser di acqua.
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    Astrunumia
+   </p>
+  </body>
+ </text>
+</TEI>

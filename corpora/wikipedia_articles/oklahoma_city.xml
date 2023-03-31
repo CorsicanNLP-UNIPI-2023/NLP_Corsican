@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Oklahoma City
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Oklahoma%20City"/>
+     <date>
+      2015-12-24T18:33:23Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Oklahoma City
+   </head>
+   <p>
+    Oklahoma City hè una cità di i Stati Uniti, capitale di Oklahoma. Tene 591.967 abitanti (2011).
+   </p>
+   <p>
+    Stati Uniti d'America
+   </p>
+  </body>
+ </text>
+</TEI>

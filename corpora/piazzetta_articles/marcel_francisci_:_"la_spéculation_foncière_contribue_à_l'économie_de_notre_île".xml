@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Marcel Francisci : "la spéculation foncière contribue à l'économie de notre île"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Marcel-Francisci-la-speculation-fonciere-contribue-a-l-economie-de-notre-ile_a1610.html"/>
+     <date>
+      Fri, 09 Aug 2013 16:41:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Marcel Francisci : "la spéculation foncière contribue à l'économie de notre île"
+   </head>
+   <div type="excerpt">
+    <p>
+     Nò, ùn hè mancu una magagna. L'hà detta in L'Express.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ùn avemu ancu finitu di cummentà a pusizione di Paul Giacobbi nant'à a speculazione immubiliara in un'intervista ch'ellu hà datu à Corse-Matin. 
+U presidente di l'esecutivu hà fattu discitassi in pienu estate tuttu ciò chì a Francia conta di lonzi anti-corsi, à cummincià pè Christophe Barbier chì di siguru parla di "racisme anti-continentaux". 
+Ma a cacciata di u seculu vene siguramente da u nostru Jean-Claude Van Damme naziunale, à sapè Marcel Francisci chì dice in L'Express : 
+"Ce n'est pas un fléau. La spéculation foncière contribue à l'économie de notre île. Les non-résidents font marcher les commerçants corses. Et il ne faut pas oublier que les terrains appartiennent à des corses. Si on achète une propriété plus chère, le vendeur fait une bonne affaire. On attend tous une augmentation de notre capital. Arrêtons de vouloir lutter contre la spéculation foncière, ce n'est pas le grand banditisme." 
+È d'insiste : 
+"De plus, les jeunes ne vont pas acheter un terrain pour construire une maison. Leur priorité, c'est de trouver un appartement ou un studio" 
+Giovani Corsi, u vostru destinu hè dunque d'avè un studio in Lupinu o in I Salini. È ùn vi lagnate micca, hè digià bè cusì. 
+Ognunu ghjudicherà a frasa di Marcel. 
+A speculazione immubiliara cuntribuisce dunque à l'ecunumia corsa. Perchè micca. Ma allora, hè dinù u casu di a prustituzione, u trafficu di droga, u racket, u trafficu d'arme, senza parlà di u nulu di Tchernobyl chì cuntruibuisce à fà travaglià i duttori è e farmacie. 
+Aspettemu cun impazienza u prugramma ecunomicu di l'UMP 2A.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

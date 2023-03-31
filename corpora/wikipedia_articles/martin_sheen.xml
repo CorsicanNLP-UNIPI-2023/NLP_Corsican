@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Martin Sheen
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Martin%20Sheen"/>
+     <date>
+      2016-07-30T00:53:08Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Martin Sheen
+   </head>
+   <p>
+    Martin Sheen hè un attore americanu. Emilio Estevez
+   </p>
+   <p>
+    Sheen, Martin
+   </p>
+   <p>
+    Sheen, Martin
+   </p>
+  </body>
+ </text>
+</TEI>

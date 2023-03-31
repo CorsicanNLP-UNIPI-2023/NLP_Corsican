@@ -1,0 +1,74 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Et qui on est ? I più poveri di Francia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Et-qui-on-est-I-piu-poveri-di-Francia_a2568.html"/>
+     <date>
+      Sat, 25 Mar 2017 16:51:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Et qui on est ? I più poveri di Francia
+   </head>
+   <div type="excerpt">
+    <p>
+     Ciò chì hè bè cù a miseria, hè ch'ellu ci n'hè per tutti. Passanu l'anni è impeghjurisce a situazione ecunumica è suciale di a Corsica. Bastanu ste trè carte di L'Atlas du chômage en France di Le Monde per capiscela.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A miseria a più forte di Francia
+14% di a pupulazione di Francia campa cun menu di 1000 € à mese. 
+In Corsica ne semu à 20,4 % di a pupulazione. Cù u record naziunale pè a zona di Ghisunaccia - Aleria : 25,2 %. 
+Cummentu di Le Monde : 
+En Corse, d'autres problématiques sont à l'oeuvre, d'après une étude réalisée par la collectivité -territoriale : précarité liée à la saisonnalité de l'emploi dans plusieurs secteurs importants de l'économie insulaire -(tourisme, BTP, agriculture) ; conditions de vie difficiles des personnes âgées isolées, notamment en milieu rural ; pauvreté des enfants et des jeunes, y compris des jeunes travailleurs en milieu urbain.
+    </p>
+    <p>
+     I rivenuti i più bassi
+In Corsica i rivenuti sò frà i più bassi di Francia. È u scartu trà i più ricchi è i più poveri hè ancu più impurtante ch'è in altrò. A sucetà corsa hè a più inegualitaria.
+    </p>
+    <p>
+     I giovani fora
+Altra infurmazione spaventosa : hè in Corsica chì a ghjuventù hè a più squalificata. Ciò chì in francese si chjama "décrochage scolaire" sò i giovani esciuti da u sistema sculare senza diplomu o qualificazione. Ci hè una grande disparità segondu l'accademie : 19% di i 15-24 anni per quella di Rennes, 33% per quella di Montpellier. 
+In Corsica ne semu à 36,5%. È si colla à... 41% pè a zona di Sartè - Prupià. 
+Più d'un terzu di a ghjuventù corsa principia a so vita senza grande sperenza di fanne qualcosa. Hè l'indicatore u più spaventosu d'una sucetà malata di manera prufonda.
+    </p>
+    <p>
+     Dati : Le Monde / INSEE
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

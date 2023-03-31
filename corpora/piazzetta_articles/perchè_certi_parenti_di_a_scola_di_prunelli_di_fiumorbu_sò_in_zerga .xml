@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Perchè certi parenti di a scola di Prunelli di Fiumorbu sò in zerga
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Perche-certi-parenti-di-a-scola-di-Prunelli-di-Fiumorbu-so-in-zerga%C2%A0_a2240.html"/>
+     <date>
+      Tue, 16 Jun 2015 23:02:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Perchè certi parenti di a scola di Prunelli di Fiumorbu sò in zerga
+   </head>
+   <div type="excerpt">
+    <p>
+     À a festa di fine d'annata di a scola l'elevi duvianu cantà « Imagine » di John Lennon in inglese, in corsu, in francese, in spagnolu è in arabu. Certi parenti ùn anu micca vulsutu. Pruvemu di sapè perchè.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     - Ùn li piace micca a musica pop in generale è a roba di Beatles in particulare  - Cunfundenu Lennon è Lenine è anu avutu a pauru d'un' invasione russia  - Cunfudenu Lennon è Lesnuls : o pitò, e scole sò lochi di Cultura, per la Madonna !   - Li piacenu i Beatles ma preferiscenu Paul Mac Cartney : ellu omancu ùn hà miccà spusatu una giappunesa goffa. Attenti quantunque s'è vo site cacciadori : Paulo hè vegetarianu.  - Ùn li piacenu micca e canzone chì parlanu di campà in pace, d'amicizia frà l'omi per l'eternità, di fratellanza è tutta issa merda « hippie »  - Sò tutti credanciuli sinceri è e parolle « imagina ch'ella ùn sia micca paradisu, nè infernu... micca religione » anu annerbatu à tuttu u mondu  - Tuttu u mondu a dice, a strufata in spagnolu puzzava u sciorizò, i musculi è u zafferanu  - Ùn si sò micca avvisti ch'ella era scritta « Libertà, Ugualità, Fraternità » sopra à l'entrata, pensavanu d'esse à a prigiò di Guantanamo : l'intoppu hè statu troppu forte  - Sò tutti grandi cantadori, techji di Star'Academy, anu l'arechja assuluta è timianu e note false.  - À cantà in coru, cusì à l'istretta, tutti inseme c'era u risicu chì l'elevi chjappessinu qualchì malatia (ancu di più chì i sculari ùn sò micca tutti Fiurmurbacci)  - Campanu in un « lotissement » è in quellu locu certe parolle nucente (« unitu » « spartera » « sunniadore » o «  micca pruprietà... ») sò parullacce tamante  Ultima ipotesi : tenenu l'Arabi in odiu (puru s'è elli sò chjuculetti è ch'elli a si provanu à cantà) . Vai, vai, chì u veru Fiumurbacciu un hè cusì.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

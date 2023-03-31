@@ -1,0 +1,96 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Corsica, tamanta miseria !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Corsica-tamanta-miseria-_a2754.html"/>
+     <date>
+      Thu, 06 Dec 2018 20:14:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Corsica, tamanta miseria !
+   </head>
+   <div type="excerpt">
+    <p>
+     A miseria serìa menu penibule à u sole, dicia Aznavour. A Corsica hè a più forte pè a puvertà è pè a vita cara. Per avà a mubilizazione di quelli chì strazianu è chì anu i spini tronchi hè debbule. Sin'à quandu ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     I primi pè a puvertà
+A Corsica hè a regione di Francia induve a puvertà tocca u più mondu : circa 20% di a pupulazione. U record di Francia tocca a zona di Ghisunaccia è Aleria (25%).
+    </p>
+    <p>
+     Fonte : INSEE
+    </p>
+    <p>
+     I rivenuti i più bassi
+A Corsica hè una di e regione induve i rivenuti sò i più bassi, cù u Nord-Pas-de-Calais è u  Languedoc-Roussillon (in u 2012).
+    </p>
+    <p>
+     Fonte : INSEE
+    </p>
+    <p>
+     L'isula di l'inegualità
+In più di quessa, a Corsica hè dinù una di e regione induve u scartu trà i più poveri è i più ricchi hè a più forte. In u 2012, i 10% i più ricchi avianu rivenuti 3,8 volte di più forte ch'è i più poveri.  A media francese in pruvincia era di 3,3.
+    </p>
+    <p>
+     Fonte : INSEE
+    </p>
+    <p>
+     I prezzi più cari
+A vita hè più cara ch'è in cuntinente. D'appressu à l'Insee, i prezzi di l'alimentazione sò più alti di 8,7% in Corsica. È hè cusì per d'altri prudutti è servizii. 
+Invece, pè e sigarette è l'alcool, i prezzi sò menu alti. U cancaru hè di rigalu.
+    </p>
+    <p>
+     Fonte : INSEE
+    </p>
+    <p>
+     È l'essenza dinù...
+I trasporti in cumunu sò pocu sviluppati è a dipendenza à a vittura difficiule à evità. Casca bè, u prezzu di l'essenza hè più forte in Corsica.
+    </p>
+    <p>
+     Prix du carburant : pourquoi l’essence est-elle plus chère en Corse que sur le continent ?  - https://t.co/AhLYnF5bmg pic.twitter.com/hUJFdK3IFI
+— France 3 Corse (@FTViaStella) 21 octobre 2018
+    </p>
+    <p>
+     U populu di u straziu
+Mentre chì certi Corsi ci la facenu à prufittà bè di u sistema, sò numerosi quelli à strazià. Per avà si sò intesi pocu. Cumu serà ? Pesu d'una sucetà cunservatrice ? Paura di fassi rimarcà, di fassi vede male ? "Les gilets jaunes c'est pour les gaulois et les pumataghj" ? 
+Sin'à quì, tuttu và bè.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

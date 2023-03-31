@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Villarrobledo
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Villarrobledo"/>
+     <date>
+      2014-03-23T15:11:21Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Villarrobledo
+   </head>
+   <p>
+    Villarrobledo hè una cumuna spagnola di a pruvincia di Albacete, in a cumunità autonoma di Castiglia- a Mancia.
+   </p>
+   <p>
+    Pruvincia di Albacete
+   </p>
+  </body>
+ </text>
+</TEI>

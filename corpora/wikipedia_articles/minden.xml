@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Minden
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Minden"/>
+     <date>
+      2019-10-03T11:24:31Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Minden
+   </head>
+   <p>
+    Minden hè una cità in u land di Nord Renu-Westfalia. Hà una superficie di 101 km² è à l'incirca 83.000 abitanti.
+   </p>
+   <p>
+    Minden
+   </p>
+  </body>
+ </text>
+</TEI>

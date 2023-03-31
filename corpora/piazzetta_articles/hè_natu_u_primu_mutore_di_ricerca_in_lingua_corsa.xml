@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hè natu u primu mutore di ricerca in lingua corsa
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/He-natu-u-primu-mutore-di-ricerca-in-lingua-corsa_a2250.html"/>
+     <date>
+      Wed, 26 Aug 2015 15:19:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hè natu u primu mutore di ricerca in lingua corsa
+   </head>
+   <div type="excerpt">
+    <p>
+     Innò, ùn ci hè micca ch'è Google. U mutore di ricerca Qwant prupone una via differente : u rispettu di a vita privata è una versione in... lingua corsa.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Forse saria ora di sorte da u "tuttu-Google" (più di 90% di e ricerche in Auropa). U mutore di ricerca Qwant si presenta cum'è un'alternativa. 
+Apparagunatu à u gigante americanu, ùn hè nunda. Ma prupone un'altra via, differente. 
+À u mumentu induve si parla assai di rispettu di a vita privata, di "big data", chì ùn si sà troppu ciò chì i "dati persunali" diventanu (chì facenu Apple, Facebook è Google di tuttu ciò ch'elli sanu nant'à voi ?), i rispunsèvuli di Qwant si piazzanu in u campu di u rispettu di a vita privata : 
+Da leghje : Jean Manuel Rozan : "Qwant refuse de tracer les internautes"
+    </p>
+    <p>
+     In più di l'èttica, Qwant prupone una versione... tutta in corsu di u so mutore di ricerca :
+    </p>
+    <p>
+     Dop'à a traduzzione cullaburativa di Facebook st'inguernu (ma chì ùn hè compia...), eccu dunque un'altra intrapresa chì s'hè messa à parlà corsu (bon d'accordu u direttore generale, Eric Leandri, hè corsu). 
+Allora perchè micca pruvà à Qwant ? 
+Sò i picculi ghjargali chì facenu i fiumi...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

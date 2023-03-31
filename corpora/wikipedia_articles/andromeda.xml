@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Andromeda
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Andromeda"/>
+     <date>
+      2014-03-23T13:59:58Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Andromeda
+   </head>
+   <p>
+    Andromeda hè una custellazione.
+   </p>
+   <p>
+    == Caratteristiche ==
+   </p>
+   <p>
+    == Oggetti celesti rimarchevuli ==
+   </p>
+   <p>
+    M31, a Galassia d’Andromeda
+   </p>
+   <p>
+    == Mitologia ==
+   </p>
+   <p>
+    == Stelle ==
+   </p>
+   <p>
+    Custellazione
+   </p>
+  </body>
+ </text>
+</TEI>

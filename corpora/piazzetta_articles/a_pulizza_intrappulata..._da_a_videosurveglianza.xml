@@ -1,0 +1,77 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A pulizza intrappulata... da a videosurveglianza
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-pulizza-intrappulata-da-a-videosurveglianza_a2398.html"/>
+     <date>
+      Fri, 13 May 2016 18:59:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A pulizza intrappulata... da a videosurveglianza
+   </head>
+   <div type="excerpt">
+    <p>
+     Tutti fliccati, ancu i flicchi ! A prova chì a videosurveglianza pò esse utile : i filmi di Reims mostranu bè chì i pulizzeri anu tichjatu di colpi i sustenidori bastiacci.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè France 3 Corse chì hà palisatu e fiure di a videosurveglianza di Reims. 
+È s'è vo ùn l'avete ancu viste, parenu belle chjare :
+    </p>
+    <p>
+     EXCLUSIF Affaire #ReimsBastia, les images de vidéosurveillance qui chargent les policiers https://t.co/l3ECxBkWIv pic.twitter.com/XwTTcRyjrI
+— France 3 Corse (@FTViaStella) 12 mai 2016
+    </p>
+    <p>
+     L'affare di i Bastiacci in Reims hè cascatu à tempu à d'altre pulemiche nant'à e viulenze pulizzere in Francia :
+    </p>
+    <p>
+     Intervene dinù dop'à una bella seria di muntagi nant'à u CRS chì avia messu un calciu à una zitella...
+    </p>
+    <p>
+     #posetonCRS...
+    </p>
+    <p>
+     È intervene dop'à a pulemica di l'affissu di a CGT.
+    </p>
+    <p>
+     Forse, ùn hè mancu una storia di razzisimu anti-corsu. Solu di flicchi conni. Ma elli, ùn sò mai culpevuli.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

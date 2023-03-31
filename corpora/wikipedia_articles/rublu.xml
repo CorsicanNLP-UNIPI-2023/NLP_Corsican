@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Rublu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Rublu"/>
+     <date>
+      2015-07-02T12:54:30Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Rublu
+   </head>
+   <p>
+    U rublu hè l'unità munitària utilizata dapoi più di 500 anni in Russia.
+   </p>
+   <p>
+    U rublu hè scumpartitu in 100 kopecks (копеек).
+   </p>
+   <p>
+    Economia
+   </p>
+   <p>
+    Russia
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sheila : "si j'avais eu mes sous, j'aurais eu une maison en Corse"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Sheila-si-j-avais-eu-mes-sous-j-aurais-eu-une-maison-en-Corse_a1911.html"/>
+     <date>
+      Sat, 12 Jul 2014 10:51:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sheila : "si j'avais eu mes sous, j'aurais eu une maison en Corse"
+   </head>
+   <div type="content">
+    <p>
+     Hè sempre interessante d'avè l'avisu di i pippoli. Intervistata da Corse-Matin, Sheila dice chì per ella, cumprà una casa in Corsica hè troppu caru. Bon, và bè chì a so carriera ùn pare avè u ventu in poppa, ma quantunque, ùn serà micca sbaiuccata quant'è voi. 
+"Si j'avais eu mes sous, j'aurais eu une maison ici. Je l'aurai achetée il y a bien longtemps". 
+Allora, chì devenu dì i 20.000 Corsi disimpiegati ? I 25.000 Corsi chì campanu guasi in a miseria ? 
+Elli, cumprassi un allogiu, ùn ci pensanu più. 
+Per l'altri, e famose "classe mezane", ponu sempre sunnià d'un appartamentu in Lupinu o à I Salini. 
+À ringraziavvi, o Sheila, di a vostra cuntribuzione à u prublema di u fundiariu in Corsica. A prussima volta, parleremu di u statutu di residente.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

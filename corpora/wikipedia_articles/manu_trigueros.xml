@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Manu Trigueros
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Manu%20Trigueros"/>
+     <date>
+      2016-07-07T16:33:28Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Manu Trigueros
+   </head>
+   <p>
+    Manuel 'Manu' Trigueros Muñoz (natu in u 1991) hè un ghjucadore di pallò spagnolu.
+   </p>
+   <p>
+    Pallò
+   </p>
+   <p>
+    Spagnolu
+   </p>
+  </body>
+ </text>
+</TEI>

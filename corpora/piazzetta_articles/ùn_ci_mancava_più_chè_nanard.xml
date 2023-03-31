@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ùn ci mancava più chè Nanard
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-ci-mancava-piu-che-Nanard_a1514.html"/>
+     <date>
+      Wed, 13 Mar 2013 23:44:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ùn ci mancava più chè Nanard
+   </head>
+   <div type="excerpt">
+    <p>
+     U mensile Corsica s'hè autocensuratu. Bernard Tapie ghjunghje à Corse-Matin. Ci hè di chè esse inchieti pè l'infurmazione.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Quelli chì anu pruvatu di leghje l'ultimu nùmeru di u giurnale Corsica anu avutu una surpresa : duie pagine eranu incullate. 
+Errore tecnicu ? Censura ? Prudenzia ? Publicità per Super Glue 3 ? 
+A risposta hè venuta in Corsica Sera : l'articulu chì purtava nant'à l'affare di e suvvenzioni di u CG2B à i gîtes ruraux era troppu vicinu di a diffamazione, segondu u so rispunsèvule. 
+St'affare hè statu cacciatu da L'Express è tredeci persone si ritrovanu messe in esame. 
+Ma in pocu tempu, l'articulu si ritrova subbitu nant'à internet è circuleghja nant'à Facebook è Twitter. 
+In listessu tempu, Nanard visitava i lucali di Corse-Matin. A bona nutizia, hè ch'ellu era accumpagnatu di Patrick Le Lay, anzianu PDG di TF1 chì hà da aiutà Tapie à ristrutturà u gruppu Nice-Matin. 
+Le Lay hè quellu chì avia dettu chì u rollu di a televisione hè di preparà u cerbellu di i telespettatori à i messagi publicitarii : "Ce que nous vendons à Coca-Cola, c'est du temps de cerveau humain disponible". 
+Tappettu hà dettu ch'ellu ùn hà da scambià nunda (vole dì ch'ellu hà da sciambulà tuttu), ch'ellu ùn tuccherà micca à a linea edituriale (vole dì ch'ellu hà da ficcacci u so nasu) ma ch'ellu ci vulia à "diversificassi", occupassi di furmazione è ch'ellu hà da creà una... scola di cummerciu, in i lucali di Corse-Matin. 
+Hè u grande ritornu di "la combine à Nanard", è ci vulia ch'ella caschi nant'à noi.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

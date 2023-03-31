@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Regione
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Regione"/>
+     <date>
+      2019-07-01T20:50:41Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Regione
+   </head>
+   <p>
+    Regione (geografia)
+   </p>
+   <p>
+    Regioni francesi
+   </p>
+   <p>
+    Regioni taliane
+   </p>
+   <p>
+    Regione
+   </p>
+  </body>
+ </text>
+</TEI>

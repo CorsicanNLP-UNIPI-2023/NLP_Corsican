@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Philadelphia
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Philadelphia"/>
+     <date>
+      2019-01-02T03:03:33Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Philadelphia
+   </head>
+   <p>
+    Philadelphia (Da u grecu philèin, amà è adelphos, fratellu), cugnomata Philly, hè una cità di u Statu di a Pennsylvania, situatu à u nordu-livente di i Stati Uniti, frà New York, è Washington DC.
+   </p>
+   <p>
+    Seiesima cità di u Paese, Philadelphia tene circa 1 556 396 abitanti in a cità stessa (Philadelphia City) è circa 5.950.000 abitanti nant'à cità metropulitana (PMSA di Philadelphie–Camden–Wilmington).
+   </p>
+   <p>
+    Stati Uniti d'America
+   </p>
+  </body>
+ </text>
+</TEI>

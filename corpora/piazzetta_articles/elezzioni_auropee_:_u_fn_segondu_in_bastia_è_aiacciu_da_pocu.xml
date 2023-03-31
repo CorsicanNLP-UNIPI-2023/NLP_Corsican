@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Elezzioni auropee : u FN segondu in Bastia è Aiacciu da pocu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Elezzioni-auropee-u-FN-segondu-in-Bastia-e-Aiacciu-da-pocu_a1834.html"/>
+     <date>
+      Sun, 25 May 2014 21:33:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Elezzioni auropee : u FN segondu in Bastia è Aiacciu da pocu
+   </head>
+   <div type="content">
+    <p>
+     L'infurmazione a ci dà u contu Twitter di France 3. 
+In Bastia  Alfonsi hè in testa, cù 7 voti d'avanzu nant'à u FN (Alfonsi 1602 voti, FN 1595). 
+In Aiacciu, hè l'UMP chì hè in testa, cù 11 voti d'avanzu nant'à u FN (UMP 2728 voti, FN 2717, Alfonsi 1666). 
+Ùn ci serà nisun deputatu corsu à u parlamentu aurupeanu. 
+In visita in Corsica, Jean-Marie Le Pen avia dettu chì "la Corse appartient aux Français". 
+Forse, hè ellu chì avia ragiò.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

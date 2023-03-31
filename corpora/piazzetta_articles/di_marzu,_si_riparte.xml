@@ -1,0 +1,71 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Di marzu, si riparte
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Di-marzu-si-riparte_a2554.html"/>
+     <date>
+      Fri, 15 Mar 2019 11:32:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Di marzu, si riparte
+   </head>
+   <div type="excerpt">
+    <p>
+     Eccu, hè ghjuntu u mese di marzu, cù i so detti è i so pruverbii. I cunniscite ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U mese di marzu hè riputatu per u so tempu chì varieghja : 
+"Marzu catarzu" : vale à dì bruttu, goffu. 
+È dinù : 
+"Marzu hà sette barette, una a si caccia è l'altra si mette". 
+L'antichi truvavanu u sole periculosu. Ùn si face casu chì semu sempre d'inguernu, ma pichja in capu : 
+"Sole marzulinu, di l'omu ne face un strascinu". 
+o 
+"Sole marzulinu, di i vechji ne face un sterminiu". 
+Di marzu ùn ci hè bisognu di vighjà. Bisognu à chjinassi à bon'ora : 
+"E sere marzuline, appollati cum'è e ghjalline". (appullassi = "se percher, se calmer, se stabiliser"). 
+Avà site prevenuti. Ne cunniscite d'altri ? Aspettemu i vostri cumenti.
+    </p>
+    <p>
+     Fonte  Vucabulariu corsu - italianu - francese, d'Anton Francescu Filippini, Anima Corsa 1999.  Dizziunariu U Muntese, Albiana 1985.  È dinù Infcor, u dizziunariu in linea di l'Adecec.  Torna d'altri nant'à u foru Isula 
+Messu in linea u 02/03/2017
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

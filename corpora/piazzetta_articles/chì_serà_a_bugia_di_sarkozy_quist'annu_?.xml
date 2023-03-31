@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chì serà a bugia di Sarkozy quist'annu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Chi-sera-a-bugia-di-Sarkozy-quist-annu_a1320.html"/>
+     <date>
+      Thu, 12 Apr 2012 13:24:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       PRESIDENZIALI-2012
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chì serà a bugia di Sarkozy quist'annu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Quale avia dettu in u 2003 : « Nous avons décidé de nous attaquer prioritairement à l'argent du crime, la base du système mafieux » ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Nicolas Sarkozy vene in Corsica un venneri 13, ùn hè micca un bon segnu. Dop'à una dumenicata di sangue, 22 assassinii è prove d'assinii in u 2011, u bilanciu di u Statu in Corsica hè di prima trinca. 
+In u 2003, quand'ellu era ministru di l'internu ci avia digià dettu chì « Nous avons décidé de nous attaquer prioritairement à l'argent du crime, la base du système mafieux». Avia dinù avutu sta bunissima idea : «Il faut abattre ce système mafieux qui met la Corse en coupe réglée, c’est l’argent qui corrompt les idées». 
+9 anni (!) dopu, cunniscite u bilanciu. U grande banditisimu s'hè impatrunitu di l'ecunumia, affaristi è trafficoni tenenu tuttu, u settore di l'immubiliare hè u solu mezu di sviluppu, cù u so lottu di derive è di manghjerie. 
+Purtantu, l'UMP s'appronta à pichjà forte, ci dice Corse-Matin. Sauveur Gandolfi-Scheit, Camille de Rocca Serra, Stéphanie Grimaldi è Marcel Francisci anu da dicci chì : "Nicolas Sarkozy n'a jamais transigé dans la lutte contre la violence". 
+« On peut ne pas être d'accord avec ce qui a été fait depuis 10 ans, mais on doit reconnaître que des choses ont été faites ». Ci dicenu l'eletti UMP. Hè vera. L'azzione di u Statu si vede in ogni locu di Corsica : 5500 permessi di custruisce dati à l'annu, un prefettu chì dà l'autorizazione di custruisce d'un PLU chì hè statu annulatu in ghjustizia. 
+Oghje, i giovani corsi anu a scelta. Fà u spazzinu in i stabilimenti tenuti da a Brise de Mer, o in quelli tenuti da quelli di u Petit Bar ? 
+Allora, chì ci hà da prumette Sarko sta volta ? Ma forse canterà u Diu vi salvi anch'ellu, è tuttu u mondu serà cuntentu. Iè ma capisci, Sarkozy hè un tippu bè, cunnosce ancu e parolle di A Palatina.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

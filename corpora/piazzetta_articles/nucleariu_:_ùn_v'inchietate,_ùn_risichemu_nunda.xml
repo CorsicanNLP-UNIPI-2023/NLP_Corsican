@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Nucleariu : ùn v'inchietate, ùn risichemu nunda
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Nucleariu-un-v-inchietate-un-risichemu-nunda_a1060.html"/>
+     <date>
+      Thu, 17 Mar 2011 00:25:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Nucleariu : ùn v'inchietate, ùn risichemu nunda
+   </head>
+   <div type="excerpt">
+    <p>
+     Si dice chì a catastrofa di Fukushima ùn ci tuccherà mai... ùn vi ramenta nunda ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Fora di Dumènicu Bucchini chì hà cumplettamente craccatu è chì vole aiutà i Russii à stallassi in Corsica, per avà e radiazioni di Fukushima ùn anu toccu à nimu. 
+D'appressu à i spezialisti s'ellu ci hè un nulu radioattivu, ùn venerà micca sin'à ind'è noi, serà troppu luntanu. Di tutte manere s'arresterà à a fruntiera. 
+Ùn vi ramenta nunda ? 
+A catastrofa di Cernobil in 1986 hè stata una di e più grosse bugie di a storia di a Corsica (cun Flavio è Piekarski à u Sporting). È noi, baulli, ci avemu cridutu... 
+Bon ùn hè micca una ragione per favvi un stock di pìllule d'iodu è di cumpravvi un cuntore Geiger, ma avà forse seremu appena di più attenti è menu niscentri davant'à l'infurmazioni chì ci sò date.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

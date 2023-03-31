@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pedro Mosquera
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Pedro%20Mosquera"/>
+     <date>
+      2016-07-21T19:37:21Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pedro Mosquera
+   </head>
+   <p>
+    Pedro Mosquera Parada (natu in u 21 d'aprile di u 1988) hè un ghjucadore di ballò di u Deportivo de la Coruña in Spagna.
+   </p>
+   <p>
+    Ballò
+   </p>
+  </body>
+ </text>
+</TEI>

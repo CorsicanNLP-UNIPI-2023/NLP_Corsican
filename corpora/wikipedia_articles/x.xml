@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     X
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/X"/>
+     <date>
+      2019-10-03T11:18:22Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    X
+   </head>
+   <p>
+    X hè a vintiquattresima lettera di l'alfabetu latinu. Hè una consonante.
+   </p>
+   <p>
+    == Linguistica ==
+   </p>
+   <p>
+    == Referenze ==
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Alfabetu latinu
+   </p>
+  </body>
+ </text>
+</TEI>

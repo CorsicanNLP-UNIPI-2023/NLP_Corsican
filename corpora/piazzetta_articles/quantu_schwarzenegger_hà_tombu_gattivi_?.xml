@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quantu Schwarzenegger hà tombu gattivi ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quantu-Schwarzenegger-ha-tombu-gattivi_a1655.html"/>
+     <date>
+      Thu, 19 Dec 2013 10:18:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quantu Schwarzenegger hà tombu gattivi ?
+   </head>
+   <div type="excerpt">
+    <p>
+     N'averà tombu pochi gattivi Arnold Schwarzenegger durante tutta a so carriera ! Ma quantu esattamente ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     S'ella ci hè una cosa chì Schwarzy sà fà, hè di tumbà i gattivi. L'attore americanu hà ancu cunsacratu a so carriera à quessa, correli appressu per tumballi. 
+Ma quantu esattamente ? Una videò posta nant'à YouTube prova di cuntalli in tutti i filmi ch'ellu hà fattu, da i so filmacci (ci n'hè statu unepochi : Hercules in New York, Junior, Un flic à la maternelle...) à i so filmoni (iè, Terminator è Predator sò filmoni). 
+Bon, hè vera, u filmettu hè appena viulente è ùn site micca obligati di vedela sana (28 minuti, quantunque). 
+Sappiate dunque ch'ellu hà stinzatu 509 persone, in 18 filmi.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

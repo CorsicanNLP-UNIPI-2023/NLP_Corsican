@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bienv'nus les Keurses !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Bienv-nus-les-Keurses-_a1377.html"/>
+     <date>
+      Sat, 23 Jun 2012 11:57:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bienv'nus les Keurses !
+   </head>
+   <div type="excerpt">
+    <p>
+     Vi n'erate scurdati chì a LFP è a FFF ùn ci pudianu pate ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U Sporting campione, l'ACA chì si salva, u Gaz chì face un miràculu, u CAB chì colla... Annu passatu u futbol corsu hà campatu una stagione straordinaria, ma era l'annu passatu. 
+Sì, cum'è parechji passiunati di ballò erate nant'à un nulu di felicità, i dirigenti di u futbol francese v'anu fattu vultà in furia à a realità. 
+Mentre ch'ellu si festighjava a mùsica, a cummissione di disciplina di a LFP e facia falà cutrate : 
+Aiacciu : 2 punti in menu è parechje suspensioni di dirigenti per via di u macciu ACA-OL annu. L'ACA cummincerà dunque u campiunatu ultimu cun -2 punti.  Bastia : 1 macciu di suspensione, 20.000 € d'amenda per via di u cumpurtamentu di i sustenidori : fumìgeni, ogetti lampati nant'à un ghjucadore di Guingamp, laser è terrenu invaditu dopu à a partita contr'à Châteauroux. A prima partita in Furiani saria dunque u... 1u settembre, contr'à Saint Etienne.  Ma ùn hè micca finita. A cummissione di disciplina di a FFF chì s'occupa di l'amatori s'hè scatinata contr'à u CA Prupià : un macciu persu, trè punti di menu, suspensioni di dirigenti da 1 à 5 anni pè a partita contr'à Chambéry induve a pulizza era intervenuta. A settimana passata era un ghjucadore di Furiani chì era suspesu... un annu. 
+Vi và ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

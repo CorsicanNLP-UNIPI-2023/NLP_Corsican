@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lavasina
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Lavasina"/>
+     <date>
+      2014-03-23T14:30:30Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lavasina
+   </head>
+   <p>
+    Paisolu di u Capicorsu. Hè à sette chilometri à  ù norde di Bastia.
+   </p>
+   <p>
+    Dipende di à cumuna di Brandu.
+   </p>
+   <p>
+    À torra di Lavasina.
+   </p>
+   <p>
+    Giugrafia
+   </p>
+   <p>
+    Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

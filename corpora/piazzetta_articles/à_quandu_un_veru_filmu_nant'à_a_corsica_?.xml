@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     À quandu un veru filmu nant'à a Corsica ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-quandu-un-veru-filmu-nant-a-a-Corsica_a1244.html"/>
+     <date>
+      Wed, 08 Feb 2012 00:01:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    À quandu un veru filmu nant'à a Corsica ?
+   </head>
+   <div type="excerpt">
+    <p>
+     "Les Anonymes - Ùn pienghjite micca" serà u prussimu filmu di Canal + nant'à l'affare Erignac.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hà cumminciatu u filmu nant'à u "commandò Erignac" (leghje l'articulu in Corse-Matin). Si chjamerà "Les Anonymes - Ùn pienghjite micca". 
+Si pò discorre di a scelta di stu sugettu. Ùn serà micca appena troppu à bon'ora per fà una fizzione nant'à un sugettu sempre d'attualità ? Chì serà a visione di u scenaristu nant'à qualcosa di sempre frescu, mentre chì parechji prutagunisti sò sempre in prigiò, chì tante famiglie sò sempre in a suffrenza ? Chì riteneranu a ghjente di a versione di Pierre Schœller ? Davant'à a qualità di u telefilm calamitosu nant'à l'affare di e paillottes "Mission Sacrée;, ci hè di chè accoglie sta nutizia cun angoscia. 
+Ùn si pò ghjudicà nanzu d'avè vistu u filmu, ma ci hè di chè interrugassi. 
+Allora piuttostu chè di fà un filmu nant'à un sugettu chì ùn face ancu parte di a storia, eccu qualchì idea. 
+"Aleria 1975" : cun Leslie Nielsen (ancu si l'attore hè mortu) in u rollu d'Edmond.  "Le Pont de la rivière Golu" : nant'à a battaglia di Ponte Novu, cun Nicolas Cage in u rollu di Pasquale Paoli è Michel Galabru in Louis XV.  "Le Chemin des Dames" : nant'à u macellu di a guerra di 14-18 cun Kad Merrad, Jacques Bastianesi è Richard Bohringer in u rollu di i suldati corsi stirpati in prima linea.  "Sur la route de Montedison" : nant'à l'affare di i fanghi rossi in 1972.  "Elu malgré moi" : cun Jean Dujardin in u rollu di Camille de Rocca Serra.  "Il était une fois la CFR" : nant'à u muvimentu di a Corse Française et Républicaine, cun Cauet, Gérard Jugnot è Thierry Roland pè i primi rolli.  "Borgu 1768 : Corse 1, France 0" : nant'à a battaglia vinte da l'armata corsa nant'à quella di a Francia.  "Fraude Academy" : Quessu, u cunniscite tutti. 
+À voi di truvanne d'altri...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

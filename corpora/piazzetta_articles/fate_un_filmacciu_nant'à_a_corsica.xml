@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Fate un filmacciu nant'à a Corsica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Fate-un-filmacciu-nant-a-a-Corsica_a1176.html"/>
+     <date>
+      Fri, 30 Sep 2011 00:51:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Fate un filmacciu nant'à a Corsica
+   </head>
+   <div type="excerpt">
+    <p>
+     Cumu si dice "nanard", "navet" è "purge" in lingua corsa ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     S'è vo avete mancatu u téléfilm di France 3 "Mission Sacrée" nant'à a cusì detta "affaire des paillotes", rassiguratevi ùn avete mancatu nunda. Era megliu di fidighjà Police Academy II nant'à Direct 8 o Comissaire Valence cun Bernard Tapie nant'à RTL 9, per divvi. 
+È s'è vo avete 1 ora è mezu di u vostru tempu à perde, a videò hè in linea nant'à u situ di France 3. 
+Pè i fans, a ricustituzione di l'assassiniu di u prefettu Bernardin à u principiu di u filmu vale u colpu d'ochju. Hè dunque Guy Caillonce (Bernard Bonnet ghjucatu da Christophe Malavoy...) chì u rimpiazza. Arricurdatevi, "l'homme qu'il faut là où il faut" di Chevènement. 
+In fatti, Mission Sacrée si fideghja cum'è Mafiosa, un filmu di i Charlots o di Les Bidasses. Sapete ch'è vo perdite u vostru tempu, sapete ch'ellu hà da esse un filmacciu, ma fidighjate quantunque perchè sapete ch'elle ci anu da esse cunnerie cusì grosse chì v'anu da fà ride. 
+Per divvi, ancu Corse-Matin trova chì "le téléfilm sur l'affaire des paillotes s'enlise dans le cliché". 
+Per divvi, nant'à Alta Frequenza, ancu Jean-Charles Orsucci è Gabriel Xavier Culioli ùn ricummandanu micca troppu u filmu. A parolla chì volta sempre hè "cliché"... 
+Ma quessa avemu l'abitutine, nò ? I Corsi sò sempri goffi, trafficoni, maligni, brutti è gattivi. È hè normale, cuntinuvemu di pagà u fattu d'esse u populu "prefetticidiu". 
+I parcmètres d'Aiacciu sò tutti rotti, i zitelli corsi ghjocanu u mercuri cù i fucili di i so babbi, i Corsi sò apparagunati cù i Shadoks chì pompanu... i soldi pùblichi. 
+Un filmacciu di più dunque, chì rassigureghja u francese mezanu è a ménagère de moins de 50 ans in i so "clichés" nant'à i Corsi. Tuttu và bè, semu sempre cusì conni. Ma perchè certi attori corsi sò andati à lampassi in stu vituperiu di filmacciu ? C'era veramente bisognu di rinfurzà stu discorsu anti corsu ? 
+Muralità : nunda scambia, i scenaristi francesi sò sempre cusì dèbbuli. À quandu un veru sinemà corsu o un film nant'à a Corsica di qualità ? 
+Da vede dinù u dibattitu in Ce soir ou jamais, parte 1, parte 2, parte 3 è parte 4 cun Bernard Bonnet, Ariane Chemin, Pascal Garbarini, François Caviglioli (chì hà fattu st'opera maestra di Mission Sacrée) è Paul-François Paoli chì vede irrendentisti in ogni lochi. Ma merita un articulu à ellu stessu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

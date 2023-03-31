@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Assassinii : và bè, ci hè peghju chè a Corsica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Assassinii-va-be-ci-he-peghju-che-a-Corsica_a1443.html"/>
+     <date>
+      Tue, 20 Nov 2012 01:18:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Assassinii : và bè, ci hè peghju chè a Corsica
+   </head>
+   <div type="excerpt">
+    <p>
+     Infine une bona nutizia in stu bruttu mese di nuvembre. Per l'assassinii, ùn simu ancu i peghju di u mondu ! Simu solu i peghju d'Auropa.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Chì piacè d'annunziavvi sta nutizia : nò, a Corsica ùn hè micca a regione di u mondu induv'ellu si tomba u più ! 
+U situ Slate hà fattu a so inchiesta partendu da un tweet chì dicia chì : 
+"Les 100 Corses tués en 5 ans pour 300000 habitants, c'est la même proportion que les 50000 assassinés en 6 ans au Mexique" 
+Ùn v'inchietate, era una cunneria. Slate s'appoghja nant'à un raportu di l'ONU (si pò caricà u PDF) è ci spiega chì in Corsica avemu una media di 7 assassinii à l'annu pè 100.000 abitanti. 
+À u Messicu, s'arregistreghja 16,5 assassinii à l'annu pè 100.000 abitanti. 
+Tuttu và bè dunque ! 
+Pè l'annu 2011, i paesi i più periculosi sò u Honduras (92 assassinii pè 100.000 abitanti) è u Salvador (69 assassinii pè 100.000 abitanti). Sò belli in davant'à noi ! In più di quessa, ci mancanu i sciffri pè parechji paesi africani. 
+Bon d'accordu simu i peghju d'Auropa (iè ancu in Albania si tomba menu, 4 assassinii pè 100.000 abitanti solu !). 
+Ma si pò apparagunà a Corsica à a criminalità di paesi cumplettamente rispettabili è muderni cum'è Haiti è u Timor Orientale (6,9 assassinii). U Pakistan (7,6 assassinii), u Mozambique è u Kazakhstan (8,8) sò vicini. 
+Quand'è no vi diciamu dunque chì tuttu andava bè !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

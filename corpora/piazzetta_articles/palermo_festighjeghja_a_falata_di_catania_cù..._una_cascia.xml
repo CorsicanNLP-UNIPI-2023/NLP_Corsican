@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Palermo festighjeghja a falata di Catania cù... una cascia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Palermo-festighjeghja-a-falata-di-Catania-cu-una-cascia_a1797.html"/>
+     <date>
+      Sun, 11 May 2014 23:01:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Palermo festighjeghja a falata di Catania cù... una cascia
+   </head>
+   <div type="content">
+    <p>
+     Mentre chì Palermu hè prumossu in Seria A, l'altru club sicilianu, Catania, si ne fala in Serie B. 
+I tifosi di e duie squadre ùn si ponu pate, è hè cù... una cascia à i culori rossi è turchini di Catania chì i palermitani anu fattu a festa. 
+Da vede nant'à u situ di u Giornale di Sicilia. 
+Bon, ùn si sà micca ma si pò pensà chì elli dinù, si sò stirpati in insulte è cummenti nant'à internet dop'à quessa...
+    </p>
+    <p>
+     A festa in Palermu pè a retrucessione in B di Catania quist'annu :
+    </p>
+    <p>
+     Annu passatu, era Catania (chì si mantenia in serie A) chì facia a festa perchè Palermu si ne falava...
+    </p>
+    <p>
+     Senza cascia, ma cun fiori, curona, croce è prucessione...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

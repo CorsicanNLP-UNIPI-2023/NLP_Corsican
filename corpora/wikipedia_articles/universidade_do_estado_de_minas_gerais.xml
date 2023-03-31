@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Universidade do Estado de Minas Gerais
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Universidade%20do%20Estado%20de%20Minas%20Gerais"/>
+     <date>
+      2014-10-29T15:57:52Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Universidade do Estado de Minas Gerais
+   </head>
+   <p>
+    L'Universidade do Estado de Minas Gerais hè un' università brasiliana, situata in a cità di Belo Horizonte.
+   </p>
+   <p>
+    Ci sò à l'incirca 3.121 stughjanti.
+   </p>
+   <p>
+    Fù fundata u 1989.
+   </p>
+   <p>
+    Università
+   </p>
+  </body>
+ </text>
+</TEI>

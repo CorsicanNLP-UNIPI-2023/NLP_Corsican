@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ed Harris
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Ed%20Harris"/>
+     <date>
+      2015-07-01T17:22:10Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ed Harris
+   </head>
+   <p>
+    Ed Harris hè un attore americanu.
+   </p>
+   <p>
+    Harris, Ed
+   </p>
+   <p>
+    Harris, Ed
+   </p>
+  </body>
+ </text>
+</TEI>

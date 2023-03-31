@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ciò chì ci vole à ritene di Bastia - Lille
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cio-chi-ci-vole-a-ritene-di-Bastia-Lille_a1450.html"/>
+     <date>
+      Thu, 29 Nov 2012 02:15:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ciò chì ci vole à ritene di Bastia - Lille
+   </head>
+   <div type="excerpt">
+    <p>
+     Serata riesciuta in Furiani : una chjiba, un terrenu massacratu, dui guardiani à paghjolu, sempre a peghju difesa d'Auropa è una suspensione chì ci hà da cascà nantu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Site inchieti per u statu di a famosa "plus belle pelouse d'Europe" ? Ùn vi ne fate, cù a suspensione chì Bastia hà da pigliassi, ("sursis" di duie partite è sanzione pè l'incidenti di u derby ancu cascata...), turneremu à ghjucà in Furiani di ferraghju 2013.  Ùn si sà ciò chì Fredji Harchay, l'assistante di Tony Chapron, s'hè pigliatu in capu versi u quarantesimu minutu. Certi parlanu d'una pezza di 20 centimi o d'un chewing gum. D'altri dicenu ch'ellu saria statu un scarpu, l'ultimu libru di Jérôme Ferrari, un pentone, un fustu di castagnu, un pneu, una rustaghja o ancu una 106 Kid. Misteru.  Manuel Valls hà reagitu à st'incidente : "Si les Corses savent qui a jeté le projectile sur le juge de touche, qu'ils parlent".  S'è vo sapete ciò chì s'hè passatu, chjamate dunque a pulizza. U prugettu di Christiane Taubira vi permette di testimunià di manera anònima è u statutu di "repenti" vi prutegerà.  Ancu di grazia ch'ellu ci hè a crisa à l'UMP, o sinnò "les incidents de Furiani" et "le retour des vieux démons" farianu l'apertura di tutti i JT.  Aspettemu a surtita di u libru di Tony Chapron "Dans l'enfer de Furiani : seul face aux hooligans corses".  I direttori di ghjocu di a LFP sò diventati eccelenti cumedianti.  Frédéric Thiriez ùn hà ancu reagitu, hè normale, in stu mumentu hè in RTT. Ma dumane, faleranu scutrate nant'à u Sporting...  Eccu, sì a LFP face bè u so travagliu, ùn si ghjucherà più à Armand Cesari pè l'annu 2012. Bone vacanze à tutti !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

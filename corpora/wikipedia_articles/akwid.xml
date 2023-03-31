@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Akwid
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Akwid"/>
+     <date>
+      2018-06-01T23:54:30Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Akwid
+   </head>
+   <p>
+    Akwid hè un gruppu di rap Mexicanu natu in 2000 à Jiquilpan, Michoacán.
+   </p>
+   <p>
+    A furmazione di i Akwid era furmata da u rapper AK è u Wikid.
+   </p>
+   <p>
+    Gruppu di rap
+   </p>
+  </body>
+ </text>
+</TEI>

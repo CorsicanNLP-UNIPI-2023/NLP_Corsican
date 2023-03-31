@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Fiori di Corsica
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Fiori%20di%20Corsica"/>
+     <date>
+      2009-04-03T08:00:35Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Fiori di Corsica
+   </head>
+   <p>
+    == Rifarenzi ==
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    Corneliae
+   </p>
+   <p>
+    == Gallaria d'imagini ==
+   </p>
+  </body>
+ </text>
+</TEI>

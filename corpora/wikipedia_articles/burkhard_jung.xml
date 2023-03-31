@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Burkhard Jung
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Burkhard%20Jung"/>
+     <date>
+      2014-03-23T14:06:02Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Burkhard Jung
+   </head>
+   <p>
+    Burkhard Jung (*1958) hè un puliticante tedescu. Attualmente, hè lu merru di a cità di Lipsia.
+   </p>
+   <p>
+    Jung,Burkhard
+   </p>
+   <p>
+    Jung, Burkhard
+   </p>
+  </body>
+ </text>
+</TEI>

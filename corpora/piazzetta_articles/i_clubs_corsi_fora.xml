@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I clubs corsi fora
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-clubs-corsi-fora_a1508.html"/>
+     <date>
+      Sat, 09 Mar 2013 12:27:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I clubs corsi fora
+   </head>
+   <div type="excerpt">
+    <p>
+     U giurnalistu Denis Balbir ci la face à fà megliu chè Jean-Pierre Chevènement, Christophe Barbier, Frédéric Thiriez, Raymond Barre è Pierre Ménès reuniti : vole chì i clubs corsi sianu messi fora da a Francia.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     D'appressu à A Manca Naziunale a Corsica rinculla à u pianu di a cuscenza cullettiva. 
+Ind'è i giurnalisti spurtivi dinù, hè u "grand bond en arrière". 
+In u 1965, i clubs francesi s'eranu riuniti per dumandà à lampà i clubs corsi da i campiunati prufessiunali. Era a famosa Table ronde de Montélimar. 
+Tandu, digià, si parlava di "l'ambiance hostile et antisportive dans laquelle se déroulent les déplacement en Corse, de l'insécurité des joueurs et dirigeants, de l'insécurité des arbitres"  
+Guasi cinquant'anni dopu, hè u giurnalistu Denir Balbir à ripiglià st'argumenti. In un'emissione diffusata nant'à u situ Yahoo, l'omu si cappia : "ces deux clubs là, avec tout le respect que j'ai surtout pour Bastia et son histoire, doivent être exclus du championnat". 
+Dopu : "comment expliquer que des joueurs qui arrivent dans les clubs corses se transforment ? J'ai connu des tas de joueurs hyper-sympas, qui une fois sur le terrain, quand ils jouaient à Bastia, sont devenus des t... des teignes" (forse circava a parolla pè "tueurs" ?) 
+Compie cusì a so dimustrazione nant'à i salvàtichi : "Même entre eux, ça va pas". 
+Quellu chì hà fattu cundannà Les Cahiers du Football chì avia parlatu in un articulu sàtiricu d'ellu cum'è un "grand singe hurleur", un '"hypertrophié de la glotte", è un "Rocco Siffredi des cordes vocales" da Les Cahiers du Football cuntinuveghja di sparghje e so analise fine nant'à u futbol. 
+Nant'à u tonu di a magagna, So Foot li risponde : Quel championnat pour Ajaccio et Bastia? 
+Cumu si dice "lynchage médiatique" in corsu ? Preparatevi, ùn hè chè u principiu. 
+Sì vinti catini aiaccini è bastiacci ùn avianu micca ghjucatu à i duri pè u derby, ùn si ne parleria mancu... è simu sempre à sicutera. Da leghje dinù ciò ch'ellu ne dice Didier Rey, in L'Equipe di l'ottu marzu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

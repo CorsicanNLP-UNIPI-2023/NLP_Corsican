@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "Indépendantiste modéré, giacobbiste autonomiste, progressiste de droite..."
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Independantiste-modere-giacobbiste-autonomiste-progressiste-de-droite_a1761.html"/>
+     <date>
+      Sun, 27 Apr 2014 19:53:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "Indépendantiste modéré, giacobbiste autonomiste, progressiste de droite..."
+   </head>
+   <div type="content">
+    <p>
+     In un articulu di Le Parisien Gilles Simeoni hè presentatu cum'è "indépendantiste modéré". 
+L'etichette messe da i giurnalisti cuntinentali sò qualchì volta appena strane. 
+Ma hè vera chì u paisaghju puliticu corsu hè in ricumposizione. 
+Trà l'indipendentisti muderati, l'autonomisti accaniti, i giacubbisti autonomisti cum'è Pierre Ghionga, i republicani appena cursisti è quelli chì si dicenu di diritta prugressista cum'è Marie-Antoinette Santoni-Brunelli e fruntiere pulitiche si movenu. 
+A campagna di e territuriale di u 2015 hè principiata
+    </p>
+    <p>
+     On peut être progressiste et être contre le statut de résident. C'était tout le sens de mon intervention à l'Assemblée de Corse jeudi.
+— MA SANTONI BRUNELLI (@SANTONIBRUNELLI) 27 Avril 2014
+    </p>
+    <p>
+     Corse dans la Constitution ,co-officialité ,statut de Résident, Fiscalité spécifique ,collectivité unique : n'est-ce pas l'autonomie?
+— Pierre GHIONGA (@PGHIONGA) 26 Avril 2014
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

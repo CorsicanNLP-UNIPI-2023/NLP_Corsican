@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bosnia è Erzegovina
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Bosnia%20%C3%A8%20Erzegovina"/>
+     <date>
+      2015-05-08T20:10:51Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bosnia è Erzegovina
+   </head>
+   <p>
+    A Bosnia è Erzegovina hè un paese europeu. A più grande cità è a capitale hè Sarajevo.
+   </p>
+   <p>
+    Europa
+   </p>
+  </body>
+ </text>
+</TEI>

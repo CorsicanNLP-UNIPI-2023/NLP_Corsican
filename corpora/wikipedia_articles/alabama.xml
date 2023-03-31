@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Alabama
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Alabama"/>
+     <date>
+      2014-03-23T13:57:27Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Alabama
+   </head>
+   <p>
+    L'Alabama hè un statu di i Stati Uniti d'America. Teni 4.447.100 abitanti. A capitale hè Montgomery.
+   </p>
+   <p>
+    Alabama
+   </p>
+  </body>
+ </text>
+</TEI>

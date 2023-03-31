@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U Sporting lancia i so biscotti
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-Sporting-lancia-i-so-biscotti_a1836.html"/>
+     <date>
+      Thu, 05 Jun 2014 09:31:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U Sporting lancia i so biscotti
+   </head>
+   <div type="excerpt">
+    <p>
+     Si ponu truvà i biscuttini di u Sporting, per esse forte cum'è Krasic o per mette i calci cum'è Angoula, cum'è vo vulete.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ci vole u curagiu per esse dirigenti di u Sporting. Cù a mansa d'azezi, di mai cuntenti è di criticoni chì sustenenu u club, ùn deve micca esse tutti i ghjorni faciule. 
+Allora chì serà quandu l'azezi anu da scopre chì u club hà lanciatu i so... biscuttini. Hè u tweet d'un certu Capone chì ci l'ampara. 
+Eccu dunque e "méga barres gourmandes" fatte di "noisettes, amandes, noix de cajou, raisins, nappées de chocolat". Perchè micca ? I zitelli seranu cuntenti. 
+Ma attenti à e magagne ch'ellu s'induvina digià, cum'è "O Romaric o panzò ai manghjatu troppu biscotti" o "O Zissé, vai è manghjati duie méga-barres". 
+Ùn si sà micca sì i biscotti seranu rigalati à i futuri abbunati. A campagna principia l'ondeci ghjugnu. 
+À quande e panette ? Pistellu  ùn hà ancu reagitu.
+    </p>
+    <p>
+     Mi mi mi !! Même les gâteaux du Sporting ! 
+Bientôt ces bidons ils vont vouloir nous vendre de la pulenda bleue !! pic.twitter.com/iaLQC3xBBQ
+— Capone (@Capone20200) 25 Mai 2014
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

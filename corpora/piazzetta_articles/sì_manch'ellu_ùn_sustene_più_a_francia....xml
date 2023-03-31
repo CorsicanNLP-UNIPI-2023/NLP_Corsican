@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sì manch'ellu ùn sustene più a Francia...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Si-manch-ellu-un-sustene-piu-a-Francia_a1888.html"/>
+     <date>
+      Wed, 18 Jun 2014 00:42:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sì manch'ellu ùn sustene più a Francia...
+   </head>
+   <div type="content">
+    <p>
+     Supresa per tutti quelli chì anu fidighjatu a partita trà u Brasile è u Messicu. S'ellu hè Memo Ochoa chì s'hè fattu rimarcà nant'à u terrenu, è un'altra faccia cunnisciuta chì s'hè vista in e tribune. 
+"Eiu presidente, ùn susteneraghju più a squadra di Francia" ?
+    </p>
+    <p>
+     Nisun dubbitu, hè ellu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

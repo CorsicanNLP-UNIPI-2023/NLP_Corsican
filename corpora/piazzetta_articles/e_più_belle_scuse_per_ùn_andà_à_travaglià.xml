@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     E più belle scuse per ùn andà à travaglià
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-piu-belle-scuse-per-un-anda-a-travaglia_a1122.html"/>
+     <date>
+      Thu, 23 Jun 2011 01:02:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    E più belle scuse per ùn andà à travaglià
+   </head>
+   <div type="excerpt">
+    <p>
+     Un situ hà dumandatu à 800 patroni chì eranu e peghju scuse di i so impiegati per ùn andà à travaglià.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Certi ghjorni ci vole à avè una grande imaginazione per ùn avè à andà à travaglià. Hè ancu un sport naziunale. 
+U situ Career Builder hà fattu a so inchiesta nant'à e scuse di quelli chì ùn si volenu micca arrizzà a matina. 
+Ma fate pianu, 10% di i patroni dicenu ch'elli anu digià licenziatu i so impiegati chì anu truvatu una scusa troppu goffa. 
+Attenzione dinù à e scuse chì voltanu troppu spessu. Per esempiu, circate d'ùn interrà micca a vostra mammone dece volte in l'annata... 
+Eccu e scuse e più strane chì sò digià state avanzate. Sò tutte vere : 
+Ùn possu micca vene chì mi sò bluccatu u pede in u cabinettu Sta mane m'anu lampatu un nànnulu di giardinu pè a finestra Ùn vengu micca chì mi sò fattu male à l'anca currendu appressu à u mo cane chì vulia attaccà un cunigliulu Ùn possu micca vene, mi tocca à purtà à a mo mamma à fà e cummissioni  À i Stati Uniti, ùn sò micca male non più : 
+Ùn possu micca vene chì una ghjallina hà attaccatu a mo mamma Mi sò bluccatu un ditu in una balla di bowling Ùn possu micca vene chì oghje ùn sò micca intelligente Oghje ùn vengu micca à travaglià chì aghju una vacca chì hè entrata in casa  Ma u peghju hè forse l'impiegatu chì hà chjamatu u so patrone à 5 ore di matina in un bar per dì ch'ellu era malatu... 
+È voi, chì sò e peghju scuse ch'è vo avete truvatu o intesu per ùn andà à travaglià ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

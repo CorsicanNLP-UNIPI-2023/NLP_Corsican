@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     L'insignamentu bislingu, basta !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/L-insignamentu-bislingu-basta-_a1602.html"/>
+     <date>
+      Wed, 10 Jul 2013 15:00:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       TRIBUNA-DI-I-LETTORI-AZEZI
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    L'insignamentu bislingu, basta !
+   </head>
+   <div type="excerpt">
+    <p>
+     Avemu ricevutu sta lettera. In qualchì locu in Corsica, una merria pruibisce e scrizzioni à una scola bislingua tocchi i 25 sculari. A lingua corsa và bè, ma micca troppu non più.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'insignamentu bislingu in u primariu saria vittima di u so successu è di a cunneria di i nostri eletti ? In una scola di Corsica, quandu 25 zitelli sò scritti, l'altri sò ricusati. Avemu ricevutu sta lettera chè no publichemu. 
+b[Ricusatu l'accessu à un insignamentu bislingu ! 
+À l'alba d'una sucetà nova è bislingua, o hè quellu ch'omu credulu pensa, a lingua corsa hè sempre maltrattata. 
+Corpi d'insignanti (maestri è prufessori) danu di u so tempu è di a so mutivazione per tramandà à i so allevi. Ma cumu spiegà u doppiu discorsu di certi eletti di certe municipalità? 
+Mentre chì certi pruponenu una scelta linguistica da u primariu à i parenti, in l'altru l'amministrazione si permette, senza cunsultà e scole o seguità l'istruzzione, di... ricusà l'accessu in scola bislingua à i zitelli è parenti chì u dumandanu. 
+È solu perchè anu decisu una limita di zitelli in scola bislingua... allora chì i maestri ùn si ne facenu un prublema. 
+Ma cosa vole dì ? Si parla di sucetà bislingua ma si dice di nò à famiglie chì volenu integrà è amparà a nostra lingua ! Insignanti sò investuti è li si caccia u publicu ! Si dice ch'ellu ci vole à salvà a lingua, è certi burocratichi passanu daretu èsguassanu u travagliu fattu... 
+Una bella prova di e cuntradizione lucale. Salvemu a lingua è femula campà... ma micca non troppu più !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

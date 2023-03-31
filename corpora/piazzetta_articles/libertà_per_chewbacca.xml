@@ -1,0 +1,75 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Libertà per Chewbacca
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Liberta-per-Chewbacca_a2284.html"/>
+     <date>
+      Mon, 26 Oct 2015 23:33:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Libertà per Chewbacca
+   </head>
+   <div type="excerpt">
+    <p>
+     U pilutu di Star Wars s'hè fattu arrestà da a pulizza in Ucraina per una storia di campagna eletturale. Circava di cunvince l'elettori di vutà per un certu Dark Vador.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U peghju in sta storia hè ch'ella ùn hè mancu una magagna. 
+Ci truvemu in a cità d'Odessa, u 25 d'ottobre. Hè ghjornu d'elezzione municipale, hè si presenta un certu Dark Vador, ci dice u situ Russia Today. 
+Sapete, l'Ucraina hè stu paese stranu induve esiste un Partitu ucrainianu di l'internet chì presenta à Dark Vador à ogni scrutinu. Annu passatu, u sgiò Vador era andatu à a presidenziale. 
+È quand'ellu sorte in carrughju, hè quantunque altr'affare ch'è José Rossi nant'à u so trattore :
+    </p>
+    <p>
+     Dunque, dumenica scorsa, u capimachja di u clanu hà fattu u so giru cun u so amicu pillicciutu. Ma a lege ucraniana pruibisce di fà campagna u ghjornu di u scrutinu, è s'hè fattu arrestà da a pulizza. 
+L'arrestazione hè stata filmata :
+    </p>
+    <p>
+     Dopu à a so guardia à vista, ùn era più frescu frescu :
+    </p>
+    <p>
+     Chewbacca appears in Odessa court after being detained by police. Released with a warning. https://t.co/Mb2B7clV5Z pic.twitter.com/AezmqvgGxE
+— Christopher Miller (@ChristopherJM) 25 Octobre 2015
+    </p>
+    <p>
+     Hè statu cundannatu à un'amenda di 6,8 € per u so cumpurtamentu cù a pulizza. Pocu dopu, hè statu cappiatu. 
+Pare chì sta volta, Paul Giacobbi è Mimi Viola ùn ci sianu per nunda.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

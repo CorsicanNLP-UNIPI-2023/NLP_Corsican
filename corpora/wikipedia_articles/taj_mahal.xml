@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Taj Mahal
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Taj%20Mahal"/>
+     <date>
+      2015-05-08T20:04:27Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Taj Mahal
+   </head>
+   <p>
+    U Taj Mahal hè u più munimentu celebre di l'India è sicuramente unu di i più cunnisciuti in u mondu. Fù custruitu trà u 1631 è u 1653.
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Architittura
+   </p>
+  </body>
+ </text>
+</TEI>

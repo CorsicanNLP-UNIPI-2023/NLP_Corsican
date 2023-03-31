@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     À Zlatan li piacenu e cacahuètes di Furiani
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-Zlatan-li-piacenu-e-cacahuetes-di-Furiani_a1773.html"/>
+     <date>
+      Sun, 04 May 2014 18:41:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    À Zlatan li piacenu e cacahuètes di Furiani
+   </head>
+   <div type="excerpt">
+    <p>
+     Era smarita, ma hè vultata. Eccu a videò di Zlatan chì manghja e so cacahuètes in Furiani.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Dop'à a videò di Dani Alves chì manghja una banana chì li hè stata mandata, eccu à quella di Zlatan in Furiani. 
+Era l'ottu marzu scorsu, ma a videò di Turchini TV era stata cacciata. Eccula quì di ritornu. 
+L'azzione si passa ghjustu nanz'à un corner tiratu sott'à a tribuna Est. Ibrahimovic avia passatu a so partita à marchjà è dava l'impressione ch'ellu si spassighjava. 
+Ciò chì ùn avia impeditu u PSG di vince (3 à 0) è Zlatan di marcà un but. 
+Quist'annu chì vene, ci vulerà à pruvà altr'affare...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

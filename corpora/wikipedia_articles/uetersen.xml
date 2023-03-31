@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Uetersen
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Uetersen"/>
+     <date>
+      2014-03-23T15:08:41Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Uetersen
+   </head>
+   <p>
+    Uetersen hè una cità di a Germania. Teni 17.865 abitanti.
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    U situ ufficiali
+   </p>
+   <p>
+    Uetersen
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U dibattitu di l'annu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-dibattitu-di-l-annu_a2306.html"/>
+     <date>
+      Sun, 06 Dec 2015 11:44:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       VIDEO
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U dibattitu di l'annu
+   </head>
+   <div type="excerpt">
+    <p>
+     Sunniavate d'un dibattitu trà Christophe Canioni, Caroline Bartoli è Georges Benedetti ? Ecculu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Quale averà fattu stu muntagiu ? Ci vole à felicità u so autore chì hà messu u filmettu nant'à YouTube (innò ùn semu micca noi !). 
+Siguramente u più grande mumentu di a campagna.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

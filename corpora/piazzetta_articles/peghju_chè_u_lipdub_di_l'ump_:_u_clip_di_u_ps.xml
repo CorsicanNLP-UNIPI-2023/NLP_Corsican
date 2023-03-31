@@ -1,0 +1,76 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Peghju chè u lipdub di l'UMP : u clip di u PS
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Peghju-che-u-lipdub-di-l-UMP-u-clip-di-u-PS_a1257.html"/>
+     <date>
+      Fri, 27 Jan 2012 09:34:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Peghju chè u lipdub di l'UMP : u clip di u PS
+   </head>
+   <div type="excerpt">
+    <p>
+     Trà a Macarena, Las Ketchup è a tecktonik, eccu u gestu di campagna di François Hollande.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     V'arricurdate di l'orrìbile lipdub di l'UMP ? Pensavamu tutti ch'ellu era impussibule di fà peghju. 
+Ebbeh nò, a squadra di campagna di François Hollande hà trovu mezu d'esse ancu più ridìculu. Anu battizatu stu cosu "le geste de ralliement de François Hollande". 
+Ùn si sà micca ciò ch'ellu significheghja, ma i puveretti di Gérard Darmon, Benjamin Biolay, Harlem Désir o ancu u disgraziatu di Jack Lang si ritrovanu in stu scumpientu di u net. Da vede quì. 
+I corci. 
+Speremu chì a campagna di e legislative corse serà cusì ricca. À quandu u "gestu di campagna" di Jean-Christophe, Camillù, Sauveur, Gilles, Simon o Jean-Jean ?
+    </p>
+    <p>
+     Le changement, c'est maintenant: le signe de... par francoishollande
+    </p>
+    <p>
+     Serà forse a canzona di Las Ketchup, Asereje chì hà datu l'ispirazione à l'autori ?
+    </p>
+    <p>
+     O forse a curegrafia di a Macarena ?
+    </p>
+    <p>
+     O u haka neozelandese ?
+    </p>
+    <p>
+     O ancu a canzone di u gruppu The Bangles, Walk like an Egyptian ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

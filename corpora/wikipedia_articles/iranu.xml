@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Iranu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Iranu"/>
+     <date>
+      2019-01-21T06:15:44Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Iranu
+   </head>
+   <p>
+    L'Iranu (o l'Iran) hè un paese in Asia.
+   </p>
+   <p>
+    == Da vede dinò ==
+   </p>
+   <p>
+    Abu Nuwas
+   </p>
+   <p>
+    Aiat Fayez
+   </p>
+   <p>
+    Asia
+   </p>
+  </body>
+ </text>
+</TEI>

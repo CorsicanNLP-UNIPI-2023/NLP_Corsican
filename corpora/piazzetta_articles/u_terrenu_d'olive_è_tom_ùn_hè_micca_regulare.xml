@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U terrenu d'Olive è Tom ùn hè micca regulare
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-terrenu-d-Olive-e-Tom-un-he-micca-regulare_a1639.html"/>
+     <date>
+      Fri, 15 Nov 2013 10:11:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U terrenu d'Olive è Tom ùn hè micca regulare
+   </head>
+   <div type="excerpt">
+    <p>
+     Terribule dillusione ! Un fan giappunese hà calculatu : u terrenu di u dissegnu animatu feria 18 chilometri.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     http://www.huffingtonpost.fr/2013/11/14/olive-tom-etudiant-japonais-calcule-longueur-du-terrain-de-football_n_4275824.html
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

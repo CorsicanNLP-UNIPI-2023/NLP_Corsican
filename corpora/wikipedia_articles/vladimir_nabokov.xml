@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vladimir Nabokov
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Vladimir%20Nabokov"/>
+     <date>
+      2015-07-02T15:56:17Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Vladimir Nabokov
+   </head>
+   <p>
+    Vladimir Vladimirovitch Nabokov hè un scrittore rùssiu natu in Sankt-Peterbourg u 22 d'aprile 1899 è mortu in Lausanne u 2 di lùgliu 1977. Hè diventatu mundialamente cunnisciutu incù u so capu d'òpara, Lolita (1955).
+   </p>
+   <p>
+    Biugrafia
+   </p>
+   <p>
+    Russiu
+   </p>
+   <p>
+    Scrivanu
+   </p>
+  </body>
+ </text>
+</TEI>

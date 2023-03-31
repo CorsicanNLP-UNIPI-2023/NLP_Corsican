@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Un ghjattu face scappà u cane è salva un zitellu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-ghjattu-face-scappa-u-cane-e-salva-un-zitellu_a1806.html"/>
+     <date>
+      Thu, 15 May 2014 13:29:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Un ghjattu face scappà u cane è salva un zitellu
+   </head>
+   <div type="excerpt">
+    <p>
+     Trimate canacci, Supermisgiu hè quì.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Barksfield, California : e camerà di surveglianza anu surpresu un canacciu agressivu cù un zitellucciu in bicicletta. 
+Ancu di grazia, Supermisgiu era quì. Un ghjattu eroe ghjuntu d'ùn si sà induve face scappà u cane è salva u zitellu. Ùn ci serà nisuna ferita grave per ellu. 
+Ma chì face a pulizza ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

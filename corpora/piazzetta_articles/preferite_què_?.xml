@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Preferite què ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Preferite-que_a1266.html"/>
+     <date>
+      Mon, 06 Feb 2012 02:10:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Preferite què ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Vi lagnate di u fretu, di a neve, di a "température ressentie", di sapè s'ellu si puderà francà à Vizzavona ? Ùn vi ne fate, da quì à sei mesi, vi lagnerete di què...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Francamente, ùn si stà megliu d'inguernu ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

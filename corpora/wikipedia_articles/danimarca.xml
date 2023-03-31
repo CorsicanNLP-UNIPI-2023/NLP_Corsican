@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Danimarca
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Danimarca"/>
+     <date>
+      2018-06-06T18:25:46Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Danimarca
+   </head>
+   <p>
+    A Danimarca hè un paese situatu in Europa.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Jacob Ellehammer
+   </p>
+   <p>
+    Nuuk
+   </p>
+   <p>
+    Unioni Auropea
+   </p>
+  </body>
+ </text>
+</TEI>

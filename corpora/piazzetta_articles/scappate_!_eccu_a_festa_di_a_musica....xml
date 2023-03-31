@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Scappate ! Eccu a festa di a musica...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Scappate--Eccu-a-festa-di-a-musica_a858.html"/>
+     <date>
+      Thu, 21 Jun 2012 13:19:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Scappate ! Eccu a festa di a musica...
+   </head>
+   <div type="excerpt">
+    <p>
+     Sonò pùzziche, vuciacce di cazzerole, gruppi indegni, musicanti depressivi in birkenstock, canzunacce fràciche... A "fête de la musique" marca l'entrate in a sinistra stagione di l'estate.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In a grande lista di e cunnerie di l'estate (cù u 14 juillet, i turisti rossi inciapati, u beach soccer, i camping-cars è u barbecue), a cusì detta "Fête de la Musique" figura in bona piazza. 
+L'idea pare simpàtica à principiu (festighjà a musica, perchè micca ? si festighjeghja bè a battaglia di Ponte Novu) ma in fatti sta carnavalata face parte di e grandi evenimenti ch'ellu ci vole à evità. 
+Prima ci hè u mondu. Una mansa di ghjente chì si trascineghja ore sane in ricerca d'ùn si sà chè. Ùn si vedenu di l'annu ma pè a "Fête de la musique" sortenu a so facciaccia. 
+I turisti calchi di Biafine è i pumataghji in ciavatte s'imbuleghjanu à i Corsi à l'oziu, azezi è famiti. 
+Dopu ci hè a musica. Infine, a musica... un trostu cuntinuu risorte da stu carnavale di rimore. 
+E sonò di i hardos cughjosi si mischjanu à a curale di i vechji cucchi. A fanfara di a pulizza s'imbuleghja cù u r'n'b è u rap di u 9-3. 
+À mezu, un gruppu di corsi depressivi in birkenstock canta "Solenzara" è "Compañero" à u rìtimu di e riprese di a "Compagnie Créole" ghjustu à cantu. 
+Più luntanu, eccu a puluzione suprema : e riprese di Sardou, Claude François è Christophe Maé da un disgraziatu à coda di cavallu chì pensa fà carriera dopu à essesi fattu lampà da tutti i castings di a creazione. Ma a so vuciaccia hè ricuperta da i djembés è ùn hè mancu più male. 
+Dopu, e briunate di u "gulturel" chì hà amparatu "Populuviv'" è "Gatena" in yaourt è chì pensa "se gaver" fendu a stagione in e pizzerie... 
+L'avemu da rigretà i vuvuzela. Chì ci hè cum'è macci sta sera ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

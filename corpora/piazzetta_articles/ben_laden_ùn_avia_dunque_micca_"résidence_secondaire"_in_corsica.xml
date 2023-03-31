@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ben Laden ùn avia dunque micca "résidence secondaire" in Corsica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ben-Laden-un-avia-dunque-micca-residence-secondaire-in-Corsica_a1092.html"/>
+     <date>
+      Tue, 03 May 2011 00:11:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ben Laden ùn avia dunque micca "résidence secondaire" in Corsica
+   </head>
+   <div type="excerpt">
+    <p>
+     Una villà di lussu in un quartieru tranquillu, muri alti di sei metri è videosurveglianza : ùn semu micca ind'è Christian Clavier ma in Abbottabad, induve si piattava Ussamà.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A panetta hè dunque stata più forte ch'è Al-Qaida. Era Leon Panetta, u direttore di a CIA chì avia a respunsabilità di l'operazioni è chì hà sceltu di lampà u ben' di Ben Laden à u mare. 
+Ussamà si piattava dunque in una casa presentata in tutti i media cum'è grande, esposta à u sole, lussuosa, vicina da un golf, in un quartieru burghese d'Abbottabad, cità tranquilla di Pakistanu. Guasi a descrizzione di a casa di Dalida di Marina di Fiori in Portovèk. 
+Purtantu, si pudia pensa chì ellu dinù, cum'è tante è tante croce, averia avutu a so "résidence secondaire en Keurse" cum'è Bernard Kouchner, Titof, Muriel Robin o Philippe Gildas... 
+Ma nò, hà sceltu u Pakistanu, cù u successu ch'ellu si sà. 
+Dopu à u bellu matrimoniu di i bravi, eccu chì tocca à u capimachja di i gattivi di more... L'attualità hè scritta da i Bisounours o chè sta settimana ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

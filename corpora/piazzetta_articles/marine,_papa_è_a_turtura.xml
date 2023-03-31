@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Marine, Papa è a turtura
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Marine-Papa-e-a-turtura_a2069.html"/>
+     <date>
+      Thu, 11 Dec 2014 14:10:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Marine, Papa è a turtura
+   </head>
+   <div type="content">
+    <p>
+     Dura, dura di trattenesi…  Di prisintà a faccia liscia di u candidatu demucraticu chì tene caru à tutti. 
+Marine ùn hè pussuta stà. Quandu i giurnalisti l’anu stuzzicata pà e turture di a CIA, hà parlatu u sangue. 
+Da u bughju fondu di a so cuscenza più arcana, l’hè cullata in bocca una vampata di stintu. Ah, quelle sale bughje chì si straziavanu i beati prigiuneri di u FLN, durante a battaglia d’Algeri ! Papa, à core alegru, turturava à turturera. Oh sangula, campazione quelli tempi ! Avà, o monsieur, capite, ùn ci hè più cà manzette, vizzette è omi chì parenu dunnarelle. 
+Sciuttati, drugati, omosessuali è robba di forca ! 
+Allora ch’ella sia detta, ricurdemu dui pruverbii chì parenu adatti in què a situazione, per insignà u razzinu è l’amore fidu chì corre trà babbu è figliola : 
+- Chì di ghjallina nasce, in terra ruspa.  - Da u legnu sorte u steccu.  - Tal calzu, tal magliolu, tal babbu tal figliolu. 
+Infine, pè iss’ultimu, ci vularia à infiminì l’ultima parolla…  Cara, Marine di Papa !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

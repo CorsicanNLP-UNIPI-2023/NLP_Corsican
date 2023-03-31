@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Avemu ritruvatu i denti di Battiston
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Avemu-ritruvatu-i-denti-di-Battiston_a1845.html"/>
+     <date>
+      Thu, 29 May 2014 01:47:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Avemu ritruvatu i denti di Battiston
+   </head>
+   <div type="content">
+    <p>
+     A mezafinale di cuppa di u mondu Francia - RFA 1982 ferma sempre cum'è un sunniacciu per millaie di Francesi. 
+U scenariu (A Francia vincia 3 à 1 in a prulungazione nanzu di fassi richjappà), l'attentatu di Schumacher nant'à Battiston, l'inghjustizia (nè penalty, nè mancu un cartone giallu), l'attitutine anti-fair play di u guardianu alemanu (hà passatu a partita à magagnà i Francesi è ùn hà mancu un sguardu per u ghjucadore ch'ellu hà mandatu à l'ospidale...) facenu di sta partita unu di i più grandi maccioni di a storia di a cuppa di u mondu. ` 
+"Si c'était à refaire, je le referais", hà ancu dettu Schumi pocu tempu fà. 
+U giurnale The Guardian ne parla oghje, chì l'hà piazzatu in i so 25 più grandi mumenti di a cuppa di u mondu. 
+È s'ampara chì i denti di Battiston sò stati ritruvati è ch'elli sò stati mustrati... in un museu di Berlinu.
+    </p>
+    <p>
+     Sti denti anu fattu perde una cuppa di u mondu à a Francia :
+    </p>
+    <p>
+     A seguita a conta Schumacher à u Figaro : 
+"A l'issue du match, un journaliste m'a intercepté pour m'informer que Battiston avait perdu deux dents. J'étais soulagé car j'avais peur que cela soit beaucoup plus grave. Je lui ai alors répondu: S'il n'y a que ça, je lui payerai les frais de dentiste."
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

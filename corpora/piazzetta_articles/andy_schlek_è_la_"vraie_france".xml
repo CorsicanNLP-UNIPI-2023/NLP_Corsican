@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Andy Schlek è la "vraie France"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Andy-Schlek-e-la-vraie-France_a1597.html"/>
+     <date>
+      Tue, 02 Jul 2013 10:57:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Andy Schlek è la "vraie France"
+   </head>
+   <div type="excerpt">
+    <p>
+     In Corsica ùn ci sò passati chè trè ghjorni. Ma i ciclisti di u giru di Francia anu capitu ch'ellu ùn hè micca veramente u listessu paese.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè Andy Schlek chì parla à a fine di a terza tappa è di piglià l'aviò per Nizza : 
+« L'équipe était très bien, moi bien également. Les premiers jours étaient piégeux, j'aborde la " vraie " France avec beaucoup de motivation. Je peux commencer mon Tour de France… » 
+Averà vulsutu dì ch'ellu ci hè dunque una "vera" Francia, è una Francia chì ùn hè micca cumplettamente francese ? 
+Andy Schlek hà fattu parte d'una squadra CSC. Forse una spiegazione. 
+"On a pas le même maillot, mais on a la même passion", dicia quellu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

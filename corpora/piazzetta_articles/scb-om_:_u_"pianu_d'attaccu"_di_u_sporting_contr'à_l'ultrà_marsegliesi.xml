@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     SCB-OM : u "pianu d'attaccu" di u Sporting contr'à l'ultrà marsegliesi
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/SCB-OM-u-pianu-d-attaccu-di-u-Sporting-contr-a-l-ultra-marsegliesi_a1929.html"/>
+     <date>
+      Mon, 11 Aug 2014 13:31:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    SCB-OM : u "pianu d'attaccu" di u Sporting contr'à l'ultrà marsegliesi
+   </head>
+   <div type="excerpt">
+    <p>
+     Ùn semu ancu à sorte di a quarta dimensione in l'affare di l'incidenti di Bastia - Marseglia. In un cummunicatu, u gruppu ultrà marsegliese di i South Winners mette in causa u Sporting.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U cummunicatu hè publicatu nant'à u situ di i Winners. 
+Principia forte : Nous tenons à apporter des explications suite à la désinformation totale sur le sujet face au silence de la Préfecture, de certains journalistes et surtout du Sporting Club de Bastia. 
+Cuntinuvemu : 
+Mais c’est après la rencontre que le plus grave va se passer. Le silence des médias sur cet épisode est assez troublant. Un bon nombre était encore présent en tribune de presse quand le « caillassage » du parcage marseillais a commencé. Pendant plus de 30 minutes, sans aucune intervention des forces de l’ordre, les 90 supporters marseillais coincés dans leur cage vont subir des rafales de cailloux venant de la voie ferrée qui longe le stade de Furiani. Un stadier de l’OM sera blessé à la tête. Pendant ce temps, sur la pelouse, des dizaines de stadiers du Sporting Club de Bastia vont se réjouir de la situation, continuant au passage de glisser quelques observations primaires, le sourire aux lèvres ! Puis c’est au tour de dizaines de bombes agricoles de venir s’échouer dans la tribune. La tension monte et un responsable de la sécurité de Bastia va jusqu’à se permettre de mettre des coups de pieds dans les grilles en proférant des menaces. 
+Vene u più interessante : 
+Du haut de la tribune nous allons alors observer une scène surréaliste. Ce même responsable, accompagné de plusieurs stadiers, va aller discuter avec les supporters bastiais en dehors du stade pour mettre au point un plan d’attaque et leur ouvrir les grilles. Quelques minutes plus tard, armés de bâtons, de fumis et de bombes agricoles, ces mêmes supporters bastiais, mécontents de ne pas nous avoir atteints de l’extérieur, vont se retrouver dans le stade à côté du parcage marseillais. D’un côté, 90 personnes impuissantes dans une cage, et de l’autre, des supporters armés et des stadiers agissant aux yeux de tout le monde, dont le délégué de la LFP, en toute impunité ! Un délégué de la LFP qui va d’ailleurs profiter d’une accalmie pour oser venir nous expliquer que nous sommes en sécurité dans le parcage et qu’il fallait ne pas répondre aux provocations et attendre que la situation s’apaise. Nous lui avons rétorqué de venir attendre avec nous dans le parcage si la sécurité était optimale. Le sourire aux lèvres, accompagné d’un responsable du club de Bastia, il déclina notre invitation. Notre situation ne semblait pas lui déplaire. 
+Un "pianu d'attaccu" di i sustenidori di l'OM, preparatu da a securità di u club bastiacciu ? Piola ! C'interessa è vulemu sapenne di più.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

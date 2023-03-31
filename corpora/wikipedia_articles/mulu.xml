@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mulu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Mulu"/>
+     <date>
+      2013-03-06T23:45:13Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Mulu
+   </head>
+   <p>
+    U mulu (Equus mulus) hè un mammiferu inghjennatu da una ghjumenta (una cavadda) è un sumere. Lu cuntrariu, veni à dì u mammiferu inghjennatu da una sumera è un cavaddu, si chjama arcimulu (Equus hinny). A femina di u mulu hè chjamata mula.
+   </p>
+  </body>
+ </text>
+</TEI>

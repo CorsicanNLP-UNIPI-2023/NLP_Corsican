@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Alte Voce
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Alte%20Voce"/>
+     <date>
+      2019-10-03T11:16:35Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Alte Voce
+   </head>
+   <p>
+    L' Alte Voce sò un gruppu di cantu di Corsica.
+   </p>
+   <p>
+    == Discografia ==
+   </p>
+   <p>
+    == Referenze ==
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Gruppu di cantu di Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

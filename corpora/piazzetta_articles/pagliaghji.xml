@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pagliaghji
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Pagliaghji_a2647.html"/>
+     <date>
+      Tue, 19 Sep 2017 11:27:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pagliaghji
+   </head>
+   <div type="content">
+    <p>
+     "c'est une architecture populaire et anonyme, en ce sens qu'elle est l'oeuvre non pas d'architectes (comme c'est le cas des bâtiments religieux, militaires et civils et pour édifier des édifices plus complexes et plus rares comme les palazzi) mais de paysans ou de maçons détenteurs d'une tradition d'autoconstruction" 
+"Le patrimoine qui nous a été légué, et qui fait l'objet de cette publication, est en train de disparaitre très rapidement. Si l'initiative individuelle permet de conserver ici et là les plus beaux spécimens, souvent restaurés et aménagés desormais par des citadins, par contre les modestes cabanes de cultivateurs, les simples murs des terrasses s'écroulent faute d'entretien ou sont détruits lors des transformations des paysages ruraux et sous les coups du vandalisme humain. Ce processus quasi-général de destruction ou de ruine devient en leitmotiv chez nombre d'auteurs récents. Il est manifestement grand temps de réagir avant que des dégâts irréparables n'interviennent . Mais peut-on espérer grand chose d'une société si peu soucieuse de son patrimoine architectural et archéologique ?"
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

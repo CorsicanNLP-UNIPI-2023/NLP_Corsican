@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Truvate u sbagliu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Truvate-u-sbagliu_a1125.html"/>
+     <date>
+      Mon, 27 Jun 2011 23:49:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Truvate u sbagliu
+   </head>
+   <div type="excerpt">
+    <p>
+     Quandu Frédéric Mitterrand vene in Bastia, e bandere sò di surtita. Ma micca tutte.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Pè e grande occasioni, i carrughji di Bastia sò decurati di belle bandere. Ci n'hè di parechje sorte (di a cità, di l'Auropa, di a Francia, di a Corsica...), ma in fatti ci n'hè sopr'à tuttu una. 
+À tè di truvà qualessa.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

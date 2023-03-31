@@ -1,0 +1,80 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     François Damiens in Corsica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Francois-Damiens-in-Corsica_a2029.html"/>
+     <date>
+      Wed, 19 Nov 2014 07:30:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    François Damiens in Corsica
+   </head>
+   <div type="excerpt">
+    <p>
+     François Damiens hè tontu liatoghju è hè da piglià à pattoni. A saperanu quelli chì l'anu cruciatu ind'è noi, chì hà esciutu un DVD di "caméra cachée" da sbillicassi.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Tinti à quelli chì anu avutu a sfurtuna di cruciallu. Cun François Damiens ci sò duie suluzione. Sia riesce à favvi fà n'importa chè, sia vi face arrabbià è vulete pigliallu à cazzotti. 
+Attenti spoiler : ùn s'hè micca fattu minà, ma hè passata vicinu. 
+Perchè stu tippu hè scemu compiu. L'attore chì s'hè fattu cunnosce cù e so famose "caméras planquées" prima in Belgica è dopu in Francia avia prevenutu ch'ellu vulia vene à stuzzicà i Corsi. Ci l'hà fatta. 
+À u situ 20 Minutes spiega ch'ella ùn s'hè micca passata sempre bè. 
+Bon, in verità stuzzica assai i turisti dinù. È parechje scene di u so DVD in Corsica sò da sbillicassi. 
+Per disgrazia per elli, Fanfan Tagliaglioli u presidente di u GFCA, Maestru Spadoni (per i più cunnisciuti...) si sò fatti intrappulà...
+    </p>
+    <p>
+     François Damiens en Corse - Coming out (Bonus) par Spi0n
+    </p>
+    <p>
+     François l'Embrouille - Radio Corse 2 (Caméra... par Legend_Music
+    </p>
+    <p>
+     François l'Embrouille - Radio Corse 1 (Caméra... par Legend_Music
+    </p>
+    <p>
+     François l'Embrouille - La boucherie (Caméra... par Legend_Music
+    </p>
+    <p>
+     François l'Embrouille - L'armurerie (Caméra... par Legend_Music
+    </p>
+    <p>
+     François l'Embrouille - La casse automobile... par Legend_Music
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

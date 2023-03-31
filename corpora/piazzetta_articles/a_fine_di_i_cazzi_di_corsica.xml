@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A fine di i cazzi di Corsica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-fine-di-i-cazzi-di-Corsica_a1221.html"/>
+     <date>
+      Mon, 28 Nov 2011 14:18:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A fine di i cazzi di Corsica
+   </head>
+   <div type="excerpt">
+    <p>
+     Postu ch'ella hè stata dichjarata a guerra à i minchji è ch'elli sò un'offesa à i valori di Corsica, forse ci vulerà à taglialli tutti. Eccu ne unepochi.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Eccu, ci semu. Avà ancu a strema diritta è l'identitarii francesi anu ripliatu a storia di u ritrattu satànicu di Corti è a framassuneria hè accusata d'esse à l'orìgine di u cumbugliu (abbastanza !). 
+In quant'à noi, ci cuntenteremu di dumandacci s'ellu ci vole à caccià tutti i simboli fàllichi di u nostru paese. 
+Sta storia hà un meritu : almenu, tantu ch'ellu si parla di minchji, di religione, di cazzi, d'identità è di valori cristiani di a Corsica, ùn si parla micca di tuttu u restu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

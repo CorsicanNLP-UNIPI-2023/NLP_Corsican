@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ludwig van Beethoven
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Ludwig%20van%20Beethoven"/>
+     <date>
+      2015-07-06T12:02:42Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ludwig van Beethoven
+   </head>
+   <p>
+    Ludwig van Beethoven natu à Bonn u 16 dicembre di u 1770 è mortu à Vienna u 26 marzu di u 1827 hè statu uni di i più impurtanti cumposidori di a storia di a musica.
+   </p>
+   <p>
+    == Opere principali ==
+   </p>
+   <p>
+    9 sinfunie
+   </p>
+   <p>
+    5 cuncerti per pianuforte è urchestra
+   </p>
+   <p>
+    1 cuncertu per violinu è urchestra
+   </p>
+   <p>
+    32 sonate per pianuforte
+   </p>
+   <p>
+    10 sonate per pianuforte è violinu
+   </p>
+   <p>
+    5 sonate per pianuforte è violuncellu
+   </p>
+   <p>
+    Fidelio (opera lirica)
+   </p>
+   <p>
+    Musicante
+   </p>
+  </body>
+ </text>
+</TEI>

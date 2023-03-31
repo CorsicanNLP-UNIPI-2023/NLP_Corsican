@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Seattle
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Seattle"/>
+     <date>
+      2019-01-16T00:18:10Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Seattle
+   </head>
+   <p>
+    Seattle hè una cità di i Stati Uniti.
+   </p>
+   <p>
+    Tene 602.222 abitanti.
+   </p>
+   <p>
+    ==Geografia==
+   </p>
+   <p>
+    A zona oraria di Seattle hè nove ore à l'uvestu di u meridianu di Greenwich.
+   </p>
+   <p>
+    A cità si trova in u Statu di Washington.
+   </p>
+   <p>
+    Stati Uniti d'America
+   </p>
+  </body>
+ </text>
+</TEI>

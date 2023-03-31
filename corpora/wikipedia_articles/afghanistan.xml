@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Afghanistan
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Afghanistan"/>
+     <date>
+      2016-08-23T09:22:56Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Afghanistan
+   </head>
+   <p>
+    L'Afghanistan hè un paese in Asia, grande 652.864 km², incù 32.564.342 abitanti (2015).
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Mazar-i Sharif
+   </p>
+   <p>
+    Asia
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Kevin McDonald
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Kevin%20McDonald"/>
+     <date>
+      2015-07-01T19:37:50Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Kevin McDonald
+   </head>
+   <p>
+    Kevin Hamilton McDonald hè un attore canadianu.
+   </p>
+   <p>
+    McDonald, Kevin
+   </p>
+  </body>
+ </text>
+</TEI>

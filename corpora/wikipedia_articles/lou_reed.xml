@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lou Reed
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Lou%20Reed"/>
+     <date>
+      2013-12-02T10:48:10Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lou Reed
+   </head>
+   <p>
+    Lewis "Lou" Allan Reed (New York, 2 di marzu 1942, Long Island, 27 uttobre 2013) hè statu un musicante è cumpositore americanu famosu cume solista è cumpunente di u gruppu di i Velvet Underground.
+   </p>
+  </body>
+ </text>
+</TEI>

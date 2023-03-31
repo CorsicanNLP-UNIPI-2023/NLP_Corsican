@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     François Quesnay
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Fran%C3%A7ois%20Quesnay"/>
+     <date>
+      2019-08-15T11:29:21Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    François Quesnay
+   </head>
+   <p>
+    François Quesnay (4 ghjugnu 1694, 16 dicembre 1774) fù un economistu francese di a scola di i fisiocrati. Hè cunnisciutu pè avè publicatu u "Tableau Économique" (Tavulone Economicu) in 1758, chi pose e base di l'idee fisiocrate. Era ancu prubabilmente a prima prova di fà u riassuntu di u funziunamentu di l'economia di manera glubala, è analitica. Hè dunque una contribuzione maiò à u pinsamentu economicu.
+   </p>
+  </body>
+ </text>
+</TEI>

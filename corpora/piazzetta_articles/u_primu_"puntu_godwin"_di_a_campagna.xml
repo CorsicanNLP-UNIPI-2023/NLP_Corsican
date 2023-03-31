@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U primu "puntu Godwin" di a campagna
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-primu-puntu-Godwin-di-a-campagna_a1687.html"/>
+     <date>
+      Mon, 03 Mar 2014 20:50:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MUNICIPALI-2014
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U primu "puntu Godwin" di a campagna
+   </head>
+   <div type="excerpt">
+    <p>
+     "Le simeonisme prend sa source dans la collaboration avec l'Italie mussolinienne". Ma chì li serà pigliatu à Jean Zuccarelli è à Francis Riolacci oghje ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A regula di a "lege di Godwin" hè una teuria nata nant'à internet à u principiu di l'anni 90. 
+Dice chì più una discussione dura in u tempu, più cresce a prubabilità di vede unu di i dibattori fà un paragone cù Hitler, u fascisimu o i nazis. In generale, vene quandu u tippu ùn hà più nisun argumentu. Si dice tandu, pè ridesine, chì quellu chì face u paragone vince un "puntu Godwin". 
+U puntu Godwin di u ghjornu hè dunque vintu da Francis Riolacci, chì in una cunferenza di stampa propiu stunante a s'hè cacciata cù "l'idéologie du siméonisme" (sic). U resucontu da vede nant'à u situ di France 3 Corse o quellu di Corse Net Infos. 
+Zuccarelli è Riolacci anu surpresu à tuttu u mondu, attaccandu cun forza à Gilles Simeoni in sti termini : "le siméonisme, cette idéologie dangereuse fondée sur la complaisance avec le terrorisme (...) qui prend sa source dans la collaboration avec l'Italie mussolinienne" 
+Vi và ? 
+Sta dichjarazione hà fattu parlà a ghjurnata sana nant'à Twitter. Ma quessa, ne parleremu in un altru articulu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

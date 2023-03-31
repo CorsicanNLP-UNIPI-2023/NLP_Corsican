@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Site prevenuti, à Fillon li piace pocu a lingua corsa
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Site-prevenuti-a-Fillon-li-piace-pocu-a-lingua-corsa_a2489.html"/>
+     <date>
+      Mon, 28 Nov 2016 13:17:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Site prevenuti, à Fillon li piace pocu a lingua corsa
+   </head>
+   <div type="excerpt">
+    <p>
+     Serà forse ellu u presidente di a republica. Si parla d'ellu cum'è un cunservatore è un liberale. Per ciò chì hè di a lingua corsa, ci vole à dì ch'ellu li garba pocu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Era di dicembre di u 2015, dop'à l'elezzione di i naziunalisti à l'assemblea di Corsica. In e numerose riazzione dop'à u discorsu in lingua corsa di u presidente Talamoni, François Fillon avia mandatu un cummunicatu abbastanza azezu. 
+"Le prononcé d'un discours inaugural dans une langue qui, à ce jour, n'est pas celle de la République, la référence à des prisonniers politiques dont le Premier ministre a rappelé récemment qu'ils n'existaient que dans l'imagination des nationalistes, et plus encore les insultes faites à l'histoire de notre pays méritent de la part du chef du gouvernement un ferme rappel à la loi et de la part du chef d'Etat une réaction claire concernant l'unité de la nation française" 
+Chì serà "une réaction claire" ? Un pattone ? U GIGN ? Un embargo ?
+    </p>
+    <p>
+     Nationalisme corse : Fillon appelle Hollande à fournir "une réaction claire" &gt; https://t.co/QlGFQFbJh1 pic.twitter.com/Z2BoCPb6a1
+— Atlantico (@atlantico_fr) 19 décembre 2015
+    </p>
+    <p>
+     Ma rassiguratevi, era listessa pè Juppé. 
+N'aviamu parlatu quì : "Corsi, statevi zitti" : e peghju riazzione
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

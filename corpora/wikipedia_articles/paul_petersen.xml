@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Paul Petersen
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Paul%20Petersen"/>
+     <date>
+      2016-06-12T00:50:39Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Paul Petersen
+   </head>
+   <p>
+    William Paul Petersen hè un attore americanu.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Listinu di l'attori americani
+   </p>
+   <p>
+    Petersen, Paul
+   </p>
+   <p>
+    Petersen, Paul
+   </p>
+  </body>
+ </text>
+</TEI>

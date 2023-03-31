@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     L'amnistia di i prigiuneri corsi vutata da... u cunsigliu municipale di Sassari
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/L-amnistia-di-i-prigiuneri-corsi-vutata-da-u-cunsigliu-municipale-di-Sassari_a2473.html"/>
+     <date>
+      Thu, 29 Sep 2016 09:56:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    L'amnistia di i prigiuneri corsi vutata da... u cunsigliu municipale di Sassari
+   </head>
+   <div type="excerpt">
+    <p>
+     INTERNAZIUNALE - U dibattitu nant'à l'amnistia di i prigiuneri pulitichi franca u mare.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cumune chì anu vutatu per l'amnistia di i prigiuneri corsi : 168 in Corsica (vede a lista nant'à corsicainfurmazione.org) è 1 in Sardegna. 
+Hè u giurnale La Nuova Sardegna chì dà l'infurmazione. 
+U cunsigliu municipale di Sassari hà vutatu a muzione à l'unanimità. Era purtata da u rapresentante di l'IRS (indipendentzia Repubrica de Sardigna). 
+A cumuna a più impurtante à avè vutatu pè l'amnistia di i prigiuneri pultichi corsi hè dunque una cumuna sarda (più di 130 658 abitanti, quantunque). 
+À quandu una cumuna francese ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

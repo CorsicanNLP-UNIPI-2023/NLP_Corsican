@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cumu si prununzia Schweinsteiger ? È Kranjcar ? È Kuyt ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cumu-si-prununzia-Schweinsteiger-E-Kranjcar-E-Kuyt_a1825.html"/>
+     <date>
+      Wed, 11 Jun 2014 23:16:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cumu si prununzia Schweinsteiger ? È Kranjcar ? È Kuyt ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Ghjunghje u Mundial à u Brasile cù i so macciacci à a tv è u so Christian Jeanpierre chì stroppia i nomi. Hè per quessa ch'è no vi prupunemu una guida per prununzialli di manera curretta.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Noi a sapemu bè, i Francesi ùn sò tantu boni per e lingue strangere. Facenu 250 anni ch'elli massacreghjanu a nostra lingua è ch'ellu ùn ci hè mezu di falli capisce ciò ch'ellu hè un accentu tònicu. 
+Ma noi non più, ùn semu tantu siguri di noi quand'ellu si tratta di prununzià i nomi di Bastian Schweinsteiger, Javier Mascherano, Niko Kranjčar o Dirk Kuyt. 
+Ancu di grazia, i brasilianu pensanu à tuttu (ancu sì Platini li dumanda di chjodela appena). 
+U giurnale spurtivu Globo prupone sta pagina, induve si pò stà à sente a prununzia ghjusta di qualchì nome di futbalori. 
+Per quessa, anu dumandatu à parechji giurnalisti strangeri di prununzià in a so lingua i nomi di qualchì ghjucadore di u so paese. 
+Ùn manca ch'è Jean Pruneta, ma per avà a Corsica ùn hè ancu qualificata per i mundiali.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

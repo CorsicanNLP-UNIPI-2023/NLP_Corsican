@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Oscar
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Oscar"/>
+     <date>
+      2015-07-01T18:20:58Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Oscar
+   </head>
+   <p>
+    L'Oscar o Academy Award hè un premiu di filmu, un premiu cinematograficu americanu. Ci sò assai categurie, per esempiu l'Oscar pè u megliu filmu, pè a miglior attrice è pè u megliu attore in un rollu principale, u megliu rializadore, a miglior attrice è u megliu attore in un rollu secundariu.
+   </p>
+   <p>
+    Oscar
+   </p>
+  </body>
+ </text>
+</TEI>

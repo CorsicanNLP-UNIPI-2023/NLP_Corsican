@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I magagnoni di Le Bon Coin
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-magagnoni-di-Le-Bon-Coin_a1889.html"/>
+     <date>
+      Wed, 18 Jun 2014 01:19:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I magagnoni di Le Bon Coin
+   </head>
+   <div type="excerpt">
+    <p>
+     Nant'à u situ d'annunzi Le Bon Coin, ci si trova terreni da vende, case antiche di paese à cumprà, vitture è cateri rughjinosi, è dinù i magagnoni.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè un annunziu per una vittura, cum'ellu ci n'hè pienu nant'à stu situ. Si tratta d'una Audi A3, è un rivinderolu si truveria in Furiani. Ma ùn hè micca n'importa qualessa Audi, hè una Audi "monstre de puissance". 
+A dice l'annunziu : "Acheté d'occaz à crédit sur 5 ans mais j'aime les pates et je vis chez mes parents donc ça va !" 
+Ah ? È chè d'altru ? "Les filles sont attirer par son look de golf ou de Seat Leon, son intérieur tout noir et les anneaux symbôle de puissance et de viriliter." 
+S'ellu a dice, hè ch'ella serà vera. Ma ancu : "Vendu cause projet d'achat BMW X5 de 2009 (crédit prolongé de 3 ans par Cofidis) dès que je serais sur que ça impressionne aussi mes copains du comptoir !" 
+Ditela pè ride...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

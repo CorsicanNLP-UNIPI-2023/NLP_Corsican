@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pudete campà senza Facebook è senza teleffunu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Pudete-campa-senza-Facebook-e-senza-teleffunu_a1267.html"/>
+     <date>
+      Thu, 09 Feb 2012 00:00:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pudete campà senza Facebook è senza teleffunu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     U 6 ferraghju era dinù a "journée mondiale sans portable". Ma tuttu u mondu si n'impippa.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     È s'è vo erate malatu senza sapella ? 
+Un studiu di circadori americani dice chì l'addizzione à i siti di rete suciali (cum'è Facebook è Twitter) si pò apparagunà à un'addizzione à a droga o à l'alcool. 
+Pè i scentifichi di l'università di Chicago saria più difficiule d'arrestà di fumà ch'è d'arrestà di "pokà" nant'à Facebook. 
+Femu un test : quantu volte andate à ghjornu nant'à Facebook, per vede ciò ch'elli dicenu i vostri amichi (spessu sò cunnerie, ma bon...) ? Quantu volte andate à vede ciò ch'ella(ellu) face a(u) vostra(u) ex ? Quantu state tempu à aspettà cum'è un lonzu, chì qualcosa si passi nant'à Facebook (spessu, ùn si passa nunda, ma bon...). 
+Si a vostra prima azzione di u ghjornu hè di cunnettassi nant'à FB, è a vostra ultima nanzu di chjinavvi hè di lampacci un ochju, allora site tocchi. 
+U fenòmenu di dipendenza à ste rete suciale hè rinfurzata da l'applicazioni nant'à i teleffunini. Attenti à l'overdosa... I malati campanu male d'ùn esse più in leia cù stu mondu virtuale, st'amichi più o menu veri. 
+D'altronde, u 6 ferraghju era dinù a Journée mondiale sans téléphone portable. 
+Bon alè, circate à cappià appena stu mondu virtuale è campate appena in u mondu reale. Ci hè un filmu, un libru o un apperitivu chì v'aspetta. À u peghju, ci hè a pagina Facebook di i fans d'A Piazzetta chì conta più di 6.200 membri. 
+Ci site voi ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

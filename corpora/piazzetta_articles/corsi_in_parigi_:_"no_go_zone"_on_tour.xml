@@ -1,0 +1,91 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Corsi in Parigi : "No go zone" on tour
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Corsi-in-Parigi-No-go-zone-on-tour_a2190.html"/>
+     <date>
+      Mon, 13 Apr 2015 01:07:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Corsi in Parigi : "No go zone" on tour
+   </head>
+   <div type="excerpt">
+    <p>
+     Quandu i Corsi collanu in Parigi, hè peghju ch'è a "horde sauvage", i vàndali è i Gremlins reuniti.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Avete intesu parlà di l'incidenti di u sabbatu dopumeziornu in Parigi, in u quartieru di e Halles ? A prefettura hà parlatu "d'incidents sérieux" fendu quindeci feriti (tutti pulizzeri). 
+Nant'à u net si pò leghje : Les supporters de Bastia ravagent Paris. 
+Iè iè, i Corsi anu arruvinatu à Parigi, messu in pezzi a piràmida di u Louvre, plasticatu l'Hôtel de Ville, rasatu l'opéra Bastille, fattu saltà i Champs Elysées, è piantatu a bandera corsa in cima di a Tour Eiffel. 
+Solu Disneyland hè statu risparmiatu.
+    </p>
+    <p>
+     Nant'à iTélé si parla di "commerçants saccagés" è "sous le choc". 
+Da vede quì : Incidents à Paris avant la rencontre PSG-Bastia
+    </p>
+    <p>
+     Incidents à Paris en marge du match PSG-Bastia - 11/04/2015 à 20h00
+    </p>
+    <p>
+     "Sous le choc"... ma di chè ? 
+Hè stata publicata nant'à Facebook un filmettu induve si vede u famosu cummerciante di bombò chì avia dettu "je me suis vu mourir". 
+Iè, ma hè perchè hà avutu paura di i gaz di i CRS. A dice in un filmettu chì hè statu publicatu nant'à Facebook :
+    </p>
+    <p>
+     (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/co_FR/sdk.js#xfbml=1&amp;version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));La vérité du marchand de bonbons ! Le contre interview ! BFM ho menteurs ! #scbVsPsg
+Posted by Lauu Wtz on Dumenica 12 Aprile 2015
+    </p>
+    <p>
+     S'ella ùn viaghja micca, fidighjate quì :
+    </p>
+    <p>
+     Ma u premiu Pulitzer hè pè st'articulu di u JDD chì parla d'una... vittura brusgiata da i Bastiacci, in un locu (u XIVu) induve i sustenidori bastiacci ùn sò purtantu micca passati. 
+Ben allora ? Quale hè u bruttu chì và à zingà u focu à e vitture in Parigi ? Ùn site veramente micca simpàtichi.
+    </p>
+    <p>
+     Allora serà statu tuttu negativu ? 
+Ma nò, per Le Parisien ci sò stati menu incidenti ch'è prevista. Per l'ambianza : 
+"Si une finale devait se gagner aux bruits de ses supporteurs, alors Bastia aurait un des palmarès les plus fournis de France. Hier, le peuple corse a dominé Paris dans le match très anecdotique des tribunes."
+    </p>
+    <p>
+     Aneddoticu ? Micca siguru. U prìncipe pò cumprassi i ghjucadori i più boni di u mondu, ùn puderà mai cumprassi un publicu è una storia. A nostra vittoria hè stata di mustrà ch'è no semu sempre quì malgradu e bastunate è chì a Corsica hè dinù una terra di resistenza per u futbol pupulare chì a LFP vole vede smarrisce. Trasfurmà i sustenidori in un publicu di cunsumatori hè u so unicu scopu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

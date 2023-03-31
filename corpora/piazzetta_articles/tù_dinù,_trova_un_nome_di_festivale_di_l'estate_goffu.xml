@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tù dinù, trova un nome di festivale di l'estate goffu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Tu-dinu-trova-un-nome-di-festivale-di-l-estate-goffu_a2419.html"/>
+     <date>
+      Tue, 31 May 2016 10:08:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tù dinù, trova un nome di festivale di l'estate goffu
+   </head>
+   <div type="excerpt">
+    <p>
+     L'estate in Corsica, i so turisti cotti è stracotti, i so camping-cars, i so festivali. È France 2 s'interrucheghja.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ùn si contanu più i festivali di l'estate in Corsica. Tutti l'anni ne nasce unu novu. Arricurdatevi di l'aventura di "The Bay Festival" annu passatu. 
+Da leghje : The Bay Festival annulé : la contre-enquête 
+À tal puntu chì un ghjocu di France 2 prupone sta dumanda, in a categuria "fêtes sur la plage" :
+    </p>
+    <p>
+     Bon, noi cunnisciamu digià Ponte Leccia on the Rocks
+    </p>
+    <p>
+     Elli ci pruponenu : 
+"Bonifacio electro mojito"  "Ajaccio zik tonic"  "Bastia piña technolada" 
+Micca megliu. 
+A fiura circuleghja nant'à Facebook. Fonte : pagina "La Macagna"
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

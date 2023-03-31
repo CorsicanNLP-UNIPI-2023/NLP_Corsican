@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Diego Forlán
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Diego%20Forl%C3%A1n"/>
+     <date>
+      2019-08-26T12:10:20Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Diego Forlán
+   </head>
+   <p>
+    Diego Forlán (natu in u 1979) hè un ghjucadore di ballò uruguaianu.
+   </p>
+   <p>
+    Forlán, Diego
+   </p>
+  </body>
+ </text>
+</TEI>

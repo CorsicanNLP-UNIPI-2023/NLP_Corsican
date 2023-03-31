@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U fight club di i mazzeri
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-fight-club-di-i-mazzeri_a1391.html"/>
+     <date>
+      Thu, 31 Jul 2014 22:09:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U fight club di i mazzeri
+   </head>
+   <div type="excerpt">
+    <p>
+     S'è vo cruciate dui omi chì si mettenu i cazzotti sta notte, hè normale. Segondu a tradizione, in a notte di u 31 di lugliu à u 1u agostu c'eranu e battaglie di mazzeri.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     I nostri mazzeri dinù avianu i so fight club, chì si chjamanu "e màndrache". 
+A sapete, un mazzeru hè un omu chì hà u pudere d'induvinà, durante u so sognu, quelli chì avianu da more. 
+Per diventà mazzeru ci vole à esse mal battizatu. U prete, o u cumpare si sò sbagliati in e parole di u battezimu. 
+E màndrache sì passavanu in a notte di u 31 di lugliu à u 1 d'agostu, in generale à e bocche. S'affruntavanu tandu e squadre di mazzeri à colpi di bastoni di talavellu (chjamatu dinù luminellu, tirlu, talavucciu...). 
+Ùn ridite micca, u paese chì perde averà di più morti ch'è l'altru in l'annu à vene. Hè dunque assai più impurtante chè Intervilles o una partita puzzica di "Ligue 1". 
+Allora attenzione, s'è vo cruciate dui omi chì si techjanu di colpi di notte à colpi di bastoni, hè sia ch'elli sò dui briaconi in fine d'apperitivu, sia ch'elli sò dui mazzeri. 
+In i dui casi, ùn vale a pena di chjamà a pulizza. 
+Da leghje : una lista di màndrache in u libru di Roccu Multedo, Le Mazzerisme, un chamanisme corse. 
+Publicatu u 31/07/2012 messu à ghjornu u 31/7/2014
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

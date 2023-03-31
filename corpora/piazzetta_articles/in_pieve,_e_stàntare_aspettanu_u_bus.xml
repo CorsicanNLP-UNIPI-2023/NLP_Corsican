@@ -1,0 +1,73 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     In Pieve, e stàntare aspettanu u bus
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/In-Pieve-e-stantare-aspettanu-u-bus_a2218.html"/>
+     <date>
+      Thu, 21 May 2015 00:39:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    In Pieve, e stàntare aspettanu u bus
+   </head>
+   <div type="excerpt">
+    <p>
+     In u paese di u Nebbiu, avà ci truverete un agrottu per prutege e trè stàntare prestoriche. L'avisi sò spartuti in quant'à l'estetica di u bastimentu, ma omancu sò oramai prutette...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In Corsica u bus ùn passa micca da per tuttu, ma avemu agrotti muderni per prutege e stàntare. 
+U ritrattu face surride, ma pone u veru prublema di a prutezzione di e stàntare. In Paddaghju, in Cauria, i detaglii di e sculture di e stàntare smariscenu sott'à l'azzione di u tempu. È ci vole à crede chì tuttu u mondu si ne impippa. 
+Bah iè, c'indignemu di Daesh chì sciappa e statue è minaccia a cità antica di Palmira, ma noi, simu capaci di prutegelu, u nostru patrimoniu ? 
+In Pieve, e trè stàntare (chì si chjamanu Bucentone, Murella è Mùrtola, di u nome di i lochi induv'elle sò state trove) si n'andavanu di male è c'era urgenza. Hè digià benissimu ch'elle sianu à l'agrottu, ma forse s'averia pussutu fà un bastimentu appena di più esteticu. 
+Nant'à u net, l'avisi sò diversi. Ghjudicate da per voi :
+    </p>
+    <p>
+     Ritrattu : Cateddu Muntaninu
+    </p>
+    <p>
+     Nanzu, eranu in paese, vicini di a chjesa :
+    </p>
+    <p>
+     Ritrattu : elizabethpardon.hautetfort.com 
+In u so articulu di u mese d'aprile di u 2014, l'autore di stu blog ci dice à prupositu di a stàntara di Bucentone chì : 
+"c'est un menhir anthropomorphe, mais ses motifs sculptés - arcades, nez, oreilles, pectoraux... ne sont plus lisibles : les trois statues ont été "protégées" par un enduit de résine (pour consolider la roche) qui a eu un effet inverse et catastrophique !" 
+Omancu avà seranu (appena) prutette. È per l'altre stàntare di Corsica, aspettemu chì u bus passi à piglialle ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

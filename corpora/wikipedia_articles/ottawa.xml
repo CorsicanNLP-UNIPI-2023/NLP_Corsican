@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ottawa
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Ottawa"/>
+     <date>
+      2014-03-23T14:46:08Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ottawa
+   </head>
+   <p>
+    Ottawa hè a capitale di u Canadà. Hà à l'incirca 1 milione d'abitanti.
+   </p>
+   <p>
+    Cità di u Canadà
+   </p>
+  </body>
+ </text>
+</TEI>

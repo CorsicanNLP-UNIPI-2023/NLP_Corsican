@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Riolacci, 2000 tweets dopu...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Riolacci-2000-tweets-dopu_a1689.html"/>
+     <date>
+      Wed, 05 Mar 2014 17:14:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MUNICIPALI-2014
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Riolacci, 2000 tweets dopu...
+   </head>
+   <div type="excerpt">
+    <p>
+     S'hè cuntatu 2000 tweets in trè ghjorni nant'à a cunferenza di stampa di Jean Zuccarelli è Francis Riolacci.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     "Le siméonisme prend sa source dans la collaboration avec l'Italie mussolinienne"... Prununziendu sta frasa luni, u poveru Francis Riolacci ùn pensava siguramente micca di vede nasce u tale tsunamì di riazzioni. 
+Una ricerca fatta nant'à u situ TweetReach permette di vede ch'elli sò stati mandati sti trè ghjorni circa 1600 tweets cù u hashtag "parlecommeRiolacci". 
+N'avemu fattu una selezzione quì. 
+Si colla à più di 2000 tweets, s'ellu s'aghjusta i hashtags "simeonisme" è "parlercommeRiolacci", ci dice a twittosa Loodgia. 
+2000 tweets in trè ghjorni dunque. Nant'à a twittosfera corsa, l'affare ùn s'era mai vistu. Da chè dà u giracapu...
+    </p>
+    <p>
+     Contu twitter : Loodgia 
+In appicciu : u pdf di TweetReach 
+Da leghje : "#ParlecommeRiolacci : u best of " 
+TweetReach_parlecommeriolacci.pdf
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

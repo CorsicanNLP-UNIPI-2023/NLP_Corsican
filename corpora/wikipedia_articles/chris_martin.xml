@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chris Martin
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Chris%20Martin"/>
+     <date>
+      2018-01-30T17:05:43Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chris Martin
+   </head>
+   <p>
+    Chris Martin hè u frontman di u gruppu di rock britannicu Coldplay.
+   </p>
+   <p>
+    Martin, Chris
+   </p>
+   <p>
+    Martin,Chris
+   </p>
+  </body>
+ </text>
+</TEI>

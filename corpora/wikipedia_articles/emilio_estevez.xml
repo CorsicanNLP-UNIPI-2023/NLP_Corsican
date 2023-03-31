@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Emilio Estevez
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Emilio%20Estevez"/>
+     <date>
+      2016-08-11T17:41:13Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Emilio Estevez
+   </head>
+   <p>
+    Emilio Estevez (12 Maghju 1962) hè un attore americanu.
+   </p>
+   <p>
+    Estevez, Emilio
+   </p>
+   <p>
+    Estevez, Emilio
+   </p>
+  </body>
+ </text>
+</TEI>

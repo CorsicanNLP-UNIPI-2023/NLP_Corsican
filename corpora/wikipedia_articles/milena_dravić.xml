@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Milena Dravić
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Milena%20Dravi%C4%87"/>
+     <date>
+      2018-05-10T11:30:40Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Milena Dravić
+   </head>
+   <p>
+    Milena Dravić (Belgradu, 5 d'uttrovi 1940) hè un'attrice.
+   </p>
+   <p>
+    == Filmugrafia ==
+   </p>
+   <p>
+    Kozara (1962)
+   </p>
+   <p>
+    Una (1967)
+   </p>
+   <p>
+    Attrice
+   </p>
+  </body>
+ </text>
+</TEI>

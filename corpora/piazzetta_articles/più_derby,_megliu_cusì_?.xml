@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Più derby, megliu cusì ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Piu-derby-megliu-cusi_a1565.html"/>
+     <date>
+      Fri, 10 May 2013 23:28:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       TRIBUNA-DI-I-LETTORI-AZEZI
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Più derby, megliu cusì ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Avemu ricevutu da un lettore stu puntu di vista nant'à a sanzione di a LFP pè i derbies di l'annu prussimu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     È s'ella era una bona nutizia ? M'aghju da fà minà, ma a dicu quantunque. 
+Mi spiegu. 
+OK, Thiriez hè u number one di l'anti-corsi, à crede chì a LFP hè un'annexe di a CFR.  OK per quelli chì cunnoscenu u ballò, in ogni derby di u mondu, ch'ellu sia in Grecia, in Inghilterra, in Argentina o in Italia ci sò magagne è pruvucazione. Fà biscà à l'altru hè una regula di stu sport. Hè cusì. 
+Ma "delucalizà" i derbies corsi in paese strangeru hà parechji avantagi : 
+- evità a cummedia di u carnavalescu Alain Orsoni nanzu è dopu à a partita. U derby in Furiani hè statu un grande mumentu di teatru (parlava di "comportements criminels"). Ancu s'ellu hà fattu ride à tutti, ùn ci n'hè bisognu.  - evità e cunnerie di i supporters, di u livellu "ACA gaulois" contr'à "Bastiacci sardacci". Micca terribule, nò ?  - evità di sente e cunnerie di u stile "il faut qu'on donne une bonne image de la Corse". A fiure chì i francesi anu di noi serà sempre gattiva è i Corsi seranu sempre viulenti, gattivi, scrucconi è corci. Ùn vale a pena di facci tene caru da elli. 
+Perchè iè, ci hè un'ambianzaccia tesa in i derbies corsi. Sò spechju d'una sucetà corsa chì hè malata. Hè una cuncentrazione durante 90 minuti di sta sucetà muribonda, è ùn avemu micca bisognu d'aghjustanne. 
+È forse dinù, evità un drama. Torna appena è un Bastiacciu perde un ochju per via d'una petra lampata da un aceistu. A bomba agricula mandata da i bastiacci in JB Poli à l'andata ùn era forse tantu intelligente non più. 
+Forse, ci vulerà à calmassi appena. 
+Eccu, ùn serete micca d'accunsentu cù mè è m'aghju da fà trattà di tuttu, ma ci vulia à dilla.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

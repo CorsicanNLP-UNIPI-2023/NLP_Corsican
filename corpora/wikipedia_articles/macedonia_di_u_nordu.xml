@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Macedonia di u Nordu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Macedonia%20di%20u%20Nordu"/>
+     <date>
+      2019-02-24T10:31:34Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Macedonia di u Nordu
+   </head>
+   <p>
+    A Macedonia di u Nordu hè un' paesu in Auropa.
+   </p>
+   <p>
+    A capitale si chjama Skopje.
+   </p>
+   <p>
+    A lingua uffiziale hè u macedone.
+   </p>
+   <p>
+    Europa
+   </p>
+  </body>
+ </text>
+</TEI>

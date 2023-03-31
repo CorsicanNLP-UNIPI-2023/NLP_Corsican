@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cunniscite "L'Internationale" in corsu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cunniscite-L-Internationale-in-corsu_a2418.html"/>
+     <date>
+      Mon, 30 May 2016 11:13:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cunniscite "L'Internationale" in corsu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Iè, esiste un'adattazione di "L'Internationale", u cantu rivuluziunariu diventatu innu di l'operai è di a lotta di classe. Hè l'opera di Carlu Santoni, in l'anni 70. Sta versione riesce a prova d'annerbà à tempu u MEDEF è certi cummunisti nustrali à quale a lingua corsa ùn piace tantu...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U MONDU ROSSU 
+(traduzzione Carlu Santoni) 
+Aiò tutti li galeriani  Di a miseria è di a fame  U terramotu hè per dumane  Di a raghjò sentiti i chjami  Di ciò chì fù chjudimu la porta  A quistione hè d’esse è di fassi  Hè ora ch’eddu ci si sorti  Schjavi, bisogna d’arrizzassi. 
+Oghje ognunu s’hè mossu  È ci tocca à luttà  Versu un mondu rossu  Marchja l’umanità 
+Intuppemu l’armi à i stazzoni  Travaddatori aiò aiò  Caccemu fora i patroni  È vultemuli à capu inghjò  Ci levanu i nostri stanti  Vint’à spiguli di sudori  Dumane hè u sole davanti  Ùn ci serà più predatori 
+Fucili à l’aria o suldati  Mandemu à spassu l’ufficiali  S’eddu ci vole cartucciati  Sianu pè li generali  Ùn abbiamu duminatori  Nè rè nè imperatori  Cumandi ùn lascemu piglià  Un solu diu : Libertà
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

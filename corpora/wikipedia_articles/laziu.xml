@@ -1,0 +1,75 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Laziu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Laziu"/>
+     <date>
+      2015-07-09T08:48:43Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Laziu
+   </head>
+   <p>
+    U Laziu hè una regione taliana.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    San Biagio Saracinisco
+   </p>
+   <p>
+    Alvito
+   </p>
+   <p>
+    Picinisco
+   </p>
+   <p>
+    San Donato Val di Comino
+   </p>
+   <p>
+    Settefrati
+   </p>
+   <p>
+    Villa Latina
+   </p>
+   <p>
+    Atina
+   </p>
+   <p>
+    Gallinaro
+   </p>
+   <p>
+    Vicalvi
+   </p>
+   <p>
+    Alatri
+   </p>
+   <p>
+    Laziu
+   </p>
+  </body>
+ </text>
+</TEI>

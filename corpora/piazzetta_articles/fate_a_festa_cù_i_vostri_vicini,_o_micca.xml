@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Fate a festa cù i vostri vicini, o micca
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Fate-a-festa-cu-i-vostri-vicini-o-micca_a1830.html"/>
+     <date>
+      Fri, 23 May 2014 15:21:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Fate a festa cù i vostri vicini, o micca
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè dunque sta settimana ch'ella hè prugrammata a "fête des voisins". Un dettu corsu dice "i vicini sò i cucini", per dì quantu e leie trà di vicini è l'aiutu eranu forti. Ma quessa, era nanzu...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'avisi sò diversi nant'à a "festa di i vicini", invenzione parigina di a fine di l'anni 90. 
+Ipocrisìa ? Falsa cunvivialità ? Festa impinzutita ? 
+O iniziativa generosa, creatrice di suciabilità, chì risponde à un bisognu in tempi di crisa ? 
+U dettu corsu dice chì "i vicini sò i cucini", ma quessa, era nanzu. Quandu c'era un bisognu d'aiutu trà di vicini d'un paese, d'un paisolu, d'un quartieru. Ùn hè micca chì l'epica era megliu, l'omi di più virtuosi o più generosi. Solu chì l'aiutu era obligatoriu per sopravvive. Quandu ci vulia à fà un solcu, coglie e castagne, piantà i picchetti o rifà un muru chì si n'era falatu, c'era bisognu di u rinforzu di u vicinatu. 
+In l'anonimatu di e cità francese induve nimu si parla, stu bisognu si pò capisce. In Corsica, sì pò piglià cum'è un segnu inchietante. 
+Tutti vicini, tutti cucini allora ? U blog Chers voisins ricensa parechje di ste parullete è amabilità chì l'abitanti di i casali si lascenu in l'entrate è i purtò di i casali. Eccu ne u peghju.
+    </p>
+    <p>
+     A seguita nant'à u blog Chers voisins.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cuppa di u mondu : è perchè micca in Corsica ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cuppa-di-u-mondu-e-perche-micca-in-Corsica_a959.html"/>
+     <date>
+      Tue, 10 Jun 2014 23:40:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cuppa di u mondu : è perchè micca in Corsica ?
+   </head>
+   <div type="excerpt">
+    <p>
+     A FIFA face n'importa chè. Hà datu l'organizazione di a cuppa di u mondu 2022 à u Qatar, è avà si ne pente. Tandu, perchè micca un turneu mundiale in Corsica ? Basta à pagà.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U mezu in giru à u ballò saria in traccia di diventà unu di i peghju di u mondu ? 
+A cuppa di u mondu hà da cummincià allora ch'elle ci sò forte presunzione di curruzzione di i membri di a FIFA è ch'elle fischjanu l'orechje di Michel Platini. Ci sò dinù storie di scumesse è di partite cumprateì ùn arrangianu nunda. 
+Tandu, perchè micca una cuppa di u mondu organizata in Corsica ? Imaginate, semu in l'annu 2020. U PEI hè passatu dapoi un pezzu, Sarkozy (chì hè vultatu à u pudere) ùn vole più sente parlà di noi è ci dà l'indipendenza, senza dumandà u so avisu à u Parlamentu. Paul Giacobbi hè diventatu u presidente di a Corsica è hà stallatu u so guvernu in Venacu. 
+In l'isula ci sò avà 350.000 abitanti ch'ellu ci vole à divertisce. U Sporting hè campione tutti l'anni, ma si piglia sistematicamete conce à u primu giru di a Champion's League contr'à i clubs di Cipra è di Lituania. 
+U lobby di u BTP hà una volta di più una bona idea (sapete, cum'è François Perrino : « le statut de résident conduirait à l'effondrement de la profession et du marché immobilier ») è si decide di custruisce una vintina di stadii novi, chì cum'è sempre, costanu dece volte di più ch'è prevista. 
+L'inegualità, digià forte assai oghje, cuntinuveghjanu di cresce (perchè si pianterianu ?) è a speculazione si porta bè. 
+Per dinunzià tutte st'inghjustizie, i Brasiliani manifesteghjanu tutti i ghjorni contr'à u mundiale. Da vede perchè in sta piccula video. Scuntenti, l'indiani dinù sò falati in carrughju. Sapete, ancu chì Platini li hà dumandatu di chjodesila. 
+È i Corsi, ch'averianu fattu ?
+    </p>
+    <p>
+     In tantu, à u Brasile...
+La crise sociale au Brésil en trois minutes chrono par liberation
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

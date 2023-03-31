@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Nunda à dì, hè assai più bellu avà
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Nunda-a-di-he-assai-piu-bellu-ava_a1633.html"/>
+     <date>
+      Sat, 19 Oct 2013 19:08:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Nunda à dì, hè assai più bellu avà
+   </head>
+   <div type="content">
+    <p>
+     In Bastia, trà Falcunaghja è U Machjò, si pudia vede una bella torra medievale, à mezu à a machja è i lamaghjoni (chì hè u so nome ? Lettori di A Piazzetta, ci pudete aiutà ?). 
+Sempre arritta, di bella fattura, cù i so soprusci (linteaux) è e so belle petre, hà riesciutu à resiste à tutte e guerre, tutte e lite, tutte l'invasioni... Ma micca à l'isteria di l'immubiliare. 
+Nunda à dì, simu i più forti per scempià u nostru patrimoniu. 
+U primu ritrattu hè di u 2008, u segondu fattu sti pochi ghjorni (ringraziemu à ER). 
+Certi chjamanu quessa "le développement".
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

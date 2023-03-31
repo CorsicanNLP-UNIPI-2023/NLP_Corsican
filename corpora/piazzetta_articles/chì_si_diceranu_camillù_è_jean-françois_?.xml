@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chì si diceranu Camillù è Jean-François ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Chi-si-diceranu-Camillu-e-Jean-Francois_a1577.html"/>
+     <date>
+      Mon, 27 May 2013 20:06:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chì si diceranu Camillù è Jean-François ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Sempre u primu per manifestà in Parigi, Camille de Rocca Serra s'hè fattu discretu durante u dibattitu nant'à a cuufficialità. Ma chì si diceranu nant'à stu ritrattu ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Pruposta 1 :  "Bouge pas fratè, je me prends en photo avec toi !" 
+Pruposta 2 :  "O Jean-François, tu le sais toi comment on fait pour enlever le "mode avion" ?" 
+Pruposta 3 :  "O Gamille, ça fait déjà quatre fois que tu prends la photo, elle est toujours floue... " 
+Pruposta 4 :  "N'empêche c'est bien fait Instagram..." 
+Pruposta 5 :  "Regarde combien je fais à Angry Birds !" 
+Pruposta 6 :  "- Camille, range ton portable tu deviens pénible avec ça !  - Attends Jean-François, je regarde le dernier épisode de Derrick, je profite qu'il y ait la 3G qui passe à fond là." 
+Pruposta 7 :  "Tu m'promets de liker ma photo sur Facebook, hein Jean-François !" 
+Pruposta 8 :  "T'as vu hein ? On a pas voté pour la langue corse !" 
+Pruposta 9 :  "Regarde Jean-François, ça c'est le nouveau bar à sushis de la Via Notte... Tu viendras cet été hein ? Je te présente le DJ et tout !" 
+Avà tocca à voi, fate e vostre pruposte in i cummenti !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

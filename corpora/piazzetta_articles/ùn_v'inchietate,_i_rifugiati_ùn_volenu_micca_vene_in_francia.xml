@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ùn v'inchietate, i rifugiati ùn volenu micca vene in Francia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-v-inchietate-i-rifugiati-un-volenu-micca-vene-in-Francia_a2262.html"/>
+     <date>
+      Thu, 24 Sep 2015 09:04:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ùn v'inchietate, i rifugiati ùn volenu micca vene in Francia
+   </head>
+   <div type="excerpt">
+    <p>
+     Sì a Francia hè d'accunsentu per accoglie 24.000 rifugiati in dui anni, rari sò i migranti à sceglie stu paese.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Mentre chì Jean-François Baccarelli si stanca à organizà manifestazione anti-rifugiati, i rifugiati elli, si ne impippanu cumplettamente. Di a Francia ùn ne volenu sente puzza : disimpiegu, ambiente generale pessimu, amministrazione troppu loscia. 
+Per elli l'Eldorado sò i paesi di u nordu di l'Auropa : Svezzia, Finlanda, Norvegia, è puru l'Alemagna. 
+Ma a Francia ùn l'attira micca. Ancu menu ch'è l'Italia o a Spagna, ci dice u Huffington Post. 
+Oghje a Francia scopre cun surpresa ch'ella ùn hè micca un paese chì face sunnià i disgraziati chì fughjenu a miseria. 
+Spiega Catherine Withol de Wendhel, circadora à u CNRS è spezialista di l'immigrazione : 
+« La France n’a pas une tradition d’accueil aussi importante que l’Allemagne en matière de réfugiés. Beaucoup de pays européens ont un toit beaucoup plus généreux qu’en France, comme le Royaume-Uni et l’Allemagne où tout le monde est logé, avec parfois la possibilité de travailler », 
+Da riflette nant'à u mitu di u "pays des droits de l'homme" induve i strangeri campanu d'aiuti di a CAF. 
+In tantu, in Corsica, i rifugiati cuntinuveghjanu d'alimentà e discussioni è discetanu e paure. Nant'à u situ di Corse-Matin, un sundagiu dice chì 65% di i Corsi ùn volenu accoglie ghjente :
+    </p>
+    <p>
+     Un'opinione ostile à i migranti ? Tè ? 
+Purtantu ci pare chì e residenze segundarie cuntinuveghjanu à esse vindute di modu massicciu à i ricchi fresteri.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

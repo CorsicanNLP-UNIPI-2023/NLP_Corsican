@@ -1,0 +1,81 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quadranti (giumitria analitica)
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Quadranti%20%28giumitria%20analitica%29"/>
+     <date>
+      2014-12-03T17:53:09Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quadranti (giumitria analitica)
+   </head>
+   <p>
+    Un quadranti (o quadrante) hè a purzioni di pianu cartisianu individuata da ogni paghju di mezassi.
+   </p>
+   <p>
+    Sicondu i signi di i cuurdinati, u puntu P=(x,y) hè postu:
+   </p>
+   <p>
+    in u 1° quadranti s'è x &gt; 0 è y &gt; 0
+   </p>
+   <p>
+    in u 2° quadranti s'è x  0
+   </p>
+   <p>
+    in u 3° quadranti s'è x  0 è y P=(a + 2;a^2 - 1) apparteni à u 1° quadranti.
+   </p>
+   <p>
+    U puntu P apparteni à u 1° quadranti s'iddu hà i dui cuurdinati pusitivi, par via di cunsiquenza devi essa suddisfattu u sistemu:
+   </p>
+   <p>
+    \left\{\begin{matrix} a + 2 &gt; 0\\
+   </p>
+   <p>
+    a^2 - 1 &gt; 0\end{matrix}\right.
+   </p>
+   <p>
+    Cussì u puntu P apparteni à u 1° quadranti s'è a&gt;1
+   </p>
+   <p>
+    == Da vida dinò ==
+   </p>
+   <p>
+    Pianu cartisianu
+   </p>
+   <p>
+    Giumitria analitica
+   </p>
+   <p>
+    == Noti ==
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia in talianu.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     L'Express s'interessa à Michel Tomi
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/L-Express-s-interessa-a-Michel-Tomi_a1865.html"/>
+     <date>
+      Fri, 06 Jun 2014 19:21:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    L'Express s'interessa à Michel Tomi
+   </head>
+   <div type="content">
+    <p>
+     L'Express s'hè interessatu sta settimana à Michel Tomi, presentatu da certi cum'è u capimachja di a rete corsa in Africa. 
+Da leghje a so intervista : "Je ne suis pas un parrain" 
+I giurnalisti si sò interessati dinù à u so figliolu, cundannatu per avè prevenutu à Alain Orsoni d'un'operazione di pulizza. Cumu ? Ùn si sà micca veramente... Da leghje quì.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

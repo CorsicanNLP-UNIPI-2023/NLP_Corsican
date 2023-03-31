@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ghjennaghju sente a depressione
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ghjennaghju-sente-a-depressione_a1011.html"/>
+     <date>
+      Tue, 18 Jan 2011 08:01:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ghjennaghju sente a depressione
+   </head>
+   <div type="excerpt">
+    <p>
+     Fretu, Natale chì hè luntanu, pocu sole, pochi soldi... Pochi sò quelli à esse in gamba di ghjennaghju.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U blue monday, cunniscite ? 
+Natale hè passatu, ùn ci hè più soldi pè fà i saldi, a mutivazione si n'hè andata, aghjustemuci u fretu è l'assenza di sole è ci semu. 
+U terzu luni di ghjennaghju hè cunsideratu cum'è u peghju ghjornu di l'annu. 
+Bon, i giurnalisti si sò avvisti chì in fatti era una invenzione marketing d'una cumpagnia pè vende viaghji à u sole... Ma hè vera chì pochi sò à esse felici di sti tempi. 
+Dunque, s'è vo site in depressione, ùn v'inchietate, hè normale ! Ùn ci hè ch'è da aspettà ch'ellu passi, hè solu una stundaccia da passà. 
+Invece, per certi, ci hè veramente di chè inchietassi : 
+Cunsiglieri di l'ombra è pulitichi  chì anu u ghjudice Duchaine appressu, naziunalisti chì ùn ci la facenu à adduniscesi, diritta à paghjolu, sucialisti chì si sterpanu... Per elli tutti, forse serà appena più longa a depressione.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

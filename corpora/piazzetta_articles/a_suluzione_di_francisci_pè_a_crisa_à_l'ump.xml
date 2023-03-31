@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A suluzione di Francisci pè a crisa à l'UMP
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-suluzione-di-Francisci-pe-a-crisa-a-l-UMP_a1455.html"/>
+     <date>
+      Mon, 03 Dec 2012 11:31:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A suluzione di Francisci pè a crisa à l'UMP
+   </head>
+   <div type="excerpt">
+    <p>
+     Guerra trà Copé è Filon : è sì a suluzione venia da Marcel Francisci ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ùn finisce più u parapiglia è teni à l'UMP. Ancu i giurnalisti di diritta ùn ne ponu più, ùn ci hè chè da vede a reazzione d'Olivier Mazerolle in crisa nera nant'à BFM. 
+È sì a suluzione venia da a Corsica ? In Corse-Matin di u 29 nuvembre, Marcel Francisci prupone una suluzione pè pacificà u so partitu. 
+L'articulu hè intitulatu Marcel Francisci attentif à l'épineux dossier des carcasses animales è ci vole forse à vedeci un'allusione à Copé è à Fillon quand'ellu dice chì : 
+"L'alternative la plus courante au dépôt sauvage de carcasses animales est de creuser un trou et d'y enterrer les déchets en y versant de la chaux". 
+Radicale, ma efficace.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

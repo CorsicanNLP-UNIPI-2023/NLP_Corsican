@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Rob Riggle
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Rob%20Riggle"/>
+     <date>
+      2015-09-18T06:18:54Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Rob Riggle
+   </head>
+   <p>
+    Robert Allen "Rob" Riggle, Jr. hè statu un attore americanu.
+   </p>
+   <p>
+    Riggle, Rob
+   </p>
+   <p>
+    Riggle, Rob
+   </p>
+  </body>
+ </text>
+</TEI>

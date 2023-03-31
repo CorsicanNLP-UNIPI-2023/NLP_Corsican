@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A rivuluzione di e ciavatte
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-rivuluzione-di-e-ciavatte_a1028.html"/>
+     <date>
+      Sat, 12 Feb 2011 10:58:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A rivuluzione di e ciavatte
+   </head>
+   <div type="excerpt">
+    <p>
+     Mubarak scappatu, hà vintu u populu egizzianu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Eccu, Mubarak hà fattu e so valisgie è hà finitu per andassine. L'avvene di l'Egittu ferma incertu è tòrbidu, ma si ferà senza Hosni. Ùn si sà mancu chì rollu averanu i "fratelli musulmani", ma per avà si face a festa, i capatoghji veneranu dopu. 
+2011 hè dunque stata l'annata di a rivuluzione egizziana. Ma sapete ch'ellu hè bè di dà un nome à una rivuluzione, hè qualcosa chì ùn accade micca tutti l'anni. 
+Avemu dunque la Révolution des oeillets (1974, Purtugallu), la Révolution de velours (1989, Ceccoslovacchìa), a Rivuluzione di e ròsule (2003, Georgìa), a Rivuluzione Arancia (2004, Ukraina), a Rivuluzione di e tulippe  (2005, Kirghistan). 
+Pè a Tunisìa, i giurnalisti anu datu u nome di "Révolution de Jasmin" ma sta spressione hè cuntestata. 
+È pè l'Egittu allora ? Si pò prupone u nome di "A Rivuluzione di i scarpi" o "di e ciavatte". Durante e manifestazioni, l'egizziani anu alzatu i so scarpi è calpighjatu i ritratti di Mubarak. 
+In i paesi musulmani, a sìmbolica di a ciavatta hè forte, hè segnu di disprezzu (arricurdatevi u giurnalistu chì avia tiratu i so scarpi nant'à Bush in Iraccu). 
+Bon, è in Corsica allora ? Si ferà a Rivuluzione di e Meindl ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quellu chì cumprerà a casa di Dalida... ùn serà micca corsu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quellu-chi-cumprera-a-casa-di-Dalida-un-sera-micca-corsu_a1089.html"/>
+     <date>
+      Thu, 28 Apr 2011 01:37:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quellu chì cumprerà a casa di Dalida... ùn serà micca corsu
+   </head>
+   <div type="excerpt">
+    <p>
+     540 m², 3 case, una piscina, un tennis, 10 sale di bagnu. A casetta di Dalida in Portovèk hè in vendita. Corses s'abstenir.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ùn ci cuntate mancu. A villà di Dalida hè in vendita, ma ùn hè micca per voi. L'annunziu ùn hè micca surtitu in Corse-Matin ma hè cummercializata da Sotheby's International Realty France-Monaco (và bè ?). 
+I ritratti ùn si ponu micca vede in Corse-Hebdo ma nant'à u situ di Gala. 
+Bona nutizia, in u prezzu hè cumpresa una piazza in u portu pè u vostru battellu di lussu ! 
+Costu : 5 milioni d'eurò. 
+Allora per quale serà sta magnifica résidence segondaire di grande lussu ? Un riccu russiu ? Un catinu di a jet-set ? Un grande patrone di u CAC 40 ? Una presentatrice d'un'emissione di télé-réalité di TF1 ? Jean-Marie Bigard ? Didier Barbelivien ? Benjamin Castaldi ? Enrico Macias ? O forse Justin Bieber ? 
+Almenu, sapemu digià ch'ellu ùn serà micca qualchissia di quì. 
+O Corsu, ùn a sai ancu chì cumpratti una casa in u to paese ùn hè più pussibule ? Di tutte manere, ch'aviate da fà di dece sale di bagnu ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

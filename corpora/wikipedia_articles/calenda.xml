@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Calenda
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Calenda"/>
+     <date>
+      2015-07-03T10:46:47Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Calenda
+   </head>
+   <p>
+    A calenda hè un numaru trà 1 è 12, chì corrisponde à l'ordine di i mesi di l'annu. A calenda hè utule per calculà l'età di a Luna senza sforzu. Eccu u valore di a calenda per ogni mese:
+   </p>
+   <p>
+    == Riferimenti ==
+   </p>
+   <p>
+    Casanova, Petru (di a Casanova di Venacu), 1992, U contu di Salomone U fà è l'infà di a Luna, Adecec
+   </p>
+   <p>
+    Astrunumia
+   </p>
+   <p>
+    Tempu
+   </p>
+   <p>
+    Římská datace#Kalendy
+   </p>
+  </body>
+ </text>
+</TEI>

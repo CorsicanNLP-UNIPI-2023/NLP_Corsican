@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bambù
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Bamb%C3%B9"/>
+     <date>
+      2015-07-03T09:52:35Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bambù
+   </head>
+   <p>
+    Many, see text
+   </p>
+   <p>
+    U bambù hè una pianta di a famiglia di e Bambuseae chì sò piante perenni.
+   </p>
+   <p>
+    Flora
+   </p>
+  </body>
+ </text>
+</TEI>

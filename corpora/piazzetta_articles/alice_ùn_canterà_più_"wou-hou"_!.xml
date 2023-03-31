@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Alice ùn canterà più "wou-hou" !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Alice-un-cantera-piu-wou-hou-_a1201.html"/>
+     <date>
+      Thu, 03 Nov 2011 01:15:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Alice ùn canterà più "wou-hou" !
+   </head>
+   <div type="excerpt">
+    <p>
+     U top model hè stata licenziata per avè difesu u so ex, un figliolu di Kadhafi.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     E storie d'amore finiscenu sempre male, quessa a sapiamu. Per Vanessa Hessler s'hè finita ancu cù un licenziamentu. 
+Sapete, Vanessa Hessler hè sta bionda tamanta chì passava in a pubbaccia pè a cumpagnia Alice, cù una canzona  chì vi pichja e cerbelle. 
+A so colpa hè stata d'avè difesu u so ex, un certu Muatassim Kadhafi, figliolu di Muammar. L'attrice è mudella italo-americana pienghje a morte di u so preferitu : "Non posso credere che sia vero. E’ tutto molto triste” hà dichjaratu à un giurnale talianu. 
+Ci vole à dì chì e so parolle sò state appena strane : "Ce sont des gens très simples, comme vous et moi". Bon. 
+Hè vera, avà tuttu u mondu magagna a zitella perchè ch'ella hà una cuncipitura appena strana di a simplicità. Muatassim Kadhafi hè quellu chì avia fattu vene à Beyoncé pè u so anniversariu contr'à un milione di dòllari. Cugnumatu "u duttore", Kadhafi Junior avia a so propia armata è hè statu suspettatu d'avè preparatu un putsch... contr'à u so babbu. Ma hè forse perchè avia betu troppu, ci dice L'Express. 
+È le pene di l'amore, Nun le sà ch'à chì le prova dice una paghjella. 
+Oghje a tinta Vanessa, hà persu u so travagliu pè ste parolle, pè u so amore pè un Kadhafi. Hè propiu duru stu mondu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

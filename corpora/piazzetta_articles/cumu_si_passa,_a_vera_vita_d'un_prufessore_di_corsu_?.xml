@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cumu si passa, a vera vita d'un prufessore di corsu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cumu-si-passa-a-vera-vita-d-un-prufessore-di-corsu_a1646.html"/>
+     <date>
+      Thu, 05 Dec 2013 10:46:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       A-PIAZZETTA-TV
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cumu si passa, a vera vita d'un prufessore di corsu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Eccu un riassuntu in un minutu di a vita d'un prufessore di corsu. Ben intesu, ùn hè statu inventatu nunda.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ma à parte quessa, tuttu và bè. 
+L'altre videò di Facciacce.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

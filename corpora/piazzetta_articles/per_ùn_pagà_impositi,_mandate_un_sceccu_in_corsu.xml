@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Per ùn pagà impositi, mandate un sceccu in corsu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Per-un-paga-impositi-mandate-un-sceccu-in-corsu_a1488.html"/>
+     <date>
+      Wed, 23 Jan 2013 21:51:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Per ùn pagà impositi, mandate un sceccu in corsu
+   </head>
+   <div type="excerpt">
+    <p>
+     U Trésor Public di Bastia hà ricusatu un sceccu scrittu in corsu, allora ch'ellu hè legale.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     "Chèque à refaire à écrire en français". Un capu d'impresa (chì ùn dumandava chè da pagà i so impositi) hà avutu a surpresa di vede u so sceccu ricusatu da u Trésor Public à u mutivu ch'ellu era scrittu in lingua corsa. 
+Stunatu (postu chè vo n'avete u dirittu), hà ricevutu cum'è ghjustificazione di l'impiegata di u centru di l'impòsiti chì : "qu’est-ce que ça peut bien vous faire de l’écrire en français" ? 
+Risposta : « Madame ça ne me fait rien de l’écrire en français, mais de l’écrire en corse me fait plaisir. » Forse averemu ancu da scusacci un ghjornu d'avè una lingua ? 
+In u 2011, era in Brittagna ch'ellu era accaduta una storia sìmile. Hè Pôle Emploi di Rennes chì avia ricusatu un sceccu scrittu in brittonu. 
+Ma nunda v'impedisce di scrive un sceccu in una "lingua regiunale" : "La convention de Genève de 1931 permet d'affirmer qu'un chèque peut être valablement écrit dans une langue régionale", spiegava u Crédit Mutuel di Brittagna. 
+A storia finia chì Pôle Emploi di Brittagna hà presentatu e so scuse, è u sceccu fù incasciatu. 
+Nant'à a so pagina Facebook è à u forum di RCFM, hà spiegatu u capu d'impresa corsu chì : 
+Il est dommage que les personnes qui viennent travailler en Corse pour la qualité de vie qui y règne, la clémence de son climat et la beauté de ses paysages, ne soient pas avisées, qu’il y a encore quelques Corses qui y vivent et qui y pratiquent une langue étrangère pour eux, le « corse ». 
+J’ai beaucoup de peine pour les personnes ayant intégré que si la mort de la langue et de la culture corses est bel et bien programmée, ils ne le verront certainement pas de leur vivant, et quand bien même, l’histoire, elle, est gravée dans le marbre et tant qu’il y aura un indien qui sait lire elle vivra. 
+Hè detta.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

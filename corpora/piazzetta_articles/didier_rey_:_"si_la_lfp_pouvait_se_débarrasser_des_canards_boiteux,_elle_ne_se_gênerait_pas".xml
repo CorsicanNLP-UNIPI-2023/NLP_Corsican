@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Didier Rey : "Si la LFP pouvait se débarrasser des canards boiteux, elle ne se gênerait pas"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Didier-Rey-Si-la-LFP-pouvait-se-debarrasser-des-canards-boiteux-elle-ne-se-generait-pas_a2004.html"/>
+     <date>
+      Fri, 24 Oct 2014 22:17:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Didier Rey : "Si la LFP pouvait se débarrasser des canards boiteux, elle ne se gênerait pas"
+   </head>
+   <div type="content">
+    <p>
+     Didier Rey, maestru di cunferenza à l'Università di Corsica è storicu di u sport corsu hà datu à u situ 20 Minutes un'intervista pocu tempu fà. 
+I so lumi sò sempre interessanti di pettu à ciò chì si passa in l'attualità. 
+À prupositu di a LFP ci dice per esempiu chì : "Aujourd’hui tout ce qui n’est pas dans le business est inintérressant. Si la LFP pouvait se débarrasser de ce qu’elle considère comme des canards boiteux, elle ne se gênerait pas." 
+Pruvucà incidenti per facci cascà in a pruvucazione, tuttu què per sbarazzassi megliu di i clubs corsi, micca abbastanza "interessanti" per a LFP ? 
+Attenti à e trappule ! 
+Da leghje quì.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

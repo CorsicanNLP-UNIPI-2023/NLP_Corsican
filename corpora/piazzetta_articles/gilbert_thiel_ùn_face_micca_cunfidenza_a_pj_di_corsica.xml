@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Gilbert Thiel ùn face micca cunfidenza a PJ di Corsica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Gilbert-Thiel-un-face-micca-cunfidenza-a-PJ-di-Corsica_a1812.html"/>
+     <date>
+      Sat, 17 May 2014 16:18:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Gilbert Thiel ùn face micca cunfidenza a PJ di Corsica
+   </head>
+   <div type="content">
+    <p>
+     Chì diventa Gilbert Thiel ? 
+Jacques Follorou ci ampara in Le Monde chì u ghjudice anti terrurista hà cacciatu duie inchiesta à a pulizza. 
+U barbutu ùn face cunfidenza à a PJ. I pulizzeri sò suspettati d'avè prutettu u so infurmatore naziunalistu. 
+L'ambianza hè sempre cusì bona. 
+Da leghje nant'à Le Monde.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

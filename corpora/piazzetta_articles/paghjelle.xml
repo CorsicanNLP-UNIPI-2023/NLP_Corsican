@@ -1,0 +1,79 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Paghjelle
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Paghjelle_a1631.html"/>
+     <date>
+      Sat, 12 Oct 2013 17:47:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Paghjelle
+   </head>
+   <div type="content">
+    <p>
+     O culomba le to labbre  Sò di petra calamita 
+Quand'è tù l'apri è le chjodi  Si cunsuma la mio vita 
+Si cunsuma pocu à pocu  Cum'è la cera à lu focu
+    </p>
+    <p>
+     Ùn ti ne ricordi più ne  Quand'è t'ere la mio cara 
+Avà quand'è tù mi vedi  Cali l'ochji è guardi in terra 
+Pare chì n'abbiamu avutu  Diciottu mesi di guerra
+    </p>
+    <p>
+     Quantu passi ch'aghju fattu  Da Lucciana à la Crucetta 
+Tuttu era per vede à tene  La mio cara vizzusetta 
+Ma d'ùn maritacci inseme  O chì sorte maladetta
+    </p>
+    <p>
+     Sè tù sapissi lu male  Chè tù faci à lu mio core 
+Quand'o ti vegu pregane  In chjesa cum'è le sore 
+Mi scappanu le parolle  Ch'offendenu lu Signore
+    </p>
+    <p>
+     Vecu nant'à una ghjambella  Dui acellucci frisgiati 
+Dopu avessi datu un basgiu  Si sò subbitu piattati 
+Sanu anch'elli chì l'amore  À palesu ùn hà valore
+    </p>
+    <p>
+     D'altri siti : 
+U travaglione http://paghjella.blog.fr 
+http://www.paghjella.com/
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

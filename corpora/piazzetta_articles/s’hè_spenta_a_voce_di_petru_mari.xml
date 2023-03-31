@@ -1,0 +1,71 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     S’hè spenta a voce di Petru Mari
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/S-he-spenta-a-voce-di-Petru-Mari_a2742.html"/>
+     <date>
+      Mon, 22 Oct 2018 23:44:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    S’hè spenta a voce di Petru Mari
+   </head>
+   <div type="excerpt">
+    <p>
+     Era una voce indimenticabile, una voce chì ci hà accumpagnatu dapoi anni è anni. Ci pare ch’è no l’appiamu sempre intesa, è cridiamu di sentela sempre. Petru Mari avia 71 anni.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Petru Mari era arradicatu à a so terra è à u so paese di Ficaghja. In u 1979, avia creatu cù una squadra di castagnicciaghji u giurnale “A Fiaccula di a Castagniccia”. 
+Era in i tempi quandu si sunniava sempre d’una rinascita di i nostri paesi.
+    </p>
+    <p>
+     V’arricurdate di u so testu (scrittu cun Paulufelice Nasica) A Passione di e castagne ? 
+À RCFM a so voce cusì particulare ci hà accumpagnatu in tante emissione, da i nutiziali à A Ghjustra Paisana. 
+Ma Petru Mari ci hà insignatu chì esse arradicatu à a so terra ùn impedia micca d’esse apertu nant’à u mondu. 
+In u 1986 publicheghja Scritti d’altrò (edizione Scola Corsa), una traduzzione di testi d’Italo Calvino, Woody Allen è John Steinbeck (ùn vi pare nunda ?) in lingua corsa. 
+Petru Mari hè quellu chì hà vulsutu apre e fruntiere di a radiu cù l’emissione Kantara è Mediterradio. 
+Eppò c’era u Petru Mari spiritosu. Quellu chì sapia manighjà a magagna è e parolle cum’è nimu. In u 1990 participeghja à u cuncorsu di nuvelle Rise da impennà (La Marge). In u 1995 ghjunghjerà Diodoru di Sicilia, e stonde d’un osservadore (A Messagera). Ci arricurdemu di l’emissioni I Scrianzati è l’oroscopu. 
+Eppo ci serà Masai, a so famosa cronaca cutitiana nant'à RCFM induv’ellu purterà u scherzu à un altissimu livellu. Serà publicata una racolta (Masai, Albiana 2009).
+    </p>
+    <p>
+     Noi, eramu fans dapoi u principiu, è hè inutile di dì chì l'opera di Petru Mari hè stata impurtante pè A Piazzetta. 
+Ma sta duminicata Petru Mari ci hà fattu un’ultima magagna, allora ch’ellu li firmava tantu à fà. Oramai a so voce, u so scherzu, u so spiritu ci mancheranu tantu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

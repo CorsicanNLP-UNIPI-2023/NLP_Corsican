@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Arcimulu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Arcimulu"/>
+     <date>
+      2015-07-16T14:41:08Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Arcimulu
+   </head>
+   <p>
+    L'arcimulu (Equus hinny o Equus hinnus) hè un mammiferu inghjennatu da un'asina (una sumera) è un cavallu. L'inversu, vene à dì u mammiferu inghjennatu da una ghjumenta (una cavalla) è un asinu (un sumere), hè chjamatu mulu (''Equus mulus).
+   </p>
+  </body>
+ </text>
+</TEI>

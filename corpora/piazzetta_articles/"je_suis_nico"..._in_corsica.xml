@@ -1,0 +1,74 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "Je suis Nico"... in Corsica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Je-suis-Nico-in-Corsica_a2129.html"/>
+     <date>
+      Mon, 12 Jan 2015 23:52:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "Je suis Nico"... in Corsica
+   </head>
+   <div type="excerpt">
+    <p>
+     À a "marche républicaine" Nicolas Sarkozy hà riesciutu à ficcassi in prima linea cù i capi di statu, ciò chì ùn era micca prevista. Dapoi, hè a grande magagna.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ùn pudete avè mancatu l'infurmazione. Nicolas Sarkozy ùn pudia stà in daretu (cum'ellu u prividia u protocolu) è hà riesciutu à ficcassi in davanti. 
+Da leghje : Marche républicaine: Sarkozy s'incruste sur la photo
+    </p>
+    <p>
+     U filmettu hè abbastanza impressiunante :
+    </p>
+    <p>
+     Marche républicaine: Comment Sarkozy s'est... par 20Minutes
+    </p>
+    <p>
+     Paris-Match avia messu in linea un primu titulu dispettosu (troppu ?)... nanzu di scambià :
+    </p>
+    <p>
+     Dapoi, ci sò centinaie di ritratti nant'à Twitter cù u hashtag #JeSuisNico 
+U tumblr je-suis-nico.tumblr.com ne ricensa parechji :
+    </p>
+    <p>
+     Ind'è noi dinù, hà ispiratu i magagnoni. Eccu i muntagi ch'ellu ci hà mandatu Desideriu :
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

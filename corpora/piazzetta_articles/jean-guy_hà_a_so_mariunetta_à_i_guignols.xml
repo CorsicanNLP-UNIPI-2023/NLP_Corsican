@@ -1,0 +1,71 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Jean-Guy hà a so mariunetta à i Guignols
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Jean-Guy-ha-a-so-mariunetta-a-i-Guignols_a2335.html"/>
+     <date>
+      Tue, 19 Jan 2016 10:58:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Jean-Guy hà a so mariunetta à i Guignols
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè stata a frasa di u ghjornu chì hà scatinatu tuttu ciò chì a Francia conta di beaufs. Eri à France Info, Jean-Guy Talamoni hà dettu chì "la France est un pays ami". È cunsecrazione maiò, avà hà a so mariunetta nant'à Canal+.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Jean-Guy hà riesciutu a prova d'avè a so mariunetta à Canal+. Nè Giacobbi, nè Zuccarelli, nè Rocca Serra, nè mancu Ghjuvanfrancescu Bernardini ci l'avianu fatta. 
+Bon d'accordu, a mariunetta è a voce ùn sò micca e più riesciute :
+    </p>
+    <p>
+     In quant'à a magagna, ghjudicate da per voi (versu u quartu minutu). 
+Ma c'era un tempu induve i Guignols eranu appena più fini :
+    </p>
+    <p>
+     Les Guignols, l'intégrale du 18/01 - Hollande dévoile son plan anti-chômage
+    </p>
+    <p>
+     A mane stessa, u presidente di l'assemblea di Corsica scatinava u web cù a frasa "la France est un pays ami" ind'è Jean-François Achilli à France Info :
+    </p>
+    <p>
+     Hè Gilles chì hà da esse ghjelosu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

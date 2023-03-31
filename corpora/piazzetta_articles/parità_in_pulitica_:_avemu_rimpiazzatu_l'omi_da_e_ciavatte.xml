@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Parità in pulitica : avemu rimpiazzatu l'omi da e ciavatte
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Parita-in-pulitica-avemu-rimpiazzatu-l-omi-da-e-ciavatte_a2708.html"/>
+     <date>
+      Thu, 08 Mar 2018 15:52:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Parità in pulitica : avemu rimpiazzatu l'omi da e ciavatte
+   </head>
+   <div type="excerpt">
+    <p>
+     Per vede à chì ne simu di a parità, avemu rimpiazzatu l'omi di i ritratti in a stampa da ciavatte.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In u 2015, l'edizione inglese di u giurnale Elle avia lanciatu una campagna nant'à a parità. Avianu sguassatu l'omi di i ritratti officiali.
+    </p>
+    <p>
+     Et si on faisait disparaître les hommes des photos officielles ? https://t.co/Unxzagylnm sur @big_browser pic.twitter.com/O26jXYhEEM
+— Le Monde (@lemondefr) 20 octobre 2015
+    </p>
+    <p>
+     Ch'ella sia à l'ONU, à a Casa Bianca (quella di Washington) o in i ghjochi tv, a campagna hà messu in risaltu quantu e donne sò... sole.
+    </p>
+    <p>
+     È in Corsica allora ? Bon, noi à A Piazzetta ùn avemu micca i mezi di pagà un grafistu per fà listessu. Allora avemu rimpiazzatu l'omi da ciavatte (corse), per vede.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

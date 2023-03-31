@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Phyllis Diller
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Phyllis%20Diller"/>
+     <date>
+      2015-07-07T18:02:36Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Phyllis Diller
+   </head>
+   <p>
+    Phyllis Ada Driver hè un'attrice americana.
+   </p>
+   <p>
+    Diller, Phyllis
+   </p>
+  </body>
+ </text>
+</TEI>

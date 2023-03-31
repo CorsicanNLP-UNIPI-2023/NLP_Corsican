@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     In Ascu, una vacca ùn ne pò digià più di i turisti
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/In-Ascu-una-vacca-un-ne-po-digia-piu-di-i-turisti_a1855.html"/>
+     <date>
+      Mon, 02 Jun 2014 11:34:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    In Ascu, una vacca ùn ne pò digià più di i turisti
+   </head>
+   <div type="excerpt">
+    <p>
+     Vacca 1, Turisti 0. Annu passatu c'era statu l'episodiu di u sumere di U Spidali. Avà tocca à una vacca aschese di sprime a so scuntentezza di vede i turisti impuzzicalli a vita.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U contu Twitter Corse Tourisme l'avia purtantu prevenuti ch'ellu ùn ci vulia micca à vene. 
+Stu luni matina, hè Corse-Matin chì annunzia a nutizia : Une vache chasse des touristes à Asco. L'infurmazione hà sucitatu una grande inchietutine in u mezu di i turisti. In i campings di a regione, sò tutti abbambanati. 
+Ch'averanu fattu sti poveri turisti per mette in zerga a vacca d'Ascu ? L'averanu pigliata in ritrattu ? Serà a techja di a cumbinazione saccadò-tongs-calzette ? O forse li averanu parlatu male ? Averanu cacciatu un numeru di L'Express o una sciarpa rossa di Christophe Barbier ? 
+Aspettemu l'inchiesta di a pulizza. Per avà, nisuna vacca hè stata arrestata.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

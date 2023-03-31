@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Avemu infine ritruvatu i Tchao
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Avemu-infine-ritruvatu-i-Tchao_a1763.html"/>
+     <date>
+      Mon, 28 Apr 2014 16:09:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Avemu infine ritruvatu i Tchao
+   </head>
+   <div type="excerpt">
+    <p>
+     S'è vò avete più di trenta anni, i biscuttini "Tcha'o" vi ricordanu a vostra zitellina. Ma firmavanu un misteru : ùn si truvava nisuna traccia nant'à internet. Sin'à oghje...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     S'è vo site à pocu pressu normale, i "Tcha'o" sò assuciati à u vesperinu di a vostra zitellina (iè hè parolla corsa per dì "le goûter") è à e Mystérieuses cités d'Or, di Ulysse 31 o di Fraggle Rock nanz'à u Corsica Sera presentatu da Jacques Bastianesi. 
+Hè vera o nò ? Bon. 
+Sti biscotti tondi à a cicculata sò cum'è i "Princes" d'oghje, ma in megliu. 
+Certi i chjamavanu sempre "Bichoco", ancu si stu nome ùn esistia più dapoi dece anni. 
+Un Misteru  Ma c'era un veru misteru nant'à i Tcha'o. À l'epica di a nostalgia di l'anni 80, publicità, ghjochi, prugrammi tv è altri, ùn si truvava nunda nant'à l'esistenza di sti biscotti. Ùn si sà quale hè chì l'hà fatti. BN ? Lu ? L'Alsacienne ? 
+Una legenda dice ancu chì i Tcha'o ùn sarianu stati ch'è una marca destinata à u mercatu corsu. 
+SOS Tchao  Nant'à u web ùn mancanu i messagi nant'à i forums in ricerca di Tchao : da vede quì, o ancu quì, è dinù quì... è ci n'hè pienu di discussioni cusì. 
+Eri sera nant'à Twitter, un internautu @DagostinoY hà publicatu un vechju ritrattu d'un pacchettu di Tcha'o. Bon ok u ritrattu ùn hè micca di qualità. Ma hè tuttu ciò ch'ellu si pò truvà oghje, è hè guasi un miràculu. 
+Ùn vi pare nunda ? 
+Nò. Ma per noi hè assai. Ch'ellu ne sia ringraziatu !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

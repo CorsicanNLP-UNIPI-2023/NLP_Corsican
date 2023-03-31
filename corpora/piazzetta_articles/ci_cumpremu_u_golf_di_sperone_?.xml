@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ci cumpremu u golf di Sperone ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ci-cumpremu-u-golf-di-Sperone_a1404.html"/>
+     <date>
+      Sat, 25 Aug 2012 11:40:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ci cumpremu u golf di Sperone ?
+   </head>
+   <div type="excerpt">
+    <p>
+     130 ettare à vende pè 20 milioni d'eurò. È s'è no u cumpravamu per metteci e pecure?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In l'anni 60 Dewez avia compru u duminiu di Sperone pè 1 francu u metru guadratu. Dopu à una storia appena cumplicata, ci hà fattu un golf di lussu è fattu un paradisu pè ricchi è jet-settori. 
+Oghje, costa 20 milioni d'eurò è à stu prezzu serà forse qualchì miliardariu russiu chì u si cumprerà. 
+Almenu ch'è no lancimu un Speronethon pè truvà i fondi. 
+130 ettare, arba fresca bella verde è annacquata oghi ghjornu... Puderiamu metteci capre è pecure, nò ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

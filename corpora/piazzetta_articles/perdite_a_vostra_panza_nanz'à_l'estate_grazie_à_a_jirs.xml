@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Perdite a vostra panza nanz'à l'estate grazie à a JIRS
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Perdite-a-vostra-panza-nanz-a-l-estate-grazie-a-a-JIRS_a1288.html"/>
+     <date>
+      Tue, 06 Mar 2012 13:04:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Perdite a vostra panza nanz'à l'estate grazie à a JIRS
+   </head>
+   <div type="excerpt">
+    <p>
+     Megliu chè a gastrò, megliu chè u Power Plate è Weight Watchers : fatevi una "grève de la faim" pè perde a vostra ciccia.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cuntinuveghja l'epidemia di "grève de la faim" in Corsica. U muvimentu hè statu lanciatu in sustegnu à Guy Orsoni chjappu da a JIRS di Marseglia. 
+Dopu à Guy Orsoni, dopu à Alain Orsoni, dopu à u merre di Veru, dopu à un amicu d'Alanu, un quintu elementu face a greva di a manghjusca : Gabriel-Xavier Culioli chì dice in un cummunicatu vulè prutestà « contre la justice d’exception et en solidarité avec Guy Orsoni ». 
+A mubilizazione s'organiseghja in Aiacciu induve s'hè tenuta luni sera una riunione dibattitu in sustegnu à Guy Orsoni, accusatu di quattru assassinii. 
+Ma France 3 ci ampara chì a famiglia di Lisandru Plasenzotti, chjappu anch'ellu in u cumbugliu di a JIRS (per nunda !) ùn hà vulsutu participacci. 
+In tantu, Alain Orsoni cuntinuveghja u so travagliu di presidente di l'ACA. À 20 minutes, hà dichjaratu ch'ellu hà da cuntinuvà à seguità l'ACA... per teleffunu. Speremu ch'ellu hà un "forfait millenium".
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

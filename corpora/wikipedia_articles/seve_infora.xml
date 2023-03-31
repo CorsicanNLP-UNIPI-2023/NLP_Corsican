@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Seve Infora
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Seve%20Infora"/>
+     <date>
+      2019-10-03T11:14:36Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Seve Infora
+   </head>
+   <p>
+    Sevinfora hè u nome d'un anziana pieve di Corsica.
+   </p>
+   <p>
+    == Riferimenti ==
+   </p>
+   <p>
+    CRDP di Corsica U Thesaurus MOTBIS
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Pievi di Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

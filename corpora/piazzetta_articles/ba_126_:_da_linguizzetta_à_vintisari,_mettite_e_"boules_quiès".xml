@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     BA 126 : Da Linguizzetta à Vintisari, mettite e "boules quiès"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/BA-126-Da-Linguizzetta-a-Vintisari-mettite-e-boules-quies_a2650.html"/>
+     <date>
+      Sun, 24 Sep 2017 16:28:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ULTIMI
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    BA 126 : Da Linguizzetta à Vintisari, mettite e "boules quiès"
+   </head>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

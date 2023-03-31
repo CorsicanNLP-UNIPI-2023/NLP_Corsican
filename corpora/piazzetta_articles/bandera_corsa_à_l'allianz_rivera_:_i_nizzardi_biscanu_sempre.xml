@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bandera corsa à l'Allianz Rivera : i Nizzardi biscanu sempre
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Bandera-corsa-a-l-Allianz-Rivera-i-Nizzardi-biscanu-sempre_a2048.html"/>
+     <date>
+      Mon, 01 Dec 2014 20:54:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bandera corsa à l'Allianz Rivera : i Nizzardi biscanu sempre
+   </head>
+   <div type="excerpt">
+    <p>
+     A testa di moru hè vultata in u stadiu di Nizza. Era per una partita di rugby, trà Tulò è Clermont. È i Nizzardi ùn sò micca cuntenti...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Avete vistu stu ritrattu chì hà fattu u giru di e rete suciale. Avemu infine a spiegazione, data da Nice-Matin. 
+Hè u presidente di u Racing Club Toulonnais, Mourad Boudjellal, chì hà vulsutu fà una magagna à i Nizzardi : 
+"C’était un clin d’œil à prendre au deuxième degré ! La réaction des Niçois est d’une connerie affligeante. S’il faut que je réfléchisse comme un supporter moyen de football, je vais avoir des difficultés. Ca ne reste que du sport." 
+U tippu hè un magagnone. Avia mustratu un ritrattu di DSK nant'à u screnu di u stadiu Mayol pè a ghjurnata di a donna (appena limitu quantunque...). 
+È dinù un ritrattu di Patrick Bruel, in Nizza. U canterinu era statu fischjatu mentre ch'ellu era venutu à cantà nanz'à una partita in stu stadiu. 
+I sustenidori di l'OGC Nizza elli sò sempre in crisa nera : "Il jette de l’huile sur le feu, c’est lamentable !" dice un sustenidore nizzardu. 
+A pupularità di u RCT in Corsica ella hà da avanzà...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

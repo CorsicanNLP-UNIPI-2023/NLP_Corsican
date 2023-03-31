@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Barbier : "la Corse, un confetti encombré de chèvres et de châtaigniers”
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Barbier-la-Corse-un-confetti-encombre-de-chevres-et-de-chataigniers_a2319.html"/>
+     <date>
+      Tue, 22 Dec 2015 16:59:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Barbier : "la Corse, un confetti encombré de chèvres et de châtaigniers”
+   </head>
+   <div type="excerpt">
+    <p>
+     U peghju, hè chì più và, più ci facenu ride. Ùn mancava dunque più ch'è Christophe Barbier in stu zunamì d'insulte è di clichés anti-corsi dapoi una settimana. Eccu, s'hè cappiatu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U so bigliettu l'hà intitulatu "Les Corses opteront-ils pour le suicide en réclamant l'indépendance ?", è capite nunda ch'è à quessa ch'ellu ùn ci hè bisognu d'andà più luntanu in a lettura. 
+Da leghje quì. 
+Ma ùn vi faticate micca, ùn vale a pena. Da ritene ste frase : 
+"Le plus grand Français de tous les temps, Napoléon Bonaparte, a été offert à la nation par la Corse. Lui, qui fut empereur de presque toute l'Europe ne peut redevenir dans les livres le rejeton d'un confetti encombré de chèvres et de châtaigniers." 
+Bella prova ! Riesce a duppietta chèvres-châtaigniers in una frasa, ci vulia à falla. Cumplimenti. Ma avà, cumu fà per caricaturà l'editurialisti anti-corsi, chì sò peghju ch'è e peghje caricature ? 
+Alè, ùn ci manca più ch'è un tweet di Pierre Ménès è una suspensione di Thiriez è l'averemu tutte avute.
+    </p>
+    <p>
+     L'intégralité de la prose de Barbier dans l'Express. Paternaliste &amp; condescendant envers la Corse as usual pic.twitter.com/FUj7lvXop1
+— Julien Pernici (@JulienPernici) 22 Décembre 2015
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

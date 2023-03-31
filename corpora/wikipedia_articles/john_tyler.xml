@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     John Tyler
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/John%20Tyler"/>
+     <date>
+      2016-08-11T16:58:14Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    John Tyler
+   </head>
+   <p>
+    John Tyler (29 Marzu 1790 – 18 Ghjennaghju 1862) hè statu presidente di i Stati Uniti d'America da u 1841 à u 1845.
+   </p>
+   <p>
+    == Riferimenti ==
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Listinu di i presidenti americani
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Tyler
+   </p>
+  </body>
+ </text>
+</TEI>

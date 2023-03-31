@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chì fà u sabbatu sera in Bastia ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Chi-fa-u-sabbatu-sera-in-Bastia_a1480.html"/>
+     <date>
+      Fri, 11 Jan 2013 01:01:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       10-RAGIONI-DI
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chì fà u sabbatu sera in Bastia ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Avà ch'è no sapemu chì Furiani serà suspesu sin'à u 16 di ferraghju, si pone a dumanda : chì fà ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Sapiamu chì e sanzioni avianu da falà, è a cummissione di disciplina di a LFP s'hè fatta piacè. A prussima partita hè prevista pè u 16 ferraghju, contr'à... Nizza. Ma piuttostu chè di cascà in depressione è di tichjassi di Lexomil o di Javel-menta, dumandemuci piuttostu chì fà avà u sabbatu sera ? 
+1. Andà à annacquà "la 3ème plus belle pelouse d'Europe" : Ci avianu prumessu « une des plus belles d'Europe » (ùn ridite micca), avemu avutu una di e più goffe di u Terzu-mondu. Almenu cusì, u terrenu di Furiani averà u tempu di ripusassi. 
+2. Andà in Gueugnon : Bastia riceverà dunque e squadre di Rennes è d'Evian nant'à u terrenu neutru. Forse in Gueugnon, cum'è contr'à Nancy ? I Vairelles, Roland Gransart, i mullizzi nuclearii sott'à u stadiu... Sta cità hè propiu interessante. 
+3. Turnà à passavvi l'epupea di u SECB : Krimau è i so guanti rossi in Torino, a musica di Vangélis, a voce di Michel Moretti... L'avete vista 300 volti, è a fidighjate sempre. 
+4. Arrestà cù u futbol : Di tutte e manere, i sustenidori di u Sporting sò "nati pè soffre", a LFP ci vole lampà fora da a L1 è u ballò prufeziunale ùn hè micca fattu per noi. 
+5. Andà à u sinemà, leghje un libru, fidighjà un DVD : ùn cuntate micca stà davant'à Ruquier o fidighjà à "Jour de foot" quantunque, nò ? 
+6. Fidighjà "les voeux de Paul Giacobbi" : Quelli di l'annu 2011, quelli di l'annu 2012 è quelli di quist'annu. Qualessi preferite ? 
+7. Leghje l'integralità di l'articuli di A Piazzetta : Iè bon, và bè, dapoi u primu articulu u 27 dicembre 2007, ci n'hè statu cunnerie scritte nant'à stu situ... 
+8. Chjinassi à bon'ora : è arrizzavvi a dumenica matina à bon ora per ùn micca vede à Téléfoot. 
+9. Mette da cantu i vostri soldi : Ma di tutte e manere, serete quantunque obligati di vende a vostra casa. 
+10. À voi di truvà.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Nisunu di i gîtes ruraux premiatu da u Guide Michelin
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Nisunu-di-i-gites-ruraux-premiatu-da-u-Guide-Michelin_a1498.html"/>
+     <date>
+      Tue, 19 Feb 2013 11:18:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Nisunu di i gîtes ruraux premiatu da u Guide Michelin
+   </head>
+   <div type="excerpt">
+    <p>
+     Terribule disillusione : hè esciutu u Guide Michelin 2013 è nisun "gîte" hè statu premiatu. Purtantu, ùn sò micca e suvvenzione chì mancavanu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè dunque esciutu u picculu libru rossu di i tichjoni 2013 senza nisuna traccia d'unu di i nostri "gîtes ruraux" nustrali. 
+Purtantu, quist'annu aviamu messu u pacchettu pè mudernizà i nostri stabilimenti : 360 000 euros di suvvenzioni da a parte di u Cunsigliu Generale di Corsica Suprana, ci dice L'Express. 
+Mancu una piccula stella ! 
+Invece, a storia i gîtes hè piaciuta assai à u ghjudice Vincent Raffray chì hà messu tredeci persone in esame. 
+U Cunsigliu Generale s'hè purtatu "partita cìvile". 
+Ma ùn v'inchietate, cum'è sempre, tuttu finiscerà bè.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

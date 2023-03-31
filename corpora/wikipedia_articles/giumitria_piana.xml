@@ -1,0 +1,131 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Giumitria piana
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Giumitria%20piana"/>
+     <date>
+      2015-07-09T08:18:20Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Giumitria piana
+   </head>
+   <p>
+    Par giumitria piana s'intendi quiddu ramu di a giumitria euclidea uriintata, par appuntu, à u pianu.
+   </p>
+   <p>
+    == Giumitria euclidea è analitica ==
+   </p>
+   <p>
+    I cuncetti fundamintali difiniti in u pianu sò u puntu è a retta. À parta da sti dui cuncetti si ni definiscini altri, com'è u sigmentu, a mezaretta o l'angulu. Tutti sti cuncetti ani truvatu una furmalisazioni assiumatica in l'Elementi di Euclide è sò à a basa di a giumitria euclidea.
+   </p>
+   <p>
+    Par via di a giumitria analitica, hè pussibuli à "dà un nomu" à ciascunu di st'ughjetti è usà i strumenti di l'algebra è di l'analisa: quissa hè pussibuli grazia à l'intruduzioni di u pianu cartisianu, vali à dì d'un sistemu di cuurdinati chì parmetti di chjamà ogni puntu  P  di u pianu incù un paghju P=(x,y)  di numari riali. In stu modu hè pussibuli à difiniscia retti, sigmenti è altri ughjetti giumetrichi com'è locu di punti chì suddesfani parechji cundizioni algebrichi. Par asempiu, una retta hè u locu di l' (x,y)
+   </p>
+   <p>
+    chì suddisfani a equazioni:\ ax+by = c induva a, b è c sò trè numari riali fissati.
+   </p>
+   <p>
+    Molti ughjetti è tiuremi di a giumitria piana sò parò trattevuli senza l'aiutu di cuurdinati. Frà quissi, i cuncetti di triangulu è puligunu, è i rilazioni di parallelisimu è urtugunalità frà retti o sigmenti. Ancu i sizioni conichi com'è a circumfarenza o a parabula si poni trattà (incù calchì difficultà) senza cuurdinati, ma quiddi principiani à divintà impurtanti in u studiu di curvi più cumplicati.
+   </p>
+   <p>
+    == Principali figuri giumetrichi ==
+   </p>
+   <p>
+    === Puliguni ===
+   </p>
+   <p>
+    Un puligunu hè una forma giumetrica dilimitata da una linia spizzata chjusa, vali à dì da una succissioni ciclica di sigmenti, ciascunu di i quali principia ind'eddu finisci u pricidenti. Sti sigmenti si chjamani lati, è u numaru di quissi carattarizeghja u nomu usatu nurmalamenti par u puligunu: s'eddi sò 3 hè un triangulu, s'eddi sò 4 hè un quadrilateru, è cetara. Un puligunu hà almenu 3 lati.
+   </p>
+   <p>
+    Ogni puligunu hà un perimetru è un'aria, ciascunu di i so lati una lunghezza, è dui lati aghjacenti ditarmineghjani un angulu. Tutti sti grandezzi sò strittamenti currilati. Sò dunqua utuli quiddi formuli chì parmettini di ditarminà u perimetru o l'aria di u puligunu à parta da l'altri grandezzi.
+   </p>
+   <p>
+    === Sizioni conichi ===
+   </p>
+   <p>
+    I sizioni conichi sò l'ughjetti curvilinii più simplici. Trà quissi ci hè naturalamenti a circumfarenza, è dinò a parabula, l' ellissi è l'iperbula. À ognunu di sti ughjetti sò assuciati parechji grandezzi, com'è u raghju di a circumfarenza.
+   </p>
+   <p>
+    == Da veda dinò ==
+   </p>
+   <p>
+    Giumitria solida
+   </p>
+   <p>
+    Giumitria euclidea
+   </p>
+   <p>
+    Toru (giumitria)
+   </p>
+   <p>
+    Angulu rettu
+   </p>
+   <p>
+    Catetu
+   </p>
+   <p>
+    Mezaretta
+   </p>
+   <p>
+    Perimetru
+   </p>
+   <p>
+    Sigmentu
+   </p>
+   <p>
+    Triangulu isusceli
+   </p>
+   <p>
+    Triangulu equilateru
+   </p>
+   <p>
+    Tiurema di Pitagora
+   </p>
+   <p>
+    Iputenusa
+   </p>
+   <p>
+    Tangenti
+   </p>
+   <p>
+    Trigunumitria
+   </p>
+   <p>
+    Triangulu
+   </p>
+   <p>
+    Uttaedru
+   </p>
+   <p>
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia in talianu.
+   </p>
+  </body>
+ </text>
+</TEI>

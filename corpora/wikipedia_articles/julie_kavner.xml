@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Julie Kavner
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Julie%20Kavner"/>
+     <date>
+      2015-07-01T18:39:28Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Julie Kavner
+   </head>
+   <p>
+    Julia Deborah "Julie" Kavner hè un'attrice americana.
+   </p>
+   <p>
+    Kavner, Julie
+   </p>
+  </body>
+ </text>
+</TEI>

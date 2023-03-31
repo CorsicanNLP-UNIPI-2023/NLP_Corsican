@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Un pianeta abitèvule simile à a terra... à quale ci mandemu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-pianeta-abitevule-simile-a-a-terra-a-quale-ci-mandemu_a1725.html"/>
+     <date>
+      Fri, 18 Apr 2014 14:03:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Un pianeta abitèvule simile à a terra... à quale ci mandemu ?
+   </head>
+   <div type="content">
+    <p>
+     Kepler-186f, hè u nome di u pianeta abitèvule è simile à a nostra Terra chì hè statu trovu, a ci hà detta a Nasa. 
+Abitèvule vole dì ch'ella si trova à a distanza ghjusta di u sole chì permetti a presenza d'acqua liquida. A timperatura hè guasi a listessa ch'è quella nant'à a terra. 
+Per avà ùn si sà s'elli esistenu kepleriani è chì forma ponu avè. 
+Hè quantunque appena luntana : si trova à 500 anni luce di noi. Sapendu ch'un annu luce currisponde à 9.460 milliarde, fate u càlculu... 
+Face appena luntanu per sperà mandacci à Pierre Ménès, à Frédéric Thiriez è unepochi d'eletti nostri. 
+Ma rassicuratevi, u scentificu di a missione Kepler hà dettu ch'ellu c'era 80% di furtuna di truvà un'altru pianeta abitèvule in un circondu più vicinu di a Terra in i prussimi vint'anni. 
+Forse ùn basterà micca per cunvince à certi d'ùn fà a so residenza segundaria ind'è noi...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Indignati di Corsica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Indignati-di-Corsica_a1275.html"/>
+     <date>
+      Mon, 20 Feb 2012 13:10:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Indignati di Corsica
+   </head>
+   <div type="excerpt">
+    <p>
+     Da per tuttu in u mondu, l'indignati si rivoltanu contr'à l'inghjustizie di stu mondu
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     In tantu, in Prupià...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/In-tantu-in-Prupia_a1677.html"/>
+     <date>
+      Thu, 06 Feb 2014 21:41:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MUNICIPALI-2014
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    In tantu, in Prupià...
+   </head>
+   <div type="excerpt">
+    <p>
+     Caroline Bartoli, moglia di Paul-Marie Bartoli si presenta à l'elezzioni in Prupià. Ma demissunerà per lascià a piazza à u so maritu. Era interrugata da Jean-Vitus Albertini nant'à Via Stella, è avemu tutti suffertu per ella...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Nant'à Twitter, e riazzioni ùn sò mancate. Da a cumpassione...
+A moglie di Bartoli nant'a FR3. Ohimè. ùn parla micca troppu bè ma sa leghje :-) lamentable d'humilier son épouse pour conserver une mairie!
+— jean ferrari (@ghjuvaferrari) 6 Février 2014
+    </p>
+    <p>
+     À a surpresa...
+@aurisacrafames J'admets n'avoir jamais vu un phénomène politique similaire en aucun pays du monde
+— André Fazi (@AndreFazi) 6 Février 2014
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

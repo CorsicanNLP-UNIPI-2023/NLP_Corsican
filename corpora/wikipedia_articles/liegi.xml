@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Liegi
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Liegi"/>
+     <date>
+      2015-08-04T05:24:31Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Liegi
+   </head>
+   <p>
+    Liegi hè una città belga è hè ancu u capilocu di a pruvincia.
+   </p>
+   <p>
+    == Cose da vede ==
+   </p>
+   <p>
+    Ci sò parechji musei (u Museu d'arte mudernu è d'arte cuntempuràneu, u grande Museu Curtius, u Museu di Zoolugià, u Museu di a vita wallonne, l'Archeoforum…) è lochi culturalli (L'Aquariu du l'Università di Liegi, a Casa di Scienze, u Centru storicu…).
+   </p>
+   <p>
+    Belgica
+   </p>
+  </body>
+ </text>
+</TEI>

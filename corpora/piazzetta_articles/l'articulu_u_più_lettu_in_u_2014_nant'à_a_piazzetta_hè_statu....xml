@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     L'articulu u più lettu in u 2014 nant'à A Piazzetta hè statu...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/L-articulu-u-piu-lettu-in-u-2014-nant-a-A-Piazzetta-he-statu_a2103.html"/>
+     <date>
+      Mon, 29 Dec 2014 11:38:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    L'articulu u più lettu in u 2014 nant'à A Piazzetta hè statu...
+   </head>
+   <div type="content">
+    <p>
+     È sì a nostra tv parlava corsu ? 
+Cun stu filmettu :
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Si chjama "Corsica" è vende a droga
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Si-chjama-Corsica-e-vende-a-droga_a1780.html"/>
+     <date>
+      Wed, 07 May 2014 01:44:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Si chjama "Corsica" è vende a droga
+   </head>
+   <div type="excerpt">
+    <p>
+     Quelli chì seguitanu a bunissima seria The Good Wife (passa nant'à M6 è Téva) averanu trasaltatu quand'elli anu intesu u nome d'unu di i persunagi di l'episodiu The Deep Web (stagione 5, episodiu 20). Quelli chì ùn a fideghjanu micca farianu megliu di mettesi.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Prima, ch'è no vi contimu cumu si passa (ma micca spoilers, prumessa) : 
+Lockhart &amp; Gardner - u cabinettu d'avucati di a seria - deve difende à Robbie, un studiente accusatu di travaglià pè Silk Road (un situ di u Deep Web induve si vendenu arme, droga è servizii di mercenarii) (Innò, ùn si sà s'ellu esiste in veru) (Innò, ùn vi deremu micca l'indirizzu). 
+Un testimone hà assiguratu à u procuratore chì Robbie travagliava per elli. È stu testimone si chjama Corsica. Face u deale di cannabis, è ùn hà nunda à dì. (V'aspettavate veramente à un'avucata onnesta è simpatica ? Siate puru felici ch'ella ùn sia maffiosa). 
+Ùn si sà sì stu nome hè statu sceltu da un scenaristu americanu venutu in vacanze ind'è noi l'estate passata, un scenaristu corsu in esiliu à i Stati Uniti o un abitante di Corsica, South Dakota, ma ci trica di vede à Portovèk in 24 heures chrono o Napoleona in House of Cards.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

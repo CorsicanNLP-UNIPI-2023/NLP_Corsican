@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Francia mozza
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-Francia-mozza_a1272.html"/>
+     <date>
+      Thu, 16 Feb 2012 21:39:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       PRESIDENZIALI-2012
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A Francia mozza
+   </head>
+   <div type="excerpt">
+    <p>
+     Sarkozy risicheghja di pagà caru u so affissu di campagna...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Bon avà l'affissu di campagna di Sarkozy u cunniscite tutti. Cumu averanu fattu i so cunsiglieri in cummunicazione per ripiglià un vechju slogan di Giscard (in più quellu di u 1981, quellu chì hà persu...) ? 
+Apparagunemu dunque i dui affissi. Daretu à VGE si pò vede u ritrattu d'una Francia industrializata. 30 anni dopu, daretu à Sarkozy si pò vede u mare, o piuttostu u viotu. L'usine è l'industrie sò smarite : l'imprese sò morte è l'usine delucalizate in China. 
+U mare ci dice dinù chì Sarko ùn aspetta più ch'è una cosa : piglià u battellu (u yacht di Bolloré ?) è andassine di stu paese. 
+Altru sbagliu : a chigna di u presidente, u viotu di l'affissu è u slogan ùn ponu chè dà l'ispirazione à i magagnoni di Photoshop. U web si scatena è 24 ore dopu à avè resu pùblicu l'affissu, ùn si contanu più e parudie è i muntagi. Da vede quì sottu... 
+Eccu, a campagna hè lanciata.
+    </p>
+    <p>
+     Fattu da http://viaghju.com
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

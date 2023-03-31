@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Predore
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Predore"/>
+     <date>
+      2015-05-08T20:10:58Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Predore
+   </head>
+   <p>
+    Predore hè una cumuna taliana di a pruvincia di Bergamo, in a Lumbardia. Teni 1.886 abitanti.
+   </p>
+   <p>
+    Cumuna d'Italia
+   </p>
+   <p>
+    Lumbardia
+   </p>
+  </body>
+ </text>
+</TEI>

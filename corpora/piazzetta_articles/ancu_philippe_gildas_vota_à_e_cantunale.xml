@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ancu Philippe Gildas vota à e cantunale
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ancu-Philippe-Gildas-vota-a-e-cantunale_a1079.html"/>
+     <date>
+      Fri, 08 Apr 2011 00:38:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ancu Philippe Gildas vota à e cantunale
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè scrittu nant'à e liste di Lecci di Portivechju è hà vutatu à l'ultime elezzioni...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cunniscite tutti u slogan ONE MAN, ONE VOTE, chì fù mughjatu in parechje epiche di a storia. Arricurdatevi per esempiu tandu in Sudafrica in tempu d’apartheid: ancu u puverettu di Johnny Clegg n’avia fattu una canzona. 
+Ghjera u sìmbulu di l’igualità di tutti di fronte à u scrutinu. 
+In Corsica dinù, adupremu sta pratica demucratica. 
+È ghjè nurmale. Semu ancu furtunati di pudè sprimesi in l’urne (quandu ùn brusgenu micca). 
+Allora UN OMU, UN VOTU, semu intesi cusì. 
+È dunque ci vole à sapè chì, nant’à stu principiu, ognunu hà listessu pesu eletturale incù u so votu. Un votu vale un votu. 
+È dunque u vostru votu hà listessu valore ch'è quellu di Philippe Gildas. 
+Innò, ùn ridimu micca. U tippettu hà a so casa in Cala Rossa è hè scrittu nant’à e liste di a cumuna di Lecci di Portivechju. 
+Grazie, demucrazia !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

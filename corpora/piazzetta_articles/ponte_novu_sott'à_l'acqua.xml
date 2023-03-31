@@ -1,0 +1,72 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ponte Novu sott'à l'acqua
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ponte-Novu-sott-a-l-acqua_a2269.html"/>
+     <date>
+      Fri, 02 Oct 2015 21:41:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ponte Novu sott'à l'acqua
+   </head>
+   <div type="excerpt">
+    <p>
+     È dì chì s'ellu avessi piossu cusì di maghju 1769, a Corsica ùn saria micca stata a listessa !
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè piossu à sechje durante st'ultime ore in Corsica. Nant'à e rete suciale sò stati pustati decine è decine di ritratti di ghjargali chì correnu à rivoccu, di strade tagliate, di pozzi è piscine olìmpiche nate appena da per tuttu (è senza l'aiutu di u PEI). 
+Ma i ritratti i più impressiunanti venenu forse da Ponte Novu.
+    </p>
+    <p>
+     Ritrattu Facebook : pagina di Jean-Do Marchi
+    </p>
+    <p>
+     (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/co_FR/sdk.js#xfbml=1&amp;version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));
+Posted by Dominique Bermondi on Vennari 2 Ottobre 2015
+    </p>
+    <p>
+     Pagina Facebook di Dominique Bermondi
+    </p>
+    <p>
+     Ponte Novu pic.twitter.com/nVshb5oiLX
+— Fraticelli_JM (@fraticelli_jm) 2 Octobre 2015
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

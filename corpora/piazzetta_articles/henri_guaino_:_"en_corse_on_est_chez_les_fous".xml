@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Henri Guaino : "en Corse on est chez les fous"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Henri-Guaino-en-Corse-on-est-chez-les-fous_a2317.html"/>
+     <date>
+      Mon, 21 Dec 2015 11:24:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Henri Guaino : "en Corse on est chez les fous"
+   </head>
+   <div type="excerpt">
+    <p>
+     Avete annerbatu à Henri Guaino. Interrugatu nant'à iTELE, u naziunalistu francese ùn hà micca appreziatu ciò chì s'hè passatu à l'assemblea di Corsica.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U festivale hè da vede à partesi da u sestu minutu :  "Ce qu'on a vu à l'assemblée de Corse est parfaitement intolérable... La Corse c'est la France, il n'y a pas de peuple corse, provençal ou auvergnat, il y a un peuple français ! La France est une et indivisible ! Je ne comprends pas que le représentant de l'état n'ait pas annulé les délibérations ce jour là ! En France on s'exprime en français, on ne jure pas sur la bible, le coran ou sur les livres de monsieur Paoli..."   
+L'omu chì avia fattu un scandalu per avè scrittu in u 2007 u famosu discorsu di Dakar di Nicolas Sarkozy, affirmendu chì "l'homme africain n'est pas assez entré dans l'Histoire", s'annerba pocu à pocu in u studio d'iTELE :  "Ca m'a scandalisé ! Il n'y a pas de dialogue sur ce registre là !" 
+Bruce Toussaint u rilancia : "Vous ne reconnaissez pas à la Corse une particularité ?" Risposta :  "Oui, bien sûr, une insularité ! L'île de Ré aussi ! C'est la France, pas le Kosovo !" 
+A demucrazia ?  "C'est un tiers de voix de ceux qui sont allés voter, et puis quand bien même dans la République une et indivisible il n'y a pas de référendum d'autodétermination pour chaque province de France ! On est chez les fous ! C'est très grave !"    Hè u mumentu di sorte a lezzione :  "Il a fallu des siècles et des siècles de travail, de sacrifices et de sang pour faire un pays, une nation, une civilisation, une République, il y a ceux qui veulent la défaire !    Cunclusione :  "Plus rien céder sur le communautarisme, ni régionaliste, ni linguistique, ni religieux, ça suffit !"
+    </p>
+    <p>
+     H. Guaino sur l'Assemblée corse : "c'est la... par ITELE
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

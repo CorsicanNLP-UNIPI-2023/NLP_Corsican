@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A fine di i nomi corsi ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-fine-di-i-nomi-corsi_a1127.html"/>
+     <date>
+      Thu, 30 Jun 2011 23:23:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A fine di i nomi corsi ?
+   </head>
+   <div type="excerpt">
+    <p>
+     L'ultima idea di Marine Le Pen : obligà à purtà nomi francesi.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In u 2009, u nome u più datu à i zitelli in Corsica era Lisandru. Pè e zitelle, si ritrovanu Chjara, Lesia, Stella (da vede nant'à stu situ). 
+I nomi corsi eranu digià pochi, forse ùn esisteranu più da quì à pocu. Marine Le Pen vole obligà i parenti chì anu i zitelli à dalli un nome francese pè favurizà a so assimilazione. Hè l'ultima idea ch'ella hà avutu. 
+Quand'ellu si sà chì Marine Le Pen hà u ventu in poppa in i sundagi, è chì a diritta corre appressu à l'idee di u FN, ci hè da dumandassi s'ellu ùn ci vole micca à fà i zitelli in furia s'è vo vulete ch'elli portinu nomi corsi. Hà da vene prestu, maghju 2012...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

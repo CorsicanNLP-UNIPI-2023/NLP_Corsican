@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Nò, ùn pudete micca sapè quale visiteghja u vostru prufilu nant'à Facebook
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/No-un-pudete-micca-sape-quale-visiteghja-u-vostru-prufilu-nant-a-Facebook_a1086.html"/>
+     <date>
+      Thu, 21 Apr 2011 00:24:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Nò, ùn pudete micca sapè quale visiteghja u vostru prufilu nant'à Facebook
+   </head>
+   <div type="excerpt">
+    <p>
+     Nant'à Facebook, semu tutti o flicchi, o puttachjoni, o voyeurs. Bellu prugressu...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A rete Facebook hè veramente u 
+mot anglais dont la traduction se situe entre l'espionnage et la filature, mais qui prend sur les réseaux sociaux un sens nettement plus inoffensif. Le «stalking» est une activité normale d'un jeune qui s'ennuie devant son ordi, une errance numérique au milieu des données disséminées par ses amis, l'équivalent social d'un zapping sur les 500 chaînes de son abonnement satellite. 
+Un mythe récurrent 
+http://farm1.static.flickr.com/57/155595430_c5c05260e2.jpg 
+http://www.slate.fr/story/29619/peut-savoir-qui-visite-profil-facebook
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

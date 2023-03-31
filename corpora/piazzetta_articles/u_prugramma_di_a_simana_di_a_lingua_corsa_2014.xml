@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U prugramma di a Simana di a lingua corsa 2014
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-prugramma-di-a-Simana-di-a-lingua-corsa-2014_a1837.html"/>
+     <date>
+      Mon, 26 May 2014 12:50:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U prugramma di a Simana di a lingua corsa 2014
+   </head>
+   <div type="content">
+    <p>
+     Hè riccu u prugramma di a Simana di a lingua quist'annu ! 
+In Aiacciu u serviziu LCC di a cità prupone digià tanti affari. 
+In Bunifaziu principia sabbatu a mostra The Mostra. 
+In altrò, cuncerti, filmi, attività, teatru, mostre (è mostri)... Andate à vede nant'à u situ di a Direzzione di a lingua corsa di a CTC. 
+L'azezi ùn ponu più dì ch'ellu ùn ci hè mai nunda.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

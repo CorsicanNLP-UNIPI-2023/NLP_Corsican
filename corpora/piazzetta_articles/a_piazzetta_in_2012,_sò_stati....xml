@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Piazzetta in 2012, sò stati...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-Piazzetta-in-2012-so-stati_a1474.html"/>
+     <date>
+      Tue, 01 Jan 2013 16:38:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       GIURNALE
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A Piazzetta in 2012, sò stati...
+   </head>
+   <div type="content">
+    <p>
+     1 319 913 pagine viste nant'à u situ 
+1 049 010 riazzioni, cummenti o insulte nant'à a nostra pagina Facebook 
+411 175 visite nant'à u situ web 
+182 499 lanciamenti d'applicazioni iPad, iPhone, Android è WP7 
+60 000 giurnali spachjati di rigalu. 
+8 552 cummenti pustati da i lettori, certi azezi assai. 
+8 244 fans di a pagina Facebook 
+2 429 followers di u contu Twitter 
+247 articuli scritti 
+47 scatule d'aspirine aperte 
+Qualchì omi pulitichi, sindicalisti, prumutori immubiliari è merri chì ci facenu u musu. 
+Unepochi di cazzotti evitati, di pizze cummandate per finisce u giurnale (sempre à corri corri). 
+Ringrazii à tutti quelli chì ci anu aiutatu, chì ci anu cridutu, chì anu datu un colpu di manu, chì anu distribuitu u giurnale, chì anu lettu, rilettu è currettu i sbaglii, chì ci anu incuragitu in i mumenti di dubbitu, chì ci anu furzatu à cuntinuvà quandu avemu vulsutu piantà, è sopr'à tuttu suppurtatu dapoi cinque anni (P &amp; V, PFC, F &amp; AM, Mt, C &amp; Ulongu, MA, PJF, MMA, JCS, PM, FL, LDP, ML, FB, RG, Zim). 
+È in 2013, serà peghju... o micca. 
+Pace è salute à tutti !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

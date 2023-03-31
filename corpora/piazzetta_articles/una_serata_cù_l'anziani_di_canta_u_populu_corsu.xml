@@ -1,0 +1,122 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Una serata cù l'anziani di Canta u Populu Corsu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Una-serata-cu-l-anziani-di-Canta-u-Populu-Corsu_a1549.html"/>
+     <date>
+      Sun, 28 Apr 2013 14:18:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Una serata cù l'anziani di Canta u Populu Corsu
+   </head>
+   <div type="excerpt">
+    <p>
+     Ci hè quantunque statu un bellu mumentu sta settimana in Corsica : u cuncertu di l'anziani di Canta u Populu Corsu à u teatru di Bastia.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     È dì chì certi dicianu ch'elli eranu troppu vechji ! 
+Canta u Populu Corsu hè un gruppu natu un 17 di lugliu in Sermanu, è quandu l'anziani collanu nant'à a scena (pè una serata di carità) a magia si mette in ballu. 
+Prima ci hè stata a surpresa di vede un teatru pienu à tappu. 800 biglietti partuti in qualchì ghjornu cun poca publicità. Mercuri sera u teatru di Bastia era troppu chjucu è 300 o 400 biglietti in più si sarianu vinduti. 
+In segondu ci hè stata l'emuzione. Assai forte pè l'omagiu à quelli chì ùn ci sò più. E voce di Natale Luciani, d'Alain Nicoli è di Dumè Gallet risonanu per sempre in e nostre orechje. 
+È dopu s'hè passatu qualcosa chì solu stu gruppu è ste voce ponu fà. Un mumentu forte di più di duie ore, chì hà rammintatu chì mumenti cusì, ci n'hè troppu pocu. È ancu, averianu pussutu cantà una nuttata sana tantu u publicu ùn era saziu. 
+Turnà à vede nant'à una scena l'anziani di u gruppu ùn vi pudia lascià di marmeru : Ghjuvanpaulu Poletti, Petru Guelfucci, Minicale, Filippu Rocchi, Mighele Cacciaguerra, Maì Pesce, Christophe Mac Daniel, Anna Rocchi, Eric Gineste, Ceccè Pesce... Hè appena a dream team nustrale. 
+Turnà à sente à Petru Guelfucci chì canta Citatella da fà, Ghjennaghju, A Fiaccula di vita, turnà à sente à Ghjuvanpaulu Poletti cantà Surella d'Irlanda, L'Affissu, Un Soffiu di libertà... anu datu a carne pullina à parechji. 
+È turnà à sente Vergogna à tè chì vendi a terra piglia tuttu u so sensu, trent'anni dopu. 
+Allora d'accordu, certi truveranu sempre à dì. A pulèmica nant'à u nome cuntinuverà à fà parlà assai. 
+Ma pocu impreme. Sò cusì rari i mumenti cusì. In un'attualità corsa sempre di più nera, a serata di Canta 73 hè stata una parentesi di felicità. 
+Canta u Populu Corsu hè di più chè un gruppu, firmerà qualcosa à parte in a storia di a Corsica. A voce di Guelfucci, e musiche di Poletti, e puesie di Fusina... trent'anni dopu facenu sempre effettu. 
+Ch'elli a voglinu o micca, a fiaccula di u populu corsu ùn hè ancu cumplettamente spenta...
+    </p>
+    <p>
+     Citatella da fà
+    </p>
+    <p>
+     A Fiaccula di vita
+    </p>
+    <p>
+     Ghjennaghju
+    </p>
+    <p>
+     Lettera di u mulatteru à u Corsu
+    </p>
+    <p>
+     Canzona di u viaghju
+    </p>
+    <p>
+     Allegria
+    </p>
+    <p>
+     A Palatina
+    </p>
+    <p>
+     L'Alta strada
+    </p>
+    <p>
+     L'Eletti
+    </p>
+    <p>
+     Surella d'Irlanda
+    </p>
+    <p>
+     Lamentu di u prigiuneru
+    </p>
+    <p>
+     Lettera à Nicoli
+    </p>
+    <p>
+     L'Odore di i nostri mesi
+    </p>
+    <p>
+     Missaghju
+    </p>
+    <p>
+     Un paisanu
+    </p>
+    <p>
+     Vergogna à tè
+    </p>
+    <p>
+     Vogliu scrive u to nome
+    </p>
+    <p>
+     Un soffiu di libertà
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

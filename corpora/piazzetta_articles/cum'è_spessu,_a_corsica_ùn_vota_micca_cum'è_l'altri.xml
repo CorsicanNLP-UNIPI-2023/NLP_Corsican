@@ -1,0 +1,80 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cum'è spessu, a Corsica ùn vota micca cum'è l'altri
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cum-e-spessu-a-Corsica-un-vota-micca-cum-e-l-altri_a2522.html"/>
+     <date>
+      Mon, 19 Jun 2017 00:33:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cum'è spessu, a Corsica ùn vota micca cum'è l'altri
+   </head>
+   <div type="excerpt">
+    <p>
+     Ùn hè micca sempre u casu ma hè spessu cusì. I Corsi anu pigliatu l'abitutine d'ùn fà nunda cum'è l'altri, è di vutà u cuntrariu di ciò ch'elli votanu in Francia
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Bella sigura, i scrutini sò tutti differenti è ùn ci vole sempre à circà lezzione generale. Ma quantunque ùn hè micca a prima volta chì a Corsica vota u cuntrariu di u cuntinente.
+    </p>
+    <p>
+     Elezzione legislative 2002 : zunamì di diritta, a Corsica manda 3 diputati di manca
+Chirac vene d'esse elettu presidente di a Republica. E legislative chì seguitanu danu una magiurità forte à a diritta... Fora di a Corsica, chì manda trè diputati di manca : Simon Renucci, Paul Giacobbi è Emile Zuccarelli, chì si truvava à u segondu giru oppostu à... Fanfan Vendasi, un'altru radicale di manca.
+    </p>
+    <p>
+     Elezzione regiunale 2004 : a Francia passa à manca, a Corsica ferma à diritta
+L'elezzione marca una sanzione di a pulitica di diritta di u guvernu di Raffarin. A manca vince 24 regione nant'à 26. Pè a territuriale in Corsica, hè a lista di Camille de Rocca Serra chì ghjunghje in testa.
+    </p>
+    <p>
+     Primaria di a diritta 2016 : Corsica, terra sarkozista
+Più nimu ne vole, fora di a Corsica. À a primaria di a diritta, quandu a Francia mette in testa à François Fillon è Alain Juppé, a Corsica hà a nostalgia di Nicolas Sarkozy.
+    </p>
+    <p>
+     Primaria di a manca 2017 : Valls, una passione corsa
+È quandu a Francia di manca si piglia di passione per Benoît Hamon, hè dunque logica chì e duie federazione corse di u PS mettinu à Manuel Valls in testa.
+    </p>
+    <p>
+     Legislative 2017 : a Francia macrunista, a Corsica naziunalista
+Mentre chì in Francia si parla di zunamì pè Macron (361 deputati pè "La France en Marche" è u Modem), a Corsica sceglie un'altra via è pè a prima volta ci seranu naziunalisti à l'assemblea naziunale. È in più di quessa, ci ne serà trè...
+    </p>
+    <p>
+     Da seguità...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

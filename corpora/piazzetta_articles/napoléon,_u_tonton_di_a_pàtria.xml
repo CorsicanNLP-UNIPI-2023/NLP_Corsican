@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Napoléon, u tonton di a pàtria
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Napoleon-u-tonton-di-a-patria_a1308.html"/>
+     <date>
+      Sat, 31 Mar 2012 14:36:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Napoléon, u tonton di a pàtria
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè più chè mai pèssima a situazione di a Corsica. A simana passata hè stata marcata una volta di più da un assassiniu è da Napuleone Bonaparte.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Viulenza, assassinii, droga, disimpiegu, speculazione : sò tanti è tanti i guai chì culpìscenu l’ìsula. In sti tempi di doppia campagna eletturale, Corsica Libera hà dunque decisu ghjovi di cumunicà nant’à u turìsimu. 
+Una cunferenza di stampa prulìfica incù una pruposta maiò da ritene : sfruttà di più a fiura di Napuleone chì pò esse « una porta d’entrata per fà cunnosce è valurizà à Pasquale Paoli ». 
+Hè dunque un' edea nova, moltu più chì in Aiacciu ùn ci avìanu ancu pensatu à dà u nome di Napuleone à 214 carrughji, à l'aeruporti, à l'avviò, à i battelli è à i caffè. Hè dinù difficiule di truvà publicazioni, fiure, tazze, calzette è bricchetti à l’effigia di l’Imperatore Francese. 
+In tantu, u Partitu Bunapartistu d'Aiacciu si hè sùbitu felicitatu di sta pruposta : "c'est génial !" hà tweettatu u membru attivu nant'à u minitel. 
+Ma sta pruposta ùn hè chè a prima tappa di un pianu stratègicu di sviluppu di u turìsimu culturale. S'anu da fà dinù : 
+. Posters di Bernard Bonnet per fà cunnosce è valurizà e pagliotte.  . Un DVD nant’à a vita di Marboeuf per fà cunnosce è valurizà i macellaghji è a carne corsa.  . Appiccicatoghji "Jean-Pierre Chevènement à u mare" per fà cunnosce è valurizà i naziunalisti musculati è bè di corpu.  . Cartuline pustale di u Comte de Vaux per fà cunnosce è valurizà i Corsi chì anu vintu in Pontenovu.  . Tiratappi "Henri Depeille per fà cunnosce è valurizà u Clos Sambucucciu.  . Ciavatte "Thierry Rolland" per fà cunnosce è valurizà u parcorsu di u FC Bastelicaccia in DH.  . Un bob "Angelo Rinaldi" per fà cunnosce è valurizà e puesie di Hubert Tempête.  . Zlippi « Christian Clavier » per fà cunnosce è valurizà l’intraprese BTP di Pumonte.  . Libretti nant’à u patrimoniu architetturale di Barchetta per fà cunnosce è valurizà u restu di a Corsica… 
+Alè, torna un sforzu chì ci simu basi !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

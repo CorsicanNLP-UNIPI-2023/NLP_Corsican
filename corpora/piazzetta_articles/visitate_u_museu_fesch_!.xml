@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Visitate u museu Fesch !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Visitate-u-museu-Fesch-_a1035.html"/>
+     <date>
+      Mon, 21 Feb 2011 00:41:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Visitate u museu Fesch !
+   </head>
+   <div type="excerpt">
+    <p>
+     Quale hà dettu chì a cultura è i musei ùn interessavanu à nimu in Corsica ? Visitate i nostri musei nanzu ch'ellu ùn ci fermi più nunda...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Infine appena d'originalità ind'è i trafficoni nustrali. Dopu à i tràffichi di droga, d'arme è i braccasgi , eccu u tràfficu d'opere d'arte. Ci scambia. 
+A storia di l'arrubecciu calamitosu di u museu Fesch è di u ladru chì si face arrubà, ci vulia à inventalla. È quale simu ? 
+Sta storia vene dopu à quella di l'omu chì s'hè messu una fucilata... è chì hè statu cundannatu à un annu di prigiò. L'Aiaccini sò in forma, aspettemu u svegliu di i Bastiacci per fà peghju. 
+U mèritu di st'affare serà quellu di fà appena di pubba per u museu Fesch. Tutti i media parigini anu ripigliatu sta frasa : Riche de 400 toiles exposées sur quatre niveaux, le musée d'Ajaccio abrite la plus importante collection de peinture italienne en France après celle du Louvre. 
+Avà, tuttu u mondu a sà ! Prufittemune dunque per fà appena di pubba à i musei corsi : 
+- In Merusaglia pudete arrubà una calzetta di u Babbu di a Patria à u museu Pasquale Paoli.  - À u museu d'Aleria pudete sempre circà di parte cù un pezzu di ceràmica rumana.  - In Corti pudete sempre pruvà d'arrubà una fattoghja niulinca à u museu di a Corsica.  - In Bastia nisuna inchietutine, e vitrine di u museu sò sempre viote.  - In Livia  pudete parte cù u cubitus di a Donna di Bunifaziu, a nostra vechjetta a più antica. 
+Dunque, prufittate di visità i nostri musei nanzu ch'ellu ùn ci sia più nunda da vede. 
+Per finisce, sàppiate chì l'arrubbecciu di u museu Fesch ùn hà nunda à chì vede cun l'affare Bastelica-Fesch.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cumu fà scappà i turisti
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cumu-fa-scappa-i-turisti_a1148.html"/>
+     <date>
+      Wed, 24 Aug 2011 20:33:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cumu fà scappà i turisti
+   </head>
+   <div type="excerpt">
+    <p>
+     Troppu mondu à u mare ? Vulete avè a pace ? Faciule...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Algues vertes : Anu trovu una quarantina di cignali morti nant'à i mari di Saint-Brieuc. In Brittagna, l'alghe verde sò à a moda è facenu scappà à tutti.  + suluzione radicale, 100% di successu  - pudete passacci ancu voi 
+E potte marine turchine : U francese a chjama physalie. St'animalottu sìmpaticu hà riesciutu à fà chjode a spiagia di Lacanau.  + suluzione 100% naturale  - ùn vi puderete micca bagnà è ci serà sempre u mondu nant'à a rena 
+A cagnaccia : Un remake di "les dents de la mer" ùn hè micca impussibule in Corsica. A settimana scorsa, un pesciucane hà messu a panicca in Saint-Tropez  + suluzione 100% naturale dinù  - ci vole à fà un sacrifiziu 
+Una bella marée noire : Amoco Cadiz, Exxon Valdez, Erika... Tutti sti nomi sò sinònimi di tranquillità à u mare.  + suluzione à longu andà, serete tranquillu pè parechji anni è ferà ancu calà u prezzu di l'immubiliare  - puzza appena 
+Una splusione attòmica : Andate à u mare di Fukushima, viderete ch'è vo serete soli.  + averete a spiagia sana per voi  - pensate à e pastiglie d'ioda è à a cumbinasone anti nuclearia 
+I mostri : V'arricurdate di u mostru di Montauk, trovu mortu à u mare ?  + noi n'avemu pienu di mostri chì bronzanu in Corsica : Muriel Robin, Bernard Kouchner, Karl Zéro, Iggy Pop, Jérôme Rothen...  - ci vole à truvanne unu mortu à u mare è circà di mediattizà
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

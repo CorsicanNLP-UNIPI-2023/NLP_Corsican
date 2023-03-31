@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pughjulanu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Pughjulanu"/>
+     <date>
+      2015-07-07T11:19:31Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pughjulanu
+   </head>
+   <p>
+    pughjulanu, abitante di Marinacciu (U Poghju è Marinacciu).
+   </p>
+   <p>
+    pughjulanu, abitante di Mezana (pieve)
+   </p>
+  </body>
+ </text>
+</TEI>

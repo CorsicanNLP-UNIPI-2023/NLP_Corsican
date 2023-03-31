@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Auckland Grammar School
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Auckland%20Grammar%20School"/>
+     <date>
+      2018-03-08T17:38:45Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Auckland Grammar School
+   </head>
+   <p>
+    Auckland Grammar School hè una scola americana in Auckland, Nova Zilanda.
+   </p>
+   <p>
+    Nova Zilanda
+   </p>
+  </body>
+ </text>
+</TEI>

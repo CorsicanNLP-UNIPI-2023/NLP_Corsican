@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Reta
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Reta"/>
+     <date>
+      2014-03-23T14:53:42Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Reta
+   </head>
+   <p>
+    A Reta (inglesu: Web, francesu: la Toile) hè un sistemu chi parmetti, incù l'aiutu d'Internet e di un navigatori adattatu, di cunsultà pagini chi cuntenini testi, imagini o infurmazioni.
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    http://www.linguacorsa.net/ : un situ dedicatu à e nove tecnulugie e à la Lingua Corsa
+   </p>
+   <p>
+    Informatica
+   </p>
+  </body>
+ </text>
+</TEI>

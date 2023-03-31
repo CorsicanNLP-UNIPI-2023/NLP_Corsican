@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "Vous voulez jouer encore ?"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Vous-voulez-jouer-encore_a1905.html"/>
+     <date>
+      Tue, 08 Jul 2014 01:44:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "Vous voulez jouer encore ?"
+   </head>
+   <div type="content">
+    <p>
+     A videò di France 3 Corse di l'evacuazione di a prefettura da i CRS cuntinuveghja di pruvucà riazzione in Corsica (ma hè vera chì l'eliminazione di a Francia da a Nationalmannschaft hà pussutu fà perde i so nervi à certi goldoraks). 
+Eccu un ritrattu chì circuleghja nant'à Facebook. È in tantu, una lagnanza hè stata purtata contr'à u prefettu di Corsica Suprana, Alain Rousseau. 
+Ma s'ella pare normale chì i marinari di a SNCM difendinu i so impieghi, perchè tocca à i Corsi di paganne e cunsequenze ? 
+Cum'è per azardu, un articulu di u 2005 di Le Parisien intitulatu "Scandale à la SNCM" chì tratta di i diversi traffichi è malfatte hè turnata à esce. È di ponesi a dumanda cumu un lascia corre sìmile hè statu pussibule... 
+In tantu, fora di mandà i CRS à mette i calci (serà ciò chì Cazeneuve chjama "fermer la porte avec douceur" ?), chì face u statu ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

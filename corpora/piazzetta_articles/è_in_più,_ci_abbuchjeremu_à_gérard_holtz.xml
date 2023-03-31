@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È in più, ci abbuchjeremu à Gérard Holtz
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-in-piu-ci-abbuchjeremu-a-Gerard-Holtz_a1567.html"/>
+     <date>
+      Thu, 16 May 2013 18:43:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È in più, ci abbuchjeremu à Gérard Holtz
+   </head>
+   <div type="excerpt">
+    <p>
+     Un scumpientu ùn ghjunghje mai solu. In più di i duppati, di a caravana publiciataria è di u diavule, cù u Tour de France ghjunghje Gérard Holtz.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Corse-Matin hà datu un'infurmazione impurtante sta settimana. 
+Gérard Holtz hà cunfirmatu a so presenza nant'à a longa lista di i castichi chì veneranu cù u Tour de France st'estate. 
+Ma ùn v'inchietate, i cummentarii di Gégé nant'à a Corsica seranu senza clichés. U giurnalistu hè un amicu di a Corsica, dice ch'ellu cunnosce à Purtichju è à Portivechju. O piuttostu Portitch è Portovèk. 
+Hà da esse longu stu giru...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

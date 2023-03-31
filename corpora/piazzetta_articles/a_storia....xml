@@ -1,0 +1,77 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     a storia...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/a-storia_a2286.html"/>
+     <date>
+      Thu, 29 Oct 2015 02:05:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    a storia...
+   </head>
+   <div type="content">
+    <p>
+     FNAC – PAUL – KFC – Mc DONALD – AUCHAN : avà simu pronti ! 
+Dans la cité impériale, les choses s’accélèrent. On rattrape les années de 
+retard sur l’économie de consommation de masse, alors que selon certains 
+observateurs européens, la tendance serait le retour aux centres-villes… 
+Da legghe : 
+pourquoi-le-commerce-revient-au-centre-ville.html 
+In Aiacciu, le mercredi 29 avril 2015, les portes de la FNAC - temple français 
+« des produits culturels et électroniques » destiné au grand public, crée en 
+1954 (au sortir du second conflit mondial, quels pouvaient bien être les 
+« produits culturels et électroniques » distribués ?) – les portes du Géant 
+s’ouvrent donc. Il aura fallu attendre 61 longues et pénibles années pour 
+goûter aux joies de la grande distrib culturelle et de l’uniformisation. Au 
+détriment par exemple des libraires du centre-ville chez qui il est encore 
+possible de discuter des dernières parutions. Mais trop de culturel (on ne 
+parle pas de culture), c’est mauvais pour une seule ville. Il fallait rééquilibrer. 
+Avec un temps de décalage, les ajacciens verront bientôt aux abords de 
+Mezzavia (la Superbe), une boulangerie Paul (u pane un è micca una 
+tradizione in Corsica), un KFC (l’établissement où même les Américains ne 
+veulent plus aller manger), dit-on deux McDonald (perchè unu solu ? Quick va 
+réclamer justice) et un hypermarché Auchan, le plus vaste de la région PACA 
+(sò 66000 in Aiacciu. Perchè ? D’autant que d’autres solutions existent). 
+Da legghje : http://fortune.fdesouche.com/362539-nord-treize-fermes- 
+court-circuitent-un-supermarche-en-ouvrant-leur-propre-magasin 
+Chi tanti Strada di i Sensi di l’ODARC. 
+A storia cuntinueghjà. 
+FOTOS : CHESKU
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

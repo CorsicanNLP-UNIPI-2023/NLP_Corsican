@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Corsica, segonda à u campiunatu di Francia di i lochi persi
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-Corsica-segonda-a-u-campiunatu-di-Francia-di-i-lochi-persi_a2460.html"/>
+     <date>
+      Sun, 04 Sep 2016 13:14:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A Corsica, segonda à u campiunatu di Francia di i lochi persi
+   </head>
+   <div type="excerpt">
+    <p>
+     Induve serà u locu di Francia u più scansatu d’ogni abitazione ? U locu induve ci vole à inalpellassi da fughje u populu ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cù i dati demogràfichi di l’Insee si ponu ritruvà i lochi senza pupulazione, i grandi vioti di a Francia è traccià nant’à una carta cherchji più o menu stesi. 
+Slate s'hè postu a dumanda :
+    </p>
+    <p>
+     Où se trouve le plus grand «trou perdu» de votre département ? https://t.co/5jYrzWUsWR pic.twitter.com/W4FMu92NSk
+— Slate.fr (@Slatefr) 29 août 2016
+    </p>
+    <p>
+     U chjerchju più grande hè in Savoia : u so raghju misura 9498 metri à tiru d’acellu.
+    </p>
+    <p>
+     U segondu hè in Corsica Suprana è misura 8527 metri. S’è vo ghjunghjite quassù, vicinu à Monte Cintu, postu à u centru di u cherchju, avvintu da a natura, cù e mufre è l’altagne per sole cumpagne, puderete rifiatà appinuccia.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Humphry Davy
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Humphry%20Davy"/>
+     <date>
+      2015-07-06T08:41:14Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Humphry Davy
+   </head>
+   <p>
+    Sir Humphry Davy (Penzance, 17 dicembre di u 1778 – Ginevra, 29 maghju di u 1829) hè statu un chimicu inglese.
+   </p>
+   <p>
+    Biugrafia
+   </p>
+   <p>
+    Chimica
+   </p>
+  </body>
+ </text>
+</TEI>

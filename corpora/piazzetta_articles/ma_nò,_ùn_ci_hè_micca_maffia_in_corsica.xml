@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ma nò, ùn ci hè micca maffia in Corsica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ma-no-un-ci-he-micca-maffia-in-Corsica_a1299.html"/>
+     <date>
+      Thu, 22 Mar 2012 01:07:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ma nò, ùn ci hè micca maffia in Corsica
+   </head>
+   <div type="excerpt">
+    <p>
+     L'associu di difesa di l'ambiu U Levante hà lampatu una chjama : "Ne voyez-vous pas le système mafieux qui s’installe ?"
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     D'appressu à U Levante, un sistema maffiosu hè in traccia di stallassi in Corsica. I trafficoni sò attirati da u nostru liturale cù e so centinaie di chilòmetri di coste salvàtiche. Ma salvàtiche sin'à quandu ? 
+Da leghje nant'à u situ di l'associu : Ne voyez-vous pas le système mafieux qui s’installe ? 
+E terre chì sò state risparmiate da a bettunizazione in l'anni 70 è 80 sò in traccia d'esse pocu à pocu runzicate da u "mitage" è da i prugetti immubiliari. 
+"L'Etat de droit", ellu s'hè firmatu in casa soia. Ùn si contanu più i casi di "lege liturale" micca rispettata è u prefettu Patrick Strzoda hà u mese passatu autorizatu 70% di i permessi di u PLU di Portivechju chì eranu stati... annulati da u tribunale amministrativu di Bastia. Nò, ùn hè micca una magagna. Cusì si passa oghje ind'è noi. 
+A nostra isula piglia via di u "tuttu bettonu", facilitata da i Corsi chì si vendenu u so patrimoniu (tuttu quessa per cumprassi l'ultimu 4x4 è pè flambà in Bali o in Disneyland). 
+È a Corsica diventa di più in più goffa... 
+In quant'à i prugetti immubiliari, u cuncorsu di u nome u più goffu hè statu lanciatu nant'à A Piazzetta. Per avà hè "Le Clos de Longvilliers" di Muriani chì hè in testa. 
+A settimana passata, un sundagiu nant'à u situ di Corse-Matin punia a dumanda "croyez-vous qu'un système mafieux se met doucement en place en Corse ?" Risultatu : iè à 87%. 
+Ma nò, ùn ci hè micca maffia in Corsica.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

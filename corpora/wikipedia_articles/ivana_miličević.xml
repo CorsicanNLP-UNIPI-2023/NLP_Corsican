@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ivana Miličević
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Ivana%20Mili%C4%8Devi%C4%87"/>
+     <date>
+      2017-07-07T02:28:56Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ivana Miličević
+   </head>
+   <p>
+    Ivana Miličević (26 Aprile 1974) hè un attrice americana.
+   </p>
+   <p>
+    Miličević, Ivana
+   </p>
+   <p>
+    Miličević, Ivana
+   </p>
+  </body>
+ </text>
+</TEI>

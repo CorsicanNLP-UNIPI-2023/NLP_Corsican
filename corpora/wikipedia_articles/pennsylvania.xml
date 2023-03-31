@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pennsylvania
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Pennsylvania"/>
+     <date>
+      2019-01-02T03:03:15Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pennsylvania
+   </head>
+   <p>
+    A Pennsylvania hè un statu di i Stati Uniti d'America. Tene 12,4 milioni d'abitanti. A capitale hè Harrisburg. A cità più grande hè Philadelphia.
+   </p>
+   <p>
+    Altra cità impurtante hè Pittsburgh.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    James Stewart
+   </p>
+   <p>
+    Pennsylvania
+   </p>
+  </body>
+ </text>
+</TEI>

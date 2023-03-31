@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "Weird Al" Yankovic
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/%22Weird%20Al%22%20Yankovic"/>
+     <date>
+      2016-09-22T09:54:26Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "Weird Al" Yankovic
+   </head>
+   <p>
+    Alfred Matthew "Weird Al" Yankovic (California, 23 ottobre 1959) hè un attore americanu.
+   </p>
+   <p>
+    Yankovic, "Weird Al"
+   </p>
+   <p>
+    Yankovic, "Weird Al"
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Senza travagliu ? A maffia corsa ricruta !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Senza-travagliu-A-maffia-corsa-ricruta-_a1215.html"/>
+     <date>
+      Fri, 18 Nov 2011 00:06:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Senza travagliu ? A maffia corsa ricruta !
+   </head>
+   <div type="excerpt">
+    <p>
+     A maffia corsa ùn cunnosce micca a crisa, ci sò e piazze per tutti.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cum'è 30.000 Corsi, site senza travagliu o in a precarità ? Ùn ci la fate micca à truvà un impiegu ? Ùn ci hè mancu più un elettu pè truvavvi una piazza ? 
+Ùn v'inchietate ! I trafficoni di Corsica vi truveranu qualcosa. L'avvene, hè a malavita ! 
+Spezializatevi in una filera chì marchja bè : fate vene a droga, tagliate a cuccaina, vindite l'eroina, organizate un braccasgiu, fatevi un go fast o un car-jacking, lanciatevi in u racket, u tràfficu d'arme... o megliu : cum'è nentr'à Scarface, circate di piglià a piazza di i vechji scrucconi è pruvate di stinzalli tutti ! 
+Dopu, sbiancate i vostri soldi. Scuzzulate i merri pè fà mudificà i piani d'urbanisimu è rendite i terreni custruttibili. Fate custruisce casali, bungalows è residenze da vende à i ricchi fresteri. Diventerete ricchi è vi puderete cumprà un quad è un Cayenne. 
+Realizate u vostru sognu ! E piazze ùn mancanu micca. In campu santu non più.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Meli
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Meli"/>
+     <date>
+      2019-06-03T01:18:21Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Meli
+   </head>
+   <p>
+    U meli hè una sustanza inzuccherata prudotta da l'abbe.
+   </p>
+   <p>
+    ==Citazioni==
+   </p>
+   <p>
+    Accadi chì u meli fussi mintuvatu in a litteratura è a cultura corsa. Par asempiu, in i pruverbii:
+   </p>
+   <p>
+    À chì hà mangnatu u meli t'hà l'abba in capu.
+   </p>
+   <p>
+    ==Rifarenzi==
+   </p>
+   <p>
+    Saravelli-Retali, 1976, A vita in Corsica per via di i pruverbii è i detti - La vie en Corse à travers proverbes et dictons, Nice: Don Bosco
+   </p>
+   <p>
+    Gastrunumia corsa
+   </p>
+  </body>
+ </text>
+</TEI>

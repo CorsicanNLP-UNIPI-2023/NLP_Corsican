@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Telescopium
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Telescopium"/>
+     <date>
+      2014-03-23T15:03:00Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Telescopium
+   </head>
+   <p>
+    Telescopium hè una di e 88 custellazione moderne.
+   </p>
+   <p>
+    == Mitologia ==
+   </p>
+   <p>
+    == Stelle ==
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Custellazione
+   </p>
+  </body>
+ </text>
+</TEI>

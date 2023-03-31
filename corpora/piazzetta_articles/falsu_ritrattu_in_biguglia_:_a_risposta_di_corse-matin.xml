@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Falsu ritrattu in Biguglia : a risposta di Corse-Matin
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Falsu-ritrattu-in-Biguglia-a-risposta-di-Corse-Matin_a2045.html"/>
+     <date>
+      Sun, 30 Nov 2014 18:05:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Falsu ritrattu in Biguglia : a risposta di Corse-Matin
+   </head>
+   <div type="content">
+    <p>
+     U ritrattu di u Var in u 2010 chì s'hè ritruvatu in Corse-Matin per illustrà l'innundazioni di u circondu bastiacciu, per via di U Gorsmatin hà fattu parlà assai nant'à e rete suciale. 
+Ùn hà micca messu in zerga à Corse-Matin chì hà fattu una risposta fair-play in a so edizione d'oghje...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

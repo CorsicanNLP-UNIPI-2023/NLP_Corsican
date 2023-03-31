@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Demi Moore
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Demi%20Moore"/>
+     <date>
+      2015-07-01T18:47:47Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Demi Moore
+   </head>
+   <p>
+    Demi Moore (Roswell, 11 novembre 1962), nata come Demi Gene Guynes, hè un'attrice americana che lavora dal 1981.
+   </p>
+   <p>
+    Moore, Demi
+   </p>
+   <p>
+    Moore, Demi
+   </p>
+  </body>
+ </text>
+</TEI>

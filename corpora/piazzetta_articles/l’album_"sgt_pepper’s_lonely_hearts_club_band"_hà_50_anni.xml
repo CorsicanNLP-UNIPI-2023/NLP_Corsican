@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     L’album "Sgt Pepper’s Lonely Hearts Club Band" hà 50 anni
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/L-album-Sgt-Pepper-s-Lonely-Hearts-Club-Band-ha-50-anni_a2598.html"/>
+     <date>
+      Fri, 02 Jun 2017 09:47:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ULTIMI
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    L’album "Sgt Pepper’s Lonely Hearts Club Band" hà 50 anni
+   </head>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

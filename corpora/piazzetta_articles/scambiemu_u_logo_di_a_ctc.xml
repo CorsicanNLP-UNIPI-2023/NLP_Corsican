@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Scambiemu u logo di a CTC
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Scambiemu-u-logo-di-a-CTC_a1083.html"/>
+     <date>
+      Tue, 19 Apr 2011 01:25:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Scambiemu u logo di a CTC
+   </head>
+   <div type="excerpt">
+    <p>
+     http://www.corsematin.com/article/derniere-minute/concours-changez-le-logo-de-la-ctc
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

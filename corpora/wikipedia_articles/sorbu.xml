@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sorbu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Sorbu"/>
+     <date>
+      2015-07-01T07:17:18Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sorbu
+   </head>
+   <p>
+    Sorbu hè un paese chì face partita di a cumuna di Sorbu-Occagnanu.
+   </p>
+   <p>
+    == Geografia ==
+   </p>
+   <p>
+    == Storia ==
+   </p>
+   <p>
+    == Referenze ==
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Paese di Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

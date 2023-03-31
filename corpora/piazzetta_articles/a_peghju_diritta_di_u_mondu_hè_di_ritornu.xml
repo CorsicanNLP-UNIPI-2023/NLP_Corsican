@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A peghju diritta di u mondu hè di ritornu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-peghju-diritta-di-u-mondu-he-di-ritornu_a1576.html"/>
+     <date>
+      Mon, 27 May 2013 01:14:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A peghju diritta di u mondu hè di ritornu
+   </head>
+   <div type="excerpt">
+    <p>
+     V'arricurdate di u Padduc calamitosu di Santini è Rocca Serra. In u dibattiti nant'à u p
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

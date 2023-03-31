@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Philip José Farmer
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Philip%20Jos%C3%A9%20Farmer"/>
+     <date>
+      2013-03-09T03:32:05Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Philip José Farmer
+   </head>
+   <p>
+    Philip José Farmer hè statu unu scrivanu di scienza fizzione in lingua inglese.
+   </p>
+   <p>
+    Era natu à North Terre Haute u 26 di ghjennaghju di u 1918 è hè mortu u 25 di ferraghju 2009.
+   </p>
+  </body>
+ </text>
+</TEI>

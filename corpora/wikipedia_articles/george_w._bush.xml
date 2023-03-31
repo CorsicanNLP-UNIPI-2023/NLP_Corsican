@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     George W. Bush
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/George%20W.%20Bush"/>
+     <date>
+      2019-06-06T20:43:06Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    George W. Bush
+   </head>
+   <p>
+    George Walker Bush (6 Lugliu 1946) hè statu presidente di i Stati Uniti d'America da u 2001 à u 2009.
+   </p>
+   <p>
+    Bush, George W.
+   </p>
+  </body>
+ </text>
+</TEI>

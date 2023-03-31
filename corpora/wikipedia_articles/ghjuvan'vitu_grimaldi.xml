@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ghjuvan'Vitu Grimaldi
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Ghjuvan%27Vitu%20Grimaldi"/>
+     <date>
+      2019-10-03T11:18:19Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ghjuvan'Vitu Grimaldi
+   </head>
+   <p>
+    Ghjuvan'Vitu Grimaldi hè un autore in lingua corsa. Hè natu in Corsica in u 1804. Hè statu prufissore di filusufia à u culleghju Fesch in Aiacciu. Morsi in Aiacciu in u 1863.
+   </p>
+   <p>
+    ==Bibliugrafia==
+   </p>
+   <p>
+    Bartulumea
+   </p>
+   <p>
+    Scrivanu in lingua corsa
+   </p>
+  </body>
+ </text>
+</TEI>

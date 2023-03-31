@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Fuentecambrón
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Fuentecambr%C3%B3n"/>
+     <date>
+      2014-03-23T14:21:00Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Fuentecambrón
+   </head>
+   <p>
+    hè una cumuna spagnola di a pruvincia di Soria, in a cumunità autonoma di Castiglia è León.
+   </p>
+   <p>
+    Pruvincia di Soria
+   </p>
+  </body>
+ </text>
+</TEI>

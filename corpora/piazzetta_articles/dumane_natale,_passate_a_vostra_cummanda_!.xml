@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Dumane Natale, passate a vostra cummanda !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Dumane-Natale-passate-a-vostra-cummanda-_a2307.html"/>
+     <date>
+      Tue, 08 Dec 2015 01:14:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Dumane Natale, passate a vostra cummanda !
+   </head>
+   <div type="excerpt">
+    <p>
+     Prufittatene, Papa Noël serà generosu quist'annu.
+    </p>
+   </div>
+   <div type="content">
+   </div>
+  </body>
+ </text>
+</TEI>

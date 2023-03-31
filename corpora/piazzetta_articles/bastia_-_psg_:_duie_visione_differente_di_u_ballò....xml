@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bastia - PSG : duie visione differente di u ballò...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Bastia-PSG-duie-visione-differente-di-u-ballo_a2187.html"/>
+     <date>
+      Thu, 09 Apr 2015 11:26:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bastia - PSG : duie visione differente di u ballò...
+   </head>
+   <div type="excerpt">
+    <p>
+     Di regula, ùn ci averia à esse macciu sabbatu sera, per a finale di a cuppa di a lega. Duie visione cumplettamente differente di u ballò anu da affruntassi nant'à u terrenu : da un latu quellu di i soldi, sìmulu di u football-business, da l'altru quellu d'un ballò pupulare, identitariu.
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

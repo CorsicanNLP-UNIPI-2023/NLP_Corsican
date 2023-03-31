@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hantz : "anti fair-play ça veut dire : "on ne veut pas d'un public aseptisé qui paie 50€ et ferme sa gueule"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Hantz-anti-fair-play-ca-veut-dire-on-ne-veut-pas-d-un-public-aseptise-qui-paie-50-et-ferme-sa-gueule_a2006.html"/>
+     <date>
+      Sat, 25 Oct 2014 16:52:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hantz : "anti fair-play ça veut dire : "on ne veut pas d'un public aseptisé qui paie 50€ et ferme sa gueule"
+   </head>
+   <div type="content">
+    <p>
+     L'Equipe cunsacra un grande articulu nant'à l'ambianza in Bastia, intitulatu "Furiani, tout sur le mythe". 
+Sò intervistati Frédéric Hantz, u dirigente Jo Franceschini, Jérôme Rothen è Didier Rey. 
+Spiegazione di Hantz nant'à u "fair-play décomplexé" di u stadiu : 
+"Pour eux, cet anti fair-play ça veut dire : "on ne veut pas d'un public aseptisé, qui paie 50 euros et qui ferme sa gueule". Ils viennent au stade pour défendre leur équipe, et si ça ne va pas dans le sens souhaité par nos dirigeants, bah tant pis". 
+Pè Rothen Furiani hè quantunque speziale : 
+"On vous fait un accueil qui ne ressemble à aucun autre en France. Ca se rapproche de l'ambiance qu'il y a en Turquie. Tu ne ressens pas de la haine mais on te fait comprendre que ce n'est pas ton jour. Cette pression te galvanise quand tu portes le maillot du Sporting. Dans le cas contraire..." 
+Allora, ci vole à scambià ? Innò, dice Rothen : 
+"Cet accueil, il ne faut pas le perdre. Quand tu joues pour Bastia, il te permet d'arracher des résultats inespérés. (...) Ca fait partie du jeu. Le Sporting est obligé de jouer là-dessus pour équilibrer les choses. C'est primordial pour lui". 
+Da leghje nant'à u situ Corse Football.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ciò chè no duvimu à Geneviève Moracchini-Mazel...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cio-che-no-duvimu-a-Genevieve-Moracchini-Mazel_a1681.html"/>
+     <date>
+      Mon, 17 Feb 2014 15:24:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ciò chè no duvimu à Geneviève Moracchini-Mazel...
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè in dolu l'archeulugia corsa. Devimu tante cose à Geneviève Moracchini-Mazel...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A storia di a Corsica, Geneviève Moracchini-Mazel ci hà cunsacratu a so vita. Hè difficiule di riassume in poche frase tuttu ciò ch'è no li duvimu, quantu e so ricerche sò state impurtante. 
+E so prime ricerche in Corsica ricollanu à u 1951 nant'à u situ paleocristianu di Mariana. 
+Ma ciò chì averà marcatu a so opera hè un travagliu di terrenu tremendu in ogni paisolu di Corsica. Avia una cunniscenza di u nostru paese cum'è nimu l'hà avuta. 
+Hè stata una di i primi à interessassi à u nostru patrimoniu è à a nostra storia à un mumentu induve eranu pochi à primurassine. 
+Cù a so pazienza è a so fede, hà giratu a Corsica sana, pieve à pieve, paese à paese, è ne pudia parlà ore sane è senza fidighjà e so note. 
+Hè stata dinù a prima à capisce l'interessu di salvà stu patrimoniu chì sò i nomi di lochi, à capisce ch'elli ponu piattà un tesoru. Fendu e so inchieste cinquant'anni fà, interrugandu l'antichi chì cunniscianu u terrenu, hà salvatu una memoria chì si ne murria. 
+Cusì, quantu n'averà salvatu tesori, è cappelle da e lamaghje ? Geneviève Moracchini-Mazel hè stata una di quelli chì anu permessu stu riacquistu. 
+Ci lascia un travagliu tremendu. Prima a so tesa nant'à e chjese rumaniche di Corsica,chì hè una bibbia per tutti quelli chì s'interessanu à e nostre pieve (Les églises romanes de corse, ed. Klincksieck, 1967). Ne cunniscite tutti a carta di e pieve chì n'hè ricacciata. Eppo u travaglione ch'ella hà fattu durante tanti anni, cù u so associu, a FAGEC è e so publicazioni, i Cahiers Corsica. 
+U so ultimu cantieru era a publicazione di u so libru Corsica Sacra, prevista in trè vulumi. U primu hè statu publicatu in u 2004. L'altri previsti sti pochi anni. Speremu chì in omagiu à a so memoria stu travagliu serà cuntinuvatu. Saria a minima di e cose.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

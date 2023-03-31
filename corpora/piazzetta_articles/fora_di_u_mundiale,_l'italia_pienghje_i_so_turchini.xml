@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Fora di u mundiale, l'Italia pienghje i so turchini
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Fora-di-u-mundiale-l-Italia-pienghje-i-so-turchini_a2675.html"/>
+     <date>
+      Tue, 14 Nov 2017 18:24:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Fora di u mundiale, l'Italia pienghje i so turchini
+   </head>
+   <div type="excerpt">
+    <p>
+     Eccu unepoche di e prime pagine di sta mane.
+    </p>
+   </div>
+   <div type="content">
+   </div>
+  </body>
+ </text>
+</TEI>

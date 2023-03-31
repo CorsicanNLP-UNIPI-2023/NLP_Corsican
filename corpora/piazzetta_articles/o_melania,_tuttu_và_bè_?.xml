@@ -1,0 +1,74 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     O Melania, tuttu và bè ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/O-Melania-tuttu-va-be_a2515.html"/>
+     <date>
+      Tue, 24 Jan 2017 15:39:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    O Melania, tuttu và bè ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Dapoi qualchì ghjornu un gif di a moglia di u presidente Trump circuleghja nant'à e rete suciale è pare ch'ella s'inchieti una parte di l'umanità. Si vede à Melania Trump scambià di spressione dop'à avè lanciatu un sguardu à Donald. Serà in depressione ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Una cosa hè certa, tutti i gesti di u presidente americanu anu da esse survegliati è passati à u scanner. Serà durante quattru anni un bellu sugettu pè i giurnalisti. 
+Un breve scambiu di sguardi di u novu coppiu presidenziale durante a cerimonia d'investitura ne spaventa unepochi. 
+Ghjudicate da per voi :
+    </p>
+    <p>
+     pic.twitter.com/IDrGPkJQSl
+— Marv (@Marv_Vien) 23 janvier 2017
+    </p>
+    <p>
+     Cumu discrive stu rapidu scambiu di spressione di u visu di Melania Trump ? Pare ch'ella passi da u surrisu furaztu à l'azizume u più neru . 
+Appena cusì, ma in peghju :
+    </p>
+    <p>
+     Dapoi, tuttu ciò chì l'America conta d'antitrumpisti si campa o s'inchieta per Melania. 
+In diretta à televisiò, a scena s'hè passata cusì :
+    </p>
+    <p>
+     Serà in depressione in veru ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

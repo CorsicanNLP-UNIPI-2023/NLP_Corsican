@@ -1,0 +1,77 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Padamalgame
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Padamalgame_a2142.html"/>
+     <date>
+      Mon, 02 Feb 2015 10:53:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Padamalgame
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè u ritrattu di u mese. L'Aiaccini anu dichjaratu u so amore pè a seria "Plus belle la vie". Ma ùn imbulighjemuli micca tutti.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'Aiaccini anu dunque finitu per vutà vulenteri à Marcangeli, à una magiurità impurtante. Avemu capitu ch'elli eranu stufi di Tonton Simon, chì u putere usa. Ùn anu micca tenutu contu di e storie di cumbrincule, di false precure. Invece chì di e storie di parkings, sì. 
+A demucrazia hà parlatu, i citatini anu fattu a so scelta è ùn ci hè nunda à dì. 
+Ma ci hè un ritrattu chì hà suscitatu l'incumprensione è assai interrugazione :
+    </p>
+    <p>
+     Parechji anu cridutu à un muntagiu Photoshop, ma nò. Stu ritrattu hè statu publicatu nant'à u contu twitter di France 3 Via Stella :
+    </p>
+    <p>
+     L #Marcangeli serait élu avec 59.5 % des voix (résultats non définitifs). Nombreux partisans réunis devant permanence pic.twitter.com/YmtMYeF3E6
+— France 3 Corse (@FTViaStella) 1 Février 2015
+    </p>
+    <p>
+     Si ritrovanu i dui striscioni in prima pagina di Corse-Matin :
+    </p>
+    <p>
+     Bon, digià, forse chì l'allusione à "Simu Charlie" hè appena esagerata. Ch'è no sappiamu, nimu hà mitragliatu a permanenza di Laurent Marcangeli à colpi di kalash. 
+Ma chì pensà di stu striscione chì face riferenza à a seria tv "Plus belle la vie" ?
+    </p>
+    <p>
+     U ritrattu vene da u contu Twitter di F3 Via Stella 
+Ma ùn imbulighjemu micca tuttu. L'Aiaccini ùn sò micca tutti accaniti di "Plus belle la vie". Pensemu forte à quelli chì preferiscenu Breaking Bad, Gomorra, Magnum, A Famiglia Pastasciù è puru Derrick.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A pulizza sustene u Fronte
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-pulizza-sustene-u-Fronte_a1578.html"/>
+     <date>
+      Tue, 28 May 2013 22:52:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A pulizza sustene u Fronte
+   </head>
+   <div type="excerpt">
+    <p>
+     A Corsica hè sempre rapresentata bè à a "manif pour tous". Quand'ellu ùn hè micca Camille de Rocca Serra, sò pulizzeri in civile vestuti in naziunalisti corsi.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Si passa sempre qualcosa à a "manif pour tous". Quand'ellu ùn hè micca Camille de Rocca Serra chì si piglia in fottò cun Copé, ci sò i pulizzeri vestuti in naziunalisti corsi. 
+L'affare ci hè stata signalata da un internautu è hè passata à u JT di France 2 è ancu à u zapping di Canal. Ci si vede l'interpellazione d'un manifestante da pulizzeri in civile. 
+È cumu sò vestuti i pulizzeri in civile in Parigi ? In naziunalisti corsi, cù treilli è ribellu. Hè logica... 
+Da vede a video nant'à Corsica Infurmazione
+    </p>
+    <p>
+     #corse Se faire interpeller par un policier... par antofpcl  Ringrazii à Michel d'aveccila signalata.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

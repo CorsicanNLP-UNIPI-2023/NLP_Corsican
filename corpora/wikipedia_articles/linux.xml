@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Linux
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Linux"/>
+     <date>
+      2018-12-14T01:53:58Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Linux
+   </head>
+   <p>
+    GNU Linux hè un sistemu di sfruttamentu libaru, sottu licenza GNU/GPL.
+   </p>
+   <p>
+    == Storia ==
+   </p>
+   <p>
+    A prima verzione di Linux (Linux 0.1) fu prugrammata da Linus Torvalds in u 1991, è fu disponibile sopra l'Internet.
+   </p>
+   <p>
+    Linux faci parte di u muvimentu di l'Open Source, ciò chì vole dì chi u codice di Linux hè disponibile, hè chi si pò mudificà da tutti quelli chì u vulenu. Linux hè gratisi.
+   </p>
+   <p>
+    == Imagine ==
+   </p>
+   <p>
+    == Riferimenti ==
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Situ a propositu di Linux
+   </p>
+   <p>
+    Situ a propositu di e distribuzione Linux
+   </p>
+  </body>
+ </text>
+</TEI>

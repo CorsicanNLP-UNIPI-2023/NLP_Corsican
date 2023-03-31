@@ -1,0 +1,69 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U "contexte" vale dinù pè u CAB
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-contexte-vale-dinu-pe-u-CAB_a2087.html"/>
+     <date>
+      Thu, 18 Dec 2014 10:53:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U "contexte" vale dinù pè u CAB
+   </head>
+   <div type="excerpt">
+    <p>
+     Chì i ghjucadori visitori si lagninu di l'ambianza di Furiani hè una cosa. Ma avà si lagnanu ancu di quella di u CAB.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In a seria di i casch'è pienghji, c'eranu i futbalori di Rennes, induve e pallottule di carta anu spaventatu à certi. 
+Più stunante, ci hè statu quellu di Caen pè una partita induv'ellu piuvia à rivoccu è ch'ellu c'era pocu mondu in Furiani. 
+Ancu megliu : quelli di Luçon si lagnanu di u famosu "contexte" pè una partita di National contr'à u CAB in Erbaghjolu (vittoria di i Bastiacci 1 à 0). C'eranu 400 spettatori d'appressu à u conturesu. Ouest-France parla ellu di "loi corse"... 
+L'intrenore cappia à a stampa :  "Je comprends mieux pourquoi ils n'ont pas encore perdu chez eux et je félicite les équipes qui ont pris ou qui iront prendre des points là-bas. Ils mettent une telle pression et la fin de match est partie en live. Nous avons un penalty, voire deux, avec une faute sur Pierrot Germann et Thomas Delanoë, poussé dans le dos dans la surface, qui ne sont pas signalés par l'arbitre." 
+È l'arbituru allora, chì dice ? Saria statu... felicitatu :  "Ce dernier est mis sous pression pendant la mi-temps, congratulé à la fin, c'est vraiment une ambiance désagréable. Pendant tout le match, nous avons été agressés verbalement pas le banc adverse. Vraiment détestable comme ambiance." 
+Di tutte e manere, in Corsica "c'est toujours compliqué". 
+Ci vole quantunque à dì chì u CAB hè tredecisimu à a classifica, à dui punti di a zona di falata. In casa soia, nant'à sette partite, ùn hà vintu ch'è trè volte, per quattru partite pare. 
+Serà colpa à "le contexte"...
+    </p>
+    <p>
+     In u 1965, i clubs francesi s'eranu riuniti per dumandà à lampà i clubs corsi da i campiunati prufessiunali. Era a famosa Table ronde de Montélimar. 
+Tandu, digià, si parlava di "l'ambiance hostile et antisportive dans laquelle se déroulent les déplacement en Corse, de l'insécurité des joueurs et dirigeants, de l'insécurité des arbitres". 
+C'emu da ghjunghje...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

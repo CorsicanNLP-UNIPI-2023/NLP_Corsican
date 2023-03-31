@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     San Marinu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/San%20Marinu"/>
+     <date>
+      2018-04-01T09:24:42Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    San Marinu
+   </head>
+   <p>
+    A Republica di San Marinu hè un' paesu in Auropa.
+   </p>
+   <p>
+    A capitale si chjama San Marinu.
+   </p>
+   <p>
+    A lingua uffiziale hè u talianu.
+   </p>
+   <p>
+    Europa
+   </p>
+  </body>
+ </text>
+</TEI>

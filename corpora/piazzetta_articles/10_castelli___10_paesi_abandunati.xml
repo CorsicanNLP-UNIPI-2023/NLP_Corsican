@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     10 castelli / 10 paesi abandunati
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/10-castelli-10-paesi-abandunati_a2130.html"/>
+     <date>
+      Tue, 13 Jan 2015 13:21:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    10 castelli / 10 paesi abandunati
+   </head>
+   <div type="content">
+    <p>
+     1. U Zuccarellu  2. Sepula  3. Cutone  4. Asigliani  5. E Rosse  6. Muna  7. Oci  8. Francolacce  9. Fiuminale  10. Caracu (Meria)  11. Tassu (Marignana) 
+http://www.tarrano-bonicardo.com/paesi/ruines_autres/ruines-liste.htm  http://www.paese-di-marignana.fr/storia/village_tassu.htm 
+1. Serravalle  2. Lumitu  3. Rustinu  4. Cuvasina  5. Capula  6. Petrellerata  7. Capuralinu  8.  9.  10.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

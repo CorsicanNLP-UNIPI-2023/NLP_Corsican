@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cahu dinù chjama à manifestà
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cahu-dinu-chjama-a-manifesta_a1781.html"/>
+     <date>
+      Wed, 07 May 2014 17:19:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cahu dinù chjama à manifestà
+   </head>
+   <div type="content">
+    <p>
+     U capitanu di u Sporting Yannick Cahuzac hà chjamatu à manifestà sabbatu in Bastia, l'hà detta nant'à u so contu Twitter. 
+A manifestazione hè organizata da u Cullettivu Simu di stu paese è n'anu ancu fattu un picculu filmettu. 
+U tempu hà da esse bellu u 10 di maghju in Bastia. Ùn avete nisuna scusa per ùn esseci!
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

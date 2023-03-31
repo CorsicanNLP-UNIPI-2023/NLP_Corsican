@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Trasfurmadore
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Trasfurmadore"/>
+     <date>
+      2015-07-02T00:11:46Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Trasfurmadore
+   </head>
+   <p>
+    U trasfurmadore eletricu hè una mascina eletrica statica (un ci sò micca pezze mecaniche in muvimentu) chi permette di mudificà i valori di tensione (V) è di currente (A) (solu alternativi) tra l'intrata è a surtita di sta mascina. Un trasfurmadore permette ancu di fà un isulamentu fisicu tra l'intrata (u primariu) è a surtita (u secundariu).
+   </p>
+   <p>
+    ==Storia==
+   </p>
+   <p>
+    ==cunstituzione==
+   </p>
+   <p>
+    ==funziunamentu==
+   </p>
+   <p>
+    Eletricità
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pierre Laffillé
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Pierre%20Laffill%C3%A9"/>
+     <date>
+      2015-07-07T18:05:02Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pierre Laffillé
+   </head>
+   <p>
+    Pierre Laffillé hè un pittore natu in 1938. Vive en Corsica.
+   </p>
+   <p>
+    Biugrafia
+   </p>
+   <p>
+    Francesu
+   </p>
+   <p>
+    Pintura
+   </p>
+  </body>
+ </text>
+</TEI>

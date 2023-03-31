@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I paesi di e frittelle
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-paesi-di-e-frittelle_a1382.html"/>
+     <date>
+      Sun, 08 Jul 2012 14:05:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       LEGISLATIVE-2012
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I paesi di e frittelle
+   </head>
+   <div type="excerpt">
+    <p>
+     Un colpu à diritta, un colpu à manca... Segondu l'elezzione, un paese pò vutà una volta à diritta, è qualchì settimana dopu à manca.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Nè di diritta, nè di manca ! O forse appena di i dui, ùn si sà più... Diventa difficiule di sapè induve i Corsi sò nant'à u pianu ideològicu. In fatti, forse ch'elli sò indocu... 
+I paesi chì sò à manca à u pianu naziunale, à diritta à u pianu regiunale :  Letia : Hollande à 56%, Marcangeli à 66%  A Casalta : Hollande 59%, Grimaldi 60%  Monticellu : Hollande 60%, Grimaldi 60% 
+I paesi chì sò à quandu à diritta, à quandu naziunalisti :  Eccica : Sarkzoy 55%, Angelini 63%  Fuzzà : Sarkozy 59%, Angelini 60%  Campu : Sarkzoy 67%, Angelini 67% 
+I paesi chì sò à diritta à u pianu naziunale, à manca à u pianu regiunale : 
+Arbiddara avia piazzatu à Marine Le Pen in testa à u primu giru di a presidenziale (43,6%). À u primu giru di e legislative hà vutatu... à manca (Bucchini 31%, Bartoli 34%). 
+Listessu pè A Croce : 44% pè Marine Le Pen à u primu giru, 58% pè Giacobbi à u segondu giru di e legislative. 
+Cuttuli : Sarkozy 52%, Renucci 57%  Appiettu : Sarkozy 56%, Renucci 58%  Aghjone : Sarkzoy 62%, Giaccobbi à 71%  Belgudè : Sarkzoy 61%, Giacobbi 68%  A Ghisunaccia : Sarkzoy 67%, Giaccobbi 73%  Costa : Sarkzoy 52%, Giacobbi 94%¨  Felicetu : Sarkzoy 62%, Giacobbi 61%  Piogiula : Sarkzoy 57%, Giacobbi 79%  Pratu di Ghjuvellina : Sarkzoy 72%, Giacobbi 76%  Suveria : Sarkzoy 60%, Giacobbi 73%  Calinzana : Sarkzoy 61%, Giacobbi 81%  Zilia : Sarkzoy 64%, Giacobbi 71%  Cervioni : Sarkzoy 60%, Giacobbi 80%  Santa Lucia di Muriani : Sarkzoy 60%, Giacobbi 72%  Santa Maria Poghju : Sarkozy 56%, Giacobbi 85%  San Niculaiu : Sarkzoy 54%, Giacobbi 70%  Ghisoni : Sarkzoy 64%, Giacobbi 58%  Lugu di Nazza ; Sarkozy 57%, Giacobbi 76%  U Poghju di Nazza : Sarkzoy 68%, Giacobbi 81%  Curbara : Sarkozy 56%, Giacobbi 60%  Sant'Antuninu : Sarkzoy 67%, Giacobbi 61%  Gavignanu : Sarkzoy 54%, Giacobbi 79%  L'Ortale : Sarkzoy 59%, Giacobbi 61%  Pedicroce : Sarkzoy 54%, Giacobbi 64%  U Pè d'Orezza : Sarkzoy 67%, Giacobbi 72%  E Valle d'Orezza : Sarkzoy 52%, Giacobbi 78%  U Prunu : Sarkzoy 60%, Giacobbi : 59%  U Silvarecciu : Sarkzoy 53%, Giacobbi 63%  I Prunelli di Fiumorbu : Sarkozy 66%, Giacobbi 72%  Serra di Fiumorbu : Sarkozy 58%, Giacobbi 72%  Vintisari : Sarkozy 66%, Giacobbi 55%  Tralonca : Sarkzoy 55%, Giacobbi 58%  A Vinzulasca : Sarkozy 52%, Giacobbi 77%
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

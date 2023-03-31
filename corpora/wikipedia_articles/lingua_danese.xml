@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lingua danese
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Lingua%20danese"/>
+     <date>
+      2015-05-08T20:10:13Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lingua danese
+   </head>
+   <p>
+    A lingua danese o danesa (u danese/danesu; in danese: dansk) hè una lingua ghjermanica. Hè a lingua uffiziale di a Danimarca.
+   </p>
+   <p>
+    Danese
+   </p>
+  </body>
+ </text>
+</TEI>

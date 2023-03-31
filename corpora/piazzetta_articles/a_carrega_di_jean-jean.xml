@@ -1,0 +1,71 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A carrega di Jean-Jean
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-carrega-di-Jean-Jean_a2283.html"/>
+     <date>
+      Mon, 26 Oct 2015 00:17:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A carrega di Jean-Jean
+   </head>
+   <div type="excerpt">
+    <p>
+     Ma perchè sempre ellu ? Duie volte sta settimana, Jean Zuccarelli hà avutu prublemi di carrega in l'emissioni di France 3 Via Stella.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Jean Zuccarelli serà maladettu ? Serà annuchjatu ? O ci serà un magagnone à Via Stella chì li plasticheghja a so carrega à ogni volta ch'ellu passa à France 3 ? 
+Durante tuttu l'annu, l'omi pulitichi sfilanu davant'à Jean-Vitus. Passanu tutti, ch'elli sianu naziunalisti, di manca, di diritta, di manca è di diritta (iè iè ci n'hè in Corsica chì sò eletti di manca È di diritta)... ma ch'è no sappiamu, sò piuttostu rari i prublemi di carrega. 
+Sta settimana, u poveru Jean Zuccarelli hà straziatu duie volte. A prima in l'emissione "Cunfronti", quandu a so carrega si n'hè falata d'un colpu. Ciò chì i twittos ùn anu mancatu :
+    </p>
+    <p>
+     Au sens propre comme au sens figuré, le siège de M. Zuccarelli s'enfonce... #Cunfronti pic.twitter.com/MgZZlogN6H
+— Aa.Vv. (@VariiAuctores) 21 Octobre 2015
+    </p>
+    <p>
+     A segonda hè accaduta dumenica, in Cuntrastu. È sta volta i giurnalisti ùn anu riesciutu à impediscesi di ride. 
+Fidighjate u filmettu :
+    </p>
+    <p>
+     A campagna hà da esse longa. 
+Per vede l'emissione sana, si passa quì.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

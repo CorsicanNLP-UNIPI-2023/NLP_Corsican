@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Scecchi in corsu : à quandu l'altre banche ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Scecchi-in-corsu-a-quandu-l-altre-banche_a1490.html"/>
+     <date>
+      Tue, 29 Jan 2013 23:06:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Scecchi in corsu : à quandu l'altre banche ?
+   </head>
+   <div type="excerpt">
+    <p>
+     "Qu’est-ce que ça peut bien vous faire de l’écrire en français ?"... Ma cumu serà pussibule ch'ellu ci sia ghjente à stu puntu anti-lingua corsa ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Dopu à l'articulu di A Piazzetta a settimana passata nant'à u "sceccugate", oghje hè Corsica Sera chì hà trattatu di stu sugettu. 
+U Crédit Agricole permette dunque di pudè scrive i so scecchi in corsu, avà a sapemu, ancu s'ellu dispiace à certi. 
+Per via di l'impiegata antipatica di u Trésor Public, u Crédit Agricole s'hè fattu una bella publicità. Trippa pè l'altre banche, ùn avianu chè da pensacci nanzu. 
+È l'altri, ci si mettenu quandu ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

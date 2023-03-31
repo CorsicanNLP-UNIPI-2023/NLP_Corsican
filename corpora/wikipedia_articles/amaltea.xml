@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Amaltea
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Amaltea"/>
+     <date>
+      2014-03-23T13:59:21Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Amaltea
+   </head>
+   <p>
+    Adrastea (grecu Αμάλθεια) hè un satellitu di a Ghjove scupertu in u 1892 (scupridore Edward Barnard). Amaltea ùn pussedi micca atmosfera.
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    Astrunumia
+   </p>
+  </body>
+ </text>
+</TEI>

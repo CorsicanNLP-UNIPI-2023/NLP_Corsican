@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Linz
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Linz"/>
+     <date>
+      2014-03-23T14:33:16Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Linz
+   </head>
+   <p>
+    Linz  hè una cità di l’Austria.
+   </p>
+   <p>
+    Hè a terza cità austriaca per populazione, incù 188.968 abitanti (2011).
+   </p>
+   <p>
+    == Geografia ==
+   </p>
+   <p>
+    Linz si trova in a parte nordu di l’Austria in u statu (land) di l'Austria superiore (Oberösterreich in  lingua tedesca) di qualessa hè u capilocu à hè baganta da u fiume Danubiu.
+   </p>
+   <p>
+    Cità austriache
+   </p>
+  </body>
+ </text>
+</TEI>

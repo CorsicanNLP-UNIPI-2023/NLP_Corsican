@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     MNF hà turnatu à truvà à Triki
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/MNF-ha-turnatu-a-truva-a-Triki_a1978.html"/>
+     <date>
+      Wed, 08 Oct 2014 00:10:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    MNF hà turnatu à truvà à Triki
+   </head>
+   <div type="excerpt">
+    <p>
+     Ismaël Triki era unu di i più boni difensori di u Sporting in l'anni 80, è unu di i rari Corsi à avè ghjucatu a cuppa di u mondu. L'emissione Minenfootu l'hà invitatu per dà u so parè nant'à a situazione attuale di u SCB.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ismaël Triki, solu i più di trent'anni l'anu vistu ghjucà. Bunissimu difensore, hà principiatu à u Sporting, per dopu andà à Châteauroux, in Svizzera (Lausanne), è à Lorient. 
+Diventatu capitanu à Châteauroux, purtava nant'à u so bracciale una testa di moru. 
+Hà avutu a sfurtuna d'esse à u Sporting à un'epica tantu gluriosa nant'à u puntu di vista di i risultati, quella di a fine di l'anni 80 è u principiu di l'anni 90. Peccatu, chì averia meritatu di ghjucà in prima divisione cù a maglia turchina. 
+Tandu u SCB straziava è avia pochi soldi, ma nant'à u terrenu c'era u stintu è i ghjucadori si cacciavanu e trippe. 
+Ismaël Triki ferma dinù unu di i rari Corsi à avè ghjucatu... una cuppa di u mondu. 
+L'emissione MNF l'hà ritruvatu è dà u so parè nant'à a situazione attuale di u Sporting. Da vede ! 
+(sì a leia ùn marchja micca andate à vede quì
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

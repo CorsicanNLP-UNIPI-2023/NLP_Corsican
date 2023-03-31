@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Rercord di visite nant'à apiazzetta.com
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Rercord-di-visite-nant-a-apiazzetta-com_a2524.html"/>
+     <date>
+      Wed, 01 Feb 2017 09:28:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       GIURNALE
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Rercord di visite nant'à apiazzetta.com
+   </head>
+   <div type="excerpt">
+    <p>
+     Bon d'accordu, ùn ci vole micca fà d'autocelebrazione. Ma semu felici d'annunziavvi ch'è vo ùn site mai statu cusì numerosi à leghje A Piazzetta.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     È cumu s'averia da dì "record" in corsu (postu chì i francesi è i taliani mpieganu sta parolla inglese) ? 
+Pè u mese di ghjennaghju ùn site mai statu cusì numerosi à visità u situ è l'appiegazione di A Piazzetta. Avemu arregistratu circa 75.000 visite (micca visitori unichi, ma visite). 
+Dapoi u lanciamentu di dicembre di u 2007, ùn s'era mai vista. 
+À ringraziavvi à tutti, ci dà a forza per cuntinuvà (innò, ùn hè micca faciule tutti i ghjorni di circà di fà campà un media in lingua corsa). 
+Speremu chì l'andatura nova di A Piazzetta cuntinuverà d'interessavvi.
+    </p>
+    <p>
+     È pè u giurnale in carta, si cuntinuveghja dinù. U numeru 28 hè statu spachjatu di rigalu in (guasi) tutta a Corsica.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tuttu turisimu : Parigi dinù hè in guerra
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Tuttu-turisimu-Parigi-dinu-he-in-guerra_a1742.html"/>
+     <date>
+      Wed, 23 Apr 2014 14:46:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tuttu turisimu : Parigi dinù hè in guerra
+   </head>
+   <div type="content">
+    <p>
+     In Parigi nasce una mossa cont'à i "cadenas de l'amour" nant'à i ponti. A petizione No love locks a si caccia cù sti lucchetti ch'elli mettenu i coppii di turisti nant'à parechji ponti di a cità. 
+L'iniziatrice di a mossa dice chì sta moda «présente un problème croissant de sécurité, de maintenance à un coût élevé, de dommages à l’environnement et de dégradations de structures historiques aimées de tous. Ces cadenas créent une menace pour le patrimoine culturel de Paris. Le moment est venu de réguler ce phénomène». 
+U situ Slate parla di "disneylandisation"... ùn vi ramenta nunda ? 
+Si parla d'uniformiazione di i lochi è di e pratiche, d'omogeneizazione, è ancu di "brooklynizazione" di Parigi. 
+Si parla dinù di "guerre contre la laideur et la globalisation des pratiques touristiques". Da leghje... 
+Ma turneremu à parlanne nant'à A Piazzetta.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

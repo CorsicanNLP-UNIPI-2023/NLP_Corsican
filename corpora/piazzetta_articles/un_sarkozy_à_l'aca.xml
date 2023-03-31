@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Un Sarkozy à l'ACA
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-Sarkozy-a-l-ACA_a2076.html"/>
+     <date>
+      Sun, 14 Dec 2014 14:58:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Un Sarkozy à l'ACA
+   </head>
+   <div type="content">
+    <p>
+     L'emissione di a dumenica di Canal+, Le Supplément hà cunsacratu un sugettu à Jean Sarkozy. L'altru Jean-Jean di Pappà hà preparatu u so ritornu mediaticu. 
+In l'emissione si vede à Jean Sarkzoy ghjucà à ballò cù u so fratellu, Pierre. Ellu ùn face micca pulitica è porta una maglia di... l'ACA. È più precisamente cù una maglia chì porta u nome di Tiberi. 
+Bon, ùn si tratta nè di Jean Tiberi l'anzianu merre di Parigi, nè di u so figliolu Dominique chì face anch'ellu a pulitica. 
+Ma di Damien Tiberi, anzianu futbalore di l'ACA oghje à u CAB. 
+Ramintemu chì a mamma di Jean è Pierre hè di Vicu. Ma forse sarianu interessati da una carriera di ghjucadore di ballò ?
+    </p>
+    <p>
+     In quant'à i sustenidori bastiacci chì vulerianu magagnà quelli di l'ACA, vi ramintemu què :
+    </p>
+    <p>
+     Eh iè...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

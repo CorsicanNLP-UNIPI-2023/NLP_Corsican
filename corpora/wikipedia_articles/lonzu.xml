@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lonzu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Lonzu"/>
+     <date>
+      2019-10-03T11:16:04Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lonzu
+   </head>
+   <p>
+    U Lonzu hè una spicialità di a gastrunumia corsa.
+   </p>
+   <p>
+    == Priparazioni ==
+   </p>
+   <p>
+    U lonzu hè un produttu di ciarcuteria di porcu. Hè fattu cù u musculu allevatore dursale (musculus psoas major), consirvatu quarantu ghjorni (sicondu e regione) in u sale nitritatu.
+   </p>
+   <p>
+    Si manghja seccu è crudu, tradiziunalmente.
+   </p>
+   <p>
+    == Riferimenti ==
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    Gastrunumia corsa
+   </p>
+  </body>
+ </text>
+</TEI>

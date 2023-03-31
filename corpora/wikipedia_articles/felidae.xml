@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Felidae
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Felidae"/>
+     <date>
+      2015-07-01T12:29:53Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Felidae
+   </head>
+   <p>
+    Hè a famiglia di u ghjattu, u leone, u tigru, ecc. Ci sò 37 specie sfarente.
+   </p>
+   <p>
+    Fauna
+   </p>
+  </body>
+ </text>
+</TEI>

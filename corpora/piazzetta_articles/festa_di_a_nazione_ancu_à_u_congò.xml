@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Festa di a Nazione ancu à u Congò
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Festa-di-a-Nazione-ancu-a-u-Congo_a2063.html"/>
+     <date>
+      Mon, 08 Dec 2014 18:45:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Festa di a Nazione ancu à u Congò
+   </head>
+   <div type="content">
+    <p>
+     Eccu ! Cusì sì ! Hè appena di più festivu ch'è in e nostre feste d'azezi. 
+(realizatu senza Photoshop)
+    </p>
+    <p>
+     Ritrattu pigliatu da Hervé Cheuzeville u ghjornu di Natale in 2005, in Republica Demucratica di u Congò (Flickr.com)
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

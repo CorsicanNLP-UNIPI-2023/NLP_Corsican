@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I Catalani volenu sbattizà a "Plaça d'Espanya" di Barcellona in "Plaça David Bowie"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-Catalani-volenu-sbattiza-a-Placa-d-Espanya-di-Barcellona-in-Placa-David-Bowie_a2332.html"/>
+     <date>
+      Thu, 14 Jan 2016 23:11:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I Catalani volenu sbattizà a "Plaça d'Espanya" di Barcellona in "Plaça David Bowie"
+   </head>
+   <div type="excerpt">
+    <p>
+     Iè, si pò trattà in un articulu di a morte di David Bowie è di a brama d'indipendenza di i Catalani. In Barcellona hè stata lanciata una petizione per scambià u nome di a "Piazza di Spagna".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     I Catalani sò forse appena stufi di vede una di e piazze di Barcellona chjamassi "piazza di Spagna". È cum'elli sò dinù colmi di tristezza dapoi a morte di David Bowie, hè stata lanciata una petizione per ch'ellu sia scambiatu u nome in "Plaça David Bowie". 
+Bon, hè dinù una risposta à a petizione "per scambià u nome di a Piazza di Spagna in Piazza Artur Mas", di u nome di u lider indipendentistu catalanu. 
+Hè appena cum'è sì i Bastiacci dumandavanu u scambiamentu di a Piazza Santu Niculà in "Piazza Gilles Simeoni". Appena và bè, ma ùn ci vole micca à deccunà non più. 
+Ma in Corsica allora, chì puderiamu scambià cum'è nomi ? 
+Saria forse ora di sbattizà i carrughji "rue Marbeuf" di Carghjese è a "rue Comte Marbeuf" d'Aiacciu (sapete, quellu chì hà "pacificatu" a Corsica). 
+Chì fà di i numerosi lochi di Corsica chì rendenu omagiu à Clémenceau ? Hè u simpàticu Georges chì avia lanciatu : "la solution au problème corse ? Cinq minutes d'immersion totale". 
+In quant'à quellu di a "rue Alsace Lorraine", ci dumandemu ciò ch'ellu face in Calvi. 
+Bon, dopu ci firmanu unepochi di "café de France" appena da per tuttu, è centinaie di nomi goffi di residenze è di lotissements. 
+Allora perchè micca principià cù un carrughju David Bowie ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Paraíba
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Para%C3%ADba"/>
+     <date>
+      2014-03-23T14:46:58Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Paraíba
+   </head>
+   <p>
+    Paraíba hè unu statu di u Brasile, teni come capilocu João Pessoa è una superficie di 56.584,6 Km2. Teni 3.623.215 abitanti.
+   </p>
+   <p>
+    Stati di u Brasile
+   </p>
+  </body>
+ </text>
+</TEI>

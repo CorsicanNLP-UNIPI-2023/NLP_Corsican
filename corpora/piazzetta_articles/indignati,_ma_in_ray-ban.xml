@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Indignati, ma in Ray-Ban
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Indignati-ma-in-Ray-Ban_a1261.html"/>
+     <date>
+      Wed, 01 Feb 2012 10:55:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Indignati, ma in Ray-Ban
+   </head>
+   <div type="excerpt">
+    <p>
+     U prublema cun l'indignati, hè ch'elli sò di più cridìbuli quand'elli sò vestuti cum'è pumataghji...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Aviamu digià dettu chì l'indignati in 4x4 ùn facia micca assai seriu. U ritrattu di Corse-Matin di u 30 ghjennaghju hè ancu peghju. 
+Allora chì da per tuttu in u mondu l'indignati sò giovani addisperati disimpiegati, chì battenu a closcia in brama d'un travagliu, u ritrattu di l'indignati corsi d'Air France pare una pubba pè Ted Lapidus o pè e Ray-Ban Aviator. 
+Aiò o zitelli, fate un sforzu ! Per esse un veru indignatu, ci vole à esse vestutu cum'è un disgraziatu !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

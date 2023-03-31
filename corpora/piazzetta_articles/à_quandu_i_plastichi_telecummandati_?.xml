@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     À quandu i plastichi telecummandati ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-quandu-i-plastichi-telecummandati_a1645.html"/>
+     <date>
+      Tue, 03 Dec 2013 09:46:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    À quandu i plastichi telecummandati ?
+   </head>
+   <div type="excerpt">
+    <p>
+     U pdg d'Amazon hà annunziatu a prussima rivuluzione di a so intrapresa : e cummande passate nant'à u situ è purtate in casa via l'utilizazione di "droni".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Induve si pianterà Jeff Bezos ? U patrone di u gigante americanu di cummerciu in linea ne trova sempre una. 
+L'ultima ch'ellu hà trovu : utilizà droni pè arrigà in casa e cummande di l'internauti. Chjamatu «Amazon Prime Air», l'affare puderia esiste da quì à quattru o cinque anni. 
+I droni ponu purtà robba (sin'à 2,3 chilò) è in un chjerchju di 16 chilometri in gir'à i magazini d'Amazon. U patrone parla d'una rivuluzione ecologista. 
+Ma hè sopr'à tuttu un furmidèvule colpu di publicità per a so intrapresa. Nanz'à Natale, hè bè trovu ! 
+S'imagineghja tuttu ciò ch'ellu si puderia fà cù st'apparechji. Domino's avia digià fattu parlà fendu crede ch'ellu si puderia purtà pizze cù i droni. 
+Pacchetti è pizze seranu forse un ghjornu purtati per aria. È a prima notte turchina cù utilizazione di droni, serà per quandu ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

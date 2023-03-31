@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Azerbaighjan
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Azerbaighjan"/>
+     <date>
+      2015-05-08T20:10:48Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Azerbaighjan
+   </head>
+   <p>
+    L'Azerbaighjan hè un paese asiaticu. A più grande cità è a capitale hè Baku.
+   </p>
+   <p>
+    Europa
+   </p>
+   <p>
+    Asia
+   </p>
+  </body>
+ </text>
+</TEI>

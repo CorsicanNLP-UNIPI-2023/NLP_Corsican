@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ancu di grazia chì Bastia si face arrubà da l'arbitri
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ancu-di-grazia-chi-Bastia-si-face-arruba-da-l-arbitri_a2263.html"/>
+     <date>
+      Thu, 24 Sep 2015 09:52:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ancu di grazia chì Bastia si face arrubà da l'arbitri
+   </head>
+   <div type="excerpt">
+    <p>
+     Bastien, Gauthier...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Uniti... contr'à l'arbitri  cuesione  sintimu cullettivu d'inghjustizia  piattà l'errori, e debulezze 
+In tantu, ùn si parla micca di u restu  gestion catastrofica di u mullizzu  disimpiegu, precarità,
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

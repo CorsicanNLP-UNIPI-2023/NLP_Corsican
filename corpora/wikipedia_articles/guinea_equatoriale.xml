@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Guinea Equatoriale
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Guinea%20Equatoriale"/>
+     <date>
+      2014-03-23T14:24:11Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Guinea Equatoriale
+   </head>
+   <p>
+    A Guinea Equatoriale hè un paese in Africa.
+   </p>
+   <p>
+    Africa
+   </p>
+  </body>
+ </text>
+</TEI>

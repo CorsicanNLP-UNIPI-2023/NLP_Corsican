@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Makélélé : "Bastia a douze joueurs de niveau L1"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Makelele-Bastia-a-douze-joueurs-de-niveau-L1_a2013.html"/>
+     <date>
+      Fri, 31 Oct 2014 18:27:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Makélélé : "Bastia a douze joueurs de niveau L1"
+   </head>
+   <div type="content">
+    <p>
+     In a so cunferenza nanz'à a partita contr'à Guingamp, Claude Makélélé hà surpresu appena i giurnalisti presenti. 
+Nant'à u livellu di u so gruppu, hà dettu chì : "Bastia a douze joueurs du niveau Ligue 1, les autres c'est des jeunes"" è chì "le temps d'adaptation est difficile". 
+I dodeci cuncernati seranu felici (à voi di truvà qualessi sò), l'altri forse appena menu. 
+Hè vultatu dinù nant'à i ghjucadori acquisti è u cantieru di st'estate pè custruisce un gruppu, dicendu chì "on a fait avec les moyens du bord". 
+Da sente in u podcast di l'emissione "La part du Lion" 
+Ma sì l'intrenore bastiacciu pare in pusizion dillicata, hà sempre u sustegnu di i so ghjucadori, cum'è Djibril Cissé chì u difende : "Claude est peut-être en première ligne mais on est tous visé. On est tous dans une mauvaise situation. Personnellement, avant d’être mon coach, c’était mon ami. Il faut tout faire qu’il reste coach le plus longtemps possible." 
+Prussimu episodiu : u macciu impurtante à Guingamp, ultimu di a classifica è chì vulerà rivultassi dop'à a so chjiba pigliata in casa contr'à Nizza (7 à 2). A sola verità chì conta hè quella di u terrenu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

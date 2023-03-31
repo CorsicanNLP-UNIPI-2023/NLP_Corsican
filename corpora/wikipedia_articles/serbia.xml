@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Serbia
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Serbia"/>
+     <date>
+      2015-05-08T20:09:06Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Serbia
+   </head>
+   <p>
+    A Serbia (Србија) hè un paese situatu in Europa.
+   </p>
+   <p>
+    Capitale: Belgradu
+   </p>
+   <p>
+    Europa
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Attenti à i zombies
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Attenti-a-i-zombies_a1355.html"/>
+     <date>
+      Tue, 05 Jun 2012 00:00:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Attenti à i zombies
+   </head>
+   <div type="excerpt">
+    <p>
+     L'hà detta u guvernu americanu : ùn ci hè micca invasione di "zombies" à i Stati Uniti. In Corsica, u dibattitu ùn hè micca chjosu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     18 anni dopu à a canzona di The Cranberries, i zombies sò di ritornu. 
+Unepoche di nutizie appena goffe (hum...) ci sò venute d'America. Trà u cannibale di Miami chì hà manghjatu un SDF, u cannibale studiente di Baltimore chì hà spezzatu è manghjatu u ciarbellu di u so culucatariu è Luka Rocco Magnotta, l'attore di filmi pornò chjamatu "le dépeceur de Montréal", ci hè di chè ponesi quistioni. 
+Face assai in pocu tempu. À tal puntu chì un'agenza di u guvernu americanu, u Center for disease control and prevention hà reagitu pè prevene a pupulazione americana. Ci anu rassicuratu dicendu chì nò, ùn eramu micca cunfruntati à un'invasione di zombies cannibali. Da leghje nant'à u Huffington Post  : Cannibales: Le gouvernement américain dément l'existence des zombies. 
+Bon in fatti, sò appena magagnoni à st'agenza. Hè una manera di sensibilizà l'opinione. Ci dicenu chì : "Si vous êtes, d'une manière générale, bien équipé pour faire face à une attaque massive de zombies, vous serez également préparé à affronter un cyclone, une épidémie un tremblement de terre ou une attaque terroriste. Alors s'il vous plaît, prenez un kit, organisez-vous et soyez préparés." Una manera di fà prevenzione è pedagogia cù u sensu di a magagna. 
+Ma noi altri Corsi ùn semu micca rassigurati. Trà i zombies chì si pudianu vede à a surtita di Via Notte, i candidati à e legislative, i sindicalisti arrabiati contr'à a lingua corsa è e Squadre d'Arozza è i maccabei chì si ponu vede fà a coda à u Super U è à Géant Casino u sabbatu, ci hè da trimà.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

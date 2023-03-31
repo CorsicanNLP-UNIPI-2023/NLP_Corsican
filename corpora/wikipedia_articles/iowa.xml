@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Iowa
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Iowa"/>
+     <date>
+      2015-07-03T15:24:13Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Iowa
+   </head>
+   <p>
+    L'Iowa hè un statu di i Stati Uniti d'America. Hà circa 2,9 milioni d'abitanti. A capitala hè Des Moines.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Des Moines (Iowa)
+   </p>
+   <p>
+    Iowa
+   </p>
+  </body>
+ </text>
+</TEI>

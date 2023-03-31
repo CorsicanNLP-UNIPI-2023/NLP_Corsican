@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ancu l'altore hè in depressione
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ancu-l-altore-he-in-depressione_a1265.html"/>
+     <date>
+      Fri, 03 Feb 2012 00:22:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ancu l'altore hè in depressione
+   </head>
+   <div type="excerpt">
+    <p>
+     In quattru anni, hè smarita 50% di a pupulazione di l'altore di Corsica.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Serà a fine di l'altore ? L'ocellu mìticu di a muntagna corsa, in francese gypaète barbu hè più chè mai minacciatu di morte. L'infurmazione ci vene da u situ Ambiante. 
+Quattru anni fà, c'eranu una decina di coppii. Annu, ùn ci n'era più chè sei. Oghje ùn sò più chè cinque. 
+Hè difficiule di sapè qualesse sò e cause, ma si pensa chì l'altore ùn trova più di chè manghjà. L'altore si nutrisce di baschicci è trova di menu in menu animali morti in a muntagna. E muvre sò poche, è bande di capre è di pecure ci n'hè sò di più in più scarse. 
+Oghje a minaccia di vede l'altore smarisce di Corsica hè seria ci dicenu l'associ di difesa di l'ambiu. L'avemu da lascià more ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

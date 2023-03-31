@@ -1,0 +1,85 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cahuzac espulsu per avè messu un colpu à un pannellu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cahuzac-espulsu-per-ave-messu-un-colpu-a-un-pannellu_a2549.html"/>
+     <date>
+      Sat, 25 Feb 2017 23:19:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cahuzac espulsu per avè messu un colpu à un pannellu
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè una stagione infernale pè u Sporting. In Angers, in più di a concia pigliata (3-0), u capitanu Yannick Cahuzac si ferisce è piglia un cartone rossu per avè messu un colpu à u pannellu di u quartu arbitru.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U futbol hè fattu cusì. Ci sò stagione induv'ellu ùn ci hè nunda chì và. Ma veramente nunda. 
+U Sporting hè nanz'à l'ultimu à a classifica dop'à una stagione nera fatta di suspensione, di macciacci, di feriti, di ghigna, di sanzione severe. 
+Contr'à Angers, Cahuzac si piglia un cartone rossu per stu gestu d'azizume contr'à u quartu arbitru :
+    </p>
+    <p>
+     Ma ci vole à dì ch'ellu hè l'arbitru chì avia cumminciatu. Ancu di grazia, Cahu hà u sustegnu di u so coach :
+    </p>
+    <p>
+     #SCOSCB F.Ciccolini : "Je pense que l'arbitre ne fait pas exprès de mettre un coup de panneau à @yannickcahuzac"
+— SC Bastia (@SCBastia) 25 février 2017
+    </p>
+    <p>
+     Stu gistacciu risicheghja di custà caru à Cahu in cummissione di disciplina. 
+Bella sigura, l'espulsione hè stata cumentata assai nant'à e rete suciale :
+    </p>
+    <p>
+     Cahuzac exclu pour un coup donné sur le panneau de changement du 4e arbitre. On est sur du mythique. La Ligue des champions du rouge.#SCOFCB
+— WinamaxSport (@WinamaxSport) 25 février 2017
+    </p>
+    <p>
+     3 - Yannick Cahuzac a récolté 3 cartons rouges lors de ses 4 derniers matches de Ligue 1. Collectionneur. pic.twitter.com/07LsMVEm6v
+— OptaJean (@OptaJean) 25 février 2017
+    </p>
+    <p>
+     Inutile de préciser que je soutiens totalement @yannickcahuzac
+— bobby du village (@BobbyVillage) 25 février 2017
+    </p>
+    <p>
+     Avà ci vulerà à vince contr'à Nantes. Ch'o sinnò l'affari anu da esse veramente in francese per Bastia...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

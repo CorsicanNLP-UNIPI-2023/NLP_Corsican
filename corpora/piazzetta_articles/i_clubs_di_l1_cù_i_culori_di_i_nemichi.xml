@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I clubs di L1 cù i culori di i nemichi
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-clubs-di-L1-cu-i-culori-di-i-nemichi_a2137.html"/>
+     <date>
+      Wed, 21 Jan 2015 12:20:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I clubs di L1 cù i culori di i nemichi
+   </head>
+   <div type="content">
+    <p>
+     U situ play-ground.fr hà avutu un'idea originale : presentà i logò di i clubs di L1 cù i culori di i nemichi. 
+Bon, perchè micca ? 
+Pè i clubs corsi truvemu què. Ùn sò micca andati sin'à l'orrore assuluta : metteci i culori di l'OGC Nizza à l'unu è à l'altru.
+    </p>
+    <p>
+     A seguita : Les logos des clubs de Ligue 1 aux couleurs de leurs rivaux
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

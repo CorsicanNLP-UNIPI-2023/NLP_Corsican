@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Un Mutu chì face u tazzu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-Mutu-chi-face-u-tazzu_a1407.html"/>
+     <date>
+      Sat, 01 Sep 2012 12:25:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Un Mutu chì face u tazzu
+   </head>
+   <div type="excerpt">
+    <p>
+     Pè a so prima intervista, Adrian Mutu, u novu attaccante di l'ACA hà fattu forte : "je viens en Corse et non en France". Emile Zuccarelli è Nicolas Alfonsi ùn anu micca appreziatu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cumu riesce à fà u tazzu nanzu d'avè ghjucatu una partita ? Invitatu di u Canal Football Club, l'attaccante rumenu hà dettu chì : « J’ai certes fait des erreurs, et j’en ai tiré des leçons. Je me moque de savoir ce que les français pensent de moi, et sans manquer de respect, je viens en Corse, et non pas en France », fendu allusione à i so dui cuntrolli pusitivi. 
+Ancu sì durante a cunferenza di stampa di l'ACA, u ghjucadore hà dettu ch'ellu era scherzu è ch'ellu ùn vulia micca parlà di pulitica (vede a videò versu 8'30), cù sta dichjarazione, l'anzianu di a Fiorentina, di a Juventus è di Chelsea face parlà d'ellu in a stampa è s'hè fattu parechji nemichi in Francia (basta à vede i cummenti nant'à Twitter...) 
+Per Alain Orsoni, Adrian Mutu hè « le plus grand joueur que nous ayons eu en Corse depuis Johnny Rep en 1978 ». Bon, ci avianu digià dettu quessa dopu à a signatura di Juan Esnaider in u 2003 ma ùn li hà micca purtatu furtuna. 
+Allora d'accordu, era una dichjarazione per fà piacè à i sustenidori... ma à vede e riazzioni di l'unu è di l'altri, u colpu mediatiu hè statu riesciutu. 
+Ùn mancanu più chè i cummunicati di cundannazione di l'Association France-Corse, di i Zuccarellisti è di a nova CFR.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

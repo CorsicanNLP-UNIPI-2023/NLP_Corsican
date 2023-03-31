@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Viulenze pulizzere in Francia : l'ONU s'inchieta
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Viulenze-pulizzere-in-Francia-l-ONU-s-inchieta_a2401.html"/>
+     <date>
+      Tue, 17 May 2016 08:38:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Viulenze pulizzere in Francia : l'ONU s'inchieta
+   </head>
+   <div type="excerpt">
+    <p>
+     A pulizza francese saria appena troppu avvezza à sorte a matracca è à sparà u flashball ? U "Cumitatu contr'à a turtura" di l'ONU hè preoccupatu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Sta volta, ùn sò micca i Corsi paranòiachi è vittimisti chì a dicenu. U "Comité contre la torture" di l'ONU hà publicatu un ducumentu induv'ellu si dichjara inchietu : 
+"Le Comité est préoccupé par les allégations d'usage excessif de la force par les fonctionnaires de polices et de gendarmerie ayant, dans certains cas, entraîné des blessures graves ou des décès." 
+Si tratta di u casu di Rémi Fraisse, mortu dop'à una manifestazione in u 2014. 
+Dopu chì una ONG s'era inchietata di l'utilizazione di u flashball in Francia, ci hè statu torna un manifestante chì avia persu un ochju. Era in Rennes, dop'à un'addunita contr'à a "Loi travail". 
+Invece, l'ONU ùn mette micca in causa u mubigliaru urbanu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Marlon Brando
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Marlon%20Brando"/>
+     <date>
+      2015-07-01T18:11:30Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Marlon Brando
+   </head>
+   <p>
+    Marlon Brando (* 4 d'aprile 1924 Omaha, Nebraska, SUA; † 1 di lugliu 2004 Los Angeles, California, SUA) hè statu un attore americanu.
+   </p>
+   <p>
+    Brando, Marlon
+   </p>
+  </body>
+ </text>
+</TEI>

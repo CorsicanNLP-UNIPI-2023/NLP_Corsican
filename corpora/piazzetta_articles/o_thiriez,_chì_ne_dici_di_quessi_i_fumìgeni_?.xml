@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     O Thiriez, chì ne dici di quessi i fumìgeni ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/O-Thiriez-chi-ne-dici-di-quessi-i-fumigeni_a1732.html"/>
+     <date>
+      Thu, 17 Apr 2014 14:12:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    O Thiriez, chì ne dici di quessi i fumìgeni ?
+   </head>
+   <div type="content">
+    <p>
+     Foot: des centaines de fumigènes lors d'un... par 20Minutes  Quandu u Paok di Salonica riceve l'Olympiakos, ci hè u tazzu... Centinaie di fumìgeni accesi in e tribune anu infiaratu u stadiu. 
+Lagnemu u Thiriez grecu incaricatu di mette un'amenda à u PAOK. 
+Ma ùn saria quessu, u futbol veru ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Berlinu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Berlinu"/>
+     <date>
+      2014-03-23T14:04:24Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Berlinu
+   </head>
+   <p>
+    Berlinu hè a capitale di a Germania.
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    U situ ufficiali
+   </p>
+   <p>
+    Berlinu
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hè statu aduttatu u statutu di residente
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/He-statu-aduttatu-u-statutu-di-residente_a1749.html"/>
+     <date>
+      Fri, 25 Apr 2014 01:41:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hè statu aduttatu u statutu di residente
+   </head>
+   <div type="content">
+    <p>
+     Una magiurità d'eletti di a Corsica vene di vutà à prò di u statutu di residente : 
+Per : 29  Contru : 18  Nò participazione : 4 
+I naziunalisti uniti è a manca prugressista (i giacubbisti, Corse Social-Démocrate) anu vutatu di sì. 
+Tutta a diritta, a manca cunservatrice (Front de Gauche, Cummunisti, Gauche Républicaine) anu vutatu di nò. 
+Tony Sindali, Anne-Marie Natali è Etienne Suzzoni ùn anu participatu à u votu. Sindali s'hè ghjustificatu cusì : « Nous sommes tiraillés entre notre attachement à la protection de notre foncier et de notre patrimoine immobilier et notre refus de la spéculation immobilière avec une réticence par rapport à une des solutions proposées, c’est-à-dire au statut de résident ». Da nutà chì François Tatti non più ùn hà participatu. 
+Da leghje u contu resu nant'à CNI. 
+È avà ch'elli si sò prununziati l'eletti corsi, Parigi chjuderà e porte una volta di più ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

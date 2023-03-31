@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     À vedeci, o Pè
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-vedeci-o-Pe_a2344.html"/>
+     <date>
+      Tue, 01 Mar 2016 14:29:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    À vedeci, o Pè
+   </head>
+   <div type="content">
+    <p>
+     Dice a canzona : 
+"Pienghje la pieve nustrale  Di lu Boziu immurtale  Pienghjenu li to zitelli" 
+Dapoi una settimana ste parolle di Bartulumeu Dolovici risonanu in e nostre menti è ùn ci hè manera di falle piantà. Sta volta a strage hè accaduta nant'à sta strada ch'è tù cunniscie per core. Quella di u to paese, quella di a to pieve cusì cara. 
+Si n'hè andatu Petru Vanucci di A Mazzola è ùn ci pare sempre micca vera. Allora ùn ci ferma più ch'è da pienghje. Ci lasci soli è ùn poi sapè quant'è tù ci ai da mancà. Tù l'amicu, u cumpagnu, u magagnone, l'osservatore fine è sarcasticu di stu picculu mondu, u cunsiglieru avertitu. Tù u buzincu arradicatu à i so lochi, à i so antichi, à a so terra. 
+Hè avà ch'è tù ci lasci, allora ch'ellu ci firmava tanti affari à fà. Ùn ci hè manera di fà piantà ste lacrime. Quant'è tù ci ai da mancà, o Pè...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

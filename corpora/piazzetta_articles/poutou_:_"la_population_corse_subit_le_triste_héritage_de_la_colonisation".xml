@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Poutou : "la population corse subit le triste héritage de la colonisation"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Poutou-la-population-corse-subit-le-triste-heritage-de-la-colonisation_a2580.html"/>
+     <date>
+      Sat, 08 Apr 2017 11:10:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Poutou : "la population corse subit le triste héritage de la colonisation"
+   </head>
+   <div type="excerpt">
+    <p>
+     Philippe Poutou hè (per avà) u solu candidatu à a presidenziale à avè rispostu à e dumande di u Rinnovu Naziunale.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Face una stonda ch'ellu ùn si parla più di "culunizazione" è di "sculunizazione" in Corsica. Ste parolle anu guasi smaritu da u discorsu naziunalistu corsu. 
+Hè u termine impiegatu da Philippe Poutou in e so risposte à u Rinnovu :
+    </p>
+    <p>
+     Réponse de @PhilippePoutou à la lettre du Rinnovu aux candidats à la Présidentielle. Il est favorable à l'autodétermination du peuple corse. pic.twitter.com/8v9e0FLoHV
+— Rinnovu Naziunali (@rinnovuN) 7 avril 2017
+    </p>
+    <p>
+     Qualchì settimana fà, u muvimentu naziunalistu avia interpellatu i candiati à a presidenziale :
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

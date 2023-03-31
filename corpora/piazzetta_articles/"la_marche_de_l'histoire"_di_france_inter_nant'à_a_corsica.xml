@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "La marche de l'histoire" di France Inter nant'à a Corsica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/La-marche-de-l-histoire-di-France-Inter-nant-a-a-Corsica_a2470.html"/>
+     <date>
+      Mon, 26 Sep 2016 12:13:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "La marche de l'histoire" di France Inter nant'à a Corsica
+   </head>
+   <div type="excerpt">
+    <p>
+     In sti tempi bughji induve quand'ellu si parla di a Corsica in i media francesi hè per falle falà scutrate, face prò di stà à sente qualcosa d'interessante. Ascultate "La marche de l'histoire" di Jean Lebrun.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     "La Corse, communauté de destin", hè u tema di l'emissione di u 16 di settembre scorsu. L'invitatu era Jean-Marie Arrighi, ispettore pedagogicu regiunale à a ritirata. 
+Per stà à sente l'emissione andate quì 
+Per u ligame nant'à iTunes si passa quì. 
+Bah iè scambia di BFM.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

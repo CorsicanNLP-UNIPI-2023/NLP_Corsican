@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Stefán Karl Stefánsson
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Stef%C3%A1n%20Karl%20Stef%C3%A1nsson"/>
+     <date>
+      2018-10-18T00:01:57Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Stefán Karl Stefánsson
+   </head>
+   <p>
+    Stefán Karl Stefánsson hè un attore americanu.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Listinu di l'attori americani
+   </p>
+   <p>
+    Stefánsson, Stefán Karl
+   </p>
+   <p>
+    Stefánsson, Stefán Karl
+   </p>
+  </body>
+ </text>
+</TEI>

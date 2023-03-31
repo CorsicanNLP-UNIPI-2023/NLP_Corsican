@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Emmanuel Petit : "les Français sont arrogants, menteurs et hypocrites"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Emmanuel-Petit-les-Francais-sont-arrogants-menteurs-et-hypocrites_a2053.html"/>
+     <date>
+      Wed, 03 Dec 2014 00:10:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Emmanuel Petit : "les Français sont arrogants, menteurs et hypocrites"
+   </head>
+   <div type="excerpt">
+    <p>
+     L'anzianu internaziunale francese era in zerga. Perchè ? Per via di u ritornu di Sarkozy ? Dop'à una cacciata nova di BHL o di Christophe Barbier ? Nò, era per difende à Thierry Henry...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Quand'ellu hè in forma, Emmanuel Petit cappia e bombe. À un'intervista di Sports.fr hà dettu cusì : 
+"J’ai beaucoup de mal avec les Français, je n’ai jamais vu un peuple aussi arrogant, suffisant, menteur et hypocrite." 
+Bon in fatti, tuttu què hè per difende... à Thierry Henry. Segondu à ellu, i Francesi ùn valenu nunda perchè ùn tenenu micca abbastanzu caru à l'anzianu attaccante di Monaco è d'Arsenal, cunnisciutu per a so antipatia. 
+Hà parlatu dinù di Brandao... è di l'omi pulitichi : 
+"Quand Brandao prend un mois de prison pour un coup de tête, (Jérôme) Cahuzac est encore en liberté, (Thomas) Thévenoud siège toujours à l’Assemblé nationale. Et on ne parle que de ceux qui ont été pris la main dans le sac. Ils ont le pouvoir et veulent surtout l’argent." 
+Tousspourris dunque. Bon nunda di novu è per l'analisi pulitica ci vulerà à aspettà. 
+Petit apre a bocca è lascia corre u spìritu. In a listessa intervista, dice dinù : 
+"Parfois, je me dis qu’en ayant été envahis par les Allemands, on serait mieux dirigés aujourd’hui." 
+U puntu Godwin, hè fatta ! O Manuè, ùn ti scurdà di u to valium...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Paraguay
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Paraguay"/>
+     <date>
+      2014-03-23T14:46:56Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Paraguay
+   </head>
+   <p>
+    U Paraguay (spagnolu ancu Paraguay; guaraní: Paraguái è portughese: Paraguai) hè un paese situatu in America di u Sudu.
+   </p>
+   <p>
+    America di u Sudu
+   </p>
+  </body>
+ </text>
+</TEI>

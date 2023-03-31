@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Alfred Nobel
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Alfred%20Nobel"/>
+     <date>
+      2017-03-13T20:08:11Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Alfred Nobel
+   </head>
+   <p>
+    Alfred Bernhard Nobel  (Stoccolma, 21 uttobre 1833 – Sanremo, 10 dicembre 1896) hè statu un chimicu svedese.
+   </p>
+   <p>
+    Hè famosu pe' esse statu l'inventore di a dinamite è u creatore di u Premiu Nobel.
+   </p>
+   <p>
+    Nobel,Alfred
+   </p>
+  </body>
+ </text>
+</TEI>

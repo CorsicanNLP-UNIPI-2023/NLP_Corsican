@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Maghju : u ritornu di e manif
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Maghju-u-ritornu-di-e-manif_a1743.html"/>
+     <date>
+      Wed, 23 Apr 2014 15:49:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Maghju : u ritornu di e manif
+   </head>
+   <div type="content">
+    <p>
+     Risicheghja d'esseci u mondu in carrughju di maghju in e cità corse. 
+U cullettivu "Simu di stu paese" (GI, GP, CGC, CL, Rinnovu, Manca Nazunale, PNCG, STC, APC, ...) chjama à manifestà u 10 di maghju (è micca u 3) in Bastia per "difende i diritti di u populu corsu : statutu fiscale, statutu di residente, cu-ufficialità... U statu ùn vole avanzà ? U faremu avanzà noi." 
+U 24 hè u cullettivu Parlemu Corsu chì prepara un grande evenimentu in Aiacciu : 
+Prima una manifestazione à 3 ore è mezu davant'à a prefettura per dumandà à u Statu a cuufficialità, è dopu un grande evenimentu cù cummedianti è gruppi musicali (una quarantina !) piazza di U Diamanti. 
+I manifestanti in mocassins è quelli in Meindl sò accettati.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

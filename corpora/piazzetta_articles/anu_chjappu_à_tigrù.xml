@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Anu chjappu à Tigrù
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Anu-chjappu-a-Tigru_a1111.html"/>
+     <date>
+      Mon, 06 Jun 2011 01:07:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Anu chjappu à Tigrù
+   </head>
+   <div type="excerpt">
+    <p>
+     I tempi sò duri ancu pè l'eroi di cartoons. In China, per un eserciziu di simulazione in un zoo, un Tigrù in pilliccia hè statu ammazzatu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Dopu à Ben Laden, hè un altru persunagiu cunnisciutu in u mondu sanu chì hè cascatu. 
+In u zoo di Chengdu, in China, a squadra di a securità hà vulsutu organizà un eserciziu di simulazione di a fughjera d'un tigru. 
+L'eserciziu hè diventatu surrealistu : un disgraziatu hè statu obligatu à mette u custume di u persunagiu di Walt Disney. Hà circatu à scappà, s'hè piattatu ma a pulizza hà finitu pè ritruvallu. 
+Trista sorte pè Tigrù, chì hè ancu statu purtatu nant'à un brancale sott'à l'ochji di i so amichi i veri tigri (vede i ritratti quì sottu). 
+Per furtuna, u sumere Bourriquet è l'orsu Winnie sò sempre in libertà. Ma sin'à quandu ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

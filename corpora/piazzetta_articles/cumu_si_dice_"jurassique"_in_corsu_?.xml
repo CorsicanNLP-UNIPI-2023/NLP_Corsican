@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cumu si dice "jurassique" in corsu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cumu-si-dice-jurassique-in-corsu_a1625.html"/>
+     <date>
+      Tue, 01 Oct 2013 12:23:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cumu si dice "jurassique" in corsu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     A grande famiglia di i dinosauri si face sente (o piuttostu ughjuleghja) à ogni volta ch'ellu si tratta di lingua corsa, di cuufficialità, di statutu di residente, di cambiamentu istituziunale...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In Corsica, ci sò parechji clani. U "clanu giuràssicu" hè quellu chì hè contr'à tuttu, à ogni volte ch'ellu si tratta di priservà u pocu chì ci ferma di corsu. 
+A cuufficialità ? "Discriminatoire"  U statutu di residente ? "Dangereux"  Un cambiamentu istituziunale ? "Un danger pour les Corses". 
+Ùn si capisce micca troppu i so argumenti, ma tuttu hè "angoscia" o "periculi" per elli. 
+Hè a CGT chì a dice, è chì ùn face chè ripiglià l'argumentariu amparatu à mente di a "Gauche Républicaine". 
+Cumu si ferà chì sti dinosauroni anu tantu paura di u cambiamentu ? Circà di salvà u pocu d'originalità è di differenza chì ci ferma, in un mondu di più in più uniformizatu saria dunque "periculosu". 
+U Clanu Giuràssicu di i Travagliatori, artigiani mai stanchi d'un mondu induve a Corsica s'assumiglieria à n'importa qualessu lucacciu di Francia, senza più lingua, senza più populu, senza più nunda ùn hà micca finitu di briunà !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

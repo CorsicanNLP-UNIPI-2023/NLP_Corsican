@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A fine di u populu alemanu hè prevista
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-fine-di-u-populu-alemanu-he-prevista_a976.html"/>
+     <date>
+      Tue, 21 Dec 2010 00:06:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A fine di u populu alemanu hè prevista
+   </head>
+   <div type="excerpt">
+    <p>
+     U populu tedescu hè minacciatu. A nazione chì hà datu Goethe, Harald Schumacher, Derrick è Tokio Hotel ùn face micca abbastanza figlioli.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ùn ridite micca, l'umanità puderebbe perde u populu alemanu. Bon, micca subbitu, da quì à 12 generazioni solu. A ci dice Le Figaro : Une disparition des Allemands dans douze générations ?. 
+A causa : a natalità assai troppu bassa di i tedeschi. E donne ùn volenu più fà figlioli, è più sò diplumate, menu ne facenu. U rinnovu di e generazioni ùn hè più assiguratu è s'ellu si cuntinuveghja à stu rìtimu hè l'esistenza di u populu alemanu chì hè rimessu in causa. 
+In tutti i casi, hè l'argumentu messu in avanti in u paese di u Hertha Berlin pè ch'ellu ci sia una presa di cuscenza di u rìsicu. 
+Tè... un populu chì ùn face micca abbastanza figlioli... minacciatu di sparizione... ùn vi ramenta nunda ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

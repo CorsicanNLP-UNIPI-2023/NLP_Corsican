@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bastia - PSG cù i cummenti di Jean Pruneta
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/bastia-psg-jean-pruneta/"/>
+     <date>
+      Mon, 12 Jan 2015 20:51:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bastia - PSG cù i cummenti di Jean Pruneta
+   </head>
+   <div type="excerpt">
+    <p>
+     Quandu Bastia ricolla contr'à Parigi, Jean Pruneta hè in forma !
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/fr_FR/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); Publication by Ozankra TV.
+    </p>
+    <p>
+     Filmettu : OzankraTV
+    </p>
+    <p>
+     Bastia-Paris 2014-2015, les buts bastiais sur wat.tv
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

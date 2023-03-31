@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     DSK face una pubba
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/DSK-face-una-pubba_a1114.html"/>
+     <date>
+      Sat, 11 Jun 2011 12:38:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    DSK face una pubba
+   </head>
+   <div type="excerpt">
+    <p>
+     In Grecia, si pò vede un falsu DSK in un spot pè una marca di chips...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Si sapia chì Dumènicu Strauss-Kahn ùn era micca veramente pupulare in Grecia mentre ch'ellu era sempre à u FMI. 
+Un'agenza di publicità hà prufittatu di u DSKgate pè ghjucallu appena di più à a risa, mettendulu in scena in accapatoghju surtendu da a doccia in un ottellu. 
+L'omu pare lampassi nant'à un'impiegata chì face a pulizia (ghjucata da un'anziana Miss Grecia) ma in fatti si lampa nant'à e... chips. 
+«Troskan» ! Dice l'impiegata, chì si pò traduce da « ùn ne manghjerai micca ! » 
+Nafissatou Diallo averà siguramente appreziatu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

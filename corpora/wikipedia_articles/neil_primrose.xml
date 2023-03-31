@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Neil Primrose
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Neil%20Primrose"/>
+     <date>
+      2014-03-23T14:42:29Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Neil Primrose
+   </head>
+   <p>
+    Neil Primrose hè u batterista di u gruppu di rock scuzzese Travis.
+   </p>
+   <p>
+    Primrose, Neil
+   </p>
+   <p>
+    Primrose, Neil
+   </p>
+  </body>
+ </text>
+</TEI>

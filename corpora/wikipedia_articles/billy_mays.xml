@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Billy Mays
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Billy%20Mays"/>
+     <date>
+      2015-07-01T19:36:06Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Billy Mays
+   </head>
+   <p>
+    William Darrell "Billy" Mays, Jr. hè un attore canadianu.
+   </p>
+   <p>
+    Mays, Billy
+   </p>
+  </body>
+ </text>
+</TEI>

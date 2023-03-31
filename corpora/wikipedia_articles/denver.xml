@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Denver
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Denver"/>
+     <date>
+      2014-03-23T14:15:42Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Denver
+   </head>
+   <p>
+    Denver hè una cità di i Stati Uniti capitale di u Colorado.
+   </p>
+   <p>
+    Tene 600.158 abitanti (2010).
+   </p>
+   <p>
+    A so altitudine sopra à u nivellu di u mare hè esattamente 1609 m (un migliu). Hè per via di quessa chì hè cugnomata Mile High City (a cità alta un migliu).
+   </p>
+   <p>
+    Stati Uniti d'America
+   </p>
+  </body>
+ </text>
+</TEI>

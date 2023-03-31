@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sam Worthington
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Sam%20Worthington"/>
+     <date>
+      2019-09-22T17:27:53Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sam Worthington
+   </head>
+   <p>
+    Samuel Henry J. Worthington hè un attore Australia.
+   </p>
+   <p>
+    Attore
+   </p>
+   <p>
+    Australia
+   </p>
+  </body>
+ </text>
+</TEI>

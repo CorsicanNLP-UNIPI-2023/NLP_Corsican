@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Perù
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Per%C3%B9"/>
+     <date>
+      2019-03-11T23:42:36Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Perù
+   </head>
+   <p>
+    U Perù (quechua: Piruw) hè un paese situatu in America di u Sudu.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Cuscu
+   </p>
+  </body>
+ </text>
+</TEI>

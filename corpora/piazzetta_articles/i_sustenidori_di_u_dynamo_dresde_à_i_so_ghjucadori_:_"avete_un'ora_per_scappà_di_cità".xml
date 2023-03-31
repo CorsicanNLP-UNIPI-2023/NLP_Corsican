@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I sustenidori di u Dynamo Dresde à i so ghjucadori : "avete un'ora per scappà di cità"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-sustenidori-di-u-Dynamo-Dresde-a-i-so-ghjucadori-avete-un-ora-per-scappa-di-cita_a1795.html"/>
+     <date>
+      Sun, 11 May 2014 19:10:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I sustenidori di u Dynamo Dresde à i so ghjucadori : "avete un'ora per scappà di cità"
+   </head>
+   <div type="content">
+    <p>
+     "Ihr habt eine stunde um die stadt zu verlassen", vole dì "avete un'ora per scappà di cità". 
+Hè l'ordine ch'elli anu datu i sustenidori di u Dynamo Dresde (scrittu nant'à un striscione) à i so ghjucadori dop'à a so disfatta in casa soia (3 à 2) contr'à l'Arminia Bielefeld, sta dumenica. 
+A scunfitta cundanna u club alemanu à falà in terza divisione. A partita hè stata interrotta durante un quartu d'ora quandu i sustenidori anu lampatu fòrgani è fumìgeni nant'à u terrenu. 
+U SG Dynamo Dresde era unu di i clubs i più pupulari in RDA, semi-finalistu di a cuppa di l'UEFA in u 1989. 
+A vita hè fatta à scala. À chì colla, à chì fala...
+    </p>
+    <p>
+     U striscione
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

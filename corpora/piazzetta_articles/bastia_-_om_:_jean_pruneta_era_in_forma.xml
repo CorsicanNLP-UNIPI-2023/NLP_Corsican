@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bastia - OM : Jean Pruneta era in forma
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Bastia-OM-Jean-Pruneta-era-in-forma_a1927.html"/>
+     <date>
+      Sun, 10 Aug 2014 13:39:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bastia - OM : Jean Pruneta era in forma
+   </head>
+   <div type="excerpt">
+    <p>
+     Spetaculu in e tribune è nant'à u terrenu in Furiani. È Jean Pruneta in forma. What else ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/fr_FR/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); Message sur le mur by Ozankra TV.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

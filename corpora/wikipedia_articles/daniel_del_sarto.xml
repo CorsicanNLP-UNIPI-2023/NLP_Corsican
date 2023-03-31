@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Daniel Del Sarto
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Daniel%20Del%20Sarto"/>
+     <date>
+      2015-07-03T15:16:21Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Daniel Del Sarto
+   </head>
+   <p>
+    Daniel Del Sarto (São Paulo, 1 di settembre 1974) hè un'attore brasilianu.
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    IMDB
+   </p>
+   <p>
+    Attore
+   </p>
+   <p>
+    Brasilianu
+   </p>
+  </body>
+ </text>
+</TEI>

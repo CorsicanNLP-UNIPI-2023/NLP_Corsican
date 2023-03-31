@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I Francesi sò i più pessimisti di u mondu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-Francesi-so-i-piu-pessimisti-di-u-mondu_a997.html"/>
+     <date>
+      Thu, 06 Jan 2011 08:01:02 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I Francesi sò i più pessimisti di u mondu
+   </head>
+   <div type="excerpt">
+    <p>
+     D'appressu à una inchiesta internaziunale, l'Afgani è l'Iracchiani sò di più ottimisti ch'è i Francesi.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Almenu seranu campioni di u mondu di qualcosa quist'annu. 
+D'appressu à un sundagiu BVA - Gallup International realizatu in 53 paesi nant'à più di 64.000 persone, i Francesi sò i più pessimisti di u pianeta. 
+61% di i Francesi pensanu chì 2011 serà una annata difficiule allora chì a media mundiale hè di 28%. 
+Sò 52% à pensalla in Inghilterra, 48% in Spagna, 41% in Italia, 22% in Alemagna. 
+Peghju, ancu in Afganistanu, à u Kosovo è in Irak a ghjente crede di più in l'avvene ch'è in Francia. 
+Serà chì stu paese hè veramente leccu ? Vera lucidità ? 
+O serà ch'elli sò troppu pienghjuloni è casca è pienghji ? 
+Pè ripiglià una cacciata cunnisciuta : "l'ottimistu inventa l'aviò, u pessimistu inventa u parachute"... À voi di sceglie !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

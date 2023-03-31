@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A frasa di u ghjornu di a CFR
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-frasa-di-u-ghjornu-di-a-CFR_a1733.html"/>
+     <date>
+      Fri, 18 Apr 2014 14:15:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A frasa di u ghjornu di a CFR
+   </head>
+   <div type="content">
+    <p>
+     À prupositu di a cuufficialità, l'associu France-Corse ùn manca d'argumenti. L'ultimu hè questu quì : 
+"Il n’y a pas non plus d’intérêt pratique à la coofficialité, chacun en Corse comprenant, parlant et pensant français" 
+Amichi chì pensate francese, eccu u a pagina induve si pò leghje quessa. 
+Bona ghjurnata à tutti !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,162 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Triangulu rittangulu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Triangulu%20rittangulu"/>
+     <date>
+      2014-10-13T16:53:34Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Triangulu rittangulu
+   </head>
+   <p>
+    U triangulu rittangulu (o triangulu rettangulu) hè un triangulu in u quali l'angulu furmatu da dui lati, ditti cateti, hè rettu, vali à dì di 90° (o π/2 radianti).
+   </p>
+   <p>
+    U latu oppostu à l'angulu rettu si chjama iputenusa. L'iputenusa hè par via di u tiurema di Pitagora para à a radica quatrata di a somma di i quatrati di i cateti.
+   </p>
+   <p>
+    U triangulu rittangulu ripprisenta un casu particulari di triangulu genericu, par u quali molti rilazioni fundamintali si simplificheghjani. U casu più particulari hè quiddu di u triangulu rittangulu isusceli, casu par u quali
+   </p>
+   <p>
+    a = b = {1\over \sqrt 2} c \qquad \alpha = \beta = {\pi\over 4} .
+   </p>
+   <p>
+    Aghjunghjendu à un triangulu rittangulu u triangulu ottinutu incù a so riflissioni rispettu à l'iputenusa s'otteni un aquilonu. Aghjunghjendu li u triangulu ottinutu fendu una rutazioni di 'π intornu à u puntu mediu di l'iputenusa s'otteni u rittangulu par u quali l'iputenusa hè diagunali principali.
+   </p>
+   <p>
+    Da u triangulu rittangulu isusceli incùi dui custruzzioni s'otteni u quatratu di latu a = b.
+   </p>
+   <p>
+    ==Prubità==
+   </p>
+   <p>
+    ===Tiuremi Fundamintali (Prubità di i lati)===
+   </p>
+   <p>
+    ===Prubità di l'anguli interni===
+   </p>
+   <p>
+    Sapendu ch'è a somma di l'anguli interni d'un triangulu qualunquai hè 180° (π rad), in u casu particulari d'un triangulu rittangulu, sapendu ch'è unu di l'anguli interni hè rettu tandu hè faciuli à diducia ch'è a somma di l'altri dui anguli interni vali sempri 90°:
+   </p>
+   <p>
+    \alpha + \beta + 90^\circ = 180^\circ \to \alpha + \beta = 180^\circ - 90^\circ = 90^\circ
+   </p>
+   <p>
+    Da sta prubità si pò, par via di cunsiquenza, diducia ch'è s'edda hè tracciata l'altezza di u triangulu rittangulu incù a so urighjina in l'angulu rettu, dividi tandu 'ss'angulu in dui anguli minori, chjamati par asempiu θ è ω. Inoltri si sò à furmà dui trianguli rittanguli distinti (ACH è BCH) incù un catetu in cumunu, l'altezza par appuntu.
+   </p>
+   <p>
+    Par a prubità discritta sopra si pò dì ch'è:
+   </p>
+   <p>
+    Cunsidarendu u Triangulu Rittangulu BCH, par a prubità vista sopra:
+   </p>
+   <p>
+    \theta + \beta = 90^\circ \to \theta = 90^\circ - \beta
+   </p>
+   <p>
+    Tandu si pò cunsidarà u Triangulu ABC cumplettu:
+   </p>
+   <p>
+    \alpha + \beta = 90^\circ \to \alpha = 90^\circ - \beta
+   </p>
+   <p>
+    da induva si diduci a prubità:
+   </p>
+   <p>
+    \alpha = 90^\circ - \beta = \theta \to \alpha = \theta
+   </p>
+   <p>
+    Analugamenti si pò ussirvà ch'è:
+   </p>
+   <p>
+    \beta = \omega
+   </p>
+   <p>
+    == Classi di similitudina ==
+   </p>
+   <p>
+    Ogni trasfurmazioni di similitudina trasforma un triangulu rittangulu in un triangulu rittangulu è cusì hè utuli di cunsidarà i classi di similitudina di i trianguli rittanguli. Quiddi si poni ripprisintà currettamenti incù i trianguli rittanguli avendu l'iputenusa c di lunghezza 1 è u vertici oppostu appartinenti à una di i mezi circumfarenzi avendu com'è diamitru l'iputenusa. A cullizzioni di i classi di similitudina si pò parametrizà incù u rapportu à/b di i lunghezzi di i cateti vali à dì incù unu di i dui anguli micca retti, par asempiu incù l'angulu \alpha rilativu à u vertici A. A trigunumitria dici ch'è:
+   </p>
+   <p>
+    \frac{a}{b} = \tan \alpha
+   </p>
+   <p>
+    a = c \sin \alpha
+   </p>
+   <p>
+    b = c \cos \alpha
+   </p>
+   <p>
+    == Trianguli Rittanguli Particulari ==
+   </p>
+   <p>
+    === Triangulu Rittangulu isusceli ===
+   </p>
+   <p>
+    Chjamatu ancu Triangulu 90-45 dati l'ampiezzi di l'anguli chì u formani, infatti hè cumpostu da un angulu rettu è dui anguli da 45°.
+   </p>
+   <p>
+    A carattaristica principali di stu triangulu hè ch'eddu hà i dui cateti uguali è misurani  i = c \cdot \sqrt[]{2} \to c = \frac{i}{\sqrt[]{2}}
+   </p>
+   <p>
+    Un'altra prubità di u triangulu rittangulu isusceli hè ch'è a midiana, l'altezza è a bisettrici rilativi à u vertici chì prisenta l'angulu rettu cuincidini. Inoltri toccani l'iputenusa asattamenti in u so puntu mediu, dividendu cusì tali latu in dui parti uguali incù lunghezza analoga à l'altezza/bisettrici/midiana tracciata.
+   </p>
+   <p>
+    == Punti nutevuli ==
+   </p>
+   <p>
+    L'ortucentru d'un triangulu rittangulu cuincidi incù u vertici di l'angulu rettu.
+   </p>
+   <p>
+    U circucentru hè u puntu mediu di l'iputenusa.
+   </p>
+   <p>
+    ==Da veda dinò==
+   </p>
+   <p>
+    Criterii di cungruenza di i trianguli
+   </p>
+   <p>
+    Triangulu angulu acutu
+   </p>
+   <p>
+    Triangulu angulu ottusu
+   </p>
+   <p>
+    Rittangulu
+   </p>
+   <p>
+    == Noti ==
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia in talianu.
+   </p>
+  </body>
+ </text>
+</TEI>

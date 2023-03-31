@@ -1,0 +1,99 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I più belli castelli di Corsica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-piu-belli-castelli-di-Corsica_a2333.html"/>
+     <date>
+      Fri, 15 Jan 2016 14:12:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I più belli castelli di Corsica
+   </head>
+   <div type="excerpt">
+    <p>
+     Si conta più di 300 castelli medievali in Corsica. Purtantu, stu patrimoniu è sta storia ricca fermanu sempre mal cunnisciuti. Spessu ùn ci fermanu ch'è ruvine, postu chì guasi tutte ste furtificazione sò state distrutte sia da a rivolta anti feudale di Sambucucciu d'Àlandu (1358),sia da i Ghjenuvesi chì facianu a guerra à i signori. Eccu una spassi-ghjatuccia à traversu sti lochi carchi di storia.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     1. San Culumbanu (Ruglianu) 
+Cù u Pumonte, u Capicorsu era terra di signori. In Ruglianu si ponu sempre vede e ruvine impressiunante di u castellu di San Culumbanu. Hè unu di i più antichi di Corsica (XIu seculu), è appartenia à a signuria Da Mare.
+    </p>
+    <p>
+     2. Serravalle (Pratu di Ghjuvellina)
+U castellu di Serravalle, situatu in a pieve di A Ghjuvellina, hè unu di i megliu cunservati di l'isula. Hè a pruprietà di i signori Amondaschi, chì tenianu a valle di Golu.
+    </p>
+    <p>
+     3. Capula (Livia)
+U situ di Capula hè unicu in Corsica : un'occupazione preistorica cù u situ di Cucuruzzu. È vicinu di questu quì si trovanu i resti di u castellu medievale di Capula. Appartenia à a signuria di i Biancolacci. Una storia millenaria...
+    </p>
+    <p>
+     4. Cinarca (Casaglione)
+Stu castellu appartenia à una di e signurie e più impurtante di a storia : i Cinarchesi. U so castellu principiale supraneghja u golfu di Sagone. Ma ùn ferma più nunda : i Ghjenuvesi, in guerra contr'à elli, si sò appiegati per raschjà tuttu dop'à una terribule ripressione.
+    </p>
+    <p>
+     5. Petrellerata (Zuani)
+Trà Zuani è Pedicorti di Gaghju ci hè un pinzu induve i signori Cortinchi, una famiglia impurtante chì tenia u so territoriu da u venachese à a Casinca, avia fattu u so castellu. U locu hè impressiunante, difficiule d'accessu è inalpellatu.
+    </p>
+    <p>
+     6. Cuvasina (Vintisari)
+Situatu in Fiumorbu, si chjama dinù Castellu Alemanu o Castellu di Carlumagnu. A legenda dice ch'ellu saria statu fundatu da un certu Truffetta, signore alemanu di Mayence, mandatu in Corsica da Carlu Magnu per cumbatte i Sarragini. Cusì dicenu i crunachisti, ma a storia hè sempre mal cunnisciuta...
+    </p>
+    <p>
+     7. E Rocche di Sia (Ota)
+U locu difensivu, nant'à un pentone appinzatu duvia prutege e Rocche di Sia, da i so nemichi. Ma i Ghjenuvesi anu finitu per lampà in pianu stu castellu di a signuria di Leca.
+    </p>
+    <p>
+     8. Biguglia
+Quant'ellu n'hà vistu u castellu di Biguglia ! Si trova sopr'à u paese attuale. À l'orìgine hè un castellu di i signori di Bagnaia. Diventa più tardi locu di residenza di i guvernatori ghjenuvesi, attaccatu più tardi da Vincentellu d'Istria, eppo dopu distruttu da l'armate di Ghjenuva
+    </p>
+    <p>
+     9. Lumitu (Scata)
+U castellu di Lumitu in a pieve di l'Ampugnani era una furtificazione Cortinchi. D'appressu à a legenda, era unu di i lochi di una certa cuntessa Matilda. Ùn si sà veramente s'ella hà esistitu in veru, ma a memoria pupulare s'hè mantenuta.
+    </p>
+    <p>
+     10. U Palazzu di u Poghju (Poghju di Venacu)
+D'appressu à e cronache di Ghjuvanni della Grossa, saria statu u castellu d'Ugu Colonna. Stu conte mìticu, principe rumanu, saria statu mandatu in Corsica ingiru à u IXu seculu per sbandisce i Sarragini. Ùn serà forse ch'è una legenda, ma stu castellu, vicinu da Corti, hè sempre quì.
+    </p>
+    <p>
+     Bibliugrafia
+Le Moyen-Âge en Corse, sott'à a direzzione di Daniel Istria, CRDP di Corsica, 2012.  Corse médiévale, sott'à a direzzione di Daniel Istria, Editions du patrimoine, 2014.  Le Mémorial des Corses, sott'à a direzzione di Francis Pomponi, 1980.  Cahiers Corsica, di a FAGEC. 
+Ringrazi à Mariadumenica Predali pè u so aiutu
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

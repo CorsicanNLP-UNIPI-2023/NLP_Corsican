@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     L'università di Corsica in u top 10 di quelle chì facenu riesce i so studienti
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/L-universita-di-Corsica-in-u-top-10-di-quelle-chi-facenu-riesce-i-so-studienti_a1954.html"/>
+     <date>
+      Mon, 22 Sep 2014 14:48:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    L'università di Corsica in u top 10 di quelle chì facenu riesce i so studienti
+   </head>
+   <div type="excerpt">
+    <p>
+     L'articulu hè statu publicatu nant'à u situ di u Mondu è hè intitulatu "Les universités qui font le mieux réussir leurs étudiants".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè forse quessa a più bella risposta à u Statu chì blocca a signatura di a cunvenzione cù l'università (à u prefettu ùn li piace a parolla "cuufficialità"). 
+In Corti a percentuale di riescita pè i studienti di prima annata hè di 50,6 %, ciò chì porta l'Università à l'ottesima piazza di a classifica. 
+Da leghje nant'à Le Monde : Les universités qui font le mieux réussir leurs étudiants.
+    </p>
+    <p>
+     Hè forse segnu chì in e piccule università (a prima di a classifica hè Albi), i studienti sò megliu accumpagnati ch'è in l'anonimatu di e grande università è i grandi amphis. 
+Ben intesu, l'azezi truveranu sempre à dì. Si senterà chì in Corti si danu l'annate à i studienti, senza fà troppu casu à u livellu. 
+Invece, si pò pensà chì l'inquatramentu di l'insignanti hè forse più forte ch'è in altrò. Si puderia parlà dinù di e filere cum'è a PACES (Première Année Commune des Etudes de Santé) per quelli chì volenu fà medicina, o a scola d'ingenieri Paoli Tech. Si ne parla pocu ma sò piuttostu riescite. 
+Invece, puderia dumandassi omu ciò ch'ellu si face di i nostri giovani chì sortenu da a scola micca diplumati. A Corsica hè una di e regione chì hà a prupurzione a più forte di 20-24 anni senza diplomi è quessa hè inchietante in veru. 
+Quelli chì piantanu i so studii in fine di prima annata sò 24,8 %. 
+Una sucetà chì ùn incuragisce micca a cunniscenza è i studii hè una sucetà chì và male. 
+"Da rifletteci", dicia quellu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

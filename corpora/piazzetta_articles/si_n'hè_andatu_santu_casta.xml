@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Si n'hè andatu Santu Casta
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Si-n-he-andatu-Santu-Casta_a1676.html"/>
+     <date>
+      Wed, 05 Feb 2014 23:05:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Si n'hè andatu Santu Casta
+   </head>
+   <div type="content">
+    <p>
+     Hà fattu u so ultimu viaghju Santu Casta, prufissore di corsu, pueta è scrittore di rinomina. 
+Santu Casta, chì hà participatu assai à u Riacquistu, era cunnisciutu per i so talenti literarii è a so cunniscenza prufonda di a lingua. 
+Hà lasciatu daretu à sè mori scritti chì ghjuvarani à e generazione da vene. 
+Scritti pedagogichi : a cullizzione "Lingua viva" scritta 20 anni fà hè sempre usitata in i culleghji è licei di Corsica oghje chì hè oghje. 
+Scritti linguistichi : "La syntaxe du corse" è "Punteghju" par migliurà è misurà e so cunniscenze nantu à a lingua. 
+Scritti di traduzzione : hè dinù par via di u so travagliu chì "Le petit prince" hè divintatu "U Principellu" 
+Scritti literarii : "Rise è Frizzure, è più tardi "L'acelli di u Sarriseu", "U ingallaratu", tutt'è dui premii di u libru corsu in 2011, conta a storia d'un paisanu corsu chì parte par à guerra in u 1940. Sarà siguitatu in 2013 da "Maria Stella", chì conta u so ritornu di guerra è a ricerca di a so fidanzata... 
+Ma aldilà di i so scritti, Santu Casta era un'omu chì ùn pudia capì issa generazione appiccicata à i screni di i tilifunini, ellu chì fighjulava è s'intarissava à tuttu in giru à sè. Cacciadore passiunatu, u so vissutu si vidia in ogni scrittu. Basta à leghje "Nuvelle animalesche" o qualchì passaghju di "Acillaria" par induvinà u so sensu di l'ussirvazione è u sguardu rispittuosu è smaravigliatu ch'ellu purtava annantu à a natura : 
+"Sturnelli, sturnellacci, annaspavate par stu celu, lestri lestri, è ci smaravigliaste assai caliendu o alzighjenduvi d'un colpu, passavate è viniate senza mai piantà, è turravate à passà à taglioli niricci finamente à l'annuttà, è po, d'un colpu, vi spuniate..."
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

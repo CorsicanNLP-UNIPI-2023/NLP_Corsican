@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lugliu 1755, un certu Pasquale Paoli...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Lugliu-1755-un-certu-Pasquale-Paoli_a1605.html"/>
+     <date>
+      Sun, 14 Jul 2013 15:00:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lugliu 1755, un certu Pasquale Paoli...
+   </head>
+   <div type="excerpt">
+    <p>
+     U 14 lugliu ùn hè micca solu a musica militare, u défilé è l'accordéon d'Yvette Horner. Ci hè dinù quellu di Pasquale Paoli.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Georges Brassens hà scrittu : "Le jour du 14 juillet / je reste dans mon lit douillet / la musique qui marche au pas / ça ne me regarde pas". U 14 lugliu ci sò dunque quelli chì ùn fideghjanu micca u défilé nant'à TF1. 
+Ma ci hè dinù u 14 lugliu di u 1755, quellu di Pasquale Paoli. O piuttostu, ci hè a cunsulta di u cunventu Sant'Antone di A Casabianca, in a pieve di l'Ampugnani. 
+Durante trè ghjorni, da u 13 à u 15 lugliu, una cunsulta addunisce i rapresentanti di e pievi di Corsica. Ma micca tutte, Paoli serà elettu Generale di a Nazione Corsa da 16 pievi nant'à 66). 
+Cum'è sempre, l'unione pare impussibule à fà. In l'isula, numerose sò e nimicizie trà di i capimachja corsi, l'individualisimu, e lite, senza cuntà nant'à a presenza genuvese in e cità di u liturale (Bastia, Calvi, Bunifaziu, Aiacciu, San Fiurenzu...). 
+Paoli hè cuscente di e difficultà chì l'aspettanu (scriverà : "sò cum'è Pulcinella chì ghjoca à fà u principe...") è a so prima misura hè di circà di mantene a pace trà i differenti clani. 
+In un paese induve l'interessu individuale hè più impurtante chè l'interessu cummunu, Pasquale Paoli ùn sceglie micca una prova faciule. Scrive : "aghju ghjuratu d'impiecammi solu à prò di a Nazione è à a ricerca di a so libertà". 
+U so bilanciu, u cunniscite. Un'armata, una flotta, un'università, una muneta, una stamperia naziunale, una custituzione chì u ferà ammirà in Auropa sana è ancu in America, sviluppa l'economia. Senza cuntà nant'à a so prova di fà piantà a viulenza di e vindette, "nemichi di a sucetà è di a Patria". U so propiu nipote serà cundannatu per quessa. 
+Si cunnosce a seguita. U sonniu finisce in Ponte Novu. Più tardi Marbeuf è Morand facenu entre a Corsica sott'à u duminiu francese in a ripression è u sangue. 
+Un'isula induve u cummunu esiste pocu è induve l'interessu individuale hè di più impurtante... Finalmente, in 258 anni e cose ùn sò tantu scambiate o Pasquà.
+    </p>
+    <p>
+     In Inghilterra, in Italia, in America, Pasquale Paoli face l'ammirazione. Truvate u paese chì manca.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

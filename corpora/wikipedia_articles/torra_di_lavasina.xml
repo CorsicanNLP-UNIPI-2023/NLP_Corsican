@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Torra di Lavasina
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Torra%20di%20Lavasina"/>
+     <date>
+      2010-05-23T20:49:44Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Torra di Lavasina
+   </head>
+   <p>
+    Di a torra di Lavasina, ùn ferma più chè un pezzu. Di sopra, hè statu custruì a tomba di i frati di u cunventu. Un pezzu di muru si trova inde u mare.
+   </p>
+   <p>
+    Giugrafia
+   </p>
+  </body>
+ </text>
+</TEI>

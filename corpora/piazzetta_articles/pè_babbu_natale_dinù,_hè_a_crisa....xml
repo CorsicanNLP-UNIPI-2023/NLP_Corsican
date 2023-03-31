@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pè Babbu Natale dinù, hè a crisa...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Pe-Babbu-Natale-dinu-he-a-crisa_a1228.html"/>
+     <date>
+      Thu, 15 Dec 2011 21:46:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pè Babbu Natale dinù, hè a crisa...
+   </head>
+   <div type="excerpt">
+    <p>
+     I tempi sò difficiuli ancu pè u vechjone di Natale. Crisa ecunomica, disimpiegu, delucalizazione... Quist'annu, rigalinu hè mortu !
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cumu serà chì Pappà Noël s'hè impiccatu ? 
+A futura perdita di u "triple A" ? A crisa ecunomica ? E facce di i candidati corsi à l'elezzione legislative ? A fine di u mondu in u 2012 ? U Tour de France 2013 ind'è noi ? I macci di l'ACA ? A stagione 4 di Mafiosa ? U novu dischettu di Lorie ? E nutizie di l'ultimu Corsica Sera ? 
+O serà una vindetta nova di i u "milieu" ? 
+Stu ritrattu hè statu pigliatu in u circondu bastiacciu. Vi l'aviamu detta ch'ellu ci vulia à piantà cù e decurazioni di Natale...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

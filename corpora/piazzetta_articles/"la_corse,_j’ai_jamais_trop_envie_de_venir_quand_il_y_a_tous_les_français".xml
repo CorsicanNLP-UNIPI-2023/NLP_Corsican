@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "La Corse, j’ai jamais trop envie de venir quand il y a tous les Français"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/La-Corse-j-ai-jamais-trop-envie-de-venir-quand-il-y-a-tous-les-Francais_a1908.html"/>
+     <date>
+      Thu, 10 Jul 2014 10:55:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "La Corse, j’ai jamais trop envie de venir quand il y a tous les Français"
+   </head>
+   <div type="content">
+    <p>
+     L'attrice francese Adèle Exarchopoulos era in Calvi. Interrugata da Glamour nant'à a Corsica, hà dettu ch'ellu li piaceria di vene à scoprela, ma senza i Francesi : 
+"Oui, j’aimerais bien rester et faire le festival, surtout que je connais mal la Corse, découvrir un peu les endroits sauvages, mais j’ai jamais trop envie de venir quand il y a tous les Français…" 
+Noi, li prupunimu di falli scopre u Boziu di dicembre.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

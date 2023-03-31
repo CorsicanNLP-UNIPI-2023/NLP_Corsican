@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Saskatchewan
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Saskatchewan"/>
+     <date>
+      2016-11-04T09:21:41Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Saskatchewan
+   </head>
+   <p>
+    U Saskatchewan hè una pruvincia di u Canadà, hà una superficia di 651.900 km² è tene una populazzione di 1.033.381 abitanti (2011).
+   </p>
+   <p>
+    A capitale hè Regina è a cità più grande hè Saskatoon.
+   </p>
+   <p>
+    Pruvincia di u Canadà
+   </p>
+  </body>
+ </text>
+</TEI>

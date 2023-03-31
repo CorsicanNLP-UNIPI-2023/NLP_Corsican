@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Isula Terra
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Isula%20Terra"/>
+     <date>
+      2019-10-03T11:15:26Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Isula Terra
+   </head>
+   <p>
+    L' Isula Terra hè un isulottu di Corsica.
+   </p>
+   <p>
+    == Riferimenti ==
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Isulotti di Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

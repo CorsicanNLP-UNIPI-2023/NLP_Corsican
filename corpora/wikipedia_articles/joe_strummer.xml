@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Joe Strummer
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Joe%20Strummer"/>
+     <date>
+      2016-10-12T21:14:37Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Joe Strummer
+   </head>
+   <p>
+    Joe Strummer hè u frontman di u gruppu di rock The Clash
+   </p>
+   <p>
+    Strummer, Joe
+   </p>
+   <p>
+    Britannicu
+   </p>
+  </body>
+ </text>
+</TEI>

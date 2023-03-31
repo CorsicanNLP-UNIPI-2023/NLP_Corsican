@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     L'Auvergne richjappa a Corsica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/L-Auvergne-richjappa-a-Corsica_a1729.html"/>
+     <date>
+      Thu, 17 Apr 2014 14:09:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    L'Auvergne richjappa a Corsica
+   </head>
+   <div type="content">
+    <p>
+     Spicciatevi di vutà (iè si pò ancu vutà parechje volte !) pè l'arburu di l'annu. U castagnu di U Pianellu si face richjappà da u candidatu di l'Auvergne ! 
+Per vutà, si passa quì.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

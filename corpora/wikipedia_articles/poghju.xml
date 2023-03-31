@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Poghju
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Poghju"/>
+     <date>
+      2019-09-19T04:49:25Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Poghju
+   </head>
+   <p>
+    Poghju hè un paese chì face partita di a cumuna di Poghju-Marinacciu.
+   </p>
+   <p>
+    == Geografia ==
+   </p>
+   <p>
+    == Storia ==
+   </p>
+   <p>
+    == Referenze ==
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Paese di Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

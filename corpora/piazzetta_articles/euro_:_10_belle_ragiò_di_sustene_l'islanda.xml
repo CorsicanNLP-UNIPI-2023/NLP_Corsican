@@ -1,0 +1,79 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Euro : 10 belle ragiò di sustene l'Islanda
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Euro-10-belle-ragio-di-sustene-l-Islanda_a2437.html"/>
+     <date>
+      Sat, 18 Jun 2016 11:47:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Euro : 10 belle ragiò di sustene l'Islanda
+   </head>
+   <div type="excerpt">
+    <p>
+     A squadra di u Paese di u Cotru (300 000 abitanti) participeghja pè a prima volta à a fasa finale di l'Euro è i ghjucadori, cum'è zitelli a sera di Natale, cantanu incù l'anghjuli. Eccu dece ragione di mughjà « Forza Islanda ».
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     1. I nomi è e casate di i ghjucadori parenu scioglilingue è facenu rime faciule (Gunnarsson, Guðmundsson, Nimportachèson)
+    </p>
+    <p>
+     2. Li piacenu e salcicce di fegatu pecurinu (una spezia di figåtellø)... è si sciaccanu alette di pesciucane merzu (Hàkarl).
+    </p>
+    <p>
+     3. Anu arrabbiatu à Cristiano Ronaldo chì torna appena sì spettinava 
+4. Tenenu da amicone, un umatale chì face a paura : Hafþór Júlíus Björnsson, « A muntagna » di Game of Thrones. 
+5. Anu fattu una rivuluziunuccia pichjendu nant'à pignatte, frissoghje è cazzerole incù un cuchjarone (è senza tumbà à nimu). 
+Da leghje :  L'Islande ébranlée par la «révolution des casseroles»  Quand tout un peuple refuse le diktat des financiers
+    </p>
+    <p>
+     6. Incusragiscenu a so squadra stridendu « Forza ò figliò » (chì u nome di a squadra « Strákarnir okkar » significheghja « figlioli nostri »)
+    </p>
+    <p>
+     7. U Partitu Piratu hà trè eletti à u parlamentu (ma quessi i pirati ùn sò micca ladri) 
+8. Torna appena è u vulcanu Eyjafjallajökull pruvucava a fine di u mondu : i turisti ùn pudianu più piglià l'aviò. Fuss'ella puru !
+    </p>
+    <p>
+     9. Ùn anu micca paura d'esse curnuti (cum'è veri Vicchinghi)
+    </p>
+    <p>
+     10. Sò isulani è bislingui (è certi sò capifali cum'è niulinchi !)
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

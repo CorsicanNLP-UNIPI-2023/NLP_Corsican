@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     E seratacce di John Galliano
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-seratacce-di-John-Galliano_a1045.html"/>
+     <date>
+      Wed, 02 Mar 2011 00:06:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    E seratacce di John Galliano
+   </head>
+   <div type="excerpt">
+    <p>
+     Truvate chì e vostre surtite sò annuiose ? Sempre listessi lochi, sempre listesse facce ? Pensate ch'è vo site un loser di a notte ? Purtantu ci hè peghju : fidighjate à John Galliano...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In generale quand'è vo dumandate à qualchissia s'ellu sorte, vi sentite risponde : "buh, n'aghju una techje di sorte, sempre listessu affare, ùn ci hè nunda à fà, sempre listessi lochi, sempre listesse facce !" 
+È di siguru pensate chì quelli chì sò ricchi è cunnisciuti, quelli di a jet set chì stanu in Parigi è in Londra, elli sì chì si càmpanu... ma ci hè John Galliano. 
+John Galliano, ùn si pò fà megliu : stilistu ind'è Dior, giovanu, à a punta di a moda, riccu, cunnisciutu, chì campa à mezu à e più belle donne (è ancu i più belli omi)... ebbeh passa serate di merda. 
+A videò di The Sun induv'ellu si vede à John Galliano insultà una cliente d'un bar è fà a gloria d'Hitler hà scandalizatu u mondu sanu. Hè vera, quessa ùn si face è hè propiu scandalosa. 
+Ma ci hè peghju : John Galliano passa veramente seratacce cum'è più nimu ne face : solu solu, à pusà in caffè, sempre in u listessu bar, à inturcassi. È per mette appena d'animazione, si mette à insultà i clienti. 
+Vi và ? Sò quesse e nights di i grandi di u show biz è di a moda ? Francamente, ùn dite mai più chì in Corsica ùn ci hè nunda à fà è v'annuiate. À cantu, un apperitivu à u Pénalty o à u juke-box di u Corsica Bar sò cafés philo. 
+Iè, ste serate induve tuttu u mondu hè sticchitu è si fideghja in caterochju, hè sempre megliu ch'è e seratacce di John Galliano...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

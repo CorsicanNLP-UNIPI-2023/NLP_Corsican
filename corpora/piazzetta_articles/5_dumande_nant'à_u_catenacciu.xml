@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     5 dumande nant'à u Catenacciu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/5-dumande-nant-a-u-Catenacciu_a1316.html"/>
+     <date>
+      Fri, 06 Apr 2012 01:16:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    5 dumande nant'à u Catenacciu
+   </head>
+   <div type="excerpt">
+    <p>
+     Venneri Santu, hè ghjornu di Catenacciu in Sartè. Hè u mumentu d'interrugassi nant'à u viacruci corsu u più cunnisciutu di u mondu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     1. Chì ci vole cum'è preparazione fìsica ?  Una croce di 37 chilò, catene à i pedi di 17 chilò, un percorsu d'1,8 chilòmetri, ùn hè micca sèmplice di fà u viacruci. A greva di a fame ùn hè micca cunsigliata. 
+2. U Catenacciu serà ritrasmessu un ghjornu nant'à Al Jazeera ?  A sapete, l'emiri di u Qatar si compranu mezu mondu. A catena tv Al Jazeera dinù. Dopu à u PSG, a cuppa di u mondu 2022, i diritti di ritrasmissione di i macci di futbol di L1, si dice chì Al Jazeera Sport vuleria ritrasmette à a telè u viacruci di Sartè 2013. Puttachju o verità ? 
+3. U Sporting pò vince in Venneri Santu ?  Di regula, u SCB ùn vince mai a so partita quand'ellu ghjoca in Venneri Santu. Risposta sta sera dopu à u macciu contr'à Guingamp in Furiani... 
+4. Sartè vs Bisinchi, quale hè u più forte ?  Ci hè u Catinacciu in Sartè, ma ci hè dinù l'Incatinatu in Bisinchi. In u derby di l'incagulati, quale serà u più forte ? 
+5. Cun 35% di "résidences secondaires", Sartè hè sempre "la plus corse des villes corses" ?  L'INSEE ci dice chì in 2008 c'eranu circa 35% di residenze segundarie in Sartè. Hè sempre menu chè Portovèk (51%) o Sarra di Farru (75%).
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

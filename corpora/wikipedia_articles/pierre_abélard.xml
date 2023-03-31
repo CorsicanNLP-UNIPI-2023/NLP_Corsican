@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pierre Abélard
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Pierre%20Ab%C3%A9lard"/>
+     <date>
+      2014-03-23T14:48:52Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pierre Abélard
+   </head>
+   <p>
+    Pierre Abélard (in corsu Petru o Pietru Abelardu; 1079-1142) fubbe un filòsofu è teologu francese.
+   </p>
+   <p>
+    Abélard
+   </p>
+  </body>
+ </text>
+</TEI>

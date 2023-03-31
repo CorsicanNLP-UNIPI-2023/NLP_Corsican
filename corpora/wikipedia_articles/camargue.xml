@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Camargue
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Camargue"/>
+     <date>
+      2019-07-01T20:47:43Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Camargue
+   </head>
+   <p>
+    A Camarga hè una regione storica di a Pruvenza, in Francia.
+   </p>
+   <p>
+    U so territoriu currisponde suprattuttu à u grande delta chì u fiume Rodanu forma lampendusi in u Mare Terraniu.
+   </p>
+   <p>
+    Giugrafia
+   </p>
+  </body>
+ </text>
+</TEI>

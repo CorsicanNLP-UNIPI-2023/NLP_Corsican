@@ -1,0 +1,100 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Avete vistu ste Facciacce ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Avete-vistu-ste-Facciacce_a1629.html"/>
+     <date>
+      Wed, 09 Oct 2013 14:52:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Avete vistu ste Facciacce ?
+   </head>
+   <div type="excerpt">
+    <p>
+     "Facciacce" hè u nome d'una piccula seria in corsu chì passa tutte e sere nant'à Via Stella. Avete vistu a vostra ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ogni sera à 8 ore è 5 nant'à Via Stella dunque, ci hè una facciaccia. In un minutu è in lingua corsa, hè presentata una faccia di Corsica. Una faccia chì ci campa, chì ci stà, o chì ci compra. Cusì sò discritti parechji aspetti di a sucetà corsa. 
+Per ùn mancà un episodiu, ci hè una pagina Facebook, un contu twitter, un situ internet è un contu YouTube induve si ponu vede l'episodii dop'à a so diffusione nant'à Via Stella. 
+Hè Stella Productions chì hà fabricatu stu prugramma. Bon d'accordu, A Piazzetta ci hè per qualcosa dinù. 
+A stampa ne parla (da vede in Corsica, nant'à U Blogu, è A Nazione.
+    </p>
+    <p>
+     A mamma corsa 
+U pinzutu chì compra
+    </p>
+    <p>
+     U nostalgicu di l'anni 80
+    </p>
+    <p>
+     U babbà cool tullerente
+    </p>
+    <p>
+     A tonfia
+    </p>
+    <p>
+     U maffiusellu
+    </p>
+    <p>
+     Quella chì campa à u bar
+    </p>
+    <p>
+     Quellu chì hè partutu è chì si crede megliu chè l'altri
+    </p>
+    <p>
+     Quella chì và in Furiani
+    </p>
+    <p>
+     L'arbitru in Furiani (starring Pierre Ménès)
+    </p>
+    <p>
+     U pumataghju
+    </p>
+    <p>
+     U Hubert Tempête
+    </p>
+    <p>
+     U veru Corsu
+    </p>
+    <p>
+     A fan di télé réalité
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

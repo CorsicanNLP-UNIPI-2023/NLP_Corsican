@@ -1,0 +1,111 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Alanu Turing
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Alanu%20Turing"/>
+     <date>
+      2017-11-03T12:29:01Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Alanu Turing
+   </head>
+   <p>
+    Alan Mathison Turing (Londra, 23 ghjugnu 1912 - Wilmslow, 7 ghjugnu 1954) hè statu un matematicu, logicu è crittugrafu britannicu, cunsidaratu unu di i patri di l'infurmatica è unu di i più grandi matematichi di u XX seculu.
+   </p>
+   <p>
+    U so travagliu ebbi vasta influenza annantu à u sviluppu di l'infurmatica, grazia à a so furmalisazioni di i cuncetti di alguritmu è calculu midianti a macchina di Turing, chì à so volta hà svoltu un rollu significativu in a criazioni di l'urdinatori mudernu. Par sti contribuzioni Turing hè di solitu cunsidaratu com'è u patri di a scenza infurmatica è di l'intellighjenza artificiali, da eddu tiurizati dighjà in l'anni trenta (quandu ùn era ancora statu criatu u prima veru urdinatori). Fù ancu unu di i più brillanti crittuanalisti chì uparavani in Inghilterra, duranti a siconda guerra mundiali, par dicifrà i missaghji scambiati da diplumatichi è militari di i Putenzi di l'Assi. Duranti a Siconda Guerra Mundiali Turing travagliò infatti à Bletchley Park, u principali centru di crittuanalisa di u Regnu Unitu, induva cuncipì una seria di tecnichi par viulà i cifri tedeschi, inclusu u metudu di a Bomba, una macchina elettrumiccanica capaci di scudificà codici criati midianti a macchina Enigma.
+   </p>
+   <p>
+    Omusissuali, murì di suicidiu à soli 41 anni, prubabilamenti in seguitu à i parsicuzioni subiti da parti di l'autorità britannichi à causa di a so omusissualità. In u 1952 era statu infatti dichjaratu culpevuli di "gravi indicenza" par essa statu suspresu in rapporti sissuali incù un antru omu è cundannatu à a castrazioni chimica. In so onori a Association for Computing Machinery (ACM) hà criatu in u 1966 u Turing Award, massima ricunniscenza in u campu di l'infurmatica, di i sistemi intellighjenti è di l'intellighjenza artificiali. Solu un paghju d'anni fà l'Inghilterra l'hà didicatu una statua. Quidda, si trova in un parcu di Manchester, u rapprisenta mentri hà una mela in mani. Anni dopu, in a Silicon Valley califurniana, surghjarà una famosa cumpagnia custruttrici di urdinatori vidata da Steve Jobs, "Apple", u simbulu di a quali sarà una mela mursicata è una di i tiurii hè ch'eddu era probbiu in onori di Alan Turing.
+   </p>
+   <p>
+    ==Infanzia è ghjuvantù==
+   </p>
+   <p>
+    Turing fù cuncipitu in India, duranti unu di i friquenti viaghji di u so babbu, Julius Mathison Turing, membru di l'Indian Civil Service. Sii Julius sii a so moglia, Ethel Sara Stoney, mamma di u futuru Alan Turing, dicisini puri ch'è u chjucu duvissi nascia annantu à a terra inglesa. Vultoni dunqua à Londra induva u 23 ghjugnu 1912 nascì Alan Mathison Turing. Dighjà finu da a più tennara ità Turing deti segnu di a ginialità chì in l' anni futuri u rindarà famosu in tuttu u mondu, accademicu o nò. Eppuri à seguitu di a so enorma passioni par i materii scentifichi divintò mal' vistu da i prufissori di u St. Michael, a so prima scola, i quali aviani sempri postu più enfasi à i studii classichi. Duranti i primi anni di scola ebbi cusì grossi difficultà, uttinendu u diploma à stantu. Pocu passiunatu pà u latinu è pà a riligioni, prifiria litturi riguardanti a tiuria di a rilatività, i calculi astrunomichi, a chimica o u ghjocu di i scacchi. In u 1931 fù ammissu à u King's College di l'Università di Cambridge induva fù addevu di Ludwig Wittgenstein è induva apprufunditi i so studii annantu à a miccanica quantistica, a logica è a tiuria di a prubabilità (dimustrò siparatamenti u tiurema di u limitu cintrali, dighjà dimustratu in u 1922 da u matematicu Lindeberg). In u 1934 si laureò incù u massimu di i voti è in u 1936 vinsi u premiu Smith (ricunniscimentu chì era assignatu à i dui migliori studianti ricircadori in Fisica è Matematica di l'Università di Cambridge). In u stessu annu si tramutò à a Princeton University induva studiò par dui anni, uttinendu infini un Ph.D. In quist' anni pubblicò l'articulu "On computable Number, with an application to the Entscheidungsproblem" induva discrivia, par a prima volta, quidda chì sarà dopu difinita com'è a macchina di Turing. In u 1940, à l'ità di soli 28 anni, hè dighjà à capu di u gruppu di ricircadori impignati in a dicrittazioni di i macchini usati da a marina tedesca, com'è Enigma.
+   </p>
+   <p>
+    ==U travagliu com'è crittugrafu==
+   </p>
+   <p>
+    Duranti a siconda guerra mundiali, Turing missi i so capacità matematichi à u sirviziu di u Department of Communications inglesu par dicifrà i codici usati in i cumunicazioni tedeschi, criptati par via di u cusiddittu sistemu Enigma (cuncipitu da Arthur Scherbius). Incù l'intrata in guerra di l'Inghilterra Turing fù "arrullatu" in u gruppu di crittugrafi chì si erani stabiliti à Bletchley Park è incù i so cumpagni travagliò stabilamenti, par tutta a durata di a guerra, à a dicrittazioni, sviluppendu i ricerchi ghjà svolti da l'Ufficiu Cifra pulaccu incù a macchina Bomba, prugittata in Polonia da Marian Rejewski in u 1932 è ultimata in u 1938. Basendu si annantu à tali spirienzi Turing rializò una nova virsioni, moltu più efficaci, di a bomba di Rejewski. Fù annantu à u cuncettu di macchina di Turing ch'è in u 1942 u matematicu di Bletchley Park, Max Newman cuncipì una macchina chjamata Colossus (luntana pricursori di l'urdinatori) chì dicifrava in modu viloci è efficienti i codici tedeschi criati incù a cifratrici Lorenz SZ40/42, parfiziunamentu di a cifratrici Enigma. À u tarmini di a guerra Turing fù invitatu à u National Physical Laboratory (NPL, Laboratoriu Naziunali di Fisica) à Londra par disignà u mudeddu di un urdinatori. U so rapportu chì prupunia l'Automatic Computing Engine (ACE, Motore par u Calculu Automatico) fù prisintatu di marzu 1946, ma ebbi schersu successu par via di l'alti costi privisti. Bisogna inoltri sottulinià ch'è l'attività di Alan Turing in u gruppu di Bletchley Park fù cuparta da u sicretu più assulutu. Finita a guerra u guvernu inglesu imposi à tutti quiddi chì aviani travagliatu à a dicrittazioni, rializendu macchini è sistemi par viulà i codici crittugrafichi tedeschi, giappunesi è taliani, a difesa di parlà o, sempri peghju, di scriva di qualsiasi argumentu trattatu in quiddu periodu. Tali "silenziu" dunqua impidì ch'è Turing, com'è altri so culleghi ancu menu famosi, ricivissi i ricunniscimenti in campu scentificu ch'è in altru duminiu li sariani stati ampiamenti è publicamenti ricunnisciuti. Dati è infurmazioni annantu à sti attività cumincetini à essa publicati, dopu à autorisazioni di i sirvizii sicreti inglesi, solu in u 1974, quandu Turing è molti altri so culleghi in a dicrittazioni erani dighjà defunti da tempu.
+   </p>
+   <p>
+    ==Una ricustruzzioni di a macchina Bomba==
+   </p>
+   <p>
+    Par l'annu accademicu 1947/48 turrò à Cambridge è spustò i so intaressi versu a neurulugia è a fisiulugia. Fù in stu periodu ch'eddu principiò à splurà a rilazioni trà l'urdinatori è a natura. Ebbi ancu intaressi fora di u duminiu accademicu: divintò membru di u Walton Athletic Club è vinsi parechji cumpetizioni di corsa nantu à i trè è deci migli. Righjunsi inoltri ottimi liveddi in a Maratona, currendu incù un record parsunali di 2 ori 46 minuti è 11 sicondi (u vincidori di a XIV Olimpiadi in u 1948 vinsi incù un tempu infiriori di soli 11 minuti). In u 1950 scrissi un articulu da u titulu Computing machinery and intelligence annantu à a rivista Mind in u quali discrivia quiddu chì divintarà notu com'è u test di Turing. Infatti era di l'idea ch'eddu si pudia righjunghja un'intellighjenza daveru artificiali siguendu i schemi di u ciarbeddu umanu: annantu à st' articulu si basa bona parti di i studii successivi annantu à l'intellighjenza artificiali. L'annu siguenti fù elettu Membru di a Royal Society di Londra. Si tramutò à l'Università di Manchester, induva travagliò à a rialisazioni di u Manchester Automatica Digital Machine (MADAM). Cunvintu ch'è prima di l'annu 2000 sariani stati criati macchini in gradu di riplicà a menti umana, travagliò ardintamenti criendu alguritmi è prugrammi par u MADAM, participò à a ridazzioni di u manuali uparativu è ni divintò unu di i principali binifiziarii. In u 1952 sviluppò un approcciu matematicu à l'embriulugia. U 31 marzu di u stessu annu fù arristatu par omusissualità è cunduttu in ghjudiziu, induva à so difesa dissi simpliciamenti ch'è "... ùn risultava nienti di mali in i so azzioni". Sicondu parechji fonti Turing avaristi dinunciatu par furtu un amicu ospiti in casa soia è ammissu u so probbiu uriintamentu sissuali in risposta à i dumandi prissanti di a pulizza. In quiddu periodu si dibattia in u parlamentu britannicu l'abrugazioni di u dilittu di omusissualità è quissa prubabilamenti avaristi induttu Turing à un cumpurtamentu imprudenti. A pena inflitta fù sivirissima: fù sottupostu à a castrazioni chimica, chì u resi imputenti è l'incausò u sviluppu di u senu; parechji di i mutivi chì prubabilamenti u cundussini, da quì à pocu, à u suicidiu. Sicondu altri Turing saristi statu induttu à u suicidiu da i stessi sirvizii di intelligence inglesi. In u 1954 Alan Turing murì inghjirendu una mela avvilanata incù u cianuru di putassiu, in tonu cù u so probbiu carattaru eccintricu è pigliendu spuntu da a fola di Biancanevi chì da eddu era apprizziata finu da criaturu. A mamma sustensi ch'è u figliolu, incù i dita brutti par via di calchì sperimentu chimicu, avissi inghjiritu par arrori a dosa fatali di vilenu; ma u virdittu ufficiali parlò senza incirtezzi di suicidiu: "Causa di u decessu: cianuru di putassiu autuamministratu in un mumentu di disequilibriu mintali".
+   </p>
+   <p>
+    ==Scusi tardivi==
+   </p>
+   <p>
+    Dopu tanti anni da u suicidiu di Turing, ampiamenti spiighevuli incù u trattamentu parsicutoriu ad eddu risirvatu, sulamenti u 10 sittembri 2009 ci hè stata una dichjarazioni di scusi ufficiali da parti di u guvernu di u Regnu Unitu, furmulata da u primu ministru Gordon Brown, è solu dopu una pitizioni è una campagna Internet. Brown hà ricunnisciutu ch'è Alan Turing fù ughjettu di un trattamentu umufobicu: "Par quiddi frà no chì sò nati dopu u 1945, in un'Auropa unita, dimucratica è in paci, hè difficiuli imaginà ch'è u nosciu cuntinenti fù un tempu tiatru di u mumentu più bughju di l'umanità. Hè difficiuli creda ch'è in tempi sempri à a purtata di a mimoria di chi hè sempri vivu oghji, a ghjenti pudissi essa cusì cunsumata da l'odiu - da l'antisemitisimu, da l'omufubia, da a xenufobia è da altri prighjudizii assassini - da fà sì ch'è i camari à gasu è i crimatorii divintessini parti di u paisaghju auropeu tantu quantu i gallarii d'arti è l'università è i sali da cuncertu chì aviani distintu a civiltà aurupea par seculi. [...] Cusì, par contu di u guvernu britannicu, è di tutti quiddi chì viviani libari grazia à u travagliu di Alan, sò urgugliosu di dì: ci dispiaci, avaristi miritatu di megliu. " (Gordon Brown, in risposta à a pitizioni)
+   </p>
+   <p>
+    In u 2012, cintinariu di a nascita di Turing, a Royal Mail hà didicatu un timbru à a so mimoria; hè, parò, solu lighjendu ni a scrizzioni ("Alan Turing 1912-1954 Mathematician and WWII code breaker") chì si pò ricuddà à l'idantità di u cummimuratu, datu ch'è u timbru ùn ni rapprisenta micca u voltu bensì mostra a macchina Bomba britannica di a quali Turing sviluppò u prugettu. Di ghjinnaghju 2013, impurtanti espunenti di u mondu scentificu internaziunali, trà u quali u premiu Nobel par a medicina Paul Nurse, u matematicu è cusmolugu Stephen Hawking, u matematicu Timothy Gowers, u prisidenti di u National Museum of Science, Douglas Gurr, l'astrunomu Martin Rees, mandoni una lettara aparta à u Prima Ministru britannicu David Cameron, intitulata Pardon for Alan Turing, par sullicità a grazia postuma par Turing, appeddu pubblicatu da u Daily Telegraph.
+   </p>
+   <p>
+    ==Alan Turing in a litteratura, in u tiatru, in u cinemà è in a musica==
+   </p>
+   <p>
+    Breaking the Code (1986), opara tiatrali di Hugh Whitemore
+   </p>
+   <p>
+    Breaking the Code (1996), film TV britannicu di Herbert Wise annantu à a vita di Alan Turing
+   </p>
+   <p>
+    Cryptonomicon (1999), rumanzu di Neal Stephenson
+   </p>
+   <p>
+    Enigma (1995), rumanzu di Robert Harris
+   </p>
+   <p>
+    Enigma (2001), film di Michael Apted inspiratu à a figura di Alan Turing è trattu da l'umonimu rumanzu di Robert Harris
+   </p>
+   <p>
+    Hacker, scentifichi è piunieri, Storia suciali di u ciberspaziu è di a cumunicazioni elettronica (2007).
+   </p>
+   <p>
+    ==Da veda==
+   </p>
+   <p>
+    Matematica
+   </p>
+   <p>
+    Silicon Valley
+   </p>
+   <p>
+    macchina di Turing
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia taliana.
+   </p>
+  </body>
+ </text>
+</TEI>

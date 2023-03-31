@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Nadal s'hè messu à l'Orezza
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Nadal-s-he-messu-a-l-Orezza_a1738.html"/>
+     <date>
+      Sat, 19 Apr 2014 18:21:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Nadal s'hè messu à l'Orezza
+   </head>
+   <div type="content">
+    <p>
+     Rafael Nadal, nùmeru unu mundiale di u tennis chì s'hè messu à l'Orezza hè un ritrattu ch'ellu si pò vede in L'Equipe oghje. 
+Bon a spiecazione hè chì a sucetà hè partenaria di u turneu di Monte Carlu, u "Rolex Masters Series". 
+Nant'à a pagina Wikipedia di a marca s'ampara chì "la version eau plate, la dernière création de Marie-Laurence Mora et de sa fille qui continuent l’œuvre de François Xavier avec passion et qui a été lancée en exclusivité à l’occasion des Rolex Masters Series de Monte Carlo". 
+Un'Orezza senza bullicine perchè micca ? Ma ùn sapemu micca ciò chì Nadal hà messu in a buttiglia cù un stranu liquidu aranciu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

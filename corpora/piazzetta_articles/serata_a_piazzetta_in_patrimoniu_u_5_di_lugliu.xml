@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Serata A Piazzetta in Patrimoniu u 5 di lugliu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Serata-A-Piazzetta-in-Patrimoniu-u-5-di-lugliu_a1897.html"/>
+     <date>
+      Tue, 24 Jun 2014 12:23:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Serata A Piazzetta in Patrimoniu u 5 di lugliu
+   </head>
+   <div type="content">
+    <p>
+     L'associu chì face u giurnale gratisi in lingua corsa A Piazzetta organizeghja una serata di sustegnu u sabbatu 5 di lugliu 2014 à partesi da 7 ore di sera in Patrimoniu, à u teatru di virdura. Ci permetterà di pagà l'impressione di i prussimi numeri. 
+Paghjelle, scena aperta, ambianza nustrale, è di siguru « ci serà da beie è da manghjà ». 
+U situ internet A Piazzetta esiste dapoi sette anni. U giurnale ellu esce ogni trimestru, hè stampatu à 15 000 esemplarii, senza l'aiutu di suvvenzioni. Hè u fruttu di u travagliu d'una squadra di benevulenti. 
+A pagina di l'evenimentu nant'à Facebook.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

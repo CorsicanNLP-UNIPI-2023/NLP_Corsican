@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Nowy Dwór Królewski
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Nowy%20Dw%C3%B3r%20Kr%C3%B3lewski"/>
+     <date>
+      2015-05-08T20:10:55Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Nowy Dwór Królewski
+   </head>
+   <p>
+    Nowy Dwór Królewski hè una cumuna di a Polonia orientale.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Helsinki
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Helsinki"/>
+     <date>
+      2018-06-09T11:28:09Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Helsinki
+   </head>
+   <p>
+    Helsinki (Helsingfors im lingua svedese) hè a capitale di a Finlandia.
+   </p>
+   <p>
+    Tene 642.045 abitanti (2017).
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Situ istituzionale
+   </p>
+   <p>
+    Finlandia
+   </p>
+  </body>
+ </text>
+</TEI>

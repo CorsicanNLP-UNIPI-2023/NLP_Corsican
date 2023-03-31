@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Astérix in Corsica à u sinemà ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Asterix-in-Corsica-a-u-sinema_a2505.html"/>
+     <date>
+      Thu, 12 Jan 2017 18:50:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Astérix in Corsica à u sinemà ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Semu lecchi. Fabien Onteniente (realizadore di Camping, 3 zéros, Jet Set...) hà dichjaratu ch'ellu vuleria adattà "Astérix en Corse" à u sinemà.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Innò ùn hè micca una magagna, si parla da veru di l'adattazione d'Asterix in Corsica à u sinema, ci dicenu Première è dinù Allociné. 
+È sì l'affare ùn hè ancu fatta, ùn simu micca francamente impazienti di vede u risultatu. L'album di René Goscinny (chì avia fattu u scenariu) è Albert Uderzo (e fiure) era eccezziunale. Ma quand'ellu si sà quant'ella hè difficiule l'adattazione da u libru à u screnu... 
+Ùn pudemu stà senza dumandacci quale seranu l'attori. U nostru amicu Christian Clavier ferà u so grande ritornu in Corsica ? È quale per ghjucà u persunagiu di Ocatarinetabellatchitchix  ? 
+Vincent Cassel ? Gad Elmaleh ? Kev Adams ? Jo Bonavita ? 
+Principiate puru à pensà à u peghju, hà da vene prestu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

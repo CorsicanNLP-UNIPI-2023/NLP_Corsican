@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Fauglia
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Fauglia"/>
+     <date>
+      2015-05-05T01:55:17Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Fauglia
+   </head>
+   <p>
+    Fauglia hè una cumuna taliana di a pruvincia di Pisa.
+   </p>
+   <p>
+    ==Paisoli==
+   </p>
+   <p>
+    Acciaiolo, Luciana, I Poggetti, Poggio Pallone, Santo Regolo, Vallicelle, Valtriano.
+   </p>
+   <p>
+    ==Cumune in cunfina==
+   </p>
+   <p>
+    Collesalvetti (LI), Crespina, Lorenzana, Orciano Pisano.
+   </p>
+   <p>
+    Cumuna di a pruvincia di Pisa
+   </p>
+  </body>
+ </text>
+</TEI>

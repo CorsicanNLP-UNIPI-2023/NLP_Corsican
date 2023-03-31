@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Prunellacciu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Prunellacciu"/>
+     <date>
+      2015-07-07T11:15:08Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Prunellacciu
+   </head>
+   <p>
+    prunellacciu, abitante di Casàccuni (pieve)
+   </p>
+   <p>
+    prunellacciu, abitante di Fiumorbu (pieve)
+   </p>
+  </body>
+ </text>
+</TEI>

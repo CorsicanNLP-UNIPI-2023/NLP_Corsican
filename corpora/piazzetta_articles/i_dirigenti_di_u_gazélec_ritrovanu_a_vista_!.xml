@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I dirigenti di u Gazélec ritrovanu a vista !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-dirigenti-di-u-Gazelec-ritrovanu-a-vista-_a1500.html"/>
+     <date>
+      Fri, 22 Feb 2013 15:03:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I dirigenti di u Gazélec ritrovanu a vista !
+   </head>
+   <div type="excerpt">
+    <p>
+     A storia d'amore trà Cavalli è u GFCA hè compia, ma micca quella cù i spechjetti.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Iè, stà volta ùn hè micca una burla, Jean-Michel Cavalli ùn hè più l'intrenadore di u G.F.C.A. ! 
+A l'origine di stà decisione, Affelou sponsorizeghja a squadra aiaccina è i dirigenti portanu i spichjetti !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

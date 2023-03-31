@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Dopu à u .com u .corsica ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Dopu-a-u-com-u-corsica_a1369.html"/>
+     <date>
+      Thu, 14 Jun 2012 00:49:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Dopu à u .com u .corsica ?
+   </head>
+   <div type="excerpt">
+    <p>
+     L'Icann, l'organisimu chì direge internet hà publicatu a lista di e dumande di novi nomi di duminii. Frà quesse ci hè u ".corsica" dumandatu da a CTC.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ci sò state 1930 dumande di "nomi di duminii" nove. Sin'avà eranu abbastanza pochi. 
+Cunniscite u "puntu com", u "puntu net", u "puntu org"... ci serà forse da quì à pocu u "puntu corsica". 
+Hè un organisimu americanu, l'Icann, chì s'occupa di quessa. Nant'à u so situ si pò vede e dumande di nomi novi. Costa piuttostu caru : 185 000 dòllari ! 
+Micca tuttu ognunu puderà cumprassi u nome di u so paese. Imaginate un situ chì finisce in .venacu, in .linguizzetta o in .casalabriva... 
+E dumande venenenu sopr'à tuttu da e grosse sucetà. L'Oréal hà fattu dumande pè 14 nomi (.loreal, .garnier ecc...). Ma ci hè dinù u .pizza, u .bzh pè a Brittania, u .paris, .alsace... 
+L'interessu hè di dà una visibilità à un indirizzu internet. Bon, hè sopr'à tuttu un affare di marketing è di publicità. Avete da vede, anu da fiurisce l'indirizzi cum'è camping.corsica, hotels.corsica, charcuterie.corsica, lonzu.corsica ecc... 
+Risposta in u 2013 pè sapè sì a dumanda serà accettata da l'Icann. È s'è no puderemu vede l'indirizzi www.residence-secondaire.corsica, www.achetez-facile.corsica è www.speculation-immobiliere.corsica.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

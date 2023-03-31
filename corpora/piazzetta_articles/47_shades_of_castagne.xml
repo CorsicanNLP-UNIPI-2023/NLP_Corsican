@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     47 shades of castagne
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/47-shades-of-castagne_a2035.html"/>
+     <date>
+      Sun, 23 Nov 2014 00:08:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    47 shades of castagne
+   </head>
+   <div type="excerpt">
+    <p>
+     A sapete ch'ellu si conta quaranta sette varietà di castagne in Corsica ? Bon và bè, avà ci hè u cynips chì face un sterminiu è castagne ùn ci n'hè guasi micca. Aspettendu ch'elle voltinu, eccu i nomi di ste varietà.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Quaranta sette sfumature di castagne. Grosse, grande, chjuche, mezane, più o menu dolce, di culore più o menu rossu, giallu, o scuru. 
+A so cultura s'hè sviluppata à u Medievu, ma esistia digià in tempi di i Rumani. I Genuvesi l'anu incuragita, i Francesi circatu di pruibiscela (hè u famosu arrestu di u Rè di u 22 ghjungnu 1771). 
+Accusati d'incuragisce a curciura, l'oziu, u disprezzu di u travagliu (chì u castagnu dumanda menu travagliu ch'è d'altre culture...) è dunque d'incuragisce a ribellione, l'amministrazione francese difende a piantazione di castagni. Invece incuragisce è aiuta i pruprietarii chì volenu ammazzà i so arburi. 
+Iè, ùn u fidighjate micca cusì u castagnu, hè un arburu suvversivu. 
+Tuttu què per dì ch'ellu si conta quaranta sette varietà differente di castagne nant'à a nostra isula. 
+È voi, e cunniscite ? Forse, avete d'altri nomi à amparacci ? 
+Arriata  Bastelicaccia  Caccanella  Campanari  Campanese  Campanu  Capibianca  Cara  Carpinaghja  Cascianella  Fasgiulaghja  Fasgiulella  Furcutone  Frisgiata  Ghjentile  Ghjentilone  Giallu  Grataghjola  Gratulaccia  Grossa Canali  Guagnese  Insetu o Insetu pinzutu  Insitina  Lamosa  Leccia  Manghjereccia  Marunaghja  Melu  Mileddi  Morianinca  Munaghjone  Naturale  Nucella  Orezzinca  Palatina di Monte  Palatina Prunaccia  Petra Ferrigna  Pianella  Pilosa  Pitrina  Poarupà  Radacampana  Rossa  Rossa Pilosa  Rossuccia  Rossula  Russella  Santinu  Stoppia  Teghja o Tighjulana  Terra Magnese  Tricciuta  Tunata  Uva Sicca  Vicu  Villana  Zitimi 
+Lista publicata in u numeru 1 di a rivista Isule, 1985.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

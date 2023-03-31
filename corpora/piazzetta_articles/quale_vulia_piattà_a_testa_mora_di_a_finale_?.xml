@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quale vulia piattà a testa mora di a finale ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quale-vulia-piatta-a-testa-mora-di-a-finale_a1196.html"/>
+     <date>
+      Sun, 23 Oct 2011 18:58:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quale vulia piattà a testa mora di a finale ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Forse seremu paranòiachi (ci hè di chè...), ma s'hè passatu qualcosa di stranu durante a finale di a cuppa di u mondu di rugby.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Quelli chì anu fidighjatu a finale Francia - All Blacks dumenica matina anu tutti rimarcatu una bandera corsa tamanta appiccicata in l'Eden Park. Nant'à a testa di moru dui striscioni di a squadra neozelandesa. A filetta bianca nant'à u fondu neru è scrittu "All Blacks" ùn lascianu dùbbitu : i Corsi presenti in Auckland eranu quì pè susteni i "tutti neri" è micca i "bleu blanc rouge". 
+Nant'à TF1, ùn si vidia chè quessa. È forse averà dirangiatu à qualchissia ? 
+In u segondu tempu, più traccia di a testa mora. Trè omi incustumati s'eranu messi davanti è piattavanu a bandera. Stranu, postu chì era solu custì ch'elli c'eranu officiali, unicamente davant'à a nostra bandera. 
+Chì s'hè passatu ? Sapemu chì u ministru Douillet era presente quallà pè a finale. U sustegnu corsu pè i Blacks averà dirangiatu à qualchissia à a FFR ? À u ministru ? 
+Andate à sapè ! È forse ùn saperemu mai ciò chì s'hè passatu. Ma bon, vista cum'elli si passanu l'affari in tornu à a Corsica, ci hè di chè esse appena paranòiachi, nò ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

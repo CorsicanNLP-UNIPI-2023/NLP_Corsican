@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Wiki
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Wiki"/>
+     <date>
+      2015-07-09T09:01:49Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Wiki
+   </head>
+   <p>
+    Un wiki hè un sistema di gestione di contenutu di situ web liberamente modifichèvule da tutti i visitanti autorizati.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    wikipedia
+   </p>
+   <p>
+    enciclupedia
+   </p>
+   <p>
+    Informatica
+   </p>
+  </body>
+ </text>
+</TEI>

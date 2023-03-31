@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Piazzetta devient La Placette
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-Piazzetta-devient-La-Placette_a1310.html"/>
+     <date>
+      Sun, 01 Apr 2012 13:33:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       GIURNALE
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A Piazzetta devient La Placette
+   </head>
+   <div type="excerpt">
+    <p>
+     A Piazzetta scambia è si chjamerà La Placette. Ùn ci hè più abbastanza lettori in lingua corsa per cuntinuvà.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'UMP è Marine Le Pen cantanu u Diu, Bayrou và à strappà i voti in a casa di Pasquale Paoli, Corsica Libera ripiglia L'Ajaccienne... 
+Postu ch'ellu hè cusì, A Piazzetta diventa La Placette. À partesi d'oghje, l'articuli seranu scritti in francese. 
+Di tutte e manere, ùn ci hè più abbastanza ghjente chì capisce u corsu per cuntinuvà.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

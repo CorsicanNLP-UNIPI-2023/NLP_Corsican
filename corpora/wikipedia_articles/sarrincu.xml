@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sarrincu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Sarrincu"/>
+     <date>
+      2015-07-07T11:18:23Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sarrincu
+   </head>
+   <p>
+    sarrincu, abitante di Scupamena (pieve)
+   </p>
+   <p>
+    sarrincu, abitante di Fiumorbu (pieve)
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Selfie Federico Clapis
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Selfie-Federico-Clapis_a2098.html"/>
+     <date>
+      Wed, 24 Dec 2014 15:30:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Selfie Federico Clapis
+   </head>
+   <div type="content">
+    <p>
+     https://www.facebook.com/fededericoclapisofficial 
+http://www.daringtodo.com/lang/it/2014/11/14/federico-clapis-behind-selfie-video/
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

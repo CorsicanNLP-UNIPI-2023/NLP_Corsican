@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Corsica, "championne de France des grandes surfaces"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Corsica-championne-de-France-des-grandes-surfaces_a2674.html"/>
+     <date>
+      Mon, 13 Nov 2017 19:31:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Corsica, "championne de France des grandes surfaces"
+   </head>
+   <div type="excerpt">
+    <p>
+     TRIBUNA LIBERA - Atriumgate, a seguita. Publichemu quì (per una volta in francese, ci scuserete) un testu chì a geografa urbanista Antonia Luciani hà pustatu nant'à a so pagina Facebook. Hè stata dinù cunsigliera territuriale (Femu a Corsica).
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L’ultime bataille 
+La Corse et les Corses ont traversé les siècles en commerçant avec Phéniciens, en se mélangeant aux Etrusques, en se romanisant presque totalement. La Corse et les Corses sont le fruit des migrations des peuples barbares, des raids des Sarrasins, des campagnes de Gênes et de la piraterie barbaresque, de la conquête française, des deux guerres mondiales, de nos luttes armées fratricides, mais l’on se demande aujourd’hui si la dernière et l’ultime bataille, ne sera pas celle qui, sans armes ni violence, aura raison de nos fragiles 300 000 âmes… 
+Le dernier monument de cette conquête des désirs consuméristes, des loisirs commerciaux et des emplois précarisant n’est autre que l’ATRIUM. Nom inspiré de l’antiquité, cette galerie aux multiples usages va offrir à la population insulaire, un tout autre visage. 
+Cette transformation a commencé il y a déjà une vingtaine d’années, durant lesquelles la Corse a connu une augmentation considérable du nombre de grandes surfaces et autres centres commerciaux.  Toujours plus lointaines, toujours plus démesurées, ces surfaces commerciales participent aux difficultés des petits commerces de proximité et à la désertification des centres villes. Elles privilégient la voiture, encouragent l’étalement urbain, amènent à l’asphyxie de la circulation, dégradent le paysage et l’environnement, et enfin et surtout déstructurent progressivement nos modes de vie.… 
+Nul besoin non plus de s’attarder sur les chiffres qui pourtant sont éloquents. En 10 ans, la superficie de surfaces commerciales autorisées par les Commissions Départementales d’Aménagement Commercial de la Haute-Corse et de la Corse-du-Sud, sont de l’ordre de 271 451 m2, ce qui équivaut, à la construction de 39 stades de foot. Et ceci sans compter toutes les autres autorisations de surfaces commerciales, de moins de 1000 m2 dont le passage en Commission n’est pas obligatoire. 
+Ce qui fait de la Corse, la mieux dotée en m2 de surfaces commerciales par habitant. Alors que Dijon et le Havre avec respectivement 448 m2/1000 hab et 561 m2/1000 hab avaient les taux les plus importants de France, la Corse est aujourd’hui avec 904 m2/1000 hab, la championne de France. 
+Mais nous n’aurions pu arriver à être les champions sans le concours, entre autres, des Commissions Départementales d’Aménagement Commercial qui ont autorisé environ 90% des projets déposés ses 10 dernières années (contre 75% sur le continent). Légitimement on peut se demander si les critères d’évaluation des projets en matière d’aménagement du territoire, de développement durable, ou de protection des consommateurs sont suffisants pour canaliser et rationaliser les demandes. 
+De plus, ces surfaces commerciales s’étendent majoritairement sur des terres planes, souvent avec un fort potentiel agricole et pour la plupart sur le littoral, où, se concentrent pression foncière et environnementale, enjeux paysagers et urbains. 
+La question qu’on peut se poser est de savoir si ces centres commerciaux toujours plus pharaoniques répondent à un vrai besoin de la population…A en croire les porteurs de projet, ils apportent le développement, le renouveau, la modernité. L’ambition n’est donc plus uniquement commerciale, elle est civilisationnelle. Et quand la ville se construit en référence à une grande surface, on peut se demander quel message est et sera perçu par les futures générations.  Même si on peut comprendre les logiques entrepreneuriales des opérateurs du secteur du transport et de la distribution qui sont celles d’augmenter la quantité de marchandises transportées pour alimenter des surfaces de vente toujours plus vastes, attractives et polyfonctionnelles afin d’espérer y retenir le plus longtemps possible le chaland, on peut s’interroger sur l’impact d’un tel modèle sur la société corse. 
+Dans l’intérêt du peuple corse, pouvons-nous continuer à offrir des horizons de grandes surfaces et d’espaces de consommation et de loisirs toujours plus gigantesques et périphériques ? 
+En regardant la définition d’Atrium dans le dictionnaire, je suis interpellée par le fait qu’en anatomie, il s’agit aussi d’un « étage inférieur de la caisse du tympan ». 
+Et alors l’envie me vient de susurrer dans l’Atrium de tous ceux qui peuvent et pourront encore changer les choses pour notre île, aux décideurs, aux porteurs de projet, que le débat doit être mené pour réfléchir collectivement à un autre modèle de développement plus durable et plus équilibré et que ce n’est qu’à cette condition que nous gagnerons ensemble cette ultime bataille.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

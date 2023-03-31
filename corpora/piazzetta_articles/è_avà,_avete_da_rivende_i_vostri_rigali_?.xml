@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È avà, avete da rivende i vostri rigali ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-ava-avete-da-rivende-i-vostri-rigali_a983.html"/>
+     <date>
+      Sat, 25 Dec 2010 16:50:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È avà, avete da rivende i vostri rigali ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Rigali goffi ? In doppiu ? Site fusciatu ? O tratechju di rigali ? Hè a tindenza dapoi qualchì annu : a rivendita di i rigali di Natale nant'à internet.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Imaginemu : v'anu rigalatu Tempi Fà, ma l'aviate digià ? Una vesta Millet ma hè troppu chjuca ? Un slip Pull-In troppu goffu ? 
+Site tratechju, avete tuttu in casa : Full HD, Porsche, Playstation, X Box, Wii, Blue Ray, iPhone 4, iPad è cinque paghje di scarpi Prada ? 
+Peghju : Babbu Natale ùn hà truvatu nunda di megliu da fà ch'è di purtavvi u best of di Justin Bieber o l'ultimu libru di Jean-Pierre Raffarin. 
+Chì fà ? Pudete sceglie di mettelu in un scornu, è da quì à dui mesi finiscerà in granaghju cù i topi. O allora pudete vendelu nant'à u web, nant'à eBay o Priceminister. 
+Hè a grande tindenza dapoi qualchì tempu. Sti siti di vendita d'ogetti d'occasione cunnoscenu 30% d'attività in più i lindumani di Natale ! Hè diventatu un veru business. 
+Certi ne sò ancu diventati spezialisti. Sàppiate ch'elli ci sò i rancichi chì aspettanu Natale unicamente pè turnà à vende i so rigali per fassi dui soldi... Fate pianu, ci ne forse in giru à voi. 
+Hè a crisa, hè mortu u "pouvoir d'achat'... tutte e scuse sò bone pè i ranciconi di Natale è ùn si vergognanu mancu più. 
+È voi allora, chì ne pensate ? Manera di sbarazzassi di veri scumpienti ? Scusa di rancichi ? Di ghjente tratechja di cunsumazione ? O necessità pè i veri fusciati ? 
+Dite u vostru parè !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

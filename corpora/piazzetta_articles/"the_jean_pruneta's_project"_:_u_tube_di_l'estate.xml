@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "The Jean Pruneta's Project" : u tube di l'estate
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/The-Jean-Pruneta-s-Project-u-tube-di-l-estate_a1012.html"/>
+     <date>
+      Wed, 19 Jan 2011 13:43:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "The Jean Pruneta's Project" : u tube di l'estate
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè a video corsa chì face u buzz in stu mumentu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Fà una canzona cù i cummenti di Jean Pruneta per un macciu di Bastia in cuppa di a liga ? Hè pussibule... 
+L'occasione di ramintacci di stu maccione di u Sporting, quandu Bastia era in prima divisiò, cù i cummenti scatinati d'un Jean Pruneta in grande forma. 
+Felicitazioni à quelli di THE JEAN PRUNETA'S PROJECT. 
+È sopr'à tuttu, "ùn meritemu micca què" !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

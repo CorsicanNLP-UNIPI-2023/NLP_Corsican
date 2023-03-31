@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hans Zimmer
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Hans%20Zimmer"/>
+     <date>
+      2015-07-07T22:58:22Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hans Zimmer
+   </head>
+   <p>
+    Hans Zimmer (* 1957 in Francuforte nant'à u Menu) hè un cumpositore tedescu-americanu.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    The Thin Red Line
+   </p>
+   <p>
+    Zimmer, Hans
+   </p>
+   <p>
+    Zimmer, Hans
+   </p>
+   <p>
+    Zimmer, Hans
+   </p>
+  </body>
+ </text>
+</TEI>

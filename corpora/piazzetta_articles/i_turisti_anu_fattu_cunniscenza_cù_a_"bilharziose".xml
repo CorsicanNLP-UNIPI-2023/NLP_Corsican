@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I turisti anu fattu cunniscenza cù a "bilharziose"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-turisti-anu-fattu-cunniscenza-cu-a-bilharziose_a1804.html"/>
+     <date>
+      Thu, 15 May 2014 00:38:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I turisti anu fattu cunniscenza cù a "bilharziose"
+   </head>
+   <div type="content">
+    <p>
+     Cumu ? Ùn sapete micca ciò ch'ella hè a "bilharziose" ? A bigliarziosa hè una malatia chì si pò chjappà in i fiumi. A causa ne hè un vermu. Si pò chjappà in e regioni trupicali, in Africa, America latina, Asia... è avà in Corsica. 
+I turisti chì si sò bagnati in u Cavu anu fattu a cunniscenza cù l'animalottu. 
+A ci dicenu Corse-Matin, Via Stella è CNI. 
+Di chè rilancià u hashtag #nevenezpas nant'à Twitter...
+    </p>
+    <p>
+     Ùn era micca u mumentu di mette i pedi in u Cavu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

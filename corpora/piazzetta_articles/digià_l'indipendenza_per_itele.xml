@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Digià l'indipendenza per iTELE
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Digia-l-indipendenza-per-iTELE_a2314.html"/>
+     <date>
+      Fri, 18 Dec 2015 11:37:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Digià l'indipendenza per iTELE
+   </head>
+   <div type="excerpt">
+    <p>
+     Appena elettu, è digià l'indipendenza ? Per iTELE, Jean-Guy Talamoni hè u "presidente di l'assemblea naziunale corsa". Davant'à a so televisiò, Manuel Valls hà siguramente appreziatu.
+    </p>
+   </div>
+   <div type="content">
+   </div>
+  </body>
+ </text>
+</TEI>

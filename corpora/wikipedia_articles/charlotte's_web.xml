@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Charlotte's Web
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Charlotte%27s%20Web"/>
+     <date>
+      2015-07-03T13:04:35Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Charlotte's Web
+   </head>
+   <p>
+    Charlotte's Web (in corsu: A Tela di Charlotte; titulu francese: La Toile de Charlotte) hè un libru americanu di l'annu 1952 scrittu da E. B. White.
+   </p>
+   <p>
+    Littiratura
+   </p>
+  </body>
+ </text>
+</TEI>

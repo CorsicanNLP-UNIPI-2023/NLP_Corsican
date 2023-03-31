@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Luís Figo
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Lu%C3%ADs%20Figo"/>
+     <date>
+      2015-07-06T12:17:51Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Luís Figo
+   </head>
+   <p>
+    Luís Filipe Madeira Caeiro Figo (natu in u 1972) hè un exi ghjucadore di pallò portughese.
+   </p>
+   <p>
+    Figo
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,77 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Attenti à u fake
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Attenti-a-u-fake_a1434.html"/>
+     <date>
+      Thu, 01 Nov 2012 23:25:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Attenti à u fake
+   </head>
+   <div type="excerpt">
+    <p>
+     L'uraganu Sandy chì hà scuzzulatu à New York hà vistu nasce decine di "fakes", vale à dì di "falsi", di burle è d'infurmazione micca vere.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Eccu un girettu di e magagne viste nant'à u net.
+    </p>
+    <p>
+     Sta fiura di New York è d'un tempurale neru chì s'avvicina tuttu u mondu l'hà vista :
+    </p>
+    <p>
+     Troppu bella per esse vera... 
+In fatti u ritrattu hè d'un fottògrafu chjamatu Mike Hollingshead, spezialistu di i ritratti di timpeste. 
+Eccu l'originali :
+    </p>
+    <p>
+     Allora pè ridesine di i "fakes", certi ghjocanu à aghjustanne :
+    </p>
+    <p>
+     Un altru fake chì hà circulatu assai nant'à Facebook è Twitter, u colpu di u cagnacciu :
+    </p>
+    <p>
+     Certi siti, cum'è Is Twitter Wrong? cercanu i fakes è dimostranu ch'elli ùn sò veri. 
+Fate pianu, ancu i giurnalisti ci si perdenu. Sta volta hè un giurnalistu di BFM TV chì hà annunziatu a falsa nutizia di u falsu cagnacciu in l'acque di New York... 
+"On a du mal à y croire, mais c'est vrai..." 
+Mancatu !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

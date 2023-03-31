@@ -1,0 +1,76 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Onfray mieux d'se taire
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Onfray-mieux-d-se-taire_a1671.html"/>
+     <date>
+      Fri, 24 Jan 2014 11:09:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Onfray mieux d'se taire
+   </head>
+   <div type="content">
+    <p>
+     Ch’avia in mente Michel Onfray quandu hà lampatu stu tweet ? 
+L’omu si presenta cum'è un filosofu ateistu, materialistu, oppostu à l’idee di religione è ancu appena di dogma, in soma si dice libertariu, è face di u piacè una sorte di puntellu di u so « pensamentu ». 
+Allora chì li pò fà sì a ghjente parlanu corsu o francese ? Senza entre ind’u cumbugliu di l’impresti linguistichi di e lingue tra d'elle (induve si vede propiu bè chì u francese hè « assaltatu » -diceria forse Onfray- di parolle straniere), u pensà, a riflessione, ùn serianu dunque pussibuli chè in francese o in una lingua detta duminante ? 
+Eppo i filosofi, ancu per simplificà, ùn fanu opera d’esse citatini di u mondu ? Almenu chì stu mondu sia solu un mondu franco-francese ? Quessa si, a vulintà di putenza…
+    </p>
+    <p>
+     Nant'à Tweeter, e riazzioni ùn sò mancate :
+@michelonfray @aurisacrafames et comment dit-on en français : business, parking, weekend, blog, boléro, guérilla, pizza, camping, etc... ?
+— Ghjuvan'Matteu (@GMatteu) 24 Janvier 2014
+    </p>
+    <p>
+     @GMatteu @michelonfray @aurisacrafames sans oublier couscous, ketchup, talk-show, smartphone, lambda, spaghetti, hot-dog, salsa, tango ?
+— BItchyTRotskist (@Lev_Bronystein) 24 Janvier 2014
+    </p>
+    <p>
+     J'avais indiqué ici il y a quelques mois le lent cheminement qui amène @michelonfray vers #Marine. Illustration avec les langues régionales
+— Luc-Antoine MARSILY (@lamarsily) 24 Janvier 2014
+    </p>
+    <p>
+     @michelonfray hiérarchie des langues, hiérarchie des cultures, quel enthousiasmant relent !
+— marc simeoni (@marcsimeoni1) 24 Janvier 2014
+    </p>
+    <p>
+     @BDamianu Pourtant il était gentil à l'époque du Lazaret et de sa petite chronique dans Corsica
+— Damien Mattei (@aurisacrafames) 24 Janvier 2014
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sean Connery
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Sean%20Connery"/>
+     <date>
+      2018-07-15T12:29:27Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sean Connery
+   </head>
+   <p>
+    Thomas Sean Connery (1930-) hè un attore scuzzese, nativu di Edimburgu.
+   </p>
+   <p>
+    Connery, Sean
+   </p>
+   <p>
+    Scuzzese
+   </p>
+  </body>
+ </text>
+</TEI>

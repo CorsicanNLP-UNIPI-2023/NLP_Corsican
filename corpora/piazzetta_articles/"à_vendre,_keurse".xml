@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "À vendre, keurse"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-vendre-keurse_a1574.html"/>
+     <date>
+      Fri, 24 May 2013 19:14:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "À vendre, keurse"
+   </head>
+   <div type="content">
+    <p>
+     Aghju un annuniziu à fà di a parte di u faussaire di l’avucatu Georges Kiejman, agente immobiliaru à è so ore perse. 
+Eccu u paperu ufficiale ch’ellu m’hà lasciatu, incu l’intestatura di u cabinettu. Allora : 
+"À VENDE  : Isula chjamata Corsica, bellu è grande terrenu di 8.700 chilometri quadrati, 
+1000 chilometri di liturale à disposizione, ideale per custruì golf, residenze di vacanze, si pò tuttu bettunizà, ùn ci hè micca prublemu, stu terrenu cumporta dinò muntagne numerose, d’altitudine diverse è variate, incù a pussibilità di fà muntagne russie è altre atrazzione, tiru à a carabina, « casse boîtes » etc... 
+Hè venduta incu una banda d’animali salvatichi, si pò fà una riserva naturale. 
+U tuttu liquidatu, chi a sò prupirietaria, Mma Francia, un hà piu soldi." 
+Ci n'hè chì sò interessati ? Scriviteci puru !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     GF Bernardini : "il y a un linguicide qui est programmé depuis des années"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/GF-Bernardini-il-y-a-un-linguicide-qui-est-programme-depuis-des-annees_a2174.html"/>
+     <date>
+      Wed, 25 Mar 2015 11:20:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    GF Bernardini : "il y a un linguicide qui est programmé depuis des années"
+   </head>
+   <div type="content">
+    <p>
+     Hè statu presentatu luni u discu novu di I Muvrini. Ghjuvanfrancescu Bernardini ne hà prufittatu per parlà di lingua corsa. Da leghje nant'à Corse Net Infos : 
+« Je me rends compte que pour se faire comprendre il faut parler français, on prend conscience aujourd’hui qu’en Corse il y a un linguicide qui est programmé depuis des années. » 
+Quessa, hè detta. A suluzione ? 
+« Ce qui me fait peur, c’est qu’on transfère le problème de la langue Corse à Paris, si on attend que la solution vienne de Paris, on peut attendre très longtemps. On ne va pas faire aimer cette langue par des lois ou par une obligation, mais par amour et par conviction, cette langue… c’est notre couleur de peau. La voix de la Corse est attendue et précieuse, soyons conscient des richesses que nous avons, et combien le modèle paysan et rural qu’est le notre nous donne des forces incroyables pour partager avec le monde. La culture construit des ponts d’intelligence entre la Corse et le monde.» 
+È s'è no aspettavamu troppu da Parigi, da u Statu, da l'altri ? A dumanda hè posta.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

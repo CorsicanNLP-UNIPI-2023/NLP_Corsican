@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Robin Wright Penn
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Robin%20Wright%20Penn"/>
+     <date>
+      2018-12-20T05:42:28Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Robin Wright Penn
+   </head>
+   <p>
+    Robin Wright Penn hè un'attrice americana.
+   </p>
+   <p>
+    Wright Penn
+   </p>
+   <p>
+    Wright Penn
+   </p>
+  </body>
+ </text>
+</TEI>

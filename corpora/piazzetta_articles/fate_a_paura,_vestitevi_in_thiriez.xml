@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Fate a paura, vestitevi in Thiriez
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Fate-a-paura-vestitevi-in-Thiriez_a1197.html"/>
+     <date>
+      Tue, 25 Oct 2011 16:04:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Fate a paura, vestitevi in Thiriez
+   </head>
+   <div type="content">
+    <p>
+     Quist'annu, pè a vostra serata Halloween preferita, sceglite d'esse veramente spaventosu. 
+Scream ? Cumplettamente has been.  Paul Natali ? Digià fatta.  Sarkozy ? Bof.  Dracula ? Ringard.  Una maschera in plàsticu ? Troppu cumplicatu per beie.  Emile Zuccarelli ? Troppu periculosu, v'avete dà fà minà. 
+U megliu : vestitevi in Thiriez !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

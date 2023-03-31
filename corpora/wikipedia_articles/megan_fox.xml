@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Megan Fox
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Megan%20Fox"/>
+     <date>
+      2017-03-04T12:32:12Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Megan Fox
+   </head>
+   <p>
+    Megan Denise Fox hè un'attrice americana.
+   </p>
+   <p>
+    Fox, Megan
+   </p>
+   <p>
+    Fox, Megan
+   </p>
+  </body>
+ </text>
+</TEI>

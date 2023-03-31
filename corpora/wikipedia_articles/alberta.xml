@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Alberta
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Alberta"/>
+     <date>
+      2016-11-04T08:41:23Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Alberta
+   </head>
+   <p>
+    Alberta hè una pruvincia di u Canadà, hà una superficia di 661.848 km² è tene una populazzione di 3.645.257 abitanti (2011).
+   </p>
+   <p>
+    A capitale hè Edmonton. A cità più grande hè Calgary.
+   </p>
+   <p>
+    Pruvincia di u Canadà
+   </p>
+  </body>
+ </text>
+</TEI>

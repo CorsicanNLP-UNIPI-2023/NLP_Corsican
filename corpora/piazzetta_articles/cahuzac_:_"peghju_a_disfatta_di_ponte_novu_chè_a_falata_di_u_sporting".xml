@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cahuzac : "peghju a disfatta di Ponte Novu chè a falata di u Sporting"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cahuzac-peghju-a-disfatta-di-Ponte-Novu-che-a-falata-di-u-Sporting_a1003.html"/>
+     <date>
+      Tue, 11 Jan 2011 18:21:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cahuzac : "peghju a disfatta di Ponte Novu chè a falata di u Sporting"
+   </head>
+   <div type="excerpt">
+    <p>
+     In una intervista à u situ di So Foot, Cahu e face falà... Da leghje !
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Yannick Cahuzac, capitanu di u Sporting, natu in Aiacciu, figliulinu di u legendariu Pierre Cahuzac ci n'ampara belle in una intervista à u giurnale So Foot. L'intervista hè fatta nant'à u tonu di a magagna ma u ghjucadore si cappia. 
+À a dumanda "quale hè u Corsu u più grande" è di sceglie trà Napuliò, Pasquale Paoli è Claude Papi sceglie à Paoli "pè a custituzione di 1755". 
+Dice dinù chì a battaglia di Ponte Novu hè stata più disastrosa ch'è a falata di u Sporting in National. 
+Infine, ci spiega chì trà u Diu vi salvi Regina è a Marseillaise, hè l'innu corsu u più forte, l'hà assai cummossu cù e partite di a Squadra Corsa. 
+Leghjite l'intervista nantà So Foot. Face siguramente un pezzu chì u Sporting ùn avia più un capitanu cusì. Di chè diventà veramente l'ìdulu di a tribuna Est...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

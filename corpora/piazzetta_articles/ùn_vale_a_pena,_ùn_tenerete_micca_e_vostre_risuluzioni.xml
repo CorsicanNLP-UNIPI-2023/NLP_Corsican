@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ùn vale a pena, ùn tenerete micca e vostre risuluzioni
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-vale-a-pena-un-tenerete-micca-e-vostre-risuluzioni_a993.html"/>
+     <date>
+      Tue, 04 Jan 2011 08:01:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ùn vale a pena, ùn tenerete micca e vostre risuluzioni
+   </head>
+   <div type="excerpt">
+    <p>
+     Cù l'auguri di capu d'annu vene dinù u mumentu di e bone risuluzioni. Ognunu prumette e soie... ch'ellu ùn tenerà micca.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     À tempu à i sempiterni "pace è salute, mais surtout la santé hein !" ch'è vo avete da sente sin'à u 31 di ghjennaghju ci sò e bone risuluzioni di l'annu novu. 
+In generale sò sempre e listesse : piantà di fumà, perde 5 chilò, arrestà l'apperitivu, fà u sport, piglià menu a vittura, manghjà megliu, ùn più annerbassi in vittura o peghju, esse di più bravi. 
+Tutti l'anni si facenu e listesse, è pochi sò à tenele sin'à dicembre. 
+D'appressu à una inchiesta di u prufessore Wiseman (di l'università d'Hertfordshire) fatta nant'à 3000 persone, solu 12% ci la facenu à tene e so prumesse. 
+In l'inchiesta, quelli chì avianu prumessu di piantà di fumà o di mettesi à fondu à u sport anu cunnisciutu un fiascu à più di 70%. 
+In fatti, si omu ùn ci la face è chì si vede omu troppu grande. Troppu ambizioni ! Perchè ghjurà di perde a panza... per tichjassi di Nutella duie settimane dopu ? Perchè prumette di sorte menu... per finisce à tappu sabbatu chì vene ? Avà pò saria ora di cunnoscevi megliu è di sapè di chè site capace, o micca. 
+Fate dunque risuluzione menu ambiziose, più mudeste è ci la ferete. Pò esse per esempiu, d'arrestà di fidighjà Plus belle la vie, di passà menu tempu nant'à Facebook, d'ùn più crede e bugie di Sarkozy, d'arrestà a mittumania (di tutte e manere più nimu ùn v'ascolta), d'ùn spende più soldi per nunda (di tutte e manere site fusciatu), d'esse menu appiccicatu à u vostru iPhone... quessa, a pudete fà !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

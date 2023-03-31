@@ -1,0 +1,72 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     E fucilate pè Pasqua in Sardegna
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-fucilate-pe-Pasqua-in-Sardegna_a2359.html"/>
+     <date>
+      Tue, 29 Mar 2016 10:21:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    E fucilate pè Pasqua in Sardegna
+   </head>
+   <div type="excerpt">
+    <p>
+     Truvate chì a settimana santa in Corsica manca di pistulittate ? Pruvate a Sardegna
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Chì dicerianu Christophe Barbier è Manuel Valls s'elli cunniscianu a Sardegna ? 
+Per Pasqua, in parechje lucalità ci hè u ritu di "S'incontru". : l'incontru trà a Madonna è Cristu dop'à a resurrezzione. Dui prucessione partenu da duie chjese è si crocenu. 
+In Oliena (pruvincia di Nuoro), quand'elle si scontranu, schjattanu e fucilate. A scena hè piuttostu impressiunante :
+    </p>
+    <p>
+     (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/co_FR/sdk.js#xfbml=1&amp;version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));Pasqua ad Oliena .
+Posted by David Massaiu on Dumenica 27 Marzu 2016
+    </p>
+    <p>
+     Da leghje :  E festività di Pasqua nant'à Nuova Sardegna  Spari di saluto per la processione de S'Incontru a Oliena  La Semaine Sainte à Oliena
+    </p>
+    <p>
+     In Corsica, sò firmate e fucilate (à biancu) in Carghjese, è sapemu ch'elle ùn piacenu à tutti.
+    </p>
+    <p>
+     Da vede nant'à Corse-Matin : Pâques "Christos Anesti !" à Cargèse
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

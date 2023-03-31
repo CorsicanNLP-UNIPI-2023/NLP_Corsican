@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Jake Gyllenhaal
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Jake%20Gyllenhaal"/>
+     <date>
+      2019-08-18T02:14:59Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Jake Gyllenhaal
+   </head>
+   <p>
+    Jake Gyllenhaal hè un attore americanu.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Brokeback Mountain
+   </p>
+   <p>
+    Gyllenhaal
+   </p>
+   <p>
+    Gyllenhaal
+   </p>
+  </body>
+ </text>
+</TEI>

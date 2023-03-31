@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U guvernu chinese prumette a felicità per tutti
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-guvernu-chinese-prumette-a-felicita-per-tutti_a1047.html"/>
+     <date>
+      Tue, 08 Mar 2011 00:07:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U guvernu chinese prumette a felicità per tutti
+   </head>
+   <div type="excerpt">
+    <p>
+     L'Assemblea naziunale pupulare di China (u parlamentu) vene di decide un scambiu maiò : oramai u più impurtante ùn hè più a riescita ecunòmica... ma u benestà.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Serà a paura di e rivuluzione arabe chì hà fattu riflette u putere chinese ? 
+I 3000 delegati di l'assemblea anu pigliatu una decisione impurtante : ùn serà più u sviluppu ecunòmicu chì serà u più impurtante... ma u benestà di i Chinesi. 
+A dicenu l'agenze di stampa officiale, chì parlanu di "remodelage du concept du gouvernement chinois dans l'exercice du pouvoir. Au lieu de chercher uniquement un rythme de croissance élevé, il veillera à rendre les citoyens plus heureux". 
+Salutemu sta decizione curagiosa. A priorità ùn hè più di fà i soldi à tutti i patti. Infine ! 
+Averianu pussutu sceglie qualcosa d'altru. "Avà avemu decisu chì u più impurtante saria chì tutti i Chinesi possinu vede à Corsica Sera"... o "u più impurtante ùn hè più l'ecunumia, ma d'ùn mandà più porci malati in Corsica per a so salameria"... o peghju : "u più impurtante infine, hè a demucrazia". 
+Nò, d'appressu à i sceffi chinesi a priorità hè a felicità è u benestà di tutti... Francamente, ci cridite voi ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

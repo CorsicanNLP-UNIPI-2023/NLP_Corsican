@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sorano
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Sorano"/>
+     <date>
+      2014-03-23T14:59:46Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sorano
+   </head>
+   <p>
+    Sorano hè una cumuna toscana di a pruvincia di Grossetu (Toscana). Teni 3.955 abitanti.
+   </p>
+   <p>
+    == Riferimenti ==
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    U situ ufficiali
+   </p>
+   <p>
+    Cumuna di Toscana
+   </p>
+  </body>
+ </text>
+</TEI>

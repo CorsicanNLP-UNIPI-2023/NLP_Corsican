@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Charles Dickens
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Charles%20Dickens"/>
+     <date>
+      2019-07-18T18:47:38Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Charles Dickens
+   </head>
+   <p>
+    Charles John Huffam Dickens (prununziatu ), natu in Landport, vicinu à Portsmouth (Hampshire)/Inghilterra, u 7 di ferraghju 1812 é mortu in Gad's Hill Place (Higham/Kent)/Inghilterra, u 9 di ghjugnu 1870 (à 58 anni), hè cunsideratu cume u più maiò rumanzieru di l'èpica vittoriana. Hè l'autore di i libri famosi Oliver Twist (1837-1839), Un cantu di Natale (1843), David Copperfield (1849-1850) é E Grande Speranze (1860-1861).
+   </p>
+   <p>
+    Littiratura
+   </p>
+  </body>
+ </text>
+</TEI>

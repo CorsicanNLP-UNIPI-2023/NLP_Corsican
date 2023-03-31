@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     O Pinochju, parlami corsu !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/O-Pinochju-parlami-corsu-_a1124.html"/>
+     <date>
+      Sun, 26 Jun 2011 22:53:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    O Pinochju, parlami corsu !
+   </head>
+   <div type="excerpt">
+    <p>
+     Di megliu in megliu : avà Lupinu hè diventatu "LOUPINO". A lingua corsa avanza.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ma chì li serà pigliatu à stu baullone di Pinochju ? Nant'à l'affissi di u so ultimu spetàculu in Bastia si leghje ch'ellu si pruducerà in "Loupino". 
+A prùssima volta ch'ellu turnerà à vultà serà forse in "Loupinaux" ? 
+A lingua corsa cuntinuveghja d'avanzà in a nostra sucetà...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

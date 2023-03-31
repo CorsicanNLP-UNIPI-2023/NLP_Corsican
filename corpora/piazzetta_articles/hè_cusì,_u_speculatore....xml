@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hè cusì, u speculatore...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/He-cusi-u-speculatore_a1670.html"/>
+     <date>
+      Fri, 24 Jan 2014 10:51:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       A-PIAZZETTA-TV
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hè cusì, u speculatore...
+   </head>
+   <div type="excerpt">
+    <p>
+     Ma di siguru, speculatori in Corsica, ùn ci n'hè micca.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Si ponu vede quì l'altri episodii di Facciacce.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U bingò di l'estate
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-bingo-di-l-estate_a1964.html"/>
+     <date>
+      Fri, 17 Jul 2015 11:11:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U bingò di l'estate
+   </head>
+   <div type="excerpt">
+    <p>
+     L'estate hè quì, hè u mumentu di sorte u nostru bingò.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Fattu da Lawra. Hà ancu u so situ è u so contu Twitter.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

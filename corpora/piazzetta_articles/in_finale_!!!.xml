@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     IN FINALE !!!
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/IN-FINALE-_a2146.html"/>
+     <date>
+      Thu, 05 Feb 2015 00:01:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    IN FINALE !!!
+   </head>
+   <div type="excerpt">
+    <p>
+     Seanza di rigori da scimisce (7 à 6), è hè Sébastien Squillaci chì manda u Sporting à u Stade de France, per a finale contr'à u PSG. Grandissimu Ghislain Printant chì hà riesciutu à fà una squadra.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ùn ci vulia micca à esse cardiacu mercuri sera. A partita hè finita 0 à 0 è a seanza di rigori ùn finia più. 
+A bandera corsa sventulerà in Parigi per a finale contr'à u PSG, l'ondeci d'aprile chì vene. 
+Cù una capata di Brandao per purtà a cuppa in Corsica ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

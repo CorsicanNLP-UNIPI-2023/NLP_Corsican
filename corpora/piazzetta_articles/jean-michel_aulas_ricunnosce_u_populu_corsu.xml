@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Jean-Michel Aulas ricunnosce u populu corsu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Jean-Michel-Aulas-ricunnosce-u-populu-corsu_a1319.html"/>
+     <date>
+      Wed, 11 Apr 2012 23:38:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Jean-Michel Aulas ricunnosce u populu corsu
+   </head>
+   <div type="excerpt">
+    <p>
+     U presidente di l'OL l'hà dichjarata dopu à a mezafinale contr'à GFCOA.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Spessu, u futbol và più in furia chè a pulitica. U Conseil Constitutionnel ùn u ricunniscerà mai, ma pè u presidente di l'Olympique Lyonnais u populu corsu esiste, l'hà detta davant'à e camerà. 
+L'orrìbile Aulas, capimachja di u futbol-business à l'ussu francese è amicu di Thiriez hà parlatu d'un "peuple corse qui aurait souhaité aller en finale". 
+Cumu serà stata ? 
+A paura di fassi scuzzulà da i sustenidori di u Gaz dopu à una partita appena calda ?  I pattoni chì sò partuti in u curridore à a pausa ?  A pressione messa da u presidente di u Gaz, Fanfan Tagliaglioli ?  O forse a paura di ritruvà à Furiani quist'annu chì vene in L1 ? 
+Grazia à FS pè l'idea.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

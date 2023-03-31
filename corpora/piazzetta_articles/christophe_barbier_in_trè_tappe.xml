@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Christophe Barbier in trè tappe
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Christophe-Barbier-in-tre-tappe_a2022.html"/>
+     <date>
+      Sat, 15 Nov 2014 12:03:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Christophe Barbier in trè tappe
+   </head>
+   <div type="excerpt">
+    <p>
+     Christophe Barbier in Corsica d'appressu à i dissegni di Lawra.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     N°1 : stupà nant'à un populu
+    </p>
+    <p>
+     N°2 : Andà à vede stu populu per fà a so prumuzione, è fassi riceve cum'ellu ci vole
+    </p>
+    <p>
+     N°3 : Ghjustificà a tappa n°1.
+    </p>
+    <p>
+     Lawra face ogni tantu dissegni per A Piazzetta è per Slate. Pudete andà à vede u so blog è u so contu Twitter
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

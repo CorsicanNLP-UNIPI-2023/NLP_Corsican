@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sulidarità cun Dumè Moret
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Sulidarita-cun-Dume-Moret_a1482.html"/>
+     <date>
+      Wed, 16 Jan 2013 10:55:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sulidarità cun Dumè Moret
+   </head>
+   <div type="excerpt">
+    <p>
+     Quand'ellu cummencia à nivà, tocca à un poveru giurnalistu d'andà à cummentà u tempacciu in u fretu. Sta volta, hè cascata nant'à Dumè Moret.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Avete rimarcatu ? Subbitu ch'ella cala a timperatura è ch'ella ghjunghje a prima nivata, ci avemu dirittu. 
+À l'infurmazioni riprincipianu e "breaking news" è i "direct live from Vizzavona"... per dicci chì "l'inguernu hè ghjuntu", ch'ellu "face u fretu" è chì "ci hè a neve". 
+Certe volte anu ancu un scoop : "a neve hè periculosa nant'à a strada, ci vole à fà pianu". 
+Bon hè cusì, dapoi parechji anni hè a moda ind'è quelli chì fabricheghjanu l'infurmazioni à a televisiò. 
+Tutti l'anni, tocca à un giurnalistu d'abuchjassi a periculosa strada di Vizzavona è di stà impalaficcatu in u fretu per dicci chì : "un nouvel épisode neigeux est attendu cette nuit, prudence donc sur les routes..." 
+Quist'annu hè cascata nant'à Dumè Moret. Sustenitelu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

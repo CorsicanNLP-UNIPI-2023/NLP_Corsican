@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mickaël Vendetta rifugiatu puliticu in Corsica?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Mickael-Vendetta-rifugiatu-puliticu-in-Corsica_a1341.html"/>
+     <date>
+      Mon, 07 May 2012 02:12:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       PRESIDENZIALI-2012
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Mickaël Vendetta rifugiatu puliticu in Corsica?
+   </head>
+   <div type="excerpt">
+    <p>
+     A bona nutizia, hè chì Mickaël Vendetta si ne và. A gattiva, hè ch'ellu puderia rifugiassi in Corsica.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Mickaël Vendetta l'avia prumessa nant'à u so blog : "Je ne resterai pas en France si Hollande passe au Pouvoir". Bona nutizia dunque, u sustegnu nùmeru unu di Sarkozy duveria smarrisce di a scena mediàtica. 
+Ma a gattiva, hè chì cù i risultati di Sarkozy in Corsica (55,87%), u nostru paese puderia diventà u rifugiu pè i sustegni di l'oramai ex presidente, à cummincià pè Mickaël Vendetta. 
+Ùn anderà micca in L'Alzi (100% di voti pè François Hollande). 
+Ma hà a scelta : Rusiu 93,5% di i voti pè Sarkozy, Ciamanacce 93,4, Bustanicu 87,9, A Porta d'Ampugnani 85,1, U Tassu 88,5, E Piazzole d'Orezza 86,3 chì facenu megliu chè... Neuilly sur Seine (solu 84,2 !) 
+È di siguru, U Borgu 80,1% pè l'UMP. 
+Pè e cumune chì anu vutatu à Hollande, ci hè sempre L'Alzi chì face tòmbula è chì puderia accoglie da quì à pocu à Hugo Chavez. 
+Ma dinù : E Casevechje 94,2% pè u candidatu di u PS, Ortiporiu 93,1, A Nuvale 91,2, I Pirelli d'Alisgiani (90,7), Muracciole (86), Ogliastru (85,4), Sant'Andria di u Cotone (85,3), Bilìa (84,4), U Salgetu (83,1), A Crucichja (82). 
+Cun risultati sìmili, serà chì l'elettori di sti paesi anu cunvinzioni pulitiche forte à l'UMP è à u PS, à u puntu di fà risultati degni di certi paesi africani ? Serà ch'elli sò tenuti da i so merri ? 
+O ch'elli votanu cum'è u so merre perchè "iè ma capisci, le maire il est gentil, il fait des choses pour le village et il nous a rendu beaucoup de services" ? 
+Andate à sapè...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

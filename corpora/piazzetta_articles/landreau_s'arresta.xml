@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Landreau s'arresta
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Landreau-s-arresta_a1796.html"/>
+     <date>
+      Sun, 11 May 2014 22:24:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Landreau s'arresta
+   </head>
+   <div type="content">
+    <p>
+     U Sporting averà un altru guardianu quist'annu chì vene. Mickaël Landreau (35 anni) hà annunziatu sta sera nant'à Canal+ à i trufei di l'UNFP chì l'ultima partita di a stagione, contr'à Nantes, serà l'ultima di a so carriera. 
+L'avia principiata guasi diciottu anni fà, u 2 ottobre di u 1996 cù Nantes contr'à... Bastia in Furiani. Avia dicessette anni tandu, è ci avia fattu passà una serataccia. Avia arrestatu un penalty tiratu da Moravcik è impeditu di vince qu'ella sera (0-0). 
+Tandu, u Sporting era segondu di prima divisione (daretu à u PSG). Ghjucavanu Piveteau, Drobnak è Eydelie. A difesa era tenuta da Moreau, Valery, Soumah, Perez è ùn ci passava nimu. Sta stagione, Testa Mora era in tribuna Ouest. 
+È Pierre-Jean Luccioni facia i conturesi per Corsica Sera (vede a videò). Face un'eternità...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

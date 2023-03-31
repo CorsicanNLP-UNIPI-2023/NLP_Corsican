@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Salviata è pani di i morti
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Salviata-e-pani-di-i-morti_a1634.html"/>
+     <date>
+      Mon, 27 Oct 2014 13:46:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Salviata è pani di i morti
+   </head>
+   <div type="excerpt">
+    <p>
+     Innò, ùn ci hè micca ch'è Halloween, i clows agressivi è altre "zombie walk". U tempu di I Morti in Corsica, hè u mumentu di manghjà salviate è pane di i morti.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A salviata hè u biscottu tradiziunale in Bastia per a Festa di i Morti. 
+Era fattu, in orìgine, cù e fronde di a pianta chjamata salvia (la sauge). Sta pianta passava per dà l'immurtalità, ghjè per què ch'ella era assuciata à u cultu di i morti. 
+A so forma hè in "S". Ùn vole dì nè "santi", nè "salvia". Hè una spirale chì lega di manera simbòlica u mondu di i morti è quellu di i vivi. 
+In i tempi, a notte di u 2 di nuvembre, i Corsi lasciàvanu manghjusca è acqua in casa o nantu à u purtellu per chì i morti venìssinu à ritruvà forza. 
+In Bunifaziu è tutta a Corsica meridiunale si face u "pani di i morti" (una sorte di panetta cù uva è noci), chjamatu dinù "uva siccata". In certi lochi hè diventatu "pain des morts" è per fà menu paura ancu "pain des maures"... 
+Publicatu u 1u nuvembre 2013  Messu à ghjornu u 27 ottobre 2014
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

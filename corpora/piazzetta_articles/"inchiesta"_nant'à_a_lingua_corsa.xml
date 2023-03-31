@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "Inchiesta" nant'à a lingua corsa
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Inchiesta-nant-a-a-lingua-corsa_a1746.html"/>
+     <date>
+      Thu, 24 Apr 2014 09:03:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "Inchiesta" nant'à a lingua corsa
+   </head>
+   <div type="content">
+    <p>
+     "Chì avvene pè a lingua corsa ?" era u tema di l'emissione di Via Stella eri sera. 
+Durante un'ora Michele Leccia di u cullettivu Parlemu Corsu, Pierre Ghionga elettu à l'esecutivu di a CTC incaricatu di a lingua corsa è Jean-Pierre Battestini di a CGT anu cuntrastatu. 
+L'emissione si pò vede nant'à u situ di France 3 Corse. 
+"Discriminatoire" o "da salvà", cuntinuveghja u dibattitu nant'à a lingua corsa è a so cuufficialità.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

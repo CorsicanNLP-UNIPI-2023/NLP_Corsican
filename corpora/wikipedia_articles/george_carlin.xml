@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     George Carlin
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/George%20Carlin"/>
+     <date>
+      2019-08-01T00:45:06Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    George Carlin
+   </head>
+   <p>
+    George Denis Patrick Carlin (New York, 17 Maghju 1937 - Santa Monica, California, 22 Ghjugnu 2008), fu un attore è comicu.
+   </p>
+   <p>
+    Carlin, George
+   </p>
+  </body>
+ </text>
+</TEI>

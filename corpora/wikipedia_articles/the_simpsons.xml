@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     The Simpsons
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/The%20Simpsons"/>
+     <date>
+      2019-07-23T13:18:50Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    The Simpsons
+   </head>
+   <p>
+    The Simpsons  (in corsu: "I Simpson"; tìtulu francese: Les Simpson) hè una sitcom d'animazione americana creata da Matt Groening pè Fox Broadcasting Company.
+   </p>
+   <p>
+    == Da vede dinò ==
+   </p>
+   <p>
+    Family Ties
+   </p>
+   <p>
+    ICarly
+   </p>
+   <p>
+    Liv and Maddie
+   </p>
+   <p>
+    Spin City
+   </p>
+   <p>
+    The Big Bang Theory
+   </p>
+   <p>
+    Simpsons, The
+   </p>
+  </body>
+ </text>
+</TEI>

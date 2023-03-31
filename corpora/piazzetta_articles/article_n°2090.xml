@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Article n°2090
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Article-n-2090_a2090.html"/>
+     <date>
+      Sun, 21 Dec 2014 19:33:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Article n°2090
+   </head>
+   <div type="content">
+    <p>
+     Ceppu di Natale  http://youtu.be/FY4qPTB82CY 
+Dumane Natale  http://youtu.be/mQNl1af2XV8 
+Babbucciu Natale  http://youtu.be/W3I0s3W_swc 
+Natale (girascola)  http://youtu.be/RcwMVZ_erKw 
+Zu Natalellu  http://youtu.be/xM1wNwAE6-Y
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

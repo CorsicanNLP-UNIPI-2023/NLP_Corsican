@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U rè di u carnavale di Brandu era Trumpuffu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-re-di-u-carnavale-di-Brandu-era-Trumpuffu_a2544.html"/>
+     <date>
+      Tue, 21 Feb 2017 15:04:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U rè di u carnavale di Brandu era Trumpuffu
+   </head>
+   <div type="excerpt">
+    <p>
+     È sta volta, i Stati Uniti anu una bona ragione di dichjarà a guerra à a Corsica.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Dopu à Valls Vador annu passatu, chì chigna avia da piglià u rè di u Carnavale di Brandu quist'annu ? 
+A risposta hè cascata nant'à a pagina Facebook di Jean-Yves Casalta, u capimachja di u carnavale :
+    </p>
+    <p>
+     Si chjama dunque Trumpuffu è s'assumiglia à un tippu cunnisciutu. 
+Bon, sì a Corsica hè messa nant'à a lista di i paesi nemichi di i Stati Uniti, saperemu perchè. 
+D'altri ritratti nant'à Corse-Matin.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

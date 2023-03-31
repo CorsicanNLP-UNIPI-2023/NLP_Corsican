@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pisa
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Pisa"/>
+     <date>
+      2019-07-14T21:17:11Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pisa
+   </head>
+   <p>
+    Pisa hè una cumuna è una cità taliana, capilocu di a pruvincia omonima in Toscana.
+   </p>
+   <p>
+    Hè cunnisciuta in u mondu sanu per a Torra Pendente.
+   </p>
+   <p>
+    == Paisoli ==
+   </p>
+   <p>
+    Calambrone, Coltano, Marina di Pisa, Oratoio, Ospedaletto, Putignano, Riglione, San Piero a Grado, San Rossore, Sant'Ermete, Tirrenia, La Vettola.
+   </p>
+   <p>
+    == Cumune in cunfina ==
+   </p>
+   <p>
+    Cascina, Collesalvetti (LI), Livornu (LI), San Giuliano Terme.
+   </p>
+   <p>
+    Cumuna di a pruvincia di Pisa
+   </p>
+  </body>
+ </text>
+</TEI>

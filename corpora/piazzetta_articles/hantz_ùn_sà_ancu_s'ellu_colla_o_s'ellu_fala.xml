@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hantz ùn sà ancu s'ellu colla o s'ellu fala
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Hantz-un-sa-ancu-s-ellu-colla-o-s-ellu-fala_a1727.html"/>
+     <date>
+      Wed, 16 Apr 2014 14:07:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hantz ùn sà ancu s'ellu colla o s'ellu fala
+   </head>
+   <div type="content">
+    <p>
+     Ùn si sà sempre micca ciò ch'ellu ferà Hantz quist'annu chì vene. 
+L'intrenore di u Sporting è u presidente Geronimi anu discorsu una bella stonda ma ùn sò cascati d'accordu. 
+Hantz vole tene u so staff (Née è Bouillot). Ma i dirigenti nò. 
+Risultatu : Geronimi hà dettu nant'à Alta Frequenza : "le poste est ouvert à candidatures". 
+Ma : "la priorité du Sporting c'est Hantz". 
+Quale nant'à u bancu a stagione chì vene ? Roland Gransart ? Raymond Domenech ? José Anigo ? Dominique Bijotat ? O allora Hantz ? 
+Tuttu hè pussibule...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

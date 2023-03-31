@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     John Frankenheimer
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/John%20Frankenheimer"/>
+     <date>
+      2014-03-23T14:28:39Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    John Frankenheimer
+   </head>
+   <p>
+    John Frankenheimer (1930-2002) hè statu un realizadore americanu.
+   </p>
+   <p>
+    Frankenheimer
+   </p>
+   <p>
+    Frankenheimer, John
+   </p>
+  </body>
+ </text>
+</TEI>

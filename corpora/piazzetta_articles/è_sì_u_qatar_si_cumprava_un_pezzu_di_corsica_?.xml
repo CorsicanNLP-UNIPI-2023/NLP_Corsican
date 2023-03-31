@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È sì u Qatar si cumprava un pezzu di Corsica ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-si-u-Qatar-si-cumprava-un-pezzu-di-Corsica_a1540.html"/>
+     <date>
+      Mon, 15 Apr 2013 12:35:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È sì u Qatar si cumprava un pezzu di Corsica ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Dop'à i palazzi parigini, u PSG è a cuppa di u mondu, u Qatar s'hè cumpratu un pezzu di Sardegna. À quandu a Corsica ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Una miliarda d'euri, hè ciò chì u Qatar hà da investisce in u settore di u turìsimu in Sardegna. 
+L'annunziu hè statu fattu st'inguernu da u primu ministru di u Qatar Hamad bin Jassim Al Thani. Iè hè u listessu chì cumpratu u PSG è a cuppa di u mondu 2022. 
+L'ogettivu : investisce in l'infrastrutture è u turìsimu nant'à a Costa Smeralda. 
+Ùn v'inchietate, anu da rispettà "e caratteristiche di a Sardegna per ùn cambià micca a natura di sta bellissima isula", anu dettu... ma sopr'à tuttu esse di più in più influenti in u Mediterraniu. 
+Risultatu : pienu di prugetti belli goffi pè trasfurmà i stazzi di i pastori in case di lussu (tè ? ùn vi rammenta nunda ?) è ecologisti in crisa nera. 
+È in Corsica ? Elli anu i soldi, è ind'è noi ùn mancanu a ghjente per dì chì "iè ma capisci, ça va créer des emplois"... Allora ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

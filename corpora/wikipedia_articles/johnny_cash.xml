@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Johnny Cash
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Johnny%20Cash"/>
+     <date>
+      2015-07-06T09:21:16Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Johnny Cash
+   </head>
+   <p>
+    Johnny Cash (1932-2003) hè statu un musicante americanu.
+   </p>
+   <p>
+    Cash, Johnny
+   </p>
+   <p>
+    Cash, Johnny
+   </p>
+  </body>
+ </text>
+</TEI>

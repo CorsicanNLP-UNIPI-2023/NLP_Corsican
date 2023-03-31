@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mandate i vostri sms in lingua corsa
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Mandate-i-vostri-sms-in-lingua-corsa_a1260.html"/>
+     <date>
+      Fri, 22 Nov 2013 16:24:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CUMU-SI-DICE
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Mandate i vostri sms in lingua corsa
+   </head>
+   <div type="excerpt">
+    <p>
+     A lingua francese hà i so "LOL", i so "kikou" è si sò "MDR". È in corsu ? Iè, hè pussibule...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Heu ! = kikou  Oh ! = salute, cumu stai oghje ?  Kif ? = chì faci ?  Ghjng = ghjungu  Tasp = t'aspettu  Spct = spicciati !  MCF ?!? = ma chì faci ?  Longu. = Trovu ch'è tù sì veramente longu à vene.  Vab ? = và bè ?  Bnnt = bona notte  Mip = mi piace  Mip AAA = mi piace assai assai assai  Staz = sta sera  Tenimacap = tenimi à capu  Titengacap = ti tengu à capu  Trgz = ti ringraziu  Nimp = n'importa chè  MNF = mi n'infuttu  PIT = panza in terra  Chjmm = chjamami  Vap = vai pianu  VAFL = vai à fatti leghje  A dp = à dopu  A dm = à dumane  A prst = à prestu  TTGC = ti tengu caru  MMKI = mi manchi  TTVB = tuttu và bè  Mistum ! = mi stumachi  TMIC = ti manghjinu i corbi !  O connu ! = :-(  KIFCC = chì facciaccia...  Kib staz ? = chì bei sta sera ?  Per kwale voti ? = per quale voti ?  CFPVPSC ?!?= Cumu faci per vutà pè stu connu ?  Aghju da sciaktt 1 KBD = Aghju da sciaccatti una capata  MAT staz ! = metti a toia sta sera !  Flikacci !!! = fate pianu chì ci sò i flicchi nant'à a strada  Penankap... = aghju passatu una bunissima serata, ma credu ch'aghju betu appena troppu  Ki macciacciu = u Sporting hà persu, una volta di più...  Sì megliu tù ! = mi pare chì sta zitella hè propiu bella, nò ? 
+À voi di truvà a seguita... 
+Scrittu u 30/01/2012  Messu à ghjornu u 22/11/2013
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

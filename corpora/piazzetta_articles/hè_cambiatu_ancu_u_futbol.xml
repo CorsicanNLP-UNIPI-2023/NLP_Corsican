@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hè cambiatu ancu u futbol
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/He-cambiatu-ancu-u-futbol_a1492.html"/>
+     <date>
+      Mon, 04 Feb 2013 22:31:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hè cambiatu ancu u futbol
+   </head>
+   <div type="excerpt">
+    <p>
+     30 anni dopu à a morte di Claude Papi, u Sporting hà fattu firmà un difensore ghaneanu chì ghjucava in Ukraina.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Samuel Inkoom, natu à u Ghana, hà ghjucatu in Sguizzera (FC Bâle) è in Ukraina (Dniepr Dniepropetrovsk) hà firmatu pè sei mesi à u Sporting, grazia à u so agente inglese. Si dice chì u novu nùmeru 2 di Bastia hè un bonu ghjucadore. 
+Dui anni fà, u SCB era falatu à u livellu amatore. Oghje, entre in u futbol business mundializatu. 
+Bon, hà un stile appena differente di Claude Papi, chì hè mortu trent'anni fà. 
+Ellu, ùn hà mai vulsutu parte di Corsica, malgradu e pruposte di parechji grandi clubs francesi è ancu una dumanda di u Cosmos di New York. Preferia stà in u so paese di Portivechju è andà à caccighjà. 
+Altri tempi, altri usi...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

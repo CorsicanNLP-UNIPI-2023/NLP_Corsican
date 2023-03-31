@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Salam
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Salam"/>
+     <date>
+      2014-03-23T14:55:26Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Salam
+   </head>
+   <p>
+    Salam o salaam (in lingua araba: سلام salam) hè una parola araba chì significheghja lettaralmente "a pace", ma hè ancu usata cum'è un salutu ghjenarali, suprattuttu in paesi arabi è da i musulmani, ma ancu in l'altri paesi duve l'Islam hè impurtante.
+   </p>
+   <p>
+    Quissa parola appare ancu in i saluti più lunghi, cum'è assalamoe `alaykum (السلام عليكم) à cuali hè pussibili risponde: wa`alaykum assalam. In più, As-Salam hè unu di i 99 Nomi di Diu.
+   </p>
+   <p>
+    A varsione ebraica hè shalom, chì in Israeli hè usata in u stessu modu cum'è salaam.
+   </p>
+   <p>
+    Islam
+   </p>
+   <p>
+    Lingua araba
+   </p>
+  </body>
+ </text>
+</TEI>

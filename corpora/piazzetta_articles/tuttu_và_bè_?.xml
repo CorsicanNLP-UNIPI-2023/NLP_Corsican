@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tuttu và bè ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Tuttu-va-be_a1748.html"/>
+     <date>
+      Thu, 24 Apr 2014 21:04:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tuttu và bè ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Cumu un bellu dissegnu vale di più ch'un longu discorsu, eccu i sciffri ch'elli si ponu truvà in u raportu di a CTC rilativu à a prutezzione di u patrimoniu fundiariu. Detta quessa, chì femu ?
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vincentellu d'Istria 1, vittura 0
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Vincentellu-d-Istria-1-vittura-0_a2093.html"/>
+     <date>
+      Tue, 23 Dec 2014 16:50:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Vincentellu d'Istria 1, vittura 0
+   </head>
+   <div type="content">
+    <p>
+     Hè a psicosa in Francia dop'à l'affari di i tonti chì si lampanu in vittura in a ghjente. 
+Ci hè statu u scemu di Nantes, u mantacatu di Dijon, u ligatoghju di Joué-lès-Tours. 
+Per ciò chì hè di quellu chì s'hè lampatu à tavuletta in u giratoghju di Biguglia, ùn hè nè un attu di terrurisimu, nè un attentu anti-decurazione di Natale, nè mancu qualchissia chì ne vulia à Vincentellu d'Istria (è a so statua). 
+Si tratta di qualchissia chì s'hè svenutu allora ch'ellu cunducia. Speremu ch'ellu stà bè è ch'ellu ùn ci hè nunda di grave. 
+Cunclusione : ùn vale a pena d'entre in una panicca nera d'un attentatu islamistu.
+    </p>
+    <p>
+     Fiure : France 3 Corsica.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

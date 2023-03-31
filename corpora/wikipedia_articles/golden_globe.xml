@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Golden Globe
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Golden%20Globe"/>
+     <date>
+      2015-07-09T10:00:31Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Golden Globe
+   </head>
+   <p>
+    U Golden Globe, cortu per Golden Globe Award, hè un premiu di filmu è di televisione rinnumatu americanu.
+   </p>
+   <p>
+    Golden Globe
+   </p>
+  </body>
+ </text>
+</TEI>

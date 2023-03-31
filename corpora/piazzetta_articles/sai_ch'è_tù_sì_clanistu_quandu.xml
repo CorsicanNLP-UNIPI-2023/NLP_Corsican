@@ -1,0 +1,52 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sai ch'è tù sì clanistu quandu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Sai-ch-e-tu-si-clanistu-quandu_a1840.html"/>
+     <date>
+      Tue, 27 May 2014 16:23:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sai ch'è tù sì clanistu quandu
+   </head>
+   <div type="content">
+    <p>
+     Per tè u clanu, hè una securità. U clanu cuntrolla tuttu, è hè megliu cusì.  Ma ùn ti piace micca quandu l'altri parlanu di "le clan".  Sì sempre siguru di vince.  À diritta ? À manca ? Ùn scambia nunda.  Ti malfideghji di i naziunalisti, è di i pinzuti dinù.  D'altronde i naziunalisti ùn ci capiscenu nunda.  È i prefetti, ancu menu.  Pè regulà i prublemi, certe volte basta à dà qualchì piazza.  Prima i toi, è dopu l'altri s'è tù poi.  Cunnosci i risultati nanzu di vutà.  Ridi quandu ampari chì l'altri facenu una lista.  Disprezzi quelli chì ti votanu contru.  Di tutte e manere, s'anu da piglià u lavativu.  Rigreti i tempi antichi, quelli di l'urne pienu à tappu, di i charters eletturali, di e liste ingunfiate.  Ai avutu a piazza.  Facenu 2000 anni chì u clanu ch'è tù susteni è à u pudere.  U to capimachja eranu digià in piazza à a fine di u Neoliticu.  "Ci arrangemu".  Ai sempre una storia di false precure, i morti chì sò scritti nant'à e liste, i vechji macucchi chì anu alzheimer è chì votanu è ti facenu ride.  Cunnosci pienu di storie di piazze distribuite, di suvvenzioni, di vitture di funzione, di mercati atribuiti. Ma custì face menu ride.  Oghje, ci vole ch'ellu scambii, per chì tuttu fermi cum'è nanzu.  Sai chì u veru corsu, hè clanistu.  Un risultatu à menu di 75% hè l'equivalente d'una chjiba.  Sai chì quandu u clanu ùn esisterà più, a Corsica ùn serà più veramente a Corsica.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

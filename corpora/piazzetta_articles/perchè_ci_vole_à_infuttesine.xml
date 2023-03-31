@@ -1,0 +1,69 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Perchè ci vole à infuttesine
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Perche-ci-vole-a-infuttesine_a1665.html"/>
+     <date>
+      Sun, 12 Jan 2014 12:29:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Perchè ci vole à infuttesine
+   </head>
+   <div type="excerpt">
+    <p>
+     Un sketch nant'à Canal+ crea guasi di più indignazione chè l'affare di u cane Whisky.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Veuillez installer Flash Player pour lire la vidéo
+La Nouvelle Edition du 09/01 - L'instant Barré
+U so nome hè Pierre-Emmanuel Barré. In l'emissione La Nouvelle Edition di Canal+ tene una cronaca induve interpreteghja un "sale con" (hè u nome di u so spettaculu). 
+Cunsiste à tene i prupositi d'un connu. Cìnicu, antipaticu, bestia, razzistu, omoffobu, misòginu... un connu dunque. È a face cun tutti. È francamente certe volte face ride. 
+È quand'ellu li tocca à parlà di i Corsi, hè una successione di clichés. Di conni dunque postu chì u so rollu hè d'esse un beauf. Bon d'accordu, si pò truvà ch'ellu ùn face micca ride, ch'ellu casca in a facilità, ch'ellu ùn hà talentu. 
+Allora nant'à Facebook dapoi trè ghjorni ùn si parla più chè di què. Hè u ritornu di l'indignati. Ancu quelli chì ùn si sentenu mai per difende a Corsica si discetanu per parte in cruciata contr'à u razzisimu anti-corsu. 
+È perchè ùn ci n'infutteriamu micca ? 
+Ùn hè chè un sketch induve stu cummediante ghjoca u rollu d'un beauf. Si pò pensà ch'ellu hè mal fattu, ma ùn hè chè un sketch d'un picculu umuristu. 
+Averemu da parte in "cruciata virtuale" una volta di più, per st'omu ? 
+Una settimana fà, u Conseil constitutionnel, sapete "les sages", i tercani di u Statu, i guardiani di u tempiu di Ripublica, quelli chì sò sopr'à tutti, elli, ci anu stupatu in faccia. 
+Per chì riazzioni ? 
+Puchissime... 
+È sì, in fine di contu, eranu i liceani (chì tuttu u mondu ghjoca à a risa d'altronde...) chì avianu ragiò di falà in carrughju ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

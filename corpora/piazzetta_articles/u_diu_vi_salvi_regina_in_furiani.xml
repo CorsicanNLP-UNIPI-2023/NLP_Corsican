@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U Diu vi salvi Regina in Furiani
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-Diu-vi-salvi-Regina-in-Furiani_a1649.html"/>
+     <date>
+      Mon, 09 Dec 2013 23:36:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U Diu vi salvi Regina in Furiani
+   </head>
+   <div type="excerpt">
+    <p>
+     Pè a festa di a Nazione, l'innu corsu hè statu cantatu nanz'à partita trà Bastia è l'OL. Un bellu mumentu, ancu si a Madonna avia abandunatu u club corsu quellu ghjornu, chì hà persu 3 à 1.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Serà forse statu u Diu vi salvi Regina u più statu à sente in a storia di a Corsica. Circa 14.000 persone eranu in Furiani st'ottu dicembre. 
+Bon, di siguru, certi l'averanu intesu pè a prima volta, è d'altri si sò siguramente dumandati ciò chì si passava. In quant'à quelli chì stanu à pusà, ùn diceremu nunda. 
+Ma ùn face nunda, u mumentu era propiu bellu. Da vede nant'à CNI è Turchini TV
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

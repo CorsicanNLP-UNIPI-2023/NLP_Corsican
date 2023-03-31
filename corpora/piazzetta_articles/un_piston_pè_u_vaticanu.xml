@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Un piston pè u Vaticanu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-piston-pe-u-Vaticanu_a1516.html"/>
+     <date>
+      Mon, 18 Mar 2013 11:15:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Un piston pè u Vaticanu
+   </head>
+   <div type="content">
+    <p>
+     Stu ritrattu d'una cunferenza di stampa di u Vaticanu ci pone parechje dumande. 
+Quale hè chì averà pistunatu à Paul Giacobbi ? Cumu averà fattu pè ritruvassi porta parolla di u Vaticanu in cusì pocu tempu ? Chì n'averà pensatu Dumenicu Bucchini ? È di u cumul des mandats, si ne parla ? 
+Tante dumande senza risposta...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

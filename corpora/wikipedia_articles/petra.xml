@@ -1,0 +1,69 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Petra
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Petra"/>
+     <date>
+      2019-05-10T20:40:40Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Petra
+   </head>
+   <p>
+    A petra hè una furmazione rucciosa.
+   </p>
+   <p>
+    ==Citazioni==
+   </p>
+   <p>
+    Accadi chì a petra fussi mintuvata in a litteratura è a cultura corsa. Par asempiu, in i pruverbii:
+   </p>
+   <p>
+    Chì ghjetta petra à Diu, in capu li ritorna.
+   </p>
+   <p>
+    Parola data è petra lampata ùn si ripiglianu più.
+   </p>
+   <p>
+    À chì pesa a petra, piglia l'anguilla.
+   </p>
+   <p>
+    À forza di pichjà, a petra rompe.
+   </p>
+   <p>
+    ==Rifarenzi==
+   </p>
+   <p>
+    Saravelli-Retali, 1976, A vita in Corsica per via di i pruverbii è i detti - La vie en Corse à travers proverbes et dictons, Nice: Don Bosco
+   </p>
+   <p>
+    Fisica
+   </p>
+   <p>
+    Giulugia
+   </p>
+  </body>
+ </text>
+</TEI>

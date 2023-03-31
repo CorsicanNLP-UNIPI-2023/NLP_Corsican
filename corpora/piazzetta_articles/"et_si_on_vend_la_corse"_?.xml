@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "Et si on vend la Corse" ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Et-si-on-vend-la-Corse_a2272.html"/>
+     <date>
+      Mon, 05 Oct 2015 19:19:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "Et si on vend la Corse" ?
+   </head>
+   <div type="excerpt">
+    <p>
+     In l'emissione "C dans l'air" Yves Calvi si dumanda ciò ch'ellu accaderia "si on vend la Corse". Cunclusione : "ça peut faire rire".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U dibattitu era intitulatu "Risque catalan et contagion indépendantiste" (digià, a scelta di u tìtulu...). In a discussione, Yves Calvi (chì ùn hè micca balaninu), si dumanda "et si on vend la Corse ?" 
+A dumanda ùn pare micca stunà u so invitatu. 
+Ma Yves Calvi ci tene à a so idea, è face u paragone cù i Grechi "qui vendent leurs îles pour combler leurs déficits...". Per cunclude chì "si on vend la Corse ça peut faire rire, enfin ça ferait du débat", cuntentu cum'è un pichju di a so cacciata puzzicosa. 
+Peccatu chì a cunneria, ella, ùn si possa vende. 
+À prupositu di a "vendita" di Ghjenuva à a Francia in u 1768, Voltaire scrivia : "Il restait à savoir si les hommes ont le droit de vendre d'autres hommes : mais c'est une question qu'on n'examinera jamais dans aucun traité". 
+Vende è cumprà i populi, una vechja passione culuniale. 
+U forum Isula s'hè spicciatu di fanne un filmettu :
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

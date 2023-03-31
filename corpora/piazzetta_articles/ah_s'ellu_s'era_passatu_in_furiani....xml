@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ah s'ellu s'era passatu in Furiani...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ah-s-ellu-s-era-passatu-in-Furiani_a1553.html"/>
+     <date>
+      Mon, 29 Apr 2013 12:58:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ah s'ellu s'era passatu in Furiani...
+   </head>
+   <div type="excerpt">
+    <p>
+     Cazzotti in Evian, baruffe in u derby trà Liò è Saint-Etienne, schjaffi in Marseglia. Ma hè u futbol corsu chì porta in ellu u "chromosome de la violence".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Evian - PSG : Cazzuttata generale à a fine di a partita. Quattru ghjucadori espulsi, pruvucazioni di i ghjucadori parigini è parapiglia è teni. 
+OL - St Etienne : In u derby, parechji fumìgeni sò stati lampati trà verdi è liunesi. Cinque sustenidori di l'ASSE si sò trovi in guardia à vista. L'ultras di l'OL elli si sò vindicati nant'à i CRS. 
+OM - Lorient : Torna una baruffa. È Fabien Audard chì mette un schjaffu à Mathieu Valbuena. 
+Bastia - Toulouse : Partita d'un annoiu tremendu. Mancu una piccula panetta da signalà. Tuttu si perde... 
+Aspettemu dunque e sanzioni di a LFP è l'eventuale spiegazione per sapè cumu a viulenza endèmica corsa hà cuntaminatu u campiunatu di Francia. Chè, Denis Balbir ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

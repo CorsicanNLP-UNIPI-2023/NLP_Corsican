@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U dibattitu à seguita
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-dibattitu-a-seguita_a1692.html"/>
+     <date>
+      Thu, 20 Mar 2014 01:52:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MUNICIPALI-2014
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U dibattitu à seguita
+   </head>
+   <div type="excerpt">
+    <p>
+     S'hè infine parlatu (appena) di prugrammi in u dibattitu di e municipali bastiacce nant'à Via Stella. S'è vo l'avete mancatu, eccu a videò.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     À u cuntrariu di i dibattiti portivechjacci è aiaccini, s'hè cummentatu assai u dibattitu nant'à twitter (cù u hashtag #DebatBastia), è si ne parlerà torna assai sin'à u 30 marzu. 
+I candidati anu spiegatu e so pusizioni durante più d'un'ora è mezu, da a creazione di u portu di a Carbonite à u finanzamentu di u zénith di Jean-François Baccarelli. 
+D'altronde una grande parte di u dibattitu hè stata cunsacrata à stu portu. Di quantu serà u so costu ? U so finanzamentu ? L'impattu nant'à l'ambiu, nant'à e spiage di A Rinella, di a Marana è di u stagnu di Chjurlinu ? Un prugettu cusì impurtante meriterebbe un dibattitu sanu à ellu stessu, ma ci vulteremu più tardi. 
+In quant'à l'allianze à u segondu giru, nunda di nova. François Tatti hè statu chjaru cù Jean Zuccarelli : "vous êtes seul, et vous le resterez parce que moi je n'ai plus rien à voir avec vous (...) l'avenir ne se construira pas avec des exclusives". 
+È à a dumanda di Zuccarelli "Vous allez tourner le dos à ce que vous disent les Bastiais ?", Tatti di risponde : "Je pense que les Bastiais, ça fait longtemps que vous leur avez tourné le dos." 
+Tutti l'altri candidati elli anu parlatu d'allianza pussibule nant'à un prugramma. 
+Prussimu elementu di risposta : dumenica sera. 
+Eccu a videò quì sottu :
+    </p>
+    <p>
+     Dibattitu di u primu giru di e municipali in Bastia nant'à Via Stella
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

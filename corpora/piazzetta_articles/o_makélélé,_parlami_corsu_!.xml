@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     O Makélélé, parlami corsu !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/O-Makelele-parlami-corsu-_a1838.html"/>
+     <date>
+      Tue, 27 May 2014 12:20:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    O Makélélé, parlami corsu !
+   </head>
+   <div type="content">
+    <p>
+     A sapemu ch'ellu serà dura per l'intrenore chì passerà dop'à Hantz. L'omu era intelligente, bunissimu cummunicante è avia capitu assai di a Corsica è di i Corsi. S'era addirizzatu in corsu à i sustenidori di u Sporting per dilli à vedeci. 
+Durante a presentazione officiale, u novu coach Claude Makélélé hà dettu chì forse si metteria anch'ellu à a lingua corsa. L'avemu amparata in u tweet di u contu officiale di u club : 
+"J’ai eu la chance de voyager dans pas mal de pays et apprendre plusieurs langues. Alors, pourquoi pas le corse aussi !" 
+Noi speremu di sì !
+    </p>
+    <p>
+     C. Makelele : "J’ai eu la chance de voyager dans pas mal de pays et apprendre plusieurs langues. Alors, pourquoi pas le Corse aussi !"
+— SC Bastia (@s_c_bastia) 27 Mai 2014
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

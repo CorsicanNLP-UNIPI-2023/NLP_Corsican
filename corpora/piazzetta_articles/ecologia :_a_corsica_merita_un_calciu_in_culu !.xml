@@ -1,0 +1,71 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ecologia : a Corsica merita un calciu in culu !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ecologia%C2%A0-a-Corsica-merita-un-calciu-in-culu%C2%A0_a2479.html"/>
+     <date>
+      Fri, 04 Nov 2016 09:43:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ecologia : a Corsica merita un calciu in culu !
+   </head>
+   <div type="excerpt">
+    <p>
+     D'appressu à u settimanale "La Vie" chì publicheghja dapoi dece anni u so "palmarès de l'écologie", a Corsica ùn hè micca una regione induve omu si primureghja assai di a natura.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U Pumonte hè 69imu è u Cismonte 75imu nant’à 88 dipartimenti metropulitani. 
+Torna appena è eramu daretu à a Seine-Saint-Denis... 
+Prutezzione di a diversità biologica :  Cismonte : 83imu  Pumonte : 69imu 
+Gestione di u mullizzu :  Cismonte : 49imu  Pumonte : 87imu 
+Agricultura biologica :  Cismonte : 76imu  Pumonte : 70imu 
+Qualità di l’aria :  Cismonte : 41imu  Pumonte : 67imu 
+Transizione energetica :  Cismonte : 49imu  Pumonte : 62imu 
+Agenda 21 :  Cismonte : 87imu  Pumonte : 45imu 
+Cunsumazione "durèvule" :  Cismonte : 64imu  Pumonte : 51imu 
+Qualità di l’acqua : (bon custì và bè semu in Champion's League)  Cismonte : 3u  Pumonte : 1u 
+Classifica finale (nant'à 88) :  Cismonte : 75imu  Pumonte : 69imu
+    </p>
+    <p>
+     L’acqua hè pura (aiò, metti a toia !) ma pè u restu ci hè guasi da pienghje ! O seranu i criterii  chì sò anticorsi... 
+Per sapenne di più : Palmarès de l'écologie 2016 en France
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

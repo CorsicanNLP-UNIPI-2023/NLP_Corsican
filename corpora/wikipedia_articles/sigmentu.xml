@@ -1,0 +1,135 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sigmentu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Sigmentu"/>
+     <date>
+      2015-07-09T08:20:30Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sigmentu
+   </head>
+   <p>
+    In giumitria un sigmentu hè una parti di retta dilimitata da dui punti, ditti estremi.
+   </p>
+   <p>
+    Quandu i dui estremi si trovani annantu à una curva, u sigmentu hè dittu corda. Quandu i dui estremi sò i vertici d'un puligunu, u sigmentu hè dittu latu s'è i dui vertici sò aghjacenti, altrimenti hè dittu diagunali.
+   </p>
+   <p>
+    U sigmentu, generalamenti, s'indicheghja incù dui lettari maiusculi di u salteriu, posti à l'estremi (indicati da 2 punti). Essendu una linia, si pò indicà ancu incù una lettara minuscula posta frà i dui estremi, ancu s'è sta nutazioni ùn hè micca prubbiamenti curretta.
+   </p>
+   <p>
+    == Tarminulugia ==
+   </p>
+   <p>
+    Dui sigmenti sò cunsicutivi s'eddi t'ani un estremu in cumunu è nissunu altru puntu.
+   </p>
+   <p>
+    Dui sigmenti si dicini cungruenti s'eddi si poni soprappona in modu ch'eddi cuincidini puntu par puntu.
+   </p>
+   <p>
+    Dui sigmenti cunsicutivi sò aghjacenti s'eddi appartenini à listessa retta.
+   </p>
+   <p>
+    Dui sigmenti sò esterni s'eddi ùn ani micca punti in cumunu
+   </p>
+   <p>
+    Dui sigmenti si dicini incidenti quand'eddi ani un solu puntu in cumunu, dittu d'intarsizioni, chì ùn hè micca estremu par tremindù
+   </p>
+   <p>
+    Dui sigmenti si dicini cuincidenti s'eddi ani tremindù l'estremi in cumunu.
+   </p>
+   <p>
+    Dui sigmenti sò soprapposti s'eddi ani un estremu in cumunu è tutti i punti di unu (quiddu minori) sò in cumunu incù i punti di l'altru sigmentu.
+   </p>
+   <p>
+    == Difinizioni astratta ==
+   </p>
+   <p>
+    In algebra liniari si pò intruducia un cuncettu primitivu di sigmentu, custruitu in un ambienti genericu è astrattu com'è un spaziu vitturiali: si difinisci "sigmentu" un sottuinsemu L di un spaziu vitturiali riali V chì pò essa discrittu com'è : L = \{ \mathbf{u}(1-t)+t\mathbf{v} \mid \mathbf{u}, \mathbf{v} \in V, t\in[0,1]\}L'estremi di L sò eppo difiniti com'è i vettori \mathbf{u} è \mathbf{v}
+   </p>
+   <p>
+    .
+   </p>
+   <p>
+    Un sigmentu (chjusu) di estremi \mathbf a è \mathbf b pò essa indicatu incù a scrittura [\mathbf a, \mathbf b], analoga à a nutazioni imprudata in u casu 1-diminsiunali par l' intarvalli di \R.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Toru (giumitria)
+   </p>
+   <p>
+    Giumitria piana
+   </p>
+   <p>
+    Angulu rettu
+   </p>
+   <p>
+    Catetu
+   </p>
+   <p>
+    Mezaretta
+   </p>
+   <p>
+    Perimetru
+   </p>
+   <p>
+    Triangulu isusceli
+   </p>
+   <p>
+    Triangulu equilateru
+   </p>
+   <p>
+    Tiurema di Pitagora
+   </p>
+   <p>
+    Iputenusa
+   </p>
+   <p>
+    Tangenti
+   </p>
+   <p>
+    Trigunumitria
+   </p>
+   <p>
+    Triangulu
+   </p>
+   <p>
+    Uttaedru
+   </p>
+   <p>
+    giumitria euclidea
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia in talianu.
+   </p>
+  </body>
+ </text>
+</TEI>

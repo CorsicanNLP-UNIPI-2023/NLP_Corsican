@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A panenka di Rémy Cabella
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-panenka-di-Remy-Cabella_a2413.html"/>
+     <date>
+      Sun, 29 May 2016 20:13:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A panenka di Rémy Cabella
+   </head>
+   <div type="excerpt">
+    <p>
+     L'affare di a panenka, hè chì quellu chì a riesce passa per un tercanu, è quellu chì a fiasca passa à a risa. Durante a seanza di penaltys trà a Squadra Corsa è a selezzione basca, Rémy Cabella hà riesciutu a soia...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     È ghjustu dopu, Gary Coulibaly dinù hà messu a so panenka. Prussimu appuntamentu di a Squadra Corsa : di dicembre contr'à a Catalogna ? (è forse cù Wahbi Khazri è Rodéric Filippi ?).
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Philip Seymour Hoffman
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Philip%20Seymour%20Hoffman"/>
+     <date>
+      2015-07-01T18:12:41Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Philip Seymour Hoffman
+   </head>
+   <p>
+    Philip Seymour Hoffman (1967-2014) hè un attore americanu.
+   </p>
+   <p>
+    Hoffman, Philip Seymour
+   </p>
+  </body>
+ </text>
+</TEI>

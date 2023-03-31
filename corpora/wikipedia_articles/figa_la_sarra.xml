@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Figa la Sarra
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Figa%20la%20Sarra"/>
+     <date>
+      2019-10-03T11:17:28Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Figa la Sarra
+   </head>
+   <p>
+    Figa la Sarra hè un situ archiulogicu situatu annantu à a cumuna d'Ulmetu.
+   </p>
+   <p>
+    == Rifarenzi ==
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    Situ archiulogicu di Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

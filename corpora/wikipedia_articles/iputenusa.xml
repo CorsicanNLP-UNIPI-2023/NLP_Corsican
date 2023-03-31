@@ -1,0 +1,141 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Iputenusa
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Iputenusa"/>
+     <date>
+      2019-09-29T20:09:06Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Iputenusa
+   </head>
+   <p>
+    In un triangulu rittangulu si chjama iputenusa (o ipotenusa) (di u latinu hypotenusa, di u grecu ὑποτείνουσα, hypoteínousa, "linia tesa sottu") u latu oppostu à l'angulu rettu. L'altri dui lati si chjamani inveci cateti.
+   </p>
+   <p>
+    == Calculu di a lunghezza ==
+   </p>
+   <p>
+    A rilazioni fundamintali frà i lati d'un triangulu rittangulu hè stabilita da u tiurema di Pitagora, chì pò essa adupratu par calculà a misura di l'iputenusa quandu sò cunnisciuti i misuri di i cateti. Incù i metudi di a trigunumitria hè ancu pussibuli di ditarminà a misura di l'iputenusa cunniscendu a misura di un solu di i cateti à tempu cù l'ampiezza di un di l'anguli acuti di u triangulu rittangulu.
+   </p>
+   <p>
+    In i formuli ripurtati quì sottu si indicarà incù i l'iputenusa, incù c1 è c2 i dui cateti è incù h l'altezza custruita annantu à l'iputenusa d'un triangulu rittangulu genericu. L'anguli opposti à i cateti c1 è c2 sarani rispittivamenti γ1 è γ2.
+   </p>
+   <p>
+    === Dati i cateti ===
+   </p>
+   <p>
+    l'iputenusa hè uguali à a:
+   </p>
+   <p>
+    i=\sqrt{c_1^2+c_2^2}
+   </p>
+   <p>
+    === Dati un catetu è un angulu acutu ===
+   </p>
+   <p>
+    A misura di l'iputenusa equivali à quidda d'un catetu divisa par u sinu di l'angulu oppostu à u catetu, o par u cusinu di l'angulu aghjacenti.
+   </p>
+   <p>
+    i=\frac{c_1}{\sin\gamma_1}=\frac{c_2}{\sin\gamma_2}=\frac{c_1}{\cos\gamma_2}=\frac{c_2}{\cos\gamma_1}
+   </p>
+   <p>
+    == Cunsidarazioni ==
+   </p>
+   <p>
+    Incù u tiurema di Pitagora hè faciuli à dimustrà ch'è a misura di l'iputenusa hè sempri più grandi ch'è quidda d'un catetu. Ricurdendu ch'è tutti i lati misurani più di zeru:
+   </p>
+   <p>
+    i^2=c_1^2+c_2^2\Rightarrow\begin{cases}i^2&gt;c_1^2\\i^2&gt;c_2^2\end{cases}\Rightarrow\begin{cases}i&gt;c_1\\i&gt;c_2\end{cases}
+   </p>
+   <p>
+    À listessa cunclusioni si ghjunghji applichendu u tiurema di i sini.
+   </p>
+   <p>
+    == Da veda dinò ==
+   </p>
+   <p>
+    Giumitria
+   </p>
+   <p>
+    Giumitria euclidea
+   </p>
+   <p>
+    Toru (giumitria)
+   </p>
+   <p>
+    Giumitria piana
+   </p>
+   <p>
+    Angulu rettu
+   </p>
+   <p>
+    Catetu
+   </p>
+   <p>
+    Mezaretta
+   </p>
+   <p>
+    Perimetru
+   </p>
+   <p>
+    Sigmentu
+   </p>
+   <p>
+    Triangulu isusceli
+   </p>
+   <p>
+    Triangulu equilateru
+   </p>
+   <p>
+    Tiurema di Pitagora
+   </p>
+   <p>
+    Tangenti
+   </p>
+   <p>
+    Trigunumitria
+   </p>
+   <p>
+    Triangulu
+   </p>
+   <p>
+    Uttaedru
+   </p>
+   <p>
+    Giumitria di u triangulu
+   </p>
+   <p>
+    == Noti ==
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia in talianu.
+   </p>
+  </body>
+ </text>
+</TEI>

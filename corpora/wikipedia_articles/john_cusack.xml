@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     John Cusack
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/John%20Cusack"/>
+     <date>
+      2016-11-04T10:32:56Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    John Cusack
+   </head>
+   <p>
+    John Cusack (Evanston, Illinois, 28 ghjugnu 1966) hè un attore americanu.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    The Thin Red Line
+   </p>
+   <p>
+    Cusack, John
+   </p>
+   <p>
+    Cusack, John
+   </p>
+  </body>
+ </text>
+</TEI>

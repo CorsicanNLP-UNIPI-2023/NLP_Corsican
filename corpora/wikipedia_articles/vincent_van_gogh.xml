@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vincent van Gogh
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Vincent%20van%20Gogh"/>
+     <date>
+      2015-07-09T08:51:24Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Vincent van Gogh
+   </head>
+   <p>
+    Vincent Willem van Gogh, cunnisciutu cume Vincent van Gogh, natu u 30 di marzu di u 1853 è mortu u 29 di lugliu 1890, hè statu un pittore ullandese.
+   </p>
+   <p>
+    Era andatu à vive in Parigi incù u sò fratellu Theo poi hè andatu à vive à Arles induve hà cunnisciutu Paul Gauguin.
+   </p>
+   <p>
+    Hà avutu prublemi mentali è hè riesciutu à vende solu un opera durante a so vita, ma oghje e so opere sò assai famose in u mondu sanu.
+   </p>
+   <p>
+    Biugrafia
+   </p>
+  </body>
+ </text>
+</TEI>

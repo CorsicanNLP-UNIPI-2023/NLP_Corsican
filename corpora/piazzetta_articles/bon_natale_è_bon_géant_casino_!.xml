@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bon Natale è bon Géant Casino !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Bon-Natale-e-bon-Geant-Casino-_a1229.html"/>
+     <date>
+      Sun, 18 Dec 2011 14:59:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bon Natale è bon Géant Casino !
+   </head>
+   <div type="excerpt">
+    <p>
+     Natale hè a festa chì celebreghja a nascita di Ghjesù o chì celebreghja a santissima Carte Bleue ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ah, Natale ! A nascita di Ghjesù, un mumentu di spartera, una festa famigliale induve tutta a famiglia si ritrova pè sparte un mumentucciu di generosità, di pace è d'amore. 
+Chì piacè stu famosu "spiritu di Natale" ! St'ambianza particulare ch'ellu si ritrova in l'aria... 
+Ah ! Natale ! A corsa à i rigali fràcichi ch'ellu ci vole à fà à tutti i patti, a coda à e casce, a panicca in i centri cummerciali, i cazzotti chì partenu per una piazza di parking, e spese à buzeffu : i francesi anu da spende una media di 484 € pè Natale mentre chì Victoria Beckham hà cumpratu pè 40 000 € di decurazioni... 
+Ah, Natale... A Carte Bleue chì scalda, a ghjente azeza in i magazini chì punta, mughja, si lagna, i zitelli chì pienghjenu perchè ùn averanu micca a Playstaicheun... 
+Ah, Natale, i so "crédits de Noël" per pudè fà i rigali, tichjassi, è per manghjà paste è jambon u restu di l'annu... Chì piacè d'indebitassi per un écran plat ! 
+Ah ! Natale, i falsi Pappà Noël mal fatti in carrughju chì spaventeghjanu i zitelli per falli pagà 5€ u ritrattu, a tratichjina organizata, a dinde aux marrons è a bûche glacée ch'ellu ci vole à finisce à tutti i patti, nanzu à u Mon Chéri cù un bichjeru di Mousseux chì v'hà da arrigà u vòmitu. 
+Bon caddie pienu à tutti !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

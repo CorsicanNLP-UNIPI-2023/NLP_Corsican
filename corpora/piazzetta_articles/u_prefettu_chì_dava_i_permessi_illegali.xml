@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U prefettu chì dava i permessi illegali
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-prefettu-chi-dava-i-permessi-illegali_a1638.html"/>
+     <date>
+      Tue, 12 Nov 2013 00:08:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U prefettu chì dava i permessi illegali
+   </head>
+   <div type="excerpt">
+    <p>
+     C'era una volta un prefettu di Corsica, chì ghjustu nanzu d'andassine firmava quattru permessi illegali, in Coti Chjavari. Ci hè audienza à u TA di Bastia u 13 nuvembre.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Stéphane Bouillon hè statu prefettu di Corsica durante dui anni è mezu, da settembre 2008 à marzu 2011. 
+Di siguru, più nimu s'arricorda d'ellu, fora di l'associ di difesa di l'ambiu. 
+L'affari (chì sò in francese) si passanu in Coti Chjavari. I gendarmi facenu parechji PV (in u 2005 è u 2007). U pruprietariu, à u capu d'un'intrapresa chì prupone lucazione è giri di quad è di jet ski à i turisti) custruisce nant'à u mare, in a banda di i 20 metri. 
+U 3 marzu 2011, u prefettu accorda i permessi di custruisce. U lindumane, u simpaticu prefettu si ne và (da leghje nant'à U Levante), mutatu pè travaglià cun Claude Guéant. 
+Tuttu và bè dunque. 
+L'associ di difesa di l'ambiu U Polpu, U Levante è GARDE cuntestanu sti permessi illegali. Chjamanu à un'adunita u 13 nuvembre à u TA di Bastia (Villa Montepianu) à 9 ore è 20.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

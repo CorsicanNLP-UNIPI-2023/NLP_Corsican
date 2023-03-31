@@ -1,0 +1,88 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pocu à pocu, Bastia si turchinizeghja...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Pocu-a-pocu-Bastia-si-turchinizeghja_a2186.html"/>
+     <date>
+      Thu, 09 Apr 2015 00:15:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pocu à pocu, Bastia si turchinizeghja...
+   </head>
+   <div type="excerpt">
+    <p>
+     Sò 20.000 Corsi chì sò aspettati sabbatu per a finale contr'à u PSG. È sì à u Stade de France a testa di moru hà da sventulà, in Corsica dinù e bandere turchine è bianch'è more sò alzate appena da per tuttu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In Bastia, à L'Ammazzatoghju
+    </p>
+    <p>
+     In cima di Santa Marì
+    </p>
+    <p>
+     Appena da per tuttu in cità...
+    </p>
+    <p>
+     Basterà l'aiutu di Santa Maria per purtacci sin'à a vittoria ?
+Ritrattu Twitter : @MaiLoverini
+    </p>
+    <p>
+     Ùn ci vole micca avè a capàghjina per andà à appiccicà una bandera custì...
+Ritrattu : Bastia 1905
+    </p>
+    <p>
+     I sustenidori contanu dinù nant'à l'aiutu di San Ghjuvanni
+San Ghjuvà preghate per noi. #SCBPSG #Finale #CDL #B1905 pic.twitter.com/nYYIlW8Za0
+— Bastia 1905 (@B1905Ufficiale) 8 Avril 2015
+    </p>
+    <p>
+     È sin'à Bunifaziu, e bandere turchine è bianche sò alzate 
+G-4 cumprete puru a voscia bandera! pic.twitter.com/G0JwVSz603
+— kissing pigs (@kissingpigs) 7 Avril 2015
+    </p>
+    <p>
+     Pienu d'altri ritratti : a pagina Facebook Operazione "Una casa, una bandera corsa, una bandera turchina"
+    </p>
+    <p>
+     È ancu nant'à l'àrgani...
+Ritratti : Bastia 1905.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

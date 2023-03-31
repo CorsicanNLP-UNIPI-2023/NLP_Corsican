@@ -1,0 +1,79 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Carne purcina : tucchemu u fondu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Carne-purcina-tucchemu-u-fondu_a1044.html"/>
+     <date>
+      Fri, 04 Mar 2011 01:06:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Carne purcina : tucchemu u fondu
+   </head>
+   <div type="excerpt">
+    <p>
+     L'avantagiu di u salottu di l'agricultura hè ch'ellu ci mostra à chì puntu tucchemu u fondu cù i nostri prudutti. È cuntinuvemu à zappà...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Fidighjate dinù sta videò di France 3 Corse : Produits corses ou impostures ? Difficile de savoir (felicitemu à Célia Petroni per u so riportu tremendu). 
+À principiu, ci hè da dumandassi s'elli ùn sò micca un sketch di Les Inconnus, ma nò. 
+Estouffade de Figatel à l'huile d'olive, figatellu blanc (?), londzau, kopà, "pancetta" (sic), ci si trova di tuttu, ancu un "Corsica Gourmandu" (re-sic), è u nostru amicu barbutu ci parla di "la figatelli" cum'è essendu "le plat traditionnel keurse"... 
+Menzione speziale à quellu chì presenta a so sciarcutteria cum'è essendu di u paese di "Follini" (re-re-sic). U cunniscite stu paese ? Serà quellu induve i purcelli venenu tutti da China è induve l'abitanti si techjanu di "saucisson d'âne" ?
+    </p>
+    <p>
+     "La charcuterie vient de Follini..."
+    </p>
+    <p>
+     Cumu fà passà à a risa i pruduttori chì si battenu per una carne purcina di qualità ?
+    </p>
+    <p>
+     Ci si trova di tuttu : figatellu biancu..
+    </p>
+    <p>
+     Di siguru, u famosu "saucisson d'âne", pruduttu nustrale cunnisciutu sopr'à tuttu da i turisti.
+    </p>
+    <p>
+     "Estouffade de figatel' avec d'la saucisse, des légumes et de l'huile d'olive..." Quessa a sosula ùn l'hà mancu trova Pierre-Jean Luccioni per i so Tempi Fà !
+    </p>
+    <p>
+     "C'est plat traditionnel de la Corse, LA FIGATELLI (sic)... aller-retour au barbecue, ou à l'apéritif avec des pommes de terre, d'la tomate... et la ventrêche, ça s'appelle la PANCETTA (re-sic)..." 
+Serà cuntenta Mammone !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

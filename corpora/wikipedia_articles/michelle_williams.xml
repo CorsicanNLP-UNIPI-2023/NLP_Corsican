@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Michelle Williams
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Michelle%20Williams"/>
+     <date>
+      2015-07-03T10:12:25Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Michelle Williams
+   </head>
+   <p>
+    Michelle Williams hè un'attrice americana.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Brokeback Mountain
+   </p>
+   <p>
+    Williams, Michelle
+   </p>
+   <p>
+    Williams, Michelle
+   </p>
+  </body>
+ </text>
+</TEI>

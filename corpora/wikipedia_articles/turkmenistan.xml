@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Turkmenistan
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Turkmenistan"/>
+     <date>
+      2014-03-23T15:07:32Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Turkmenistan
+   </head>
+   <p>
+    U Turkmenistan (in turkmenu: Türkmenistan) hè un paese in Asia.
+   </p>
+   <p>
+    Asia
+   </p>
+  </body>
+ </text>
+</TEI>

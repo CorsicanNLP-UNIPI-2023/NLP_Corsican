@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chuck Norris s'hà da fà tichjà di colpi
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Chuck-Norris-s-ha-da-fa-tichja-di-colpi_a1518.html"/>
+     <date>
+      Tue, 19 Mar 2013 23:17:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chuck Norris s'hà da fà tichjà di colpi
+   </head>
+   <div type="excerpt">
+    <p>
+     L'infurmazione impurtante di sta settimana, ùn vene nè da Jérôme Cahuzac, nè da Nabila, nè da u papa Francescu. Chuck Norris hà persu a so barba, è li stà veramente male.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Chuck Norris ùn hè più u maestru di u mondu. 
+U nùmeru unu mundiale di i cazzotti era diventatu cunnisciutissimu grazia à i "Chuck Norris facts"  : 
+"Chuck Norris ùn hà micca mostra. Hè ellu chì decide chì ora hè".  "Cristu hè natu in 1940 nanz'à Chuck Norris."  "Chuck Norris face pienghje e cipolle."  "Ùn ci hè più vita nant'à u pianeta Marzu dapoi chì Chuck Norris ci hè andatu."  "Un ghjornu, Chuck Norris hà cummandatu un steak in un risturante. U steak li hà obeitu". 
+Ma quessa, era nanzu chì u nostru Walker Tezzas Ranger avessi l'idea di sbarbassi. 
+U situ americanu TMZ hà publicatu una videò di Chuck à u mare, in débardeur è panza fora. A fine d'un mitu. 
+Perchè ci ai abandunatu ancu tù, Chuck ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

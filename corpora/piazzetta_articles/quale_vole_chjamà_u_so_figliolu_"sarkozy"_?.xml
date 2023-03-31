@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quale vole chjamà u so figliolu "Sarkozy" ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quale-vole-chjama-u-so-figliolu-Sarkozy_a1171.html"/>
+     <date>
+      Fri, 23 Sep 2011 18:00:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quale vole chjamà u so figliolu "Sarkozy" ?
+   </head>
+   <div type="excerpt">
+    <p>
+     In Libìa, u zitellu hè statu battizatu "Sarkozy" in omagiu à u presidente francese. U principiu d'una moda ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In l'anni 90, a moda hè stata di dà cum'è nomi à i so figlioli quelli di e serie americane. Tandu, sò ghjunti centinaie di Kévin, di Donovan, di Jason, di Steven, di Christopher, di Brandon, di Douglas, d'Arnold... i corci. 
+In l'anni 2000, a moda fù quella di i nomi maschili in "o" : Théo, Mattéo, Léo, Enzo, Hugo... 
+Pè e zitelle ci vulia à accurtà i nomi : Emma, Lola, Eva, Zoé, Lou... 
+Ci hè stata dinù a moda di i nomi in "is" : Maélys, Thémis, Mathis, Loris, Yaris, Umpastis... 
+Nant'à France-info, avemu amparatu sta mane chì in Tripoli, i genitori d'un picculu maschju anu chjamatu u so figliolu "Sarkozy", in omagiu à u presidente francese. Iè, u nostru. Povera criatura chì principia cusì male a so vita. 
+Serà forse quessu u nome à a moda di l'anni 2010. Ùn hè ancu u casu ind'è noi, ma forse da quì à pocu videremu ghjunghje i picculi Sarkozy-Paulu o Francescu-Sarkozy... 
+Di tutte e manere, sapemu digià chì in 2012, quellu chì passa è vince, serà ellu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Surtita in lingua corsa u 21 settembre in u Nebbiu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Surtita-in-lingua-corsa-u-21-settembre-in-u-Nebbiu_a1935.html"/>
+     <date>
+      Mon, 08 Sep 2014 10:17:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Surtita in lingua corsa u 21 settembre in u Nebbiu
+   </head>
+   <div type="excerpt">
+    <p>
+     V'annuiate ? Site deprimatu da a rientrata ? Sapete parlà corsu ma micca troppu, è vulete appena di più di pratica ? Avemu truvatu qualcosa per voi. Un associu prupone una spassighjata in lingua corsa u 21 settembre.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè natu l'associu Immersione chì prupone surtite in immersione (bon và bè, a dice u so nome...). 
+A prima surtita si ferà a dumenica 21 settembre, in u Nebbiu, in giru à e cappelle, da San Michele à a Chjesa Negra. 
+U livellu hè faciule. 
+Pè e scrizzione, dumande è infurmazione diverse, addirizzatevi per mail à l'accumpagnadore in muntagna incaricatu di a surtita : petrupasqualini@gmail.com 
+L'associu ci dice dinù chì : "A regula di u ghjocu sera d'un parla che corsu da u principiu à a fine." 
+Hè detta.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

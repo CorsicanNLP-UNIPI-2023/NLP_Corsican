@@ -1,0 +1,89 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bona nutizia : "fradé" hè passatu in a lingua francese
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Bona-nutizia-frade-he-passatu-in-a-lingua-francese_a2562.html"/>
+     <date>
+      Thu, 16 Mar 2017 10:46:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bona nutizia : "fradé" hè passatu in a lingua francese
+   </head>
+   <div type="excerpt">
+    <p>
+     Un ghjornu, a parolla "fradé" entrerà in u dizziunariu Larousse. Pare ch'ella si sparghji digià in Francia.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Sò poche e parolle d'orìgine corsa entrate in a lingua francese. 
+Cunnisciamu a parolla maquis, chì vene da machja :
+    </p>
+    <p>
+     È ci hè parastage, chì vene da parastaghju. Bon d'accordu, l'Académie française ùn l'hà ancu ricunnisciuta ma tuttu u mondu l'impiega.
+    </p>
+    <p>
+     Ma pare avà chì frate, fraté o fradé sianu impiegati in francese. A dicenu parechji siti ! 
+Pè u situ Urbandico  : 
+Fraté est le diminutif de « fratellu » (fratelli au pluriel) qui veut dire « frère » en langue corse. Fraté est une expression très utilisée de manière affective en Corse et dans le Sud de la France, comme à Marseille.
+    </p>
+    <p>
+     Per blazz.fr : 
+Du Corse fratellu. Cette expression désigne le frère, le vrai pote, une personne de confiance, pas quelqu'un qui va te piquer ta gonzesse, quoi. 
+"Oh peuchère fraté, on se fait un fromage dans le maquis ?" 
+Bon ok.
+    </p>
+    <p>
+     È nant'à a pagina "le dico des jeunes" (sic) di u situ valantine.fr 
+« Hé fraté ! » signifie « hé mon frère ». Se dit aussi à une fille. 
+Eccu, ci simu. Avete lettu bè : "se dit aussi à une fille".
+    </p>
+    <p>
+     U situ amenta ancu a spressione "Fraté y’en a assez".
+    </p>
+    <p>
+     Di regula, da quì à pocu duveria ghjunghje una canzona di rap chì mintuverà i fradés di e cités. 
+Ùn ci la femu micca à fà parlà corsu à i Corsi. Ancu menu à fà di u Corsu una lingua officiale (a republica hè unéindivisible...). Ma à fà entre fradé in u dizziunariu, podarsi. 
+Avemu e vittorie ch'è no pudemu strappà...
+    </p>
+    <p>
+     🏆Bien joué fraté 👏🏼⚪️🔴 @AS_Monaco ! #ASMMCI pic.twitter.com/fgG4x2a53y
+— En Avant de Guingamp (@EAGuingamp) 15 mars 2017
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

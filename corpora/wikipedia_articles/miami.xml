@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Miami
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Miami"/>
+     <date>
+      2013-03-09T03:13:25Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Miami
+   </head>
+   <p>
+    Miami hè una cità di i Stati Uniti d'America in u Statu di a Florida.
+   </p>
+   <p>
+    Tene 404.048 abitanti (5.400.000 a cità metropulitana).
+   </p>
+  </body>
+ </text>
+</TEI>

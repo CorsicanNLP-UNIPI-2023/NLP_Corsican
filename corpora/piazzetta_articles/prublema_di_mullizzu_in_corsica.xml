@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Prublema di mullizzu in Corsica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Prublema-di-mullizzu-in-Corsica_a2322.html"/>
+     <date>
+      Mon, 28 Dec 2015 01:08:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Prublema di mullizzu in Corsica
+   </head>
+   <div type="excerpt">
+    <p>
+     Chì fà di quelli chì s'attaccanu à i spenghjifocu ? È di quelli chì s'attaccanu à i lochi di preghere ?
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

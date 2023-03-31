@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U misteru di u vechju di u "tireur fou"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-misteru-di-u-vechju-di-u-tireur-fou_a1640.html"/>
+     <date>
+      Mon, 18 Nov 2013 22:18:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U misteru di u vechju di u "tireur fou"
+   </head>
+   <div type="excerpt">
+    <p>
+     Mentre chì quellu chì tuttu u mondu chjama avà u "tireur fou" corre sempre, un'altra dumanda si pone. Chì face u vechju cù una canna daretu à ellu ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U tontu di e fucilate parigine hè sempre in libertà è ùn si sà sempre nunda d'ellu. 
+Ma ci hè un altru misteru chì si piatta in e fiure di e camerà di surveglianza di BFM. Fidighjate bè. Allora chì u scemu armatu hè in traccia di mustrà u so fucile à tuttu u mondu, si vede un vechjatellu chì si ne và, pianu pianu, cù a so canna. 
+Purtantu, si vede bè nant'à u filmettu ch'ellu si trova nasu à nasu cù u tontu. 
+Quale serà statu stu vechjettu ? Nant'à e rete suciali ci simu posti a dumanda. Per certi saria u veru cerbellu di sta sturiaccia, un generu di "Keyser Söze". Per d'altri un eroe chì ùn hà paura di nunda. 
+O forse un vechju appena sordu chi ùn hà intesu è vistu nunda... 
+Qual'hè chì sà...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

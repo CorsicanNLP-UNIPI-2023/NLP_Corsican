@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     L'infurmazione di u ghjornu...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/L-infurmazione-di-u-ghjornu_a1462.html"/>
+     <date>
+      Thu, 06 Dec 2012 16:28:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    L'infurmazione di u ghjornu...
+   </head>
+   <div type="excerpt">
+    <p>
+     A ci dice Corse-Matin : u maritu di Clara Morgane hè corsu è hè DJ.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Facia un pezzu chì Corse-Matin ùn avia fattu a prumuzione di a cultura è di a finezza. 
+In un bellu riportu (
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

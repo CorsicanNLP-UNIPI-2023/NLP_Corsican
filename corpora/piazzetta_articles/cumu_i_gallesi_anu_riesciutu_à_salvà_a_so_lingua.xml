@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cumu i Gallesi anu riesciutu à salvà a so lingua
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cumu-i-Gallesi-anu-riesciutu-a-salva-a-so-lingua_a1242.html"/>
+     <date>
+      Thu, 12 Jan 2012 11:13:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cumu i Gallesi anu riesciutu à salvà a so lingua
+   </head>
+   <div type="excerpt">
+    <p>
+     Una lingua minuritaria hè cundannata à more ? À u Paese di Gallu, anu riesciutu à
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In Corsica a sapete, semu lecchi, a nostra lingua hè morta, fermanu solu qualchì indianu in i paesi chì a parlanu sempre.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

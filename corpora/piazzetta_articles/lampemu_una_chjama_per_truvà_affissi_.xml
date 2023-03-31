@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lampemu una chjama per truvà affissi
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Lampemu-una-chjama-per-truva-affissi_a2026.html"/>
+     <date>
+      Sun, 16 Nov 2014 22:52:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lampemu una chjama per truvà affissi
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè un prugettu ch'è no avemu per l'annu à vene : fà una mostra cun l'affissi rivindicativi corsi, dapoi l'anni 60. Lampemu dunque una chjama per truvanne u più pussibule. Ci pudete aiutà ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     I vechji affissi ci contanu una storia, a nostra. Sò i testimoni d'un epica è ci dicenu assai affari nant'à un passatu certe volte appena sminticatu. Ci parlanu d'un tempu quandu a cummunicazione in pulitica si facia nant'à i muri di i paesi è e cità, micca pè SMS è Facebook. D'un tempu dinù chì i media tradiziunali ùn davanu tantu a parolla à certi... 
+Eppò ci hè una dimensione estetica. Ci hè in a mossa di l'anni settanta è ottanta una vera originalità, una grande creatività chì saria bè di scopre o di turnà à scopre. 
+Hè per quessa ch'è no avemu avutu l'idea di fà una mostra nant'à l'affissi di a mossa pulitica è culturale dapoi l'anni 60. N'avemu digià unepochi, ma ùn bastanu. 
+S'è vo avete affissi originali, o puru appiccicatoghji, s'è vo vulete aiutacci, mandateci apiazzetta@free.fr o un messagiu nant'à a nostra pagina Facebook. 
+À truvacci prestu !
+    </p>
+    <p>
+     St'articulu hè statu traduttu nant'à u situ Ampargu a lingua corsa.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

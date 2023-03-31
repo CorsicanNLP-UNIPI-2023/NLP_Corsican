@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Carrara
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Carrara"/>
+     <date>
+      2016-12-05T02:47:15Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Carrara
+   </head>
+   <p>
+    Carrara hè una cumuna toscana di a pruvincia di Massa e Carrara. Teni 65.560  abitanti
+   </p>
+   <p>
+    == Riferimenti ==
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    U situ ufficiali
+   </p>
+   <p>
+    Cumuna di Toscana
+   </p>
+  </body>
+ </text>
+</TEI>

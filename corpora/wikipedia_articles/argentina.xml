@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Argentina
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Argentina"/>
+     <date>
+      2016-07-20T08:36:46Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Argentina
+   </head>
+   <p>
+    L'Argentina (ancu Arghjintina) hè un statu in l'America di u Sudu. A capitale hè Buenos Aires.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Délfor Dicásolo
+   </p>
+   <p>
+    Cristina Fernández de Kirchner
+   </p>
+   <p>
+    Enrique Pinti
+   </p>
+   <p>
+    America di u Sudu
+   </p>
+  </body>
+ </text>
+</TEI>

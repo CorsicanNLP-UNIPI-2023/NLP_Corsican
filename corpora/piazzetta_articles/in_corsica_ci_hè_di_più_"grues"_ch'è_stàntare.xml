@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     In Corsica ci hè di più "grues" ch'è stàntare
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/In-Corsica-ci-he-di-piu-grues-ch-e-stantare_a1179.html"/>
+     <date>
+      Tue, 04 Oct 2011 00:42:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    In Corsica ci hè di più "grues" ch'è stàntare
+   </head>
+   <div type="excerpt">
+    <p>
+     « En Corse il est impossible de prendre une photo quelque part sans avoir une grue en arrière-plan » (intesu st'estate da un turistu).
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ùn a sapete forse micca, ma in corsu, a parolla "grue" si dice àrganu. 
+Eppuru, ne vidite tutti i ghjorni in u nostru paisaghju. Sò diventati u nostru cutitianu, à tal puntu ch'è vo ùn e rimarcate mancu più. Nanzu quand'è vo ne scuntravate unu, vi diciate "buh ! ancu quì custruiscenu avà, in stu lucacciu persu ? Quale serà u tontu chì s'hà da cumprà una casa quì ?" 
+Avà, àrgani ci n'hè non-stop nant'à a strada da Bastia à Bunifaziu. In bor'di mare, in bor'di strada, in bor'di fiume, in paese... Ci n'hè da per tuttu. 
+D'altronde, vi site digià postu a quistione di sapè quantu ci hè àrgani in stu mumentu in Corsica ? I nostri antichi luntani, quelli di a prestoria, ci anu lasciatu e stàntare, e "statues-menhir". Ci n'hè circa una settantina in Corsica. 
+È noi, chì lasceremu à e generazione future ? Casali, centru cummerciali, orrori, bastimenti goffi, immòbuli grisgi senza anima, palazzi culuriti chì imbruttanu u paisaghju, parkings, è ronds-points. 
+Ùn seranu forse micca assai fieri di noi, i nostri figlioli... Ma bon, ci ne impippemu, postu chì "ça va créer des emplois". Nò ? 
+Allora, quantu àrgani ind'è noi ? Mandate i vostri ritratti di "grues" nant'à apiazzetta@free.fr
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

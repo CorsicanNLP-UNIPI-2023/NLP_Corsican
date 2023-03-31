@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ghjocu : circate u sbagliu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ghjocu-circate-u-sbagliu_a1030.html"/>
+     <date>
+      Mon, 14 Feb 2011 23:17:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ghjocu : circate u sbagliu
+   </head>
+   <div type="excerpt">
+    <p>
+     Per u macciu Bastia - Cannes era a CTC chì sponsorizava u Sporting. I ghjucadori purtavanu nant'à a maglia sta frasa : "A lingua hè viva, ci tocca à parlà".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ramintemu chì u SCB vene di firmà a càrtula di a lingua corsa è s'ingagia à prumove è sviluppa a nostra lingua à u club. 
+Eccu dunque u ritrattu ch'ellu si vede nant'à u situ officiale di u Sporting... 
+Ma ci sò dui omi pulitchi chì si piattanu nant'à a fottò è chì sò dui partigiani arrabbiati contr'à a lingua corsa. 
+L'unu s'oppone dapoi ch'ellu hè natu à l'obligazione di u so insignamentu (rivene à dì ch'ellu hè per a so morte), l'altru in una dichjarazione recente s'oppone à a presenza di a lingua corsa in i dibattiti à l'Assamblea di Corsica (7 dumande nant'à 69 durante a mandatura nova, solu...). 
+Avete trovu ? 
+D'appressu à voi allora, hè un muntagiu Photoshop o sti dui omi ci ghjocanu à a risa ?
+    </p>
+    <p>
+     Altra dumanda à Tatti : postu ch'ellu dumanda a traduzzione in francese di e quistioni orali in corsu, perchè micca traduce in corsu e quistioni fatte in francese (90% di e dumande) ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

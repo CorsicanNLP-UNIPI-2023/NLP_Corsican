@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     François Hollande canta "Get Lucky" di Daft Punk
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Francois-Hollande-canta-Get-Lucky-di-Daft-Punk_a1606.html"/>
+     <date>
+      Mon, 15 Jul 2013 12:52:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    François Hollande canta "Get Lucky" di Daft Punk
+   </head>
+   <div type="excerpt">
+    <p>
+     Ancu u presidente di a Ripublica ripiglia a canzona di i Daft Punk. Infine, prova.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Dop'à u muntagiu di Barack Obama cantendu a canzona di i Daft Punk, eccu a video di François Hollande. 
+I magagnoni piglianu pezzucci di discorsi per fà un clip cù u strattu instrumentale di Get lucky. 
+Quale hè chì a si prova cun Paul Giacobbi ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

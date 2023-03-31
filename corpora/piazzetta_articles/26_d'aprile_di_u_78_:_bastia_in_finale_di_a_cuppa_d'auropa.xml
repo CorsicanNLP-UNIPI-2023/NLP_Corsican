@@ -1,0 +1,72 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     26 d'aprile di u 78 : Bastia in finale di a cuppa d'Auropa
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/26-d-aprile-di-u-78-Bastia-in-finale-di-a-cuppa-d-Auropa_a1758.html"/>
+     <date>
+      Sat, 26 Apr 2014 16:13:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    26 d'aprile di u 78 : Bastia in finale di a cuppa d'Auropa
+   </head>
+   <div type="excerpt">
+    <p>
+     36 anni fà, Bastia ghjucava una finale di cuppa d'Auropa... in un fanghicciu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     S'è vo ùn l'avete campata, di l'epupea di Bastia ne cunniscite parechji affari : una canzona d'Hubert Tempête, una vittoria in a neve in Torino cù Chariots de Feu di Vangelis, un paghju di guanti rossi è "Castellini n'en revient pas". 
+Cunniscite a bella storia : sette vittorie cunsecutive contr'à Lisbona, Newcastle, Torino. Una chjiba 7 à 2 in quarti di finale contr'à Iena, è un macciu di legenda contrà i Grasshoppers di Zurich è una rete di Claude Papi :
+    </p>
+    <p>
+     Eppo ci fù a finale contr'à u PSV Eindhoven. Tandu e finale di cuppa UEFA si ghjocanu in duie partite, andata è ritornu. L'andata si ghjoca in Furiani. 
+Ma ci hè statu un veru dilluviu nant'à a Corsica. Hè piossu à rivocchi durante ore è ore. Nant'à u terrenu d'Armandu Cesari l'acqua s'appozza è si cerca di caccialla quant'ellu si pò : stagnoni, spazzòsule, sacchi di cimentu... ùn ci hè nunda à fà. 
+Hè chjara ch'ellu ùn si pò ghjucà. Ma ci hè un almanaccu à rispettà. Da quì à qualchì settimana principia u mundial argentinu. L'arbitru iugoslavu Maksimovic ùn vole sente nunda. 
+Durante novanta minuti u purtiere neerlandese Van Beveren caccia tutti i tiri di l'attaccanti bastiacci. È nant'à a sola azzione di a partita induv'ellu hè battutu, hè... un pozzu d'acqua ch'impedisce u ballò di francà a linea. 
+Finisce zeru à zeru. Pè a prima volta in st'epupea bastiaccia, u SECB ùn vince in casa soia. N'hè finita di i sogni di cuppa. 
+À u ritornu i leoni di Furiani ùn tenenu u colpu. Disfatta trè à zeru. 
+Chì saria stata sì a partita andata si saria ghjucata in cundizioni nurmali ? Ùn si saperà mai... 
+Qualchì leia :  L'epupea nant'à Spiritu Turchinu  U situ Bastia 78  U ducumentariu di Michel Moretti fattu in u 1988 
+È di siguru u filmettu di Jacques Tati è a so figliola Sophie Tatischeff, "Forza Bastia" da vede nant'à Vimeo
+    </p>
+    <p>
+     Nò, hè un ghjucadore di u PSV cù a maglia bastiaccia.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

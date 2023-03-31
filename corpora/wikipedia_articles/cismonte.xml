@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cismonte
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Cismonte"/>
+     <date>
+      2019-09-14T18:09:42Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cismonte
+   </head>
+   <p>
+    U Cismonte hè un dipartimentu di a Francia in u nordu di a Corsica. U capilocu di Cismonte hè Bastia.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Bastia
+   </p>
+   <p>
+    ==WWW==
+   </p>
+   <p>
+    http://www.haute-corse.gouv.fr/
+   </p>
+   <p>
+    Corsica
+   </p>
+   <p>
+    Geugrafia di a Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

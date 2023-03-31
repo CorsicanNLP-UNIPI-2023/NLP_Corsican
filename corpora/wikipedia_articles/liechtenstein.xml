@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Liechtenstein
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Liechtenstein"/>
+     <date>
+      2015-05-03T04:50:35Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Liechtenstein
+   </head>
+   <p>
+    Liechtenstein (Fürstentum Liechtenstein) hè un paese situatu in Europa. A capitale di stu paese hè Vaduz.
+   </p>
+   <p>
+    Liechtenstein
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cumu fà a scelta di u mullizzu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cumu-fa-a-scelta-di-u-mullizzu_a2723.html"/>
+     <date>
+      Thu, 10 May 2018 01:02:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cumu fà a scelta di u mullizzu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Davant'à u novu (è siguramente micca ultimu) episodiu di u MullizzuGate, i citatini s'organizeghjanu. A sola suluzione hè di fà cresce a quantità di mullizzu "sceltu". Un gruppu d'aiutu hè statu creatu nant'à Facebook.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Vi dumandate induve mette i vostri tappi in suvaru ? Chì fà di e vostre ampolle vechje ? E vostre ciavatte fruste ? 
+U gruppu publicu nant'à Facebook Aide au tri sélectif en Corse vi ghjuverà pè risponde à e vostre dumande. 
+Invece, nisuna precizione per sapè induve mette l'eletti frusti.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

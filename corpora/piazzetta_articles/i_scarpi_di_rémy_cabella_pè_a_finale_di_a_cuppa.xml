@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I scarpi di Rémy Cabella pè a finale di a cuppa
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-scarpi-di-Remy-Cabella-pe-a-finale-di-a-cuppa_a2393.html"/>
+     <date>
+      Tue, 03 May 2016 10:55:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I scarpi di Rémy Cabella pè a finale di a cuppa
+   </head>
+   <div type="excerpt">
+    <p>
+     Dop'à l'affari di a bandera corsa pruibita in Nizza da u prefettu è da a LFP, dop'à l'interdizzione à l'Eurovision, eccune unu chì hè fieru di a testa mora : Rémy Cabella, l'attaccante aiaccinu di l'OM. Ma micca siguru ch'ellu ferà piacè à tuttu u mondu...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Rémy Cabella, natu in Aiacciu è attaccante attuale di l'OM hà palisatu i scarpi ch'ellu purterà pè a finale di a cuppa di a lega, Marseglia - PSG :
+    </p>
+    <p>
+     Ci hè dinù u filmettu :
+    </p>
+    <p>
+     Les crampons exclusifs de Rémy Cabella pour la... par Sportune
+    </p>
+    <p>
+     Nant'à e rete suciale l'avisi sò spartuti. Trà quelli chì si vergognanu di vede a bandera corsa assuciata à l'OM, è quelli chì sò fieri chì l'Aiaccinu metti a bandera corsa nant'à i so scarpi (Pascal Olmeta a facia anch'ellu nant'à i so guanti), u cuntrastu hè vivu. 
+Chì cuncistoriu, sta testa di moru !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

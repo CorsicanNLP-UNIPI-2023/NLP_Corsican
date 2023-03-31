@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ponte Leccia City, USA
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ponte-Leccia-City-USA_a2355.html"/>
+     <date>
+      Fri, 25 Mar 2016 01:03:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ponte Leccia City, USA
+   </head>
+   <div type="excerpt">
+    <p>
+     I Corsi anu à Paoli City è Corsicana à i Stati Uniti ? L'Americani anu à Ponte Leccia. Seria di ritratti nant'à a cità a più americana di Corsica, di Léa Eouzan in u 2013.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ma chì serà andatu à fà Gilles Simeoni in Washington ? Bastava à andà in Ponte Leccia.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

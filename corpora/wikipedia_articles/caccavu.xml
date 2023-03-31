@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Caccavu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Caccavu"/>
+     <date>
+      2015-07-01T22:41:49Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Caccavu
+   </head>
+   <p>
+    U caccavu hè un sturmentu usatu in cucina par cocia l'alimenti.
+   </p>
+   <p>
+    == Citazioni ==
+   </p>
+   <p>
+    Accadi chì u caccavu fussi citatu in a cultura è in a litteratura corsa. Par asempiu in u pruverbiu:
+   </p>
+   <p>
+    U caccavu vatatu ùn fù mai cottu.
+   </p>
+   <p>
+    ==Rifarenzi==
+   </p>
+   <p>
+    Peretti, Petru Paulu, Campu, 1966
+   </p>
+   <p>
+    Cucina
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Oschatz
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Oschatz"/>
+     <date>
+      2019-10-03T11:23:45Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Oschatz
+   </head>
+   <p>
+    Oschatz hè una cità in u land di Sassonia. Hà una superficie di 55 km² è à l'incirca 15.000 abitanti.
+   </p>
+   <p>
+    Oschatz
+   </p>
+  </body>
+ </text>
+</TEI>

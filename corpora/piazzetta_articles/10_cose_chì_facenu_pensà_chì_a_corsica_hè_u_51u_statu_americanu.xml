@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     10 cose chì facenu pensà chì a Corsica hè u 51u statu americanu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/10-cose-chi-facenu-pensa-chi-a-Corsica-he-u-51u-statu-americanu_a2414.html"/>
+     <date>
+      Mon, 30 May 2016 09:09:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    10 cose chì facenu pensà chì a Corsica hè u 51u statu americanu
+   </head>
+   <div type="content">
+    <p>
+     U Las Vegas in Ponte Leccia  L'obesità  A passione di l'arme di u Nebraska  L'America Garage in Ponte Leccia  Gilles Simeoni  A passione di e banlieues residenziale  A passione di u caddie  U futbol americanu (i patriotti bastia - black heads biguglia -  I cunservatori conni  Paoli city  Corsicana 
+http://www.lefigaro.fr/actualite-france/2009/01/27/01016-20090127ARTFIG00003-corse-les-armes-proliferent-l-etat-renforce-les-controles-.php 
+http://abonnes.lemonde.fr/les-decodeurs/article/2015/10/06/il-y-a-desormais-plus-d-armes-a-feu-que-d-habitants-aux-etats-unis_4783413_4355770.html
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

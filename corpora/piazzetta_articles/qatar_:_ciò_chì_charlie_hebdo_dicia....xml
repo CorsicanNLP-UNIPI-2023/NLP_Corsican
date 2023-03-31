@@ -1,0 +1,74 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Qatar : ciò chì Charlie Hebdo dicia...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Qatar-cio-chi-Charlie-Hebdo-dicia_a2122.html"/>
+     <date>
+      Sun, 11 Jan 2015 19:55:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Qatar : ciò chì Charlie Hebdo dicia...
+   </head>
+   <div type="excerpt">
+    <p>
+     Eccu ! Un striscione anti-Qatar in Furiani, u PSG chì s'annerba è chì forse hà da purtà lagnanza, è partemu torna per un novu scandalu naziunale...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Prima, peccatu chì nimu appia parlatu di u minutu di silenziu, bellu è cummuvente. In i stadii di Corsica sò sempre rispettati. Ùn hè micca sempre u casu in Francia, è certi osservatori l'anu rimarcata :
+    </p>
+    <p>
+     U striscione in tribuna Petrignani hà fattu assai parlà. Oghje s'ampara chì u PSG purterà forse una lagnanza in tribunale di Bastia. 
+Certi facenu rimarcà ch'ellu ùn era micca u mumentu. Forse. Sapemu chì i sustenidori (di tutti i stadii) sò stuzzicaghjoli, è forse i nostri più ch'è l'altri. 
+Hè vera dinù chì ùn ci vole micca à fà generalità. A quistione di u sustegnu di u Qatar à u Djihad hè cumplicata. Da leghje : 
+Le Qatar, soutien des jihadistes du Nord-Mali ? Cinq choses à savoir.
+    </p>
+    <p>
+     Ma stuzzicaghjoli è dispettosi, l'eranu dinù quelli di Charlie Hebdo. Eranu dinù anti-futbol è anti-sustenidori, visti cum'è beaufs di i stadii. 
+È hè cusì chì u contu Twitter officiale scrivia di settembre scorsu :
+    </p>
+    <p>
+     Peur d’un attentat à Paris ? Réfugiez-vous au PSG. C’est le seul endroit que n’attaqueront pas les djihadistes financés par le Qatar.
+— Charlie Hebdo (@Charlie_Hebdo_) 23 Septembre 2014
+    </p>
+    <p>
+     Quessa, hè fatta.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

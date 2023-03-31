@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Newsletter di A Piazzetta
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-Newsletter-di-A-Piazzetta_a2560.html"/>
+     <date>
+      Tue, 14 Mar 2017 13:04:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A Newsletter di A Piazzetta
+   </head>
+   <div type="content">
+    <p>
+     Di marzu, si riparte !  Marzu catarzu, hà sette barette... Cunniscite i detti è pruverbii nant'à u mese di marzu ?  http://xfru.it/ZQwE5p 
+Donne, lingua è sucetà corsa  L'ottu di marzu era a ghjurnata mundiale di u dirittu di e donne... Ma in Corsica, si lagnanu dinù chì l'omi ùn li parlinu mai in lingua corsa !  http://xfru.it/TBEbxP 
+Barça - PSG, una sprufundata storica  U PSG hè entratu in a storia di a cuppa d'Auropa. Eccu u resucontu di a serata.  http://xfru.it/mo3QBS 
+Una carta di i chjassi di Bastia  Ci vole à spassighjassi per capisce à chì puntu Bastia hè bella. Eccu una Google Map per scopre a storia è i lochi a cità.  http://xfru.it/BNANsa 
+Aiacciu, i to centri cummerciali si vedenu da u spaziu  A ci hà detta l'astronauta Thomas Pesquet, da u spaziu, si vedenu e zone cummerciale tamante di u circondu aiaccinu...  http://xfru.it/rTbhmG
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Libertà pè Tony Vairelles
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Liberta-pe-Tony-Vairelles_a1198.html"/>
+     <date>
+      Wed, 26 Oct 2011 13:41:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Libertà pè Tony Vairelles
+   </head>
+   <div type="excerpt">
+    <p>
+     Poveru Tony. Dapoi ch'ellu hè partutu di Bastia, ùn li accadenu più ch'è guai.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Tonygol hè maladettu. Dopu à e so stagioni in Bastia (2001-2002 è 2004-2005) hà pigliatu a trafalata. Gattive scelte spurtive, affare di i matches truqués in Bèlgica, fiascu in Sète è à Gueugnon in tantu chè azziunariu, falata da u National à a DH. 
+Oghje, hè dunque à u centru d'un cumbugliu abbastanza goffu. Hè accusatu di tentativa d'omicidiu è hà passatu a so prima notte in prigiò. Hè accusatu d'avè tiratu una fucilata nant'à i videurs d'una buatta di notte, a stampa ùn parla più ch'è di quessa. 
+A baruffa si passa in a sinistra piaghja di a Meurthe et Moselle, in una discoteca (o piuttostu un hangar) chjamata "Les 4 As". I dui fratelli di Tony, Giovan è Jimmy facenu a bomba è beienu appena troppu. Tandu, si facenu mette fora da unepochi di videurs antipatichi, cum'è sempre. Voltanu una prima volta per vindicassi, ma piglianu i colpi. 
+Hè tandu ch'elli chjamanu i dui fratelloni, chì sarianu venuti cù i fucili è tiratu nant'à i videurs. Per avà ùn si sà nunda d'altru, è tutti anu dirittu à a famosa "présomption d'innocence" chì noi Corsi, cunniscimu cusì male. 
+Ma l'affari sò in francese per u nostru poveru Tony, purtatu in trionfu dopu à meza finale Bastia-Sedan in 2002 è chì avia dichjaratu à Téléfoot, davant'à un Thierry Roland stumacatu "ça fait bizarre de le dire, mais oui le peuple corse existe"... 
+Una cosa hè strana, cumu serà chì Thiriez ùn hà fattu nisun cummunicatu pè cundannà à Bastia in l'affare Vairelles ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

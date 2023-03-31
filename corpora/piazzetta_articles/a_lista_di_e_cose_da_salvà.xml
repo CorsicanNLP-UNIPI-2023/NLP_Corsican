@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A lista di e cose da salvà
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-lista-di-e-cose-da-salva_a1937.html"/>
+     <date>
+      Mon, 08 Sep 2014 23:30:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A lista di e cose da salvà
+   </head>
+   <div type="content">
+    <p>
+     1. A nostra lingua  Di siguru, si trova à a prima piazza. Dichjarata "en danger" da l'UNESCO, ma u so insignamentu saria "discriminatoire" per parechji di i nostri capizzoni pulitichi è sinidicalisti. 
+2. U nostru liturale  "Ah c'est beau la Keurse !" Iè d'accordu, ma per quantu tempu ? À a vitezza induv'ellu si custruisce, ùn hè micca sigura ch'ellu ci fermi qualcosa à i nostri figlioli. Ùn hè micca U Levante chì ci dicerà u cuntrariu. 
+3. U cantu in paghjella  Beh iè, quessu dinù hè dichjaratu in perìculu da l'UNESCO. 
+4. I nostri castagni  U cynipsacciu s'hè stirpatu u nostru castagnetu è a sorte di a castagna ùn dipende più ch'è d'una vespuccia chjuca chjuca. S'ella fiasca, semu male... 
+5. E palme  U pinzachju rossu si manghja tutte e palme. Nant'à a costa orientale ne ferma guasi più. 
+6. E capre corse  Iè, anch'elle ci tocca à salvalle... È i nostri pastori per listessa occasione. 
+I nomi di lochi  U nostru mare  U nostru paisaghju  A nostra muntagna  E nostre case  U nostru patrimoniu  I pastori,  i muri in petra, i tetti in teghje... l'architettura
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

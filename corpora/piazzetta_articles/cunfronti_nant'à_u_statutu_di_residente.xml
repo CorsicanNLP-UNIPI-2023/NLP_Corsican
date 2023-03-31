@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cunfronti nant'à u statutu di residente
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cunfronti-nant-a-u-statutu-di-residente_a1787.html"/>
+     <date>
+      Fri, 09 May 2014 12:04:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cunfronti nant'à u statutu di residente
+   </head>
+   <div type="content">
+    <p>
+     L'ultima emissione Cunfronti nant'à Via Stella avia per tema u statu di residente. 
+Si pò turnà à vede u replay nant'à u situ di France 3 Corsica.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Per piantà di parlà di u derby...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Per-pianta-di-parla-di-u-derby_a1505.html"/>
+     <date>
+      Tue, 05 Mar 2013 15:31:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Per piantà di parlà di u derby...
+   </head>
+   <div type="excerpt">
+    <p>
+     Dopu à una settimana d'orrore, di tazzeghju, di lamenti è di crìtiche, per scambià appena vi prupunimu un ritrattu di pace, d'amore, d'armunia è di fraternità.
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

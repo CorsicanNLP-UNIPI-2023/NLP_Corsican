@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È avà, sanziunati per stu t-shirt ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-ava-sanziunati-per-stu-t-shirt_a1559.html"/>
+     <date>
+      Sun, 05 May 2013 16:51:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È avà, sanziunati per stu t-shirt ?
+   </head>
+   <div type="excerpt">
+    <p>
+     A LFP minaccia di sanziunà u t-shirt purtatu da i ghjucadori di Bastia è di l'OM.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U Sporting è l'OM s'eranu messi d'accunsentu pè purtà una maglietta induv'ellu era scrittu "non aux matches le 5 mai" nanz'à a partita di sabbatu (da vede nant'à u situ ufficiale). 
+Ma l'affare ùn hè micca piaciutu à i delegati di a LFP. Hè La Provence chì a conta. 
+Amparendu a nutizia, u delegatu Jacques Fiore hè andatu à vede à Vincent Labrune, presidente di l'OM : "En tant que vice-président de la Ligue, vous ne pouvez pas laisser faire ça"... nanzu di piglià u ritrattu di u t-shirt per mandallu à Thiriez. 
+U giurnale spiega chì Labrune è Thiriez si sò spiegati per teleffunu. U presidente di a lega hà dettu chì fendu cusì risicava 15.000 euri d'amenda. 
+Parlate di memoria, vi rispondenu sanzione. 
+Chì si pò aghjustà ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

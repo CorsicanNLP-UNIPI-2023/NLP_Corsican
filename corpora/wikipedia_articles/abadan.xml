@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Abadan
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Abadan"/>
+     <date>
+      2013-03-09T02:47:21Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Abadan
+   </head>
+   <p>
+    Abadan hè u nome di diverse cità:
+   </p>
+   <p>
+    Abadan (Iranu)
+   </p>
+   <p>
+    Abadan (Turkmenistan)
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ma chì face a pulizza ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ma-chi-face-a-pulizza_a1429.html"/>
+     <date>
+      Fri, 26 Oct 2012 18:39:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ma chì face a pulizza ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Cun più di 500 morti in 20 anni, a Corsica hè a regione d'Auropa induv'ellu si tomba u più. Chì face a pulizza allora ? Corse-Matin ci dà un elementu di risposta :
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ajaccio: la police s'entraîne pour gérer les matches de foot 
+S'ampara cusì nant'à u situ chì : Une cinquantaine de policiers d'Ajaccio et de Bastia participaient ce vendredi matin à un entraînement au maintien de l'ordre sur les stades de football. 
+Simu salvi.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

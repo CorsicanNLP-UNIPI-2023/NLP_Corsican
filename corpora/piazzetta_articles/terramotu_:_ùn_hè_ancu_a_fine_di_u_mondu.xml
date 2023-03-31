@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Terramotu : Ùn hè ancu a fine di u mondu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Terramotu-Un-he-ancu-a-fine-di-u-mondu_a1131.html"/>
+     <date>
+      Fri, 08 Jul 2011 16:08:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Terramotu : Ùn hè ancu a fine di u mondu
+   </head>
+   <div type="excerpt">
+    <p>
+     Nunda di grave : a Corsica cuntinuveghja d'alluntanassi da a Francia.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'avete intesu voi, u terramotu chì hè statu arresgistratu in mare  ? 
+5,2 nant'à a scala di Richter, ci hè di chè fà trimà i mobuli in cucina, ma nisun disguastu. I più impauriti sò stati i cani chì ci anu fattu un cuncerti d'abbaghji in a notte. 
+A spiegazione di stu terramotu a ci dà un spezialistu nant'à u situ di Corse-Matin : 
+"La Corse et la Sardaigne se trouvaient en effet il y a 25 millions d'années soudées au continent européen au niveau du massif des Maures, avant de pivoter et de prendre leur position actuelle. De nombreuses failles d'extension qui jalonnent le bassin liguro-provençal peuvent rejouer et produire de temps à autres des événements de magnitude modérée." 
+In chjaru : a Corsica s'alluntaneghja di più in più da a Francia. Si chjama "rotation du bloc corso-sarde" (da vede quì). 
+È averemu da lagnacci ? 
+Eppo, Quandi a terra move, ùn hè una di e più belle canzone corse ?
+    </p>
+    <p>
+     Canta Populu Corsu - Quandi a terra move par Larenzu
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

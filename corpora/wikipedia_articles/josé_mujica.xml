@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     José Mujica
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Jos%C3%A9%20Mujica"/>
+     <date>
+      2019-06-30T19:01:26Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    José Mujica
+   </head>
+   <p>
+    José Mujica hè statu presidenti di l'Uruguay da u 2010 à u 2015.
+   </p>
+   <p>
+    == Riferimenti ==
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Mujica
+   </p>
+  </body>
+ </text>
+</TEI>

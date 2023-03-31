@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Funghi di Corsica
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Funghi%20di%20Corsica"/>
+     <date>
+      2013-06-10T07:09:14Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Funghi di Corsica
+   </head>
+   <p>
+    == Galleria d'imagine ==
+   </p>
+   <p>
+    == Referenze ==
+   </p>
+   <p>
+    I funghi, Ghjurnata di a Lingua Corsa 2001, Adecec
+   </p>
+   <p>
+    A flora - i funghi
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+  </body>
+ </text>
+</TEI>

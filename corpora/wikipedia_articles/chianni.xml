@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chianni
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Chianni"/>
+     <date>
+      2015-05-05T02:00:17Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chianni
+   </head>
+   <p>
+    Chianni hè una cumuna taliana di a pruvincia di Pisa.
+   </p>
+   <p>
+    == Paisoli ==
+   </p>
+   <p>
+    La Fornace, Garetto, I Guelfi, La Pescaia, La Pieve, Rivalto, Sassi Bianchi.
+   </p>
+   <p>
+    == Cumune in cunfina ==
+   </p>
+   <p>
+    Chianni cunfina incù: Casciana Terme, Castellina Marittima, Lajatico, Riparbella, Santa Luce, Terricciola.
+   </p>
+   <p>
+    Cumuna di a pruvincia di Pisa
+   </p>
+  </body>
+ </text>
+</TEI>

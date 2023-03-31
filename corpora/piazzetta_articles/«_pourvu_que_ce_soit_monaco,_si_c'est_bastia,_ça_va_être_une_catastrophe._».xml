@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     « Pourvu que ce soit Monaco, si c'est Bastia, ça va être une catastrophe. »
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Pourvu-que-ce-soit-Monaco-si-c-est-Bastia-ca-va-etre-une-catastrophe_a2188.html"/>
+     <date>
+      Thu, 09 Apr 2015 13:40:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    « Pourvu que ce soit Monaco, si c'est Bastia, ça va être une catastrophe. »
+   </head>
+   <div type="excerpt">
+    <p>
+     Cusì averia dettu un dirigente di u futbol francese, dice un articulu di Le Parisien d'oghje. À vede cumu a LFP hà preparatu a finale, ci hè da dumandassi quale hè chì cerca l'incidenti. Attenti à ùn cascà in a tràppula...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'articulu da leghje di u ghjornu si trova in Le Parisien : 
+Tension maximale avant la finale
+    </p>
+    <p>
+     Eri, in Corse-Matin, u Sporting rimettia in causa l'attitutine di a LFP, abbastanza sticchita (per ùn dì altr'affare...), in l'organizazione di a finale. A Lega difende à l'associ di sustenidori di mettesi à u segondu pianu, cum'ella era prevista dapoi u principiu. 
+Tandu, striscioni, bandere, è materiale "ultrà" seranu pruibiti. 
+Perchè ?
+    </p>
+    <p>
+     Da dumandassi quale hè chì cerca l'incidenti. 
+A sentite vene, a tràppula tamanta ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

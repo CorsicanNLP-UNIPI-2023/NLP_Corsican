@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chì dicia Mighele Castellani 40 anni fà ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Chi-dicia-Mighele-Castellani-40-anni-fa_a2602.html"/>
+     <date>
+      Wed, 14 Jun 2017 14:12:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chì dicia Mighele Castellani 40 anni fà ?
+   </head>
+   <div type="excerpt">
+    <p>
+     In u 1977, i naziunalisti eranu minuritarii in l'opinione publica corsa, è ùn eranu micca bobò festivi. Mighele Castellani era mustacciutu è mettia camisge à quadretti sott'à un pull rossu "Università di Corsica". Spiegava a so dimarchja nant'à stu filmettu trovu nant'à u situ di l'INA.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Per vede u filmettu sanu :
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

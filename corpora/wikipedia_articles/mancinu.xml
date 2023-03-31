@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mancinu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Mancinu"/>
+     <date>
+      2013-03-08T23:56:07Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Mancinu
+   </head>
+   <p>
+    Un mancinu (una mancina) hè una persona chì si serve più di a so manu manca ch'è di a so manu dritta.
+   </p>
+   <p>
+    == Vede puru ==
+   </p>
+   <p>
+    manidrittu
+   </p>
+   <p>
+    ambidestru
+   </p>
+  </body>
+ </text>
+</TEI>

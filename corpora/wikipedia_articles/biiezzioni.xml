@@ -1,0 +1,120 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Biiezzioni
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Biiezzioni"/>
+     <date>
+      2014-12-09T19:31:37Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Biiezzioni
+   </head>
+   <p>
+    In matematica una biiezzioni (o biiezzione)  trà dui insemi X è Y hè una rilazioni binaria trà X è Y, tali ch'è à ogni elementu di X currispondi un è un solu elementu di Y, è viciversa à ogni elementu di Y currispondi un è un solu elementu di X.
+   </p>
+   <p>
+    U stessu cuncettu pò ancu essa aspressu usendu i funzioni. Si dici ch'è una funzioni
+   </p>
+   <p>
+    f\colon X \to Y
+   </p>
+   <p>
+    hè biiettiva s'è par ogni elementu y di Y ci hè un è un solu elementu x di X tali ch'è f(x) = y.
+   </p>
+   <p>
+    Una tali funzioni hè ditta ancu currispundenza biunivoca, funzioni biiettiva o funzioni biunivoca.
+   </p>
+   <p>
+    == Prubità ==
+   </p>
+   <p>
+    === Iniettività è suriettività ===
+   </p>
+   <p>
+    Una funzioni hè biiettiva s'è è solu s'è hè à tempu iniittiva è suriettiva.
+   </p>
+   <p>
+    === Invertibilità ===
+   </p>
+   <p>
+    Una funzioni f\colon X\to Y hè biiettiva s'è è solu s'è hè invertibili, veni à dì s'è è solu s'edda esisti una funzioni g\colon Y \to X tali ch'è a funzioni cumposta fg venghi à cuincida incù a funzioni idantità annantu à Y (oppuri ch'è a funzioni gf cuincidi incù l'idantità annantu à X). A funzioni g s'edda esisti hè unica, hè chjamata funzioni inversa di f è dinutata incù f^{-1}.
+   </p>
+   <p>
+    === Cumpusizioni ===
+   </p>
+   <p>
+    A cumpusizioni g \circ f \colon X \to Z di dui funzioni biiettivi f \colon X \to Y  è  g \colon Y \to Z  hè sempri biiettiva.
+   </p>
+   <p>
+    === Rilazioni d'equivalenza ===
+   </p>
+   <p>
+    In particulari, a currispundenza biunivoca hè una rilazioni d'equivalenza.
+   </p>
+   <p>
+    == Noti ==
+   </p>
+   <p>
+    == Da leghja dinò ==
+   </p>
+   <p>
+    Currispundenza biunivoca (giumitria discrittiva)
+   </p>
+   <p>
+    Funzioni inversa
+   </p>
+   <p>
+    Funzioni iniittiva
+   </p>
+   <p>
+    Funzioni suriettiva
+   </p>
+   <p>
+    Isumurfismu
+   </p>
+   <p>
+    Omeumurfismu
+   </p>
+   <p>
+    Parmutazioni
+   </p>
+   <p>
+    Cardinalità
+   </p>
+   <p>
+    Tiuria di l'insemi
+   </p>
+   <p>
+    Matematica di basa
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia in talianu.
+   </p>
+  </body>
+ </text>
+</TEI>

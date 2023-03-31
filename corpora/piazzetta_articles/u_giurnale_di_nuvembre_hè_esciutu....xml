@@ -1,0 +1,52 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U giurnale di nuvembre hè esciutu...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-giurnale-di-nuvembre-he-esciutu_a969.html"/>
+     <date>
+      Thu, 09 Dec 2010 02:09:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U giurnale di nuvembre hè esciutu...
+   </head>
+   <div type="content">
+    <p>
+     Per sapenne di più, leghjite quì
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

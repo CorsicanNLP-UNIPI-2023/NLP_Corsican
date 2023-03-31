@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Una scunfitta ? Iè, ma di quale ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Una-scunfitta%C2%A0-Ie-ma-di-quale%C2%A0_a2191.html"/>
+     <date>
+      Tue, 14 Apr 2015 17:46:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Una scunfitta ? Iè, ma di quale ?
+   </head>
+   <div type="content">
+    <p>
+     Certe disfatte ùn sò micca quelle ch’omu crede. 
+L’arbitru, l’altra sera, era in serviziu cummandatu : 
+- U PSG ci vulia ch’ellu ghjuchessi u so quartu di finale senza lasciacci nisuna piuma, in nisuna manera 
+- Thiriez ùn si duvia imbruttà à tuccà a manu di Bastiacci vincidori : mai ch’ella fussi ! 
+Allora, ellu u capu di l’istituzione più alta di u pallò francese, hà cummessu u sacrilegiu d’ùn rispittà l’istituzione ch’ellu raprisenta : d’ùn esse falatu à salutà e (a) squatre(a), l’intrinori(e), hè stata quant’è à torce a santa messa pè u prete. 
+Vinti anni fà, ci era statu quellu scandalu di u puntu ricusatu à Anton Drobnjak. Sabbatu sera, emu vistu peghju… Era scritta : Bastien ùn aspittava chè u primu occasione da cacciacci un ghjucadore. 
+À prupositu, l’avete rimarcata a pruvucazione d’Ibrahimovic in ver di Cahuzac, à a fine di u macciu, quandu ellu finghjia i so basgiarelli sprizzanti ? È quessi i vulete chjamà gran ghjucadori ?
+    </p>
+    <p>
+     U pallò francese piglia un versu chì si ne capisce u sensu : mandà via u foot pupulare. Bastiacciu o altru. Ma, cù noi altri, bene intesu chì ci hè quellu, sempre, « supplimentu d’anima ». 
+A disfarenza maiò trà u Barça è u PSG ? I sigondi ùn anu chè soldi, i primi l’anu dinò ma riprisentanu ancu una tradizzione di risistenza nata in li tempi durissimi di u franchisimu. I « socios » l’anu invintati elli. I ciucci di i sustinidori sò scritti nantu à un rigistru di u club prima d’esse dichjarati in merria di Barcelona. Andarete à fà quessa in Parigi… 
+Marcuri sera, u PSG lutta cù u Barça : à quale ete da sustene po voi ? Eiu, a meia a scelta hè fatta. Tenì, sunniaria ancu una cità bastiaccia tutta à bandere catalane. 
+Iè, certe disfatte ingrandanu à quelli chì e patenu : tuttu ugnunu hà pigliatu cuscenza l’altra sera di u trattamentu inghjustu risirvatu à una certa idea di u pallò. Bastava à stà à sente a maturità stupenda di certi zitelli arrisera, à u microfunu di Via stella : quessi anu capitu pè u sempre. 
+Allora avà, sapemu chì trappule ci ne anu da tende sin’à a fine di stu campiunatu maladettu. Avemu vistu a risposta degna data da una squatra, da i sustinidori, tutti, da u populu. Matura. Sabbatu sera, iè, scunfitta ci hè statu, certa. 
+Ma, in fatta fine, di quale ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

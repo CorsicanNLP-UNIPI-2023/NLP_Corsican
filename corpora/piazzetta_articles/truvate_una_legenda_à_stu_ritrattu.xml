@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Truvate una legenda à stu ritrattu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Truvate-una-legenda-a-stu-ritrattu_a1949.html"/>
+     <date>
+      Tue, 16 Sep 2014 23:17:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Truvate una legenda à stu ritrattu
+   </head>
+   <div type="excerpt">
+    <p>
+     À voi di truvà a legenda chì cunvene.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Unepoche di pruposte : 
+"- C'était donc ça, la civilisation agro-pastorale des Keurses ?" 
+"- Ai vistu sti dui lonzi di turisti chì ci fideghjanu dapoi nanzu mentre ch'è no travagliemu ?  - Stà zittu, è tribbia..." 
+"- Allora vedi u mo figliulinu, què si chjama 'a tribbiera'. Si facia in l'aghja, dop'à e sighere. Prima s'andava à coglie u granu è dopu...  - Hé mamie, t'as vu comme je suis fort à Candy Crush ?" 
+"- Hè simpatica sta tribbiera, ma sti boi mancanu appena di fond de jeu..." 
+"- C'est sympa vot'corrida, mais y vient quand l'toréro ?" 
+"Assistez à une authentique tribbiera corse : 5 euros.  Chaise + boisson fraîche : 15 euros.  Chaise + boisson fraîche + chants corses authentiques et émouvants : 20 euros  Chaise + boisson fraîche + bagarre de bœufs, l'autochtone se faisant embrocher par bœuf en furie et évacuer par hélicoptère: 350 euros  (le terrain constructible avec l'aghja est à vendre aussi)". 
+Ringrazii à E.R pè u ritrattu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     10 ragione di ripiglià u travagliu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/10-ragione-di-ripiglia-u-travagliu_a1408.html"/>
+     <date>
+      Mon, 03 Sep 2012 11:30:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       10-RAGIONI-DI
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    10 ragione di ripiglià u travagliu
+   </head>
+   <div type="excerpt">
+    <p>
+     Avete u spleen di a rientrata ? Avete l'angoscia di a fine di l'estate ? Ma nò ! Eccu e 10 bone ragione d'esse felice di piglià a via di a rientrata.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     1. E croce sò partute : I battelli è l'aviò sò partuti pieni à tappu, è si stà megliu. Menu mondu nant'à e strade, più nimu à u mare... Chì piacè ! Bon hè vera, ci sò assai croce chì sò firmate quantunque. 
+2. U più bonu hà da vene : U fretu, u sole chì si ne và, a notte chì casca, u figatellu arrustitu, Halloween, è sopr'à tuttu l'apperitivu chì pò cummincià à 5 ore. 
+3. Pudete sempre andà à u mare : Ancu in Santa Giulia avete tutta a piazza ch'ellu ci vole. 
+4. Di tutte e manere, ùn avete micca travagliu : 16.133 Corsi disimpiegati, segondu Pôle Emploi. Allora ùn ci fate micca crede chè vo site azezi di ripiglià u travagliu, di tutte e manere ùn ci n'hè micca. 
+5. Era ora ch'ellu finisca l'estate :  Buatte orrìbili cun djnacci, rosé bien frais è mojito, cuncerti goffi, beach-party è beach-soccer... Hè ora di piantà a cummedia. 
+6. St'inguernu, ùn ci serà micca elezzioni : l'inguernu 2012-2013 serà un piacè. Micca elezzioni, micca campagna eletturale, micca dibattiti nant'à Via Stella. Infine appena di riposu. 
+7. A fine di u mondu : A sapete, hè prevista pè u 21 dicembre 2012. Allora prufittate. 
+8. Ci sò dui clubs corsi in L1 : Bon d'accordu, ùn anu micca da vince tutti i sabbatu. Ma l'estate senza macci di u Sporting è di l'ACA, hè troppu longu... 
+9. A fine di a moda discutèvule :  Birk, pantacourts, camisge fiurite, débardeurs... A lista hè troppu longa. 
+10. Troppu mondu ? 2000 persone à ghjornu à u lagu di Melu, l'Altore chì smarrisce per via di a frequentazione in muntagna troppu impurtante, mari à bloccu di ghjente, siti saturati di mondu... è s'è no lasciavamu a natura rifiatà appena ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

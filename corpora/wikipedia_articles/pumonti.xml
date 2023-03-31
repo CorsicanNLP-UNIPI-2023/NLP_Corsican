@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pumonti
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Pumonti"/>
+     <date>
+      2019-09-14T18:10:16Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pumonti
+   </head>
+   <p>
+    U Pumonti (in francesu Corse-du-Sud) hè un dipartimentu di a Francia in u sudu di a Corsica. A capitali di Pumonti hè Aiacciu.
+   </p>
+   <p>
+    ==WWW==
+   </p>
+   <p>
+    http://www.corse-du-sud.gouv.fr/
+   </p>
+   <p>
+    Corsica
+   </p>
+   <p>
+    Geugrafia di a Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

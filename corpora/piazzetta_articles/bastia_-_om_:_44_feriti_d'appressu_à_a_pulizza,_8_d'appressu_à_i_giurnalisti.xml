@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bastia - OM : 44 feriti d'appressu à a pulizza, 8 d'appressu à i giurnalisti
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Bastia-OM-44-feriti-d-appressu-a-a-pulizza-8-d-appressu-a-i-giurnalisti_a1926.html"/>
+     <date>
+      Sun, 10 Aug 2014 12:48:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bastia - OM : 44 feriti d'appressu à a pulizza, 8 d'appressu à i giurnalisti
+   </head>
+   <div type="excerpt">
+    <p>
+     U campiunatu di L1 hà ripigliatu. Quellu di e baruffe dinù. Sta mane a stampa ci amparava ch'elli sò stati quaranta quattru i pulizzeri feriti. Ùn eranu ch'è ottu d'appressu à Corse Net Infos.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     D'accordu, ùn ci vulia micca à stuzzicalli. È forse, e qualchì petra lampata nant'à i CRS seranu state quelli mandate da i sucioprufessiunali chì vulianu a so rivincita  ? 
+Quelli chì eranu à u stadiu eri ùn averanu rimarcatu nunda di tremendu. 
+Ma sta mane i famosi "44 CRS et gendarmes blessés" facenu i primi tituli di a stampa cuntinentale, è certi si campanu. 
+U contu Twitter di France Info hà publicatu 7 tweets nant'à st'affarone. Hè di più ch'è pè l'attualità in Irak è in Gaza...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

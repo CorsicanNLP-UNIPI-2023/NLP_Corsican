@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "On est chez nous..." Da per tuttu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/On-est-chez-nous-Da-per-tuttu_a2492.html"/>
+     <date>
+      Tue, 06 Dec 2016 11:40:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "On est chez nous..." Da per tuttu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     "On est chez nous"... ma cumu fà induve u mare hè privatizatu ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U dissegnu di Dumè Fumaroli.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

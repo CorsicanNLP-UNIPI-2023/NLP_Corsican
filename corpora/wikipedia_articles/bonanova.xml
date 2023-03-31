@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bonanova
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Bonanova"/>
+     <date>
+      2014-03-23T14:05:02Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bonanova
+   </head>
+   <p>
+    Bonanova hè u nomi di a rivista literaria di u Centru Culturali Universitariu di Corti nata ind'u 1997.
+   </p>
+   <p>
+    'Ssa rivista conta oghji vintitrè numari è hà pà dirittori di a publicazioni u rumanzeru è pueta Ghjacumu Thiers.
+   </p>
+   <p>
+    ==Liami==
+   </p>
+   <p>
+    Bonanova, Interromania: numari 2 à 8
+   </p>
+   <p>
+    Rivista litteraria in lingua corsa
+   </p>
+  </body>
+ </text>
+</TEI>

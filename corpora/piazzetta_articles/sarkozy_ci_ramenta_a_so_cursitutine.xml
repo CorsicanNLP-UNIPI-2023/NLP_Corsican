@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sarkozy ci ramenta a so cursitutine
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Sarkozy-ci-ramenta-a-so-cursitutine_a1322.html"/>
+     <date>
+      Sat, 14 Apr 2012 15:37:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       PRESIDENZIALI-2012
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sarkozy ci ramenta a so cursitutine
+   </head>
+   <div type="excerpt">
+    <p>
+     "Je n'oublie pas que deux de mes fils ont du sang corse."
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U candidatu in campagna hà principiatu u so meeting in Aiacciu cusì : 
+"Je n'oublie pas que deux de mes fils ont du sang corse." 
+Tuttu què per dicci chì anch'ellu, quand'ellu vole, face pistunà i so figlioli... 
+Bon, hè vera ch'è no ne cunniscimu parechji cusì ind'è noi. Nò ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

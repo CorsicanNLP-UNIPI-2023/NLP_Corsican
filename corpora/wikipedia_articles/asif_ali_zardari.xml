@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Asif Ali Zardari
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Asif%20Ali%20Zardari"/>
+     <date>
+      2015-08-28T15:39:56Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Asif Ali Zardari
+   </head>
+   <p>
+    Asif Ali Zardari, (natu u 26 di lugliu 1955)  era u presidente di u Pakistan (2008-2013).
+   </p>
+   <p>
+    Zardari, Asif Ali
+   </p>
+  </body>
+ </text>
+</TEI>

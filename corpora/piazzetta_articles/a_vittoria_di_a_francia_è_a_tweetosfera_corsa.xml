@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A vittoria di a Francia è a tweetosfera corsa
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-vittoria-di-a-Francia-e-a-tweetosfera-corsa_a1886.html"/>
+     <date>
+      Tue, 17 Jun 2014 00:37:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A vittoria di a Francia è a tweetosfera corsa
+   </head>
+   <div type="content">
+    <p>
+     Bona nova, ci sò di più in più articuli in lingua corsa nant'à u situ di France 3 Corsica Via Stella. 
+"Vittoria di a Francia à u mundiale di Ballò : u parè di a tweetosfera corsa ?" hè unu di l'ultimi, publicatu dop'à a partita di i Bleus contr'à u Honduras. 
+Da leghje quì. È si parla ancu (appena) di A Piazzetta.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

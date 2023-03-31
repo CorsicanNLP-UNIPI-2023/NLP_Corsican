@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I clubs corsi è a Festa di a Nazione
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-clubs-corsi-e-a-Festa-di-a-Nazione_a2062.html"/>
+     <date>
+      Mon, 08 Dec 2014 16:05:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I clubs corsi è a Festa di a Nazione
+   </head>
+   <div type="excerpt">
+    <p>
+     U Sporting è l'ACA anu tenutu à marcà u colpu per l'ottu di dicembre nant'à e rete suciale.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'ACA hà publicatu un tweet è stu ritrattu di i so ghjucadori cù e bandere corse :
+    </p>
+    <p>
+     U Sporting un tweet cù un filmettu di i so ghjucadori corsi :
+    </p>
+    <p>
+     Avà ùn ci manca più ch'è u ritornu di a Squadra Corsa.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

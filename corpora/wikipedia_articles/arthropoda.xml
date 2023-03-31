@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Arthropoda
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Arthropoda"/>
+     <date>
+      2015-07-16T15:09:01Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Arthropoda
+   </head>
+   <p>
+    Sta divisione conta parechje classe: l'insetti, i crustacei, l'arachnide (ragnate, scurpione, ecc.).
+   </p>
+   <p>
+    Fauna
+   </p>
+  </body>
+ </text>
+</TEI>

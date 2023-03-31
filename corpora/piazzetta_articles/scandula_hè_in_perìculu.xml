@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Scandula hè in perìculu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Scandula-he-in-periculu_a1138.html"/>
+     <date>
+      Sun, 24 Jul 2011 18:33:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Scandula hè in perìculu
+   </head>
+   <div type="excerpt">
+    <p>
+     A Riserva naturale di Scandula hè minacciata da a frequentazione troppu forte di i lochi. È l'alpana (u "balbuzard pêcheur"), animale sìmbulu di a prutezzione di u Parc, hè in perìculu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè u raportu annuale d'attività di a Riserva naturale di Scandula chì a dice (ripigliatu da Ambiante, u giurnale di l'associu U Levante) : 
+«À l’heure où le Parc naturel régional de Corse a servi d’exemple pour la reproduction du balbuzard (aigle pêcheur), il s’avère que cette espèce ne se reproduit quasiment plus. La réserve souffre de la surfréquentation. La gestion de la fréquentation devient à présent une priorité… Des activités humaines se développent de manière importante… Nous devons faire face à un véritable signal d’alarme. » 
+Ste frase sò di Jean-Marie Dominici di u PNRC. 
+Di siguru, a Corsica hè bella è ognunu ne vole prufittà. A so ricchezza hè a preservazione di a so natura sempre appena salvatica... per avà. 
+Quandu si punerà a quistione di a frequentazione è di a saturazione di certi lochi ? Quandu si pianterà di pensà l'estate cum'è una stagione induve "ci vole à empiesi e stacche" fendu n'importa chè, n'importa cumu ? 
+Cun 500.000 visitori à l'annu, centinaie di jet ski, di zodiacs, è dinù di battelli di spassighjate, u locu di Scandula hè troppu frequentatu è oghje hè l'alpana chì hè minacciata. In muntagna hè a listessa cosa : u lagu di Melu riceve 2000 persone à ghjornu à u più forte di l'estate (vede Martial Lacroix in Corse-Matin). 
+À quandu una vera riflessione nant'à u turisimu in Corsica ? Per avà hè : "tutti à botte è speremu chì i turisti cappieranu i soldi". Ma à lampacci troppu u mondu, l'ambiu hè arruvinatu è soldi di tutte e manere, i turisti ùn ne cappianu più. 
+"Quandu l'omu averà tagliatu l'ultimu arburu è tombu l'ultimu animale, allora capiscerà chì i soldi ùn si manghjanu micca", dice un pruverbiu indianu. 
+Ma in Corsica, basta ch'elle s'aprinu e piste pè fà u quad è ch'ellu ci sia l'essenza da mette in u jet-ski.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

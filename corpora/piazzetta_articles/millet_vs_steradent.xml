@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Millet vs Steradent
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Millet-vs-Steradent_a1481.html"/>
+     <date>
+      Fri, 11 Jan 2013 18:02:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Millet vs Steradent
+   </head>
+   <div type="excerpt">
+    <p>
+     Mubilizazione in Corti contr'à u "Des chiffres et des lettres" club.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè a moda di u "vintage", di e serate "années 80" è di u "ringard chic". 
+Hè cusì chì un picculu gruppu di vechjarelli nostàlgichi di a Francia di e culunnie è di "La chance aux chansons" hà vulsutu creà una "CFR tribute". 
+L'associu "France-Corse" face passà i so cummunicati in Corse-Matin, scritti trà "Des chiffres et des lettres" è "Questions pour un champion". 
+E so idee : opposizione sistemàtica à tutte l'idee corse : nò à a lingua, nò à u statutu di residente, nò à un statutu istituziunale (ancu Pierre Chaubon si face insultà nant'à u so situ !). 
+È trippa si a lingua si ne morre è sì Miot hè statu arrestatu è imprigiunatu. Ma attenzione, ci dicenu ch'elli facenu parte di a "majorité silencieuse" hein ! 
+Megliu : sustenenu à Jean-Jacques Panunzi in guerra contr'à l'associ chì lottanu contr'à a bettunizazione... 
+Aspettemu u so prussimu cummunicatu induv'elli dumanderanu u ristabilimentu di u "Congo Belge" è l'inviu di u "porte-avion Clémenceau" à u Cochinchine. 
+In zerga davant'à tutte ste pazzie piene di naftalina, a giuventù corsa hà vulsutu rispondeli, cù una cunferenza di stampa in Corti. À un mumentu induv'ellu si dice chì a giuventù corsa hè di più in più individualista, micca pulitizata è ch'ella ùn s'interessa à nunda, elli eranu un centu. 
+I più azezi l'anu rispostu ch'ellu ùn c'era bisognu di mubilizzassi pè una banda di vechji cucchi fanatichi di Pascal Sevran è di Charly Oleg. Ma elli anu tenutu à fà sente a so voce è à dì chì u cumplottu mundiale di i vechji ùn hè micca una fatalità.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

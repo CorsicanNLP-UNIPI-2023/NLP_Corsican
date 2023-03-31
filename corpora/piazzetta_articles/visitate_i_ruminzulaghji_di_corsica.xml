@@ -1,0 +1,93 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Visitate i ruminzulaghji di Corsica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Visitate-i-ruminzulaghji-di-Corsica_a1156.html"/>
+     <date>
+      Mon, 29 Aug 2011 18:35:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Visitate i ruminzulaghji di Corsica
+   </head>
+   <div type="excerpt">
+    <p>
+     "In Corsica, a vostra strada sbocca sempre nantu à un museu" dice una bella publicità per i musei di Corsica. Ma in verità, a strada sbocca sempre nant'à un ruminzulaghju...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'avete vista, a campagna di pubba per i musei di Corsica ? 
+"En Corse il y a toujours un musée sur votre chemin", ci dicenu... Ma a verità hè chì a strada sbocca più spessu nant'à ciò ch'elli chjamanu una "décharge sauvage". 
+Sapete, ci muntemu spessu a sega per fà crede chì noi altri Corsi semu primurosi u nostru ambiu, ch'è no semu tutti difensori di a natura, ch'è no circhemu di priservalla... Ah iè, a cridite veramente quessa ? 
+Basta à spassighjassi pè i nostri stradò per vede l'accatastere di mullizzu in i nostri ruminzulaghji identitarii... Ogni paese, o guasi, hà u soiu. À chì lampa i so peuneus (nò, in corsu ùn si dice micca "pneus"), à chì ci lampa u so cateru, à chì i so stanghjoni, à chì e so palette... Ci truverete di tuttu. 
+Iè, i ruminzulaghji salvatichi sò difesi da a lege. Ma ne ferma sempre in Francia... è a magiurità sò in Corsica. 
+Et qui on est ? 
+Mandate i vostri ritratti di ruminzulaghji : apiazzetta@free.fr
+    </p>
+    <p>
+     Purettone, cumuna di u Borgu. Articulu di Corse-Matin
+    </p>
+    <p>
+     Ruglianu
+    </p>
+    <p>
+     Brandu
+    </p>
+    <p>
+     In u curtinese
+    </p>
+    <p>
+     In Calvi
+    </p>
+    <p>
+     Alata
+    </p>
+    <p>
+     Bastia, A Rinella
+    </p>
+    <p>
+     Pieve
+    </p>
+    <p>
+     Arbiddara
+    </p>
+    <p>
+     Mandateci i vostri ritratti !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

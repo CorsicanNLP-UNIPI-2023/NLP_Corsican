@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A magia di e cantunale Corse
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-magia-di-e-cantunale-Corse_a1072.html"/>
+     <date>
+      Wed, 30 Mar 2011 23:37:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A magia di e cantunale Corse
+   </head>
+   <div type="excerpt">
+    <p>
+     Ind’è noi, a participazione à st’elezzioni hè stata tremenda. Nurmale, tutti vulemu esse à u primu rangu chì, e cantunali in Corsica, sò propiu màgiche !
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Abracadabrà è... tuttu u mondu vince !  Nimu hà persu l’elezzioni : per i candidati chì pàssanu fàciule, hè statu una vittoria strepitosa. Quand'elli vìncenu di pocu, a vittoria hè ancu più bella, è quand’elli pèrdenu hè una vittoria... per preparà l’avvene. Camille de Rocca Serra, chì hà persu a so sedia dopu à tanti sèculi di domu Roccaserristu nant’à u rughjone Purtivechjacciu, hà ancu inventatu e "défaites prometteuses" ! 
+Abracadabrà è... càmbianu i culori !  Dopu à avè intesu à Claude Flori amparacci chì à u Cunsigliu Generale di Cismonte ci èranu cinque eletti UMP « apparentati » PRG (!!!), i Corsi anu pussutu vede à Joseph Castelli (PRG) è à Stéphanie Grimaldi (UMP), disputassi a sera stessa di u segondu giru à France 3 Corsica, l’appartinanza di Pierre Siméon de Buochberg. U novu elettu di u Fiumorbu, candidatu di Diritta chì s’hè presentatu senza a ticchetta di l'UMP, sustenutu da Paul Giacobbi chì, officialmente hà sustenutu à François Tiberi, candidatu di Manca è di a magiurità dipartimentale, ma... "unicamente à u segondu giru". 
+Abracadabrà è... euh, cumu fà ?  Cunniscite a fìsica di u focu crosciu è di l’acqua secca ? Innò ?  L’esempiu u più dimustrativu hè quellu di Portivechju induve Jean-Christophe Angelini hà vintu cù u sustegnu di Corsica Lìbera, di u Front de Gauche è di u Partitu Sucialistu. Ùn ci serebbe mancu da stunassi chì a nova guardia di a Diritta Corsa l’appii datu una manu anch'ella, da cacciassi à Camgliù di tràmpalu…Cumu hà da fà avà u cunsiglieru generale vitturiosu à cuntentà à tutti quelli chì l’anu vutatu ? Da i Naziunalisti più duri, favurèvuli à a lotta armata, à i Republicani più fidi, cum’è Emmanuelle de Gentili, aghjunta di Emile Zuccarelli à a Merria di Bastia ? 
+A riturnella à a moda hè chì e ghjente di bona vuluntà ponu travaglià inseme. U risultatu di sta magia eletturale si presenta bè, ABRACADABRÀ è...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

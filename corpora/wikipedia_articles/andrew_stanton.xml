@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Andrew Stanton
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Andrew%20Stanton"/>
+     <date>
+      2016-08-23T16:50:54Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Andrew Stanton
+   </head>
+   <p>
+    Andrew Stanton (3 dicembre 1965) hè un attore canadianu.
+   </p>
+   <p>
+    Stanton, Andrew
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chì fà per organizà a cuppa di u mondu in Corsica ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Chi-fa-per-organiza-a-cuppa-di-u-mondu-in-Corsica_a2229.html"/>
+     <date>
+      Tue, 10 Jun 2014 23:40:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chì fà per organizà a cuppa di u mondu in Corsica ?
+   </head>
+   <div type="excerpt">
+    <p>
+     In pienu scandalu di a FIFA, hè u mumentu di rilancià u prugettu di cuppa di u mondu in Corsica. À u puntu induv'è no ne simu...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Per organizà una cuppa di u mondu di ballò, ci vole :    - Un sistema di curruzzione per pagà i membri di a FIFA : faciule. 
+- Custruisce stadii cari assai chì una volta a cumpetizione passata, ùn ghjuveranu più à nunda : sapemu fà. 
+- Si pussibule custruisceli in bor'di mare, per fà "carta pustale" : faciule. 
+- Truvà una scusa chì "tuttu u mondu capisca" per ghjustificà quessa. L'avemu : "ça va créer des emplois" o "y aura des retombées". 
+- Una mascotta goffa è una canzona officiale ridicula : quessa, serà faciule à truvà. 
+In fine di contu, hè semplice l'affare. Dop'à u Qatar 2022, Corsica 2026 ? In più di quessa, a Squadra Corsa serà automaticamente qualificata...
+    </p>
+    <p>
+     À l'ultima cuppa di u mondu à u Brasile invece, l'anu pigliata abbastanza male :
+    </p>
+    <p>
+     Forse un ghjornu si viderà una manifestazione ind'è noi "we need money for hospital and education and cultura and u nostru patrimoniu... we don't need money for e strade" ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

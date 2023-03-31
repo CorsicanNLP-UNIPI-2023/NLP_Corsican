@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     place publique
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/place-publique_a1270.html"/>
+     <date>
+      Wed, 15 Feb 2012 13:29:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    place publique
+   </head>
+   <div type="content">
+    <p>
+     http://sites.radiofrance.fr/chaines/france-bleu/?nr=29f30f2ea97359ce1f07cddd4ca69efe&amp;da54465e787e2888a6bf3af6a571c429_container_mode=item&amp;da54465e787e2888a6bf3af6a571c429_container_id=128112 
+Le préfet rassure les professionnels du bâtiment de Porto-Vecchio  http://www.corsematin.com/article/porto-vecchio/le-prefet-rassure-les-professionnels-du-batiment-de-porto-vecchio.583634.html 
+Préfet 18'30 : Corse bénéficie d'une situation particulière en matière de dotation, en permanence 4 unités en renfort de CRS et 2 escadrons de gendarmerie. c'est la seule région qui bénéficie d'un tel régime. 
+1'30'' : "  la feuille de route de l'Etat c'est l'accompagnement des élus dans un projet de développement de la Corse, un projet qui donne du travail à tout le monde, qui garantit l'accès au logement, à la santé, et qui permette à la culture corse, à l'identité corse d'être encore plus fortes. Un des remèdes à l'insécurité c'est le développement qui correspond à ce qu'attendent les habitants. C'est à dire une société apaisée qui se développe.  ...  on parle bcp de violence... ce fléau, ce cancer, contrecarre un projet de développement auquel aspire la grande majorité de la population. nous sommes déterminés à lutter contre ces phénomènes, c'est bien pour garantir de l'avenir de la Corse. l'avenir de la corse il est dans le développement
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

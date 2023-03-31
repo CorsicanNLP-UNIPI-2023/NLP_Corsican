@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Oliver Twist
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Oliver%20Twist"/>
+     <date>
+      2019-07-20T11:23:33Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Oliver Twist
+   </head>
+   <p>
+    Oliver Twist hè a segonda rumanza di Charles Dickens, é fù prima publicata comu un serial 1837–39. U filmu d'animazione musicale americanu Oliver &amp; Company hè basatu annantu à u rumanzu.
+   </p>
+   <p>
+    Littiratura
+   </p>
+  </body>
+ </text>
+</TEI>

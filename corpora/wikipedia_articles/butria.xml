@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Butria
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Butria"/>
+     <date>
+      2008-10-05T10:56:57Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Butria
+   </head>
+   <p>
+    Una butria hè un locu ind'eddu ci hè l'acqua è a cianga guasgi tuttu l'annu.
+   </p>
+   <p>
+    ==In Corsica==
+   </p>
+   <p>
+    Accadi di truvà a bùtria in a tupunimia corsa. Par esempiu, in U Butrionu, annantu à a cumuna di Coti è Chjavari.
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    Matina Latina, Dizziunariu, Bùtria
+   </p>
+  </body>
+ </text>
+</TEI>

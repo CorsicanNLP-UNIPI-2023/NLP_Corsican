@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I conni di a Republica, semu noi
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-conni-di-a-Republica-semu-noi_a1992.html"/>
+     <date>
+      Tue, 14 Oct 2014 21:57:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I conni di a Republica, semu noi
+   </head>
+   <div type="excerpt">
+    <p>
+     Capital face innù a finezza. In cuprèndula di u so ultimu nùmeru, s'ampara chì "les Corses coûtent 12 euros par ménage français". È ùn hè mancu un fake...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ci hè bisognu d'aghjustà qualcosa ?
+    </p>
+    <p>
+     Di siguru ci sò stati assai assai cummenti nant'à e rete suciale...
+    </p>
+    <p>
+     La une de "Capital" était un fake. Voici la vraie. pic.twitter.com/OAsBiQKeoB
+— U Gorsmatin (@U_Gorsmatin) 14 Octobre 2014
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

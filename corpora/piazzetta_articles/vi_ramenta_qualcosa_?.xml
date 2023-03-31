@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vi ramenta qualcosa ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Vi-ramenta-qualcosa_a1230.html"/>
+     <date>
+      Mon, 19 Dec 2011 12:49:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Vi ramenta qualcosa ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Kim-Jong di Pappà hà pigliatu a successione di u so babbu à u capu di a Curea di u Nordu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Kim Il-sung era u capimachja di a Curea di u Nordu trà 1948 è 1994.  Hà trasmessu u putere à u so figliolu, u bravu Kim Jong-il, chì hà guvernatu da 1994 sin'à dicembre 2011.  L'eredu hè u figliolu, Kim Jong-un, dettu dinù Kim-Jong di Pappà. In i spartimenti, hà eritatu di a dittatura di u so paese. 
+A sapiate chì i Cureani avianu cupiatu nant'à i Corsi ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bastia:  u so campanile, a so piazza, u so geyser
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Bastia-u-so-campanile-a-so-piazza-u-so-geyser_a1624.html"/>
+     <date>
+      Tue, 24 Sep 2013 15:36:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bastia:  u so campanile, a so piazza, u so geyser
+   </head>
+   <div type="excerpt">
+    <p>
+     A campagna eletturale di e municipale ùn hè ancu principiata. Ma, a merria di Bastia v'offre un veru "geyser" in pienu corsu Paoli !
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Serà pè circà di tene i turisti in cità, chì digià sbarcati da u battelu scappanu versi Portivechju è a Balagna ? 
+Serà una ricerca di petroliu ? Un culpacciu di François Tatti ? Un sabotagiu di i naziunalisti ? 
+In tutti i casi u spettaculu di stu geyser in piena cità ùn era micca dispiacente.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

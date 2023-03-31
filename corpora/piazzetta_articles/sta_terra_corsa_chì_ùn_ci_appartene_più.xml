@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sta terra corsa chì ùn ci appartene più
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Sta-terra-corsa-chi-un-ci-appartene-piu_a1151.html"/>
+     <date>
+      Thu, 18 Aug 2011 10:30:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sta terra corsa chì ùn ci appartene più
+   </head>
+   <div type="excerpt">
+    <p>
+     Nant'à France 2 anu parlatu di a privatizazione di u liturale in Corsica.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Quandu avemu da ricuperà e nostre terre chì sò state privatizate ? 
+Andate à vede a video nant'à u situ di France 2, in l'emissione C'est plus que des vacances. Si ne parla à partesi da u 29esimu minutu. L'affare si passa "dans le sud de la Corse", ma ùn si sà induve. 
+Barbelés, cateri, catene, u prupietariu hà chjosu i lochi è impedisce l'accessu à u mare. A ragione : prupone nant'à internet sughjorni pè ricchi strangeri, à colpi di 4x4 è di battelli nant'à un "site privatisé"... 
+Purtantu a lege impedisce a privatizazione di u liturale è l'accessu à tutte e spiaghje hè obligatoriu... in teuria. 
+In parechji lochi, sopr'à tuttu in Corsica Suttana, i prupietarii (cum'è u golf di Sperone per esempiu) chjodenu l'accessi à u mare è s'opponenu à ch'ellu sia fattu un "chjassu di u liturale". 
+Hà dà durà sin'à quandu ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

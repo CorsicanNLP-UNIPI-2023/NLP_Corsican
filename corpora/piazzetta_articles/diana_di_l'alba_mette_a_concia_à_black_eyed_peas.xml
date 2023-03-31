@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Diana di l'Alba mette a concia à Black Eyed Peas
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Diana-di-l-Alba-mette-a-concia-a-Black-Eyed-Peas_a1618.html"/>
+     <date>
+      Thu, 12 Sep 2013 23:49:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Diana di l'Alba mette a concia à Black Eyed Peas
+   </head>
+   <div type="excerpt">
+    <p>
+     Antone Marielli hè più forte chè Coldplay, The Black Eyed Peas è Adele reuniti. I pesta tutti, vi và ? Hè u risultatu d'un sundagiu fattu da u Museu di a Corsica in u quadru di a so mostra "La Corse et la musique".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     41%, luntanu davant'à u restu di u mondu ! U gruppu Diana di l'Alba hè in testa di i gruppi preferiti di i liceani d'appressu à un sundagiu fattu pè a bella mostra "La Corse et la musique : Entre tradition et modernité". Da vede dinù quì. 
+Ùn vale a pena di ride o di mughjà ch'ellu ci hè statu a froda, a metudulugia è i risultati sò spiegati in u catalogu di sta mostra. 1077 cullegianti è 203 liceani sò stati interrugati. 
+Serà colpa à a surtita di l'ultimu dischettu Indiature ? U successu di u so tube A Cispra ? 
+Hè cusì, pè i liceani corsi, Antone Marielli hè più forte chè u lonzu di Will.i.am di "BEP". Ùn vi pare nunda ? 
+Bon, in cullegiu hè più dura. A sapemu, i cullegianti sò croce. Anu messu in testa u gruppu LMFAO (23%) ma I Muvrini ùn sò luntanu (18%). Canta u Populu Corsu hè terzu (12%) davant'à Diana di l'Alba (10%), à tocca tocca cù Sexion d'Assaut (10%). Iè, si tratta bè di Sexion d'Assaut. 
+In quant'à L'Arcusgi, facenu partita para cù David Guetta (6%) ! 
+Allora vidite chì a giuventù corsa ùn hè ancu cumplettamente persa.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

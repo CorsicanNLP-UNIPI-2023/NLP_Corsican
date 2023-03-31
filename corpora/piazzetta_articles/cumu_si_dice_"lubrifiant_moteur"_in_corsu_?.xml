@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cumu si dice "lubrifiant moteur" in corsu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cumu-si-dice-lubrifiant-moteur-in-corsu_a1394.html"/>
+     <date>
+      Thu, 09 Aug 2012 09:42:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cumu si dice "lubrifiant moteur" in corsu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     A lingua corsa in i media è à a scola avanza pianu pianu... è in i cummerci ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Trè anni fà aviamu lanciatu una campagna pè a cursizazione di i nomi di marche. 
+Monsieur Propre diventava Sgiò Pulitu, Jacques Vabre diventava Ghjacumu Vabre è Canard WC si trasfurmava in Ànatra WC. 
+Ma à dilla franca, in a nostra sucetà di cunsumazione, a lingua corsa ùn c'entre micca, o pocu. 
+L'insegna di stazioni d'essenza Vito s'hè ingagiata à prumove a visibilità di a lingua corsa in a so intrapresa (publicità, insegne, messagi nant'à u rispunditore...). Hè stata a prima à firmà a càrtula di a lingua. 
+Hè cusì chì i prudutti cummercializati da sta marca sò diventati bislingui, cum'è i so lubrificanti pè mutori. 
+A prumuzione di a lingua corsa passa dinù pè quessa. Allora cummercianti, muvìtevi ! Qualessa serà a prussima sucetà à fà stu sforzu ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

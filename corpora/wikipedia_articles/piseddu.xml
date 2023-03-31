@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Piseddu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Piseddu"/>
+     <date>
+      2019-10-03T11:20:26Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Piseddu
+   </head>
+   <p>
+    U Piseddu (o Pisellu) (Pisum sativum) hè una pianta cultivata chì faci partita di a famiglia di i Fabaceae.
+   </p>
+   <p>
+    == Rifarenzi ==
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    Fabaceae
+   </p>
+  </body>
+ </text>
+</TEI>

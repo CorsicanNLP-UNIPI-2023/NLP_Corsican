@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ronaldo
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Ronaldo"/>
+     <date>
+      2018-11-08T16:21:36Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ronaldo
+   </head>
+   <p>
+    Ronaldo hè un ghjucadore di ballò brasilianu. U so veru nomu hè Ronaldo Luis Nazario de Lima. Hè natu u 22 di sittembri di u 1976.
+   </p>
+   <p>
+    Biugrafia
+   </p>
+   <p>
+    Brasilianu
+   </p>
+   <p>
+    Pallò
+   </p>
+  </body>
+ </text>
+</TEI>

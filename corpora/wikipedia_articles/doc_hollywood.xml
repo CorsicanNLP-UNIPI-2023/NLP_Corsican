@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Doc Hollywood
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Doc%20Hollywood"/>
+     <date>
+      2018-02-09T21:40:28Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Doc Hollywood
+   </head>
+   <p>
+    Doc Hollywood hè un filmu americanu di cumedia rumantica di l'annu 1991, realizatu da Michael Caton-Jones. I rolli principali sò stati ghjucati da Michael J. Fox è Julie Warner. In rolli secundarii, hanu ghjucatu Woody Harrelson è Bridget Fonda.
+   </p>
+   <p>
+    Filmu di l'annu 1991
+   </p>
+   <p>
+    Filmu americanu
+   </p>
+   <p>
+    Cumedia (Filmu)
+   </p>
+  </body>
+ </text>
+</TEI>

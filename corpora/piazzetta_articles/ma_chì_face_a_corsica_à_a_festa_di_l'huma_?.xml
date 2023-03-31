@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ma chì face a Corsica à a festa di l'Huma ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ma-chi-face-a-Corsica-a-a-festa-di-l-Huma_a1168.html"/>
+     <date>
+      Sun, 18 Sep 2011 11:29:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ma chì face a Corsica à a festa di l'Huma ?
+   </head>
+   <div type="excerpt">
+    <p>
+     A sapete ? A Corsica hè invitata à a Fête de l'Huma, sta dumenicata in La Courneuve. Ma perchè ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A Corsica hè à l'onore quist'annu à a Fête de l'Huma, a festone pupulare organizata da u giurnale preferitu di Robert Hue. A festa di l'Huma, hè appena cum'è a Ghjurnate di Corti, ma cù i cummunisti è 600.000 visitori. Corse-Matin ci spieca chì sta volta a Corsica hè "imbasciatrice" di a festa. 
+Hè l'ATC chì organizeghja : stand di 150 m2, editori corsi, CCAS, Corsicatours, robba da manghja (ancu salciccia nustrale chinese è casgiu corsu di Sardegna ?), a SNCM è u PNRC. 
+I canterini ci seranu dinù. Dopu à Yannick Noah, Joan Baez è Nolwenn Leroy, Avril Lavigne è The Ting Tings, canterà... Jean Menconi. È ùn deccunemu mancu ! 
+Bon, perchè micca. Ma francamente, perchè a Corsica à a Fête de l'Huma ? Eccu parechje piste di riflessione : 
+1. Perchè Dumenicu Bucchini hè fanaticu di Pif, è chì u giurnale cummunistu serà rilanciatu grazia à una suvvenzione di a CTC. 
+2. In fatti hè un'idea luminosa di Vanina Pieri pè sbarazzassi di Michel Stefani chì serà abandunatu in La Courneuve. 
+3. Perchè ci vole à fà cunnosce a Corsica à i pumataghji, ùn ci n'hè micca abbastanza. 
+4. Pè mantene a memoria di Georges Marchais, chì venia sempre à passà e so vacanze in Corsica (arricurdatevi di a so frasa « J'ai dit à ma femme : Fais les valises, on rentre à Paris »). 
+5. Cù i nostri 35 000 precarii, i nostri poveri, i nostri impieghi di goffi pigliati à calci in culu da i patroni, i nostri disimpiegati, ùn avemu più ch'è a Fête de l'Huma cù a so bieraccia calda à 1€ per andà à imbriagacci. L'altri, vanu à fà a festa in Barcelona è in Bali. 
+6. In fatti, hè dinù pè abandunà Jean Menconi à La Courneuve. 
+7. Per fà cantà "Stracciu rossu" è "Bella Ciao" à André Lajoinie, Maxime Gremetz è Bernard Thibault. 
+8. Hè un cumplottu bolsceviccu di i sucialo-cummunisti cun Kim Jong-Il, Fidel Castro è Hugo Chavez pè piglià a Corsica grazia à l'aiutu di u KGB, di l'Armata Rossa è di i Chinesi (s'è vo a pensate veramente, hè forse tempu d'arrestà di fidighjà à Jean-Pierre Pernaut).
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

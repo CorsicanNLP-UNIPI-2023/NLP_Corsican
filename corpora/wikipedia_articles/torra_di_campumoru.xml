@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Torra di Campumoru
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Torra%20di%20Campumoru"/>
+     <date>
+      2019-10-03T11:12:15Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Torra di Campumoru
+   </head>
+   <p>
+    A torra di Campumoru hè una torra di Corsica.
+   </p>
+   <p>
+    == Rifarenzi ==
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    Torre di Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

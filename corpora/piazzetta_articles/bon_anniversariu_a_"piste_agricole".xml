@@ -1,0 +1,83 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bon anniversariu a "piste agricole"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Bon-anniversariu-a-piste-agricole_a2532.html"/>
+     <date>
+      Mon, 06 Feb 2017 18:11:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bon anniversariu a "piste agricole"
+   </head>
+   <div type="excerpt">
+    <p>
+     616 audizioni, 349 interpellazioni, 42 incarcerazioni, una quarantina di persone messe in esame durante 18 anni... per nunda. Dop'à l'assassiniu di u prefettu Erignac, l'antiterrurisimu francese hè cunvintu ch'elli sò unepochi d'agricultori chì ne sò à l'orìgine. Hè a famosa "piste agricole" chì ùn purterà indocu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U lindumane di l'assassiniu di u prefettu Erignac, a pista privilegiata da Roger Marion, capimachja di l'antiterrurisimu francese hè quella di l'agricultori. 
+U 13 di ferraghju di u 1998 hè apertu tandu u cartulare "1337". Serà chjamatu "dossier poubelle" perchè ghjuverà per d'altre inchieste, più o menu serie. 
+U primu à esse messu in causa hè Marcel Lorenzoni, interpellatu trè ghjorni dopu à l'assassiniu di u prefettu. 
+Di maghju di u 99 hè Matteu Filidori chì serà messu in esame.
+    </p>
+    <p>
+     Lorenzoni ferà 18 mesi di prigiò, Filidori sei mesi... per nunda. 
+Da leghje nant'à revuesangfroid.fr : Piste agricole, dix huit ans pour rien
+    </p>
+    <p>
+     "C’est le visage peu glorieux de la justice antiterroriste française", scrive Le Monde. 
+Da leghje : Affaire Erignac : la fin de la piste agricole
+    </p>
+    <p>
+     Affaire Erignac : la fin de la piste agricole http://t.co/PQFPHkH6G8 via @lemondefr
+— Yves Bordenave (@Bordenavey) 21 octobre 2014
+    </p>
+    <p>
+     Davant'à a "commission d'enquête sur le fonctionnement des forces de sécurités en Corse", un giuralistu di l'Est Républicain dice : 
+" la DNAT a toujours été persuadée qu'il fallait suivre la piste agricole. Par conséquent, tout ce qui ne concernait pas les agriculteurs n'intéressait pas la DNAT ". 
+Da leghje quì. 
+Quellu chì s'hè inchjuccatu in sta via hè Roger Marion, cugnumatu u "Roi Roger". 
+Da leghje nant'à Libération : Roger Marion, un «grand flic» aux méthodes douteuses 
+Nant'à Slate : Procès Colonna: le «roi Roger» face à la défense
+    </p>
+    <p>
+     Oghje, quelli chì sò stati messi in esame durante 18 anni (iè : diciottu anni...) dumandanu riparazione à u statu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

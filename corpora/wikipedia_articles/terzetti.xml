@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Terzetti
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Terzetti"/>
+     <date>
+      2015-07-01T20:26:00Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Terzetti
+   </head>
+   <p>
+    Terzetti rusinchi
+   </p>
+   <p>
+    Terzetti di Rusiu
+   </p>
+   <p>
+    Terzetti di u Piuvanu
+   </p>
+   <p>
+    ==Referenze==
+   </p>
+   <p>
+    Olmu di Casacconi
+   </p>
+   <p>
+    Canti corsi d'eri è d'oghje
+   </p>
+   <p>
+    Terzetti
+   </p>
+  </body>
+ </text>
+</TEI>

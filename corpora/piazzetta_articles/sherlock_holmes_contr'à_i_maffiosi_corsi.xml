@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sherlock Holmes contr'à i maffiosi corsi
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Sherlock-Holmes-contr-a-i-maffiosi-corsi_a1841.html"/>
+     <date>
+      Wed, 28 May 2014 00:05:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sherlock Holmes contr'à i maffiosi corsi
+   </head>
+   <div type="content">
+    <p>
+     Dop'à The Good Wife, u populu corsu ispirà à Elementary. Elementary, s'è vo ùn cunniscite micca, hè un'adattazione piuttostu libera di Sherlock Holmes in u New-York d'oghje. È ùn duvinerete mai chì rollu tenimu nentru. 
+Allora, una piccula induvinella. 
+In Elementary, i Corsi sò : 
+1. Universitarii  2. Un gruppu di rock  3. Cucinari  4. Duttori  5. Inchiestadori 
+Risposta : nisuna, in fatti sò maffiosi. Ma vuliamu lascià nasce in voi una luce di sperenza. Hè un bellu sentimentu, a speranza. 
+In l'episodii 21 è 22 di a stagione 2, Sherlock Holmes (Jonny Lee Miller) si rende contu ch'un cliente dubbitosu manghja di manera regulare in u risturante di u so fratellu, Mycroft. Si chjama Guillaume de Soto, "un tenente altu piazzatu di u "Milieu" (in francese in a VO), un gruppu di maffiosi corsi. 
+In a versione orìginale, si parla di "french corsican mafia". 
+Più tardi in l'episodiu, u nostru cumpatriottu manghja cù un altru tippu chì averia tombu 13 campimaffiosi in un macellu. Guillaume de Soto è i so amichi ùn sò veramente micca simpatichi. Rapiscenu è si chjappanu à Joan Watson (Lucy Liu), sterpanu mezu mondu, è u peghju di tuttu anu un accentu pinzutu fracichissimu. 
+O sinnò, 24 Heures è Jack Bauer facenu u so grande ritornu. Per avà, nisuna traccia d'un Dumè Maffiosu.  Vi tenimu à capu.
+    </p>
+    <p>
+     Guillaume de Soto, u corsu di a seria. Da veru, dice "youre friènde ènde iz brozer quème tou".
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

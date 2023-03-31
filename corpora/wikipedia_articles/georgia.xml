@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Georgia
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Georgia"/>
+     <date>
+      2019-01-17T11:23:41Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Georgia
+   </head>
+   <p>
+    A Georgia hè un' paesu in Asia ma di cultura e tradizzione auropeana.
+   </p>
+   <p>
+    A capitale si chjama Tblisi.
+   </p>
+   <p>
+    A lingua uffiziale hè u georgianu.
+   </p>
+   <p>
+    Asia
+   </p>
+  </body>
+ </text>
+</TEI>

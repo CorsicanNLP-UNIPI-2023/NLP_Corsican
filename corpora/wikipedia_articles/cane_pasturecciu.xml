@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cane pasturecciu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Cane%20pasturecciu"/>
+     <date>
+      2013-03-08T23:50:53Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cane pasturecciu
+   </head>
+   <p>
+    Un cane pasturecciu (o ghjacaru pasturecciu) hè un cane chì serve à i pastori per difende o guardà l'animali (Multedo 1994).
+   </p>
+   <p>
+    ==Da vede dinù==
+   </p>
+   <p>
+    cane
+   </p>
+   <p>
+    cane umarecciu
+   </p>
+   <p>
+    ==Referenze==
+   </p>
+   <p>
+    Multedo, Roccu (1994), U mazzerisimu - Le mazzérisme, L'originel, Parighji
+   </p>
+  </body>
+ </text>
+</TEI>

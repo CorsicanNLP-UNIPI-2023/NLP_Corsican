@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Colombia
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Colombia"/>
+     <date>
+      2019-09-19T04:49:00Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Colombia
+   </head>
+   <p>
+    A Colombia hè un statu in l'America di u Sudu.
+   </p>
+   <p>
+    A capitale hè Bogotà.
+   </p>
+   <p>
+    A Colombia ha una superficia di 1.141.748 km² è tene circa 45 milioni d'abitanti.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Juanes
+   </p>
+   <p>
+    Gabriel García Márquez
+   </p>
+   <p>
+    Shakira
+   </p>
+   <p>
+    America di u Sudu
+   </p>
+  </body>
+ </text>
+</TEI>

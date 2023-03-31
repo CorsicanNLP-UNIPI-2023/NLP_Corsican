@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Charles Darwin
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Charles%20Darwin"/>
+     <date>
+      2014-04-10T14:05:47Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Charles Darwin
+   </head>
+   <p>
+    Charles Darwin era un scientìficu inglese. Hè natu u 12 di ferraghju 1809, hè mortu u 19 d'aprile 1882.
+   </p>
+   <p>
+    Hà fattu un viaghju di cinqu'ani intornu à u mondu nantu u batellu HMS Beagle.
+   </p>
+   <p>
+    I so dui libri i più impurtanti sò "On the Origin of Species" (L'orìgine di e spezie, 1859) è "The Descent of Man, and Selection in Relation to Sex" (l'ascendenza di l'omu in relazione cù a sessualità, 1871).
+   </p>
+   <p>
+    Scenzi esatti è naturali
+   </p>
+   <p>
+    Biologia
+   </p>
+  </body>
+ </text>
+</TEI>

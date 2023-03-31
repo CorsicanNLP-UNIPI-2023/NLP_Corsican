@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "Bastia nuit gravement à l'image du football français" ? Tantu megliu !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Bastia-nuit-gravement-a-l-image-du-football-francais-Tantu-megliu-_a1185.html"/>
+     <date>
+      Sun, 16 Oct 2011 23:22:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "Bastia nuit gravement à l'image du football français" ? Tantu megliu !
+   </head>
+   <div type="excerpt">
+    <p>
+     I Corsi sò viulenti, gattivi, salvàtichi, assassini, ladri, rubacce. D'altronde, Frédéric Thiriez a sà bè postu chì a partita Bastia - Lens ùn era ancu finita ch'ellu avia digià fattu un cummunicatu. Ma i gattivi sugetti ùn sò micca sempre corsi...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     SC Bastia / RC Lens - Vidéo exclusive des... par SportingClubBastia  U sàbbatu 15 ottobre à 4 ore è 10, una baruffa schjattava nant'à u terrenu di Furiani, à qualchì minutu di a fine di Bastia - Lens. Hè goffu, ma cusì si passa nant'à tutti i stadii di ballò di u mondu. 
+À 4 ore è 20, Frédéric Thiriez facia u so cummunicatu, lagnendusi chì "Ces incidents répétés nuisent gravement à l'image du football français et à celle du club bastiais ", precizendu chì "La Ligue rappelle que le terrain de Bastia est actuellement sous le coup d'un match de suspension avec sursis suite aux incidents du match entre Bastia et Le Mans". 
+Eccu, semu ripartuti per un'altra tazzata, mediatica sta volta. L'infurmazione passa in prima pagina di tutti i siti d'attualità : Le Figaro, TF1, si ne parlava ancu in u JT d'i&gt;télé : "une fois de plus en Corse... le retour des vieux démons à Bastia... difficile de jouer dans le contexte corse..." 
+I gattivi Corsi contr'à i bravi Ch'tis, ùn pudiamu micca luttà. 
+Megliu : u situ di u giurnale Nord Eclair ci ampara chè no semu peghju ch'è l'africani. U goal rimpiazzante di Lens, Hamdi Kasraoui mughjava chì : « C'est pire qu'en Afrique, ici, c'est pire qu'en Afrique ! ». Per noi chì semu razzisti, eccu un'insulta chì marca veramente male. Sapiamu chì u Terzu Mondu cummencia in Corsica, ma quantunque. 
+Ma pocu dopu u Sporting hà publicatu nant'à u so situ a videò di ciò chì s'hè veramente passatu in u curridore di i spugliatoghji di Furiani. Si vede u difensore di Lens Gabriel Cichero mette un calciu à un dirigente di u Sporting. Diagnòsticu : parechje fratture è intervenzione chirùrgica. 
+È sì Thiriez pensa chì a Corsica "nuit gravement à l'image du football français", allora hè una bona ragione di cuntinuvà ! Una cosa hè sigura, Bastia ùn vole veramente micca entre in l'orrore di u futbol mudernu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Steve Zahn
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Steve%20Zahn"/>
+     <date>
+      2016-09-22T15:54:10Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Steve Zahn
+   </head>
+   <p>
+    Steven James "Steve" Zahn (Marshall - Minnesota, 13 Nuvembre 1967) hè un attore americanu.
+   </p>
+   <p>
+    Zahn, Steve
+   </p>
+  </body>
+ </text>
+</TEI>

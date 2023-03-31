@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U.S.S. Intelligent Whale
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/U.S.S.%20Intelligent%20Whale"/>
+     <date>
+      2015-07-03T10:25:55Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U.S.S. Intelligent Whale
+   </head>
+   <p>
+    A U.S.S. Intelligent Whale fubbe un battellu, un sottumarinu in a Guerra Civile Americana.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    C.S.S. Hunley
+   </p>
+   <p>
+    C.S.S. Pioneer
+   </p>
+   <p>
+    U.S.S. Alligator (sottumarinu)
+   </p>
+   <p>
+    Intelligent Whale
+   </p>
+  </body>
+ </text>
+</TEI>

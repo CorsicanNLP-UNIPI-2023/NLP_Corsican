@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bergamu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Bergamu_a2679.html"/>
+     <date>
+      Fri, 24 Nov 2017 14:20:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bergamu
+   </head>
+   <div type="content">
+    <p>
+     Visità à Bergamo 
+1. A cità alta  2. E porte  3. I rampali  4. chjesa 1 S. Maria maggiore  5. chjesa 2  6. l'orobie  7. a piazza  8. a manghjusca  9. straciatella  10. a campagna  11. u monte bastia  12. Clusone  13. San Pellegrino  14. u bergamascu  15. l'Atalanta  16. u funiculare  17. l'accademia carrara  18.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

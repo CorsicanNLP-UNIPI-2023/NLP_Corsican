@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Méprisance, bravitude... Tù dinù, inventa una parolla nova !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Meprisance-bravitude-Tu-dinu-inventa-una-parolla-nova-_a1309.html"/>
+     <date>
+      Thu, 19 Apr 2012 00:41:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Méprisance, bravitude... Tù dinù, inventa una parolla nova !
+   </head>
+   <div type="excerpt">
+    <p>
+     Nicolas Sarkozy hà inventatu a parolla "méprisance" un annu dopu à Ségolène Royal chì avia inventatu a "bravitude". Ma noi dinù, pudemu inventà parolle nove.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Una campagna eletturale fatiga assai. Durante un meeting, Nicolas Sarkozy hà inventatu una parolla : la méprisance. 
+È si noi dinù, inventavamu parolle nove ? 
+Fratellanzassi : Fattu d'esse "fratè". Sì pò esse "fratè" cù un cuginu, cù a so surella, è ùn esse micca "fratè" cù u so fratellu. Esempiu : "André Paccou s'hè fratellanzatu cun Alain Orsoni". 
+Impezzificatu : Fattu d'esse "in pezzi" dop'à una grossa sborgna. Esempiu : "avà ch'aghju betu quattru buttiglie di Johnnie, sò impezzificatu è à mumenti aghju da rende". 
+Pumataghjizà : Azzione di diventà un pumataghju. Per via di a crisa, numerosi sò i Corsi à pumataghjizassi. Sinònimu : batte a closcia. 
+Prefettizassi : Significheghja u fattu per un Corsu di diventà antipàticu è rispettosu di e regule. Per esempiu, u tippu chì ùn vole fà l'apperitivu perchè "tu comprends, un verre d'alcool représente 40 grammes d'alcool dans le sang" li si pò dì : "buh, chì t'accade ? Ti sì prefettizatu o chè ?" 
+Disneylandizà : S'impiega per e millaie di Corsi chì tutti l'anni vanu à scopre a cultura à Disneyland, senza vulà vede altre cose. U Louvre, Orsay è Beaubourg, hè troppu cumplicatu. 
+Duppontaignantizà: Fattu di piglià a faccia sticchita di Dupont-Aignan. 
+Avà tocca à voi d'inventane d'altre.
+    </p>
+    <p>
+     Sarkozy utilise le néologisme de "méprisance" par LeNouvelObservateur
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

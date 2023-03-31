@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Yannick Cahuzac
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Yannick%20Cahuzac"/>
+     <date>
+      2015-03-01T23:57:13Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Yannick Cahuzac
+   </head>
+   <p>
+    Yannick Cahuzac (natu in u 1985) hè un capitanu di ghjucadore di pallò SC Bastia e corsu.
+   </p>
+   <p>
+    Cahuzac
+   </p>
+  </body>
+ </text>
+</TEI>

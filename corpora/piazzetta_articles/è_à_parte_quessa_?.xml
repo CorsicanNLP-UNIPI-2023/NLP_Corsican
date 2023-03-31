@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È à parte quessa ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-a-parte-quessa_a1973.html"/>
+     <date>
+      Sun, 05 Oct 2014 12:30:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È à parte quessa ?
+   </head>
+   <div type="excerpt">
+    <p>
+     U Sporting hà persu, si ritrova in fondu di a classifica, è tuttu si sprufonda. Allora chì tuttu ognunu cerca u culpèvule (dirigenti, intrenore o ghjucadori...) fidighjemu appena ciò chì si passa in altrò. Sta dumenicata c'era in Alemagna una partita trà dui clubs chì anu sappiutu tene a so identità.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cumu tene a so identità in l'orribile mondu di u futbol business, induve tuttu hè soldu, marketing, droits-télé è corsa à u prufittu ? 
+Tuttu ognunu cunnosce l'esempii di l'Atletic Bilbao è di u FC Barcelona. Dui clubs chì sò attaccati assai à a so identità è spessu citati in esempiu. Ma hè difficiule d'apparagunà cun Bastia, tantu e regione di u Paese Bascu è di a Catalogna sò ricche à u pianu ecunòmicu, culturale, demugràficu. 
+Forse ci vole à falà d'un livellu, in segonda divisione alemana (a "Bundesliga 2"). Sabbatu c'era in Hambourg a partita trà u FC Sankt Pauli è l'Union Berlin (vittoria di Sankt Pauli 3 à 0). 
+Dui clubs menu cunnisciuti, ma à identità assai forte. Sankt Pauli, nome d'un quartieru d'Hambourg hè un club di tradizione di strema manca, anti facistu induve i sustenidori sò ascultati. Scrivia Le Monde : 
+"Exemple : la nouvelle enceinte, qui doit être achevée en 2014, restera majoritairement un stade "debout" avec des billets aux prix dérisoires mais, concession aux exigences financières, il contiendra une tribune avec des places assises vendues plus cher." 
+L'Union Berlin hè l'altru club "alternativu". Club di l'operai in tempi di l'anziani RDA, l'Union era u chjucu, quandu u pudere est-alemanu preferia u club di a Stasi, u Dynamo Berlin. Hà tenutu a so identità pupulare è vicina di quella di Sankt Pauli. 
+Da leghje in Les Inrocks : Punks ouvriers vs antifascistes: plongée dans la contre-culture du foot allemand. 
+Sti dui clubs ben intesu, à rombu di resiste à u foot-business è à vulè esse attaccati à a so anima, si stanu in segonda divisione (di tantu in tantu u FC Sankt Pauli si face un'affaccata in Budesliga 1, ma dura pocu). È i sustenidori, chì ne dicenu ? Sempre in Les Inrocks, un fan di l'Union Berlin spiega : 
+“Honnêtement, je préfère rester en deuxième division. La première division, c’est trop commercial. Rester en deuxième division, c’est préserver l’état d’esprit de l’Union.” 
+Tene a so identità è essene felice ? O circà d'assumigliassi à l'altri è accettà e regule di u futbol prufessiunale, quellu di i soldi, di u prufittu, di e regule di a LFP è di u foot-business ? 
+"Da rifletteci", dicia quellu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

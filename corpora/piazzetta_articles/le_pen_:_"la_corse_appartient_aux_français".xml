@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Le Pen : "la Corse appartient aux Français"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Le-Pen-la-Corse-appartient-aux-Francais_a1793.html"/>
+     <date>
+      Sun, 11 May 2014 15:50:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Le Pen : "la Corse appartient aux Français"
+   </head>
+   <div type="content">
+    <p>
+     U FN cuntinuveghja di pruvà di "regiunalizà" u so discorsu è d'appiccicà a bandera corsa, ma ùn cambia micca nant'à u fondu. 
+Jean-Marie Le Pen hà datu una cunferenza di stampa in Bastia (serà luni 12 in Aiacciu), è si pò vede un mumentucciu di a so cunferenza di stampa nant'à Corse Net Infos. 
+U presidente d'onore di u FN hà dettu a so opposizione à u statutu di residente è u statutu di cuufficialità : "il n'y a pas de raison de faire quelque chose de spécifique à la Corse à ce sujet". 
+Hà martellatu u so discorsu classicu : "la Corse n'appartient pas seulement aux Corses, elle appartient aussi aux Français, je me sens moi un peu propriétaire". 
+Hè detta.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Attenti, ghjunghje u "paléo-fitness"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Attenti-ghjunghje-u-paleo-fitness_a2639.html"/>
+     <date>
+      Thu, 14 Sep 2017 09:04:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Attenti, ghjunghje u "paléo-fitness"
+   </head>
+   <div type="excerpt">
+    <p>
+     Pensavate chì a storia di l'umanità hè una successione di prugressi ? Avete da scambià d'avisu. Hè nata a moda u sport di a prestoria è duveria sbarcà da quì à pocu in Corsica.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Avvicinassi di a natura, vultà à appena di più di simplicità, sbarazzassi di ciò chì ùn ghjova à nunda... U prugramma hè interessante è ùn face male, ma tucchemu à e so limite. 
+Hè natu un sport novu, u "paléo fitness", chjamatu dinù "gym des cavernes". Sta disciplina nata in Francia hè face riferenza à u paleuliticu.
+    </p>
+    <p>
+     Le paléo-fitness : retour à l'Homme des cavernes ? https://t.co/J4mafHymma pic.twitter.com/bxbgbnUme9
+— ILOSPORT (@ilosport) 30 mars 2016
+    </p>
+    <p>
+     A regula : movesi cum'è un omu di Cro-Magnon, saltà nant'à i scogli, trascinà fusti d'arburi è petronculi, corre cum'è una scimia...
+    </p>
+    <p>
+     Un bellu prugrama in perspettiva.
+    </p>
+    <p>
+     Ùn avemu nisuna prova chì i nostri antichi prestorichi facianu quessa, ma perchè micca.
+    </p>
+    <p>
+     Bon averete capitu, sta pazzia ùn sterà tantu à vene in Corsica. Ci ne serà sempre unu pè inventà u "Cuccuruzzu fitness", a "Filitosa gym" o a "spassighjata neulitica" cù una mansa di scimie ecchippati di lampane fruntale in traccia di corre scalzi spugliati è famiti pè i vostri carrughji. Preparatevi.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

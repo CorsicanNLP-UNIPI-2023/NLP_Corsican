@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È voi, site "selfy" ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-voi-site-selfy_a1642.html"/>
+     <date>
+      Thu, 28 Nov 2013 11:39:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È voi, site "selfy" ?
+   </head>
+   <div type="content">
+    <p>
+     http://instagram.com/mrpimpgoodgame 
+http://www.lesnumeriques.com/telephone-portable/selfie-mot-annee-2013-n31930.html 
+http://www.lexpress.fr/styles/le-selfie-autoportrait-numerique_1303152.html 
+http://www.lesinrocks.com/2013/11/23/medias/selfie-lassaut-musees-11446423/
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

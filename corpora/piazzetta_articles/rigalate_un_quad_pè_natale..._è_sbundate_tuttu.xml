@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Rigalate un quad pè Natale... è sbundate tuttu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Rigalate-un-quad-pe-Natale-e-sbundate-tuttu_a1232.html"/>
+     <date>
+      Wed, 21 Dec 2011 12:23:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Rigalate un quad pè Natale... è sbundate tuttu
+   </head>
+   <div type="excerpt">
+    <p>
+     L'autodestruzzione serà una specificità corsa ? U situ di l'associu U Levante mette u ritrattu d'un anticu chjassu in Bunifaziu, nanzu è dopu à u passagiu di i quads... Et qui on est ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In Corsica avemu un prublema cù u nostru patrimoniu è i nostri chjassi, a sapemu. V'arricurdate di u chjassu bettunizatu in Bisinchi ? 
+Sta volta semu in Bunifaziu. U situ di U Levante mostra u ritrattu di a ricciata chì và in Oriu. Si passa di cummenti. U primu hè statu pigliatu in u 2005, l'altru in u 2011. 
+Pare ch'elli sianu ghjunti Attila, Gengis Khan è Godzilla à tempu. 
+Quad, trial, è ghjente chì s'arruba e petre (per mette in giardinu ?) sò passati pè sti lochi. 
+Ci piace à difende u nostru patrimoniu, ma semu i più forti pè sbundallu dinù...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

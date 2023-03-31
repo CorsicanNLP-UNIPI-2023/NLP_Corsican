@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Corsica hè sempre à vende
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-Corsica-he-sempre-a-vende_a1021.html"/>
+     <date>
+      Mon, 31 Jan 2011 00:34:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A Corsica hè sempre à vende
+   </head>
+   <div type="excerpt">
+    <p>
+     Mortu u Padduc, mughjavate vittoria ? Pensate... Più ch'è mai, a Corsica hè minacciata da a bettunizazione.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     PADDUC o micca, "assises du foncier" o micca, spedizione di notte in Anghjone o micca, u liturale di Corsica cuntinuveghja di parte in pistìcciuli. 
+Pocu impreme u risultatu di l'ultime elezzioni o di l'ultimu commandò casinchese, i prumutori ùn cunnoscenu micca a crisa. Ùn ci hè ch'è da vede st'annunziu nant'à u situ vivastreet : 
+Situé rive sud golfe Ajaccio à 37 KM aéroport international, 350 m bord de mer, plages, criques - servitude passage privé 50 m X 4 m sur D 155 d'où accès réseaux eau, électricité, téléphone, passage scolaire etc... Vue panoramique mer et montagnes -Exposition SUD OUEST (Capo di Muro - Iles Sanguinaires) - Constructions possibles pour habitat permanent et commerces locaux réalisés dans le cadre de l'environnement et créateurs d'emplois.  
+È sopr'à tuttu : 
+CONVIENDRAIT A INVESTISSEURS DE GRANDS PROJETS. 
+72 435 m² in Coti Chjavari, prezzu : 1 900 000€... 
+Ùn manca ch'è a menzione "CORSES S'ABSTENIR".
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

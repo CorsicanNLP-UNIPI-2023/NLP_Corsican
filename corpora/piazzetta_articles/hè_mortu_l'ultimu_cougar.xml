@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hè mortu l'ultimu cougar
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/He-mortu-l-ultimu-cougar_a1054.html"/>
+     <date>
+      Fri, 11 Mar 2011 02:01:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hè mortu l'ultimu cougar
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè officiale, a razza di u cougar americanu s'hè spenta.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Bon, si tratta di l'animale, micca di a donna cugara chì ella si porta bè. 
+U serviziu americanu di a caccia è di a pesca (US Fish and Wildlife Service) hà annunziatu a trista nutizia à u principiu di stu mese : u cougar americanu (chjamatu dinù puma) hè smaritu di u nostru pianeta. 
+Finita. Mai più. 
+Imaginate ciò ch'elli sò stati l'ultimi anni di stu pòveru felinu, solu solu, à girandulà cum'è un disgraziatu in u disertu di l'Est di i Stati Uniti, in brama di truvà un cumpagnu o qualcosa chì s'assumiglia à a so razza... 
+A nutizia hè stata annunziata da un banale cumunicatu di stampa. 
+Soca serà dinù cusì, quandu si serà spentu l'ultimu corsu di u mondu. Cù un cummunicatu di l'AFP, è in l'indifferenza generale...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

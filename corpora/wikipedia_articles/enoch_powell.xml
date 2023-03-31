@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Enoch Powell
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Enoch%20Powell"/>
+     <date>
+      2013-05-06T13:28:53Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Enoch Powell
+   </head>
+   <p>
+    Enoch Powell Allan Warren hè statu un omu politicu cunservatore inglese.
+   </p>
+   <p>
+    Natu in u 1912, mortu in u 1998.
+   </p>
+  </body>
+ </text>
+</TEI>

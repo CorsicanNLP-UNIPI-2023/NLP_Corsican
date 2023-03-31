@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Alto Paraná
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Alto%20Paran%C3%A1"/>
+     <date>
+      2017-11-22T09:21:03Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Alto Paraná
+   </head>
+   <p>
+    Alto Paraná hè un dipartimentu di Paraguay.
+   </p>
+   <p>
+    Dipartimentu di Paraguay
+   </p>
+  </body>
+ </text>
+</TEI>

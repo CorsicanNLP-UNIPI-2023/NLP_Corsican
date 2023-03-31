@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È avà, i canistrelli "made in France"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-ava-i-canistrelli-made-in-France_a1590.html"/>
+     <date>
+      Tue, 18 Jun 2013 23:39:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È avà, i canistrelli "made in France"
+   </head>
+   <div type="excerpt">
+    <p>
+     Dop'à u figatellu di porcu chinese è casgiu corsu di latte pulunese, eccu u canistrellu fattu in Marseglia.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Sin'à induve anderà a scruccuneria di i falsi prudutti identitarii pè turisti è diaspora ? 
+Stu ritrattu mandatu da un lettore ci mostra un sacchettu di canistrelli (ma ùn hè precisatu ch'elli sò Corsi) fatti in... Gémenos, dipartimentu di e Bouches du Rhône. 
+Hè vera ch'elli ci sò assai Corsi in a regione di Marseglia. Ma ùn ci la feremu mancu à spurtà i nostri prudutti pè sti lochi ? 
+L'intrapresa, "Biscuiterie de B", serà tenuta da un Corsu ? Per avà ùn si sà. 
+Avà, sapemu chì n'importa quale pò dunque aduprà l'appellazione "canistrelli". 
+Seranu cuntenti i difensori di u "made in France". 
+Tuttu và bè.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

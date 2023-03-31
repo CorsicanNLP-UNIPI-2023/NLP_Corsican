@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Saldi : 4 feriti in un centru cummerciale
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Saldi-4-feriti-in-un-centru-cummerciale_a1004.html"/>
+     <date>
+      Thu, 13 Jan 2011 08:01:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Saldi : 4 feriti in un centru cummerciale
+   </head>
+   <div type="excerpt">
+    <p>
+     Serà a colpa di a crisa ? Mercuri era u principiu di i saldi d'inguernu. In un centru cummerciale di Bastia u bilanciu hè terribule : 4 feriti, un magazinu di scarpi ruvinatu è 12 interpellazioni.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'avete trovu u vostru pull in cachemire è u vostru survêt  à menu 30% ? U principiu di i saldi hè diventatu un evenimentu impurtante in u nostru almanaccu, più ch'è Natale, a festa di a Nazione o l'anniversariu di a vostra mamma. 
+Ùn dite micca bugie, tuttu u mondu l'aspetta sti saldi. À tal puntu ch'ellu si compra n'importa chè, sopr'à tuttu di ciò chì ùn ci hè bisognu. A sola impressione di "fà un affare" face nasce a frenesìa di cumprà. 
+Dopu à e famose "émeutes de la faim" di u 2008, eccu chì ghjunghjenu e cazzuttate di i saldi. A crisa, l'azizume, u mondu in i magazini, a difficultà di truvà una piazza per ingarassi, un articulu à a vostra taglia... Tutte e cundizioni sò reunite per fà nasce e baruffe in i tempii di a cunsumazione. 
+Malgradu i rinforzi di pulizza, i cazzotti sò falati à parechje riprese pè l'apertura di i sconti. In un centru cummerciale di u circondu bastiacciu si contanu quattru ferriti in una buttega di scarpi. Ùn firmava più ch'è un paghju di Sebago in taglia 43, a buttega hè stata distrutta. 
+Ci sò stati dinù parechji interpellati in un magazinu di sport : e veste Millet ùn eranu micca in saldi è i clienti ùn eranu micca cuntenti. In parechji cummerci di vestiti pè donne ci hè vulsutu à fà intervene l'armata. 
+85% di i Francesi cuntavanu prufittà di i saldi d'appressu à un sundagiu. Quantu sò ripartuti cù un cazzottu ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

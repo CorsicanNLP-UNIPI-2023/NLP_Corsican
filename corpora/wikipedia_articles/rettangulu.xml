@@ -1,0 +1,81 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Rettangulu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Rettangulu"/>
+     <date>
+      2013-03-09T02:43:51Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Rettangulu
+   </head>
+   <p>
+    In giomitria, u rettangulu (o rittangulu) denota u quatrangulu cù tutti i so anguli interni congruenti (è dunque ritti).
+   </p>
+   <p>
+    Da sta definizione segue ch'è in un rettangulu ognunu di i dui coppii di lati opposti hè custituita da lati congruenti; in altre termini, i rettanguli sò parallelogrammi particulari. I rettanguli sò ancu quadranguli ciclichi specifichi: ponu esse definiti cum'è i quadranguli ciclichi avendu cum'è diagunale dui diametri di u cherchju circuscrittu.
+   </p>
+   <p>
+    U quatratu hè un tipu di rettangulu particulare, caratterizatu d'avè tutti i quattru lati congruenti. Di manera equivalente si dice ch'è l'inseme di i quatrati hè l'intersezione di l'inseme di i rettanguli cù l'inseme di i rombi.
+   </p>
+   <p>
+    Per sottulineà ch'è un rettangulu ùn hà micca tutti i so lati congruenti cum'è un quatratu, si dice ch'è un rettangulu hè una figura oblunga. Quandu si prisenta un rettangulu in u pianu cartesianu è chì questu hà dui lati sensibilmente più longhi di l'altri dui è disposti orizontalmente, si tratta tandu di rettangulu largu; s'è invece i lati più longhi sò disposti verticalmente si parla di rettangulu altu o di rettangulu suttile. A lunghezza di i dui lati opposti più longhi hè chjamata lunghezza o basa di u rettangulu, mentre a lunghezza di i dui lati più corti hè chjamata larghezza o altezza. Si dice tandu ch'è l'area di un rettangulu hè data da u produttu di a so lunghezza per a so larghezza, o puru da u produttu di a so basa per a so altezza. Per esempiu l'area di urettangulu 5 per 4 presentatu in a prima figura hè 20, in quantu 5 × 4 = 20.
+   </p>
+   <p>
+    S'è invece a basa è l'altezza di un rettangulu si denotanu rispettivamente cù \,b\, è \,h\, per a so area \,A\, è per u so perimetru \,L\, si hà
+   </p>
+   <p>
+    A\,=\, b\cdot h \qquad L \,=\, 2\cdot b + 2\cdot h
+   </p>
+   <p>
+    == Altri usi ==
+   </p>
+   <p>
+    In giomitria si usa ancu rettangulu cum'è aghjettivu per specificà parechje figure geometriche.
+   </p>
+   <p>
+    u Triangulu rettangulu: hè un triangulu cù un angulu rittu.
+   </p>
+   <p>
+    u Trapeziu rettangulu: hè un trapeziu cù un angulu rittu (è dunque cù dui o quattru anguli ritti).
+   </p>
+   <p>
+    u Prisma rettangulu: hè un prisma limitatu cù e base ortogunale à e facce laterale.
+   </p>
+   <p>
+    a Piramide rettangula è una piramide limitata cù a basa custituita da una figura piana dutata di un centru di simmetria è u segmentu trà u vertice è u centru di simmetria ortogunale à a basa.
+   </p>
+   <p>
+    == Da vede dinù ==
+   </p>
+   <p>
+    Iperrettangulu
+   </p>
+   <p>
+    Quatranguli
+   </p>
+  </body>
+ </text>
+</TEI>

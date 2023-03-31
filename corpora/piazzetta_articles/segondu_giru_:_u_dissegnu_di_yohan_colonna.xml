@@ -1,0 +1,52 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Segondu giru : u dissegnu di Yohan Colonna
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Segondu-giru-u-dissegnu-di-Yohan-Colonna_a2308.html"/>
+     <date>
+      Thu, 10 Dec 2015 11:05:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Segondu giru : u dissegnu di Yohan Colonna
+   </head>
+   <div type="content">
+    <p>
+     Seguitate à Yohan Colonna nant'à Twitter
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

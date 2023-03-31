@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Santandriacciu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Santandriacciu"/>
+     <date>
+      2015-07-07T11:14:05Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Santandriacciu
+   </head>
+   <p>
+    santandriacciu, abitante di Boziu (pieve)
+   </p>
+   <p>
+    santandriacciu, abitante di Cotone (pieve)
+   </p>
+   <p>
+    santandriacciu, abitante di Urcinu (pieve)
+   </p>
+  </body>
+ </text>
+</TEI>

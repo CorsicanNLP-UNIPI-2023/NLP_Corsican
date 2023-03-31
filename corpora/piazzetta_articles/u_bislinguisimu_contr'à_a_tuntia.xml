@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U bislinguisimu contr'à a tuntia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-bislinguisimu-contr-a-a-tuntia_a1637.html"/>
+     <date>
+      Wed, 06 Nov 2013 23:54:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U bislinguisimu contr'à a tuntia
+   </head>
+   <div type="excerpt">
+    <p>
+     D'appressu à un'inchiesta, u fattu d'ammaistrà duie lingue ritarderebbe di qualchì annu l'apparizione di a malatia d'Alzheimer, ma dinù di a tuntia.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     È ùn hè mancu una magagna, hè l'AFP chì l'hà scritta oghje : Etre bilingue retarderait certaines formes de démence. 
+U studiu hè seriu è publicatu in a rivista americana Neurology. A Cunclusione : 
+"Parler plus d'une langue paraît induire un meilleur développement de la zone du cerveau responsable du raisonnement et de l'attention, qui pourraient contribuer à protéger (l'individu, ndlr) de la démence" 
+Per elli, si vince quattr'anni nant'à a malatia : 
+Les personnes bilingues ont développé la maladie d'Alzheimer et des démences fronto-temporales ou vasculaires quatre ans et demi plus tard que celles qui ne parlaient qu'une seule langue. 
+Cum'è no simu bravi, ùn diceremu nunda nant'à L'Association France-Corse è tutti l'accaniti anti-lingua corsa chì s'opponenu à a cuufficialità. 
+Invece, ferma una dumanda senza risposta : cumu femu per quelli chì sò digià tonti da lià ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

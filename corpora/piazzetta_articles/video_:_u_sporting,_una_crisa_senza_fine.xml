@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Video : u Sporting, una crisa senza fine
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Video-u-Sporting-una-crisa-senza-fine_a2654.html"/>
+     <date>
+      Wed, 27 Sep 2017 12:40:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       VIDEO
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Video : u Sporting, una crisa senza fine
+   </head>
+   <div type="excerpt">
+    <p>
+     A storia di u Sporting Club di Bastia, hè una crisa senza fine, è una rinascita permanente.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Muntagiu di u filmettu : PFC (cù a participazione di Bill Murray).
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

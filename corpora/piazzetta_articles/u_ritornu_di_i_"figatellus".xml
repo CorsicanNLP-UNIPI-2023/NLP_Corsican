@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U ritornu di i "figatellus"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-ritornu-di-i-figatellus_a1650.html"/>
+     <date>
+      Wed, 11 Dec 2013 11:01:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U ritornu di i "figatellus"
+   </head>
+   <div type="content">
+    <p>
+     Face una stonda ch'è no l'aviamu persi, i "figatellus" sò di ritornu. 
+Bon, ùn hè micca veramente grave, u sbagliu vene da un situ internet di a cità d'Albi, in u dipartimentu di u Tarn. 
+Quandu si vede quessa nant'à u mercatu di Bastia, hè appena più grave...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

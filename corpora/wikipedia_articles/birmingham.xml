@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Birmingham
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Birmingham"/>
+     <date>
+      2015-07-03T15:50:24Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Birmingham
+   </head>
+   <p>
+    Birmingham (Brummagem in inglese parlatu lucalmente) hé, cù 992.400 abitanti, a siconda cità di u Regnu Unitu, dopu Londra.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Duran Duran
+   </p>
+   <p>
+    Regnu Unitu
+   </p>
+  </body>
+ </text>
+</TEI>

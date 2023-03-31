@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     The Ren &amp; Stimpy Show
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/The%20Ren%20%26%20Stimpy%20Show"/>
+     <date>
+      2017-05-29T07:19:20Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    The Ren &amp; Stimpy Show
+   </head>
+   <p>
+    The Ren &amp; Stimpy Show hè una seria di televisione d'animazione americana creata da John Kricfalusi pè Nickelodeon.
+   </p>
+   <p>
+    Televisione
+   </p>
+  </body>
+ </text>
+</TEI>

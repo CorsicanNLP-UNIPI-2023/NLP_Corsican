@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I Simpsons pè l'indipendenza di a Scozzia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-Simpsons-pe-l-indipendenza-di-a-Scozzia_a1950.html"/>
+     <date>
+      Wed, 17 Sep 2014 13:16:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I Simpsons pè l'indipendenza di a Scozzia
+   </head>
+   <div type="excerpt">
+    <p>
+     Willie u giardinaru scuzzese di a seria americana sustene u campu di u "iè".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     I creatori di a seria anu messu in linea un filmettu induve si vede à Willie, u giardinaru scuzzese di a scola di Springfield, lanciassi in un discorsu à prò di l'indipendenza. 
+Eccu a videò sottutitulata in francese da u Huffington post. Si vede u persunagiu (appena azezu) di a seria stuzzicà i partigiani di u nò, qualificati di "quelli à chì li piace di trascinassi cum'è vermi sott'à e botte di l'Inghilterra". 
+Quessa, hè fatta.
+    </p>
+    <p>
+     Indépendance de l'Écosse : Willie le jardinier... par LeHuffPost
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

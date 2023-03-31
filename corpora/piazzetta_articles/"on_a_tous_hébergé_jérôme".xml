@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "On a tous hébergé Jérôme"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/On-a-tous-heberge-Jerome_a1532.html"/>
+     <date>
+      Mon, 08 Apr 2013 01:00:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "On a tous hébergé Jérôme"
+   </head>
+   <div type="excerpt">
+    <p>
+     È di siguru, Jérôme Cahuzac hà una residenza segundaria in Corsica. In "Kévano".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Bon, ùn vale a pena d'aghjustane, tutte e magagne sò state fatte nant'à Jérôme Cahuzac è n'hà pigliatu abbastanza cusì. 
+Sta settimana, Corse-Matin ci amparava dunque chì Cahu avia una casa segundaria in Corsica, è ch'ellu hè custì ch'ellu s'hè piattatu, in Pianottoli Caldarellu. 
+L'ancien ministre du Budget vient régulièrement dans cette habitation, "modeste" selon le voisinage, construite par ses parents et qui surplombe la baie de Kevano, ou dans une autre habitation proche qu'il loue. Il était là pendant les fêtes de fin d'années. 
+Da "Kevano" di Corse-Matin semu passati à "Kenavo" in d'altri media. 
+Per infurmazione, "la baie de Kenavo" hè in fatti un locu chì si chjama Chevanu. 
+Pianottoli Calderellu (ma forse avà ci vulerebbe à dì Pianottkaldarèl) hè u paese di Mylène Farmer. Hè custì chì anch'ella si piatta. 
+La baie de Kenavo, Cahuzac, Mylène Farmer... Welcome to la Keurse. 
+Ma ch'avemu fattu pè merità quessa ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

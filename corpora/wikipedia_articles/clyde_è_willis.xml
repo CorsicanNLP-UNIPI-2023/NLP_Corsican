@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Clyde è Willis
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Clyde%20%C3%A8%20Willis"/>
+     <date>
+      2017-10-22T15:40:37Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Clyde è Willis
+   </head>
+   <p>
+    Clyde è Willis hè una seria animata americana creata da Andrew Hendrich Wilson per YouTube.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ci hè un fliccu in u vostru ordinatore
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ci-he-un-fliccu-in-u-vostru-ordinatore_a1200.html"/>
+     <date>
+      Thu, 27 Oct 2011 23:00:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ci hè un fliccu in u vostru ordinatore
+   </head>
+   <div type="excerpt">
+    <p>
+     Truvate ch'è vo ùn avete micca assai amichi nant'à Facebook ? Ùn v'inchietate, a pulizza ella surveglia a vostra pagina...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Quale hè u paese chì dumanda u più d'infurmazioni à Google ? A Curea di u Nordu ? A Birmanìa ? L'Iranu ? 
+Nò, hè a Francia. Hè un raportu di Google chì a ci dice (leghje La France, championne du monde de la surveillance du Net). 
+U paese chì dumanda u più infurmazioni à Google nant'à i so citatini hè a Francia. Bon d'accordu, stu classamentu ùn piglia micca in contu certi paesi cum'è a China chì hè siguramente u primu, ma quantunque. L'India è i Stati Uniti sò in daretu. L'altri paesi aurupeani sò luntani. 
+Avete capitu avà ? Ci vole à dì chì l'attività nant'à internet hè un grande aiutu per i nostri amichi pulizzeri. Trà Google è Facebook, hè faciule di sapè tuttu di a vita di a ghjente. Ci vuleria à esse baulli per passà à cantu à sta mansa d'infurmazioni chì permette di sapè induve site, ciò ch'è vo fate, cun quale, ciò ch'è vo pensate, pregate, manghjate, biite, surtite, chjavate (o micca)... 
+Cuntinuvate à cuntà a vostra vita nant'à Facebook. Ancu s'è vo ùn avete micca assai amichi, date un grande serviziu à a pulizza. 
+Big Brother esiste, scrivite cunnerie tutti i ghjorni nantu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

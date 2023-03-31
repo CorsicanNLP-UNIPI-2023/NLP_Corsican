@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     George Orwell
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/George%20Orwell"/>
+     <date>
+      2016-05-18T13:57:25Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    George Orwell
+   </head>
+   <p>
+    George Orwell (nome veru Eric Arthur Blair) hè statu unu Scrivanu è ghjurnalistu in  lingua inglese.
+   </p>
+   <p>
+    Era natu Motihari, in Bengala, u 25 di ghjugnu di u 1903 è hè mortu à Londra u 21 ghjennaghju di u 1950.
+   </p>
+   <p>
+    Tutta a so opera s'hè caraterizata da u cuntrastu di l'idee tutalitarie.
+   </p>
+   <p>
+    == Opere Principali ==
+   </p>
+   <p>
+    A fatturia di l'animali
+   </p>
+   <p>
+    1984
+   </p>
+  </body>
+ </text>
+</TEI>

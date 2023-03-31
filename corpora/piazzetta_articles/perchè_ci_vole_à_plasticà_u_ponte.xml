@@ -1,0 +1,71 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Perchè ci vole à plasticà u ponte
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Perche-ci-vole-a-plastica-u-ponte_a1632.html"/>
+     <date>
+      Sun, 13 Oct 2013 20:33:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Perchè ci vole à plasticà u ponte
+   </head>
+   <div type="excerpt">
+    <p>
+     Cunsternazione : u ponte genuvese nant'à a cumuna di U Poghju di Venacu hè statu plasticatu. Purtantu, ci sò pienu di ragioni di plasticà un ponte genuvese.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè France 3 Corse chì hà datu l'infurmazione : u ponte genuvese di U Poghju di Venacu hè statu a vìttima d'una prova d'attentatu. Perchè ? Noi a vi dimu. 
+1. Chì n'ai da fà di u ponte ? Francà à Tavignani ? Per chì fà ? Si pò passà per Casamozza dinù. 
+2. Hè goffu. Un bellu ponte in béton, ùn saria più bellu chè un ponte di u Medievu ? 
+3. E vechje petre è u patrimoniu ùn ghjovanu à nunda. In Corsica oghje, si lascia more u patrimoniu, si custruiscenu e case segundari nant'à i siti archeologichi (iè iè ! Si passa in Paomia...) allora un ponte... 
+4. I Genuvesi fora ! U guvernu genuvese hè inghjustu contr'à i Corsi, è una rivolta hè ghjustificata ! Ma a rivolta anti genuvese hè principiata in u 1729. I clandestini di u ponte ùn anu chè 284 anni di ritardu... 
+5. I Pisani ùn eranu micca megliu. Femu saltà e chjese pisane postu chè no ci semu, à cummincià pè San Mighele di Muratu. 
+6. I Rumani ùn eranu micca megliu dinù. Femu tabula rasa cù Aleria è Mariana ! 
+7. Femula finita cù a prestoria. Filitosa, Cucuruzzu... Ch'aspettemu pè plasticà i mullizzoni di l'età di u ferru ? 
+8. È e torre genuvese ? Quand'elle ùn sò micca à vende nant'à Le Bon Coin, e torre genuvese partenu in pistìcciuli. È di l'occupazione illegale di u liturale, ne parlemu ? 
+9. U piacè di sente "je condamne fermement". Tè ? Face un pezzu chì Zuccarelli è Rocca Serra ùn anu più avutu l'occasione di "cundannnà". Ma per un ponte vechju di 300 anni, bof... 
+10. Per fà u remake di "Le pont de la rivière Kwai". 
+11. Più ponti, più disgraziati chì dormenu "sott'à i ponti". Pè luttà contr'à a miseria, basta à fà saltà i ponti. 
+12. Quelli chì anu plasticatu u ponte anu capitu male "ci vole à fà saltà à Dupont". (bof). 
+13. Perchè a vera piazza di i ponti genuvesi, hè in i giratoghji. Un veru rond-point corsu, ùn ghjova micca solu pè Natale. Ci si mette ancu u patrimoniu corsu. 
+In cunclusione : tuttu và bè.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

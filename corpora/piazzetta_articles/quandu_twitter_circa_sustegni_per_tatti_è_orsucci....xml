@@ -1,0 +1,71 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quandu Twitter circa sustegni per Tatti è Orsucci...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quandu-Twitter-circa-sustegni-per-Tatti-e-Orsucci_a2301.html"/>
+     <date>
+      Thu, 26 Nov 2015 00:06:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quandu Twitter circa sustegni per Tatti è Orsucci...
+   </head>
+   <div type="excerpt">
+    <p>
+     Jean-François Baccarelli hà annunziatu ch'ellu sustenerà à Jean Charles Orsucci pè e territuriale 2015. Ci vole à rammintà chì l'annu scorsu, pè e municipale, sustenìa à Jean Zuccarelli.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Allora nant'à Twitter, a ghjente adopra u hashtag #ToiAussiTrouveUnSoutienAOrsucci.  U Bestwoffu:
+    </p>
+    <p>
+     Je suis au service de sa majesté Orsucci... #ToiAussiTrouveUnSoutienAOrsucci pic.twitter.com/9BWeNSdXou
+— Sanguinara (@ISanguinari) 25 Novembre 2015
+    </p>
+    <p>
+     C'est déjà mieux que Baccarelli
+#ToiAussiTrouveUnSoutienAOrsucci pic.twitter.com/TnJaDly1gM
+— balaninu (@lisulanu) 24 Novembre 2015
+    </p>
+    <p>
+     Création du hashtag 
+#TrouveUnSoutienATatti pic.twitter.com/rgdazRtq9v
+— balaninu (@lisulanu) 25 Novembre 2015
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

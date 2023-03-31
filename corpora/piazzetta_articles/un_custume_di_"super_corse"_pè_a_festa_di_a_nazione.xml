@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Un custume di "Super Corse" pè a Festa di a Nazione
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-custume-di-Super-Corse-pe-a-Festa-di-a-Nazione_a1464.html"/>
+     <date>
+      Sat, 08 Dec 2012 14:34:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Un custume di "Super Corse" pè a Festa di a Nazione
+   </head>
+   <div type="excerpt">
+    <p>
+     Esse un "Super Corse" costa solu 19,90 € in i magazini discount. Prufittate. Ideale pè Festa di a Nazione è "nuits bleues".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In a rùbrica "art de la fête" di u catalogu di u Dénicheur, à cantu à u custume "infirmière sexy" à 22,90 € è quellu di "police girl" à 29,90 € ci hè quellu di... "Super Corse". Vi custerà 19,90 €. 
+Prufittatene, esse corsu à stu prezzu, hè un veru rigalu. 
+Nò, ùn hè micca una magagna o un muntagiu photoshop surtitu da i nostri cerbelli. 
+U catalogu di u Dénicheur ùn dice micca s'ellu hè "Super Corse" chì sorte a notte à mette i pacchetti o s'ellu hè l'equivalente nustrale di "Super Dupont", u super héros appena beauf inventatu da Gotlib. 
+Ùn costa micca caru, ùn parla micca corsu, ùn canta micca a paghjella è si ritrova in un magazinu discount... in fatti, "Super Corse" puderia esse n'importa qualessu Corsu d'oghje. 
+Una cosa hè sigura, a Corsica avanza.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

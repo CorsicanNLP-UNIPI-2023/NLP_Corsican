@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chì fà u 31 ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Chi-fa-u-31_a988.html"/>
+     <date>
+      Fri, 31 Dec 2010 11:31:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chì fà u 31 ?
+   </head>
+   <div type="content">
+    <p>
+     À chì vole a dinde aux marrons, à chì vole a pulenda.  À chì vole a bûche de Noël, à chì vole u fiadone.  À chì vole i knackis, à chì vole u figatellu.  À chì si manghja tuttu, à chì si lascia tuttu.  À chì ùn li piace u caviar, à chì vole u Quick.  À chì vole pigliassi una scimia, à chì ùn hà sete.  À chì vole u innastu è fà a bomba, à chì preferisce u calmu.  À chì vole à Patrick Sébastien, à chì vole à Patrick Sabatier.  À chì vole tirà una fucilata à mezanotte, à chì vole fà saltà a percezzione.  À chì vole andà à corre e zitelle, à chì preferisce circassi una cazzuttata.  À chì vole a buatta di notte, à chì vole a veghja à u fucone.  À chì manda i textos, à chì passa a serata cù i so iPhone nant'à Facebook.  À chì s'annoia, à chì hà troppu betu.  À chì face u musu, à chì ùn manghja micca.  À chì hà u custume Hugo Boss, à chì si vergogna.  À chì si techja di Champagne, à chì hà digià resu.  À chì si prega "pace è salute", à chì "puce è salate".  À chì face u musu, à chì hà l'ovu.  À chì ci vole à chjamà u SAMU, à chì deve suffià in u ballò.  À chì finisce à l'ospidale, à chì finisce in garde à vue. 
+In fin di contu, è s'ellu ùn si facia nunda pè u 31 ? Di tutte e manere, annu passatu dinù v'avianu pregatu a pace è a salute... Avete vistu u risultatu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

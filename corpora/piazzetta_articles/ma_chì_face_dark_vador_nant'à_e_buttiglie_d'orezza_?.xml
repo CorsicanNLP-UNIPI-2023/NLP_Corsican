@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ma chì face Dark Vador nant'à e buttiglie d'Orezza ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ma-chi-face-Dark-Vador-nant-a-e-buttiglie-d-Orezza_a2236.html"/>
+     <date>
+      Sun, 14 Jun 2015 23:53:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ma chì face Dark Vador nant'à e buttiglie d'Orezza ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Fidighjate bè a buttiglia di l'acqua bullicinante, nantu ci hè Dark Vador in dissegnu. Serà passata l'Orezza da u latu bughju di a forza ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     S'è vo cruciate un tippu in neru pè ste strade, hè normale. Hè Dark Vador chì si ne fala da u San Petrone.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

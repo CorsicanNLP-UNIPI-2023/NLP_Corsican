@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A biera più forte ch'è u Doliprane
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-biera-piu-forte-ch-e-u-Doliprane_a2631.html"/>
+     <date>
+      Thu, 07 Sep 2017 11:15:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A biera più forte ch'è u Doliprane
+   </head>
+   <div type="excerpt">
+    <p>
+     D'appressu à un studiu inglese, dui bichjeroni di biera facenu u listessu effettu ch'è u paracetamolu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ùn hè mancu una burla. Sò i circadori di l’università di Greenwich, in Inghilterra, chì l'anu trova. Contr'à u dulore, dui bichjeroni di biera facenu u listessu effettu ch'è a prese di paracetamolu. 
+U studiu hè seriu è i media inglesi si sò spicciati di sparte a bona nutizia. 
+I circadori si sò interressati à l'effetti anti-dulore di l'alcolu. Trevor Thompson, chì hà cunduttu u studiu hà dichjaratu à The Sun chì l'alcolu pò esse apparagunatu à l'antidulori alluppiati, a codeina, chì anu un effettu più forte ch'è u paracetamolu. 
+A prussima ch'è vo biite, dite ch'è vo site in trattamentu.
+    </p>
+    <p>
+     Beer a better pain relief than paracetamol, study says https://t.co/ujNhHtVMEF pic.twitter.com/pGGI0LBfQ4
+— The Independent (@Independent) 29 avril 2017
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

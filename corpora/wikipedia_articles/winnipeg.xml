@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Winnipeg
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Winnipeg"/>
+     <date>
+      2014-03-23T15:12:43Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Winnipeg
+   </head>
+   <p>
+    Winnipeg hè una cità in u Canadà. Hà più di 400 km² di superficia è circa 700.000 abitanti.
+   </p>
+   <p>
+    Cità di u Canadà
+   </p>
+  </body>
+ </text>
+</TEI>

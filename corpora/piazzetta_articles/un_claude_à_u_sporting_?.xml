@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Un Claude à u Sporting ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-Claude-a-u-Sporting_a1826.html"/>
+     <date>
+      Thu, 22 May 2014 13:35:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Un Claude à u Sporting ?
+   </head>
+   <div type="content">
+    <p>
+     Hè una surpresa, l'anzianu internaziunale è capitanu di u PSG Claude Makélélé hè annunziatu cum'è futuru intrenore di u Sporting. Hè L'Equipe chì a dice. 
+Passatu pè Nantes, u Real Madrid, Chelsea è Parigi, hà una grande sperienza nant'à u terrenu, ma nisuna nant'à u bancu. 
+Nant'à e rete suciale l'accogliu hè piuttostu frischettu. Certi parlanu digià di perdita di i valori è d'identità, di girata bling-bling di u club. 
+Invece chì d'altri dicenu ch'elli sò cuntenti, parlanu di grande sperienza è prevedenu chì Makélélé hà da fà ingrandà u club. 
+Di tutte e manere, a sapemu bè chì in Bastia, mai nimu hè cuntentu è ch'ellu serà difficiule i primi tempi per quellu chì vene dop'à Hantz. 
+Ma forse, bisognu à aspettà appena per vede cum'ellu si sbroglia. È d'aspettà a firma officiale.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Corsica vista da Genuva
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-Corsica-vista-da-Genuva_a2106.html"/>
+     <date>
+      Tue, 30 Dec 2014 00:16:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A Corsica vista da Genuva
+   </head>
+   <div type="content">
+    <p>
+     Hè rara, ma certi ghjorni si vede a Corsica da a cità lìgure.
+    </p>
+    <p>
+     Ringrazii à un lettore genuvese, Igor Gava, chì ci hà mandatu u ritrattu !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

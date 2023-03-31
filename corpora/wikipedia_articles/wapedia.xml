@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Wapedia
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Wapedia"/>
+     <date>
+      2015-07-02T00:24:22Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Wapedia
+   </head>
+   <p>
+    Wapedia hè un prugettu chì hè statu creatu da un stughjante tedescu, Florian Amrhein per rende accessibili u cuntinutu di Wikipedia annantu à i telefunini è i PDA. U prugettu esiste dapoi aostu 2004. Florian Amrhein hà adattatu wikipedia, l'enciclupedia libera, à u wapu. L’hà chjamata Wapedia. Cusì si pò cunsultà un articulu qualunque di wikipedia in inglese, francese, tedescu, spagnolu, et cetera, è dinù in corsu. A cunsultazione hè rapida è adattatu à i telefunini. Ma ùn si pò ch'è cunsultà l'enciclupedia libera, chì ùn si pò micca mudificà la per via di Wapedia.
+   </p>
+   <p>
+    A versione di wikipedia in lingua corsa hè accessibile à l'adrizzu: http://wapedia.mobi/co
+   </p>
+   <p>
+    Esistenu dui versione di Wapedia:
+   </p>
+   <p>
+    Per i telefunini incù una funzione WAP: http://wapedia.mobi/it/
+   </p>
+   <p>
+    Per i palmari incù una cunnessione à a Reta: http://pda.wapedia.mobi/it/
+   </p>
+   <p>
+    Una alternativa hè http://co.wikipedia.7val.com/wiki/ attualisata in tempu reale. Hè oramai a versione ufficiale per a lingua corsa.
+   </p>
+   <p>
+    Wikipedia
+   </p>
+  </body>
+ </text>
+</TEI>

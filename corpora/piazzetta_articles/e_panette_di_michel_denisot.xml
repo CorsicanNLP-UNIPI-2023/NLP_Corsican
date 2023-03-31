@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     E panette di Michel Denisot
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-panette-di-Michel-Denisot_a1502.html"/>
+     <date>
+      Thu, 28 Feb 2013 22:35:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    E panette di Michel Denisot
+   </head>
+   <div type="excerpt">
+    <p>
+     Michel Denisot scuzzulatu in Furiani ? Hè ciò ch'ellu dice Pierre Ménès. Ùn fidighjerete più "Le Grand Journal" di a listessa manera.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'ultimu sport à a moda in Corsica cunsiste à stuzzicà à Pierre Ménès nant'à u so contu Twitter. 
+In i so numerosi tweets, u giurnalistu dice chì à duie riprese hà avutu prublemi in Furiani cù i dirigenti bastiacci. À rombu di fassi trattà di bugiardu, finisce per cappià un'infurmazione chì nimu avia publicatu nanzu : ancu u puverettu di Michel Denisot s'hè fattu scuzzulà in Furiani. 
+Parla di l'accogliu in Furiani nanz'à un Bastia - PSG : "ça date de 1996 première journée bastia psg. Michel Denisot frappé dans le tunnel sous mes yeux. Mais à part ça super l'accueil." 
+Forse si tratta piuttostu di l'annata 1995, quandu à a prima ghjurnata u Sporting avia strappatu u match nul cù u i parigini (2-2). E rete eranu signate da Pierre Laurent è Antò Drobnjak. 
+Nanzu à a partita una piogia di bombe agrìcule era cascata nant'à i spugliatoghji d'Armand Cesari (tandu eranu lucali in "algeco" pruvisorii). Charles Biétry chì cummentava pè Canal + si n'arricorda sempre....
+    </p>
+    <p>
+     Bastia Psg Saison 1995 / 1996 par Dume-solubastia
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

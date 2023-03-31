@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     DSK in Bastia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/DSK-in-Bastia_a1188.html"/>
+     <date>
+      Wed, 19 Oct 2011 15:41:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    DSK in Bastia
+   </head>
+   <div type="content">
+    <p>
+     Ancu più chè lu tsunami  Venutu di e terre luntane  Questa storia chì veramente  Hà u sapore di e puttane  Hà francatu l'effemi  È u cumbugliu pruvucò  Sapete ch'à Deeska  L'hè falati u pallò ? 
+Principe di la muneta  Mai ch'ella sia detta  Chì stu gran finanzieru  Hà u cerbellu ind'a scruchjetta 
+Avà ùn si sente più  Di Toga sin à Lupinu  O figliò u Deeska  Hà peccatu cù u pippinu 
+Santa Chjara a so moglie  Gran' nome predestinatu  Postu ch'inde la prigiò  Oghje si l'anu purtatu  Malgradu e manette  Viste in televisione  Nega à chì vole sente  Tutta st'infurmazione 
+Ella difenderà sempre lu so omettu  È dice ch'ùn hè mai andatu à Lu Puntettu  Ch'ùn hà mai frequentatu u famosu "Chat noir"  Nè a "Villa Jeannette" oghje clinica Maymard  Ch'ùn l'anu mai trovu u nasu inde u string  Chì quand' ellu esce hè per vede u Sporting  Carrughju di u Castagnu hè a so sola droga  Chì sempre và à pregà inde a sinagoga. 
+Ma nimu ùn la crede chì lu so sacristanu  U cosu di Priapu ellu l'hà sempre in manu  Pò puru singhjuzzà avà cum'è un zitellu  Si trova ind'a gabbia per causa di u so acellu  Da poi ch'à l'Africana hà cacciatu u velu  Deeska l'elezzione l'hà persa per un pelu  Di quelli chì tiranu di più ind'a cullata  Cume dice u pruverbiu ch'i boi ind'a falata  Ancu "Sœur Sourire" incù premunizione  Cantava "nique nique" di Dumè a canzone  Avà suspira è pienghje, pienghje chì ghjè in capanna  Ma cosa pienghjerà? Pienghje a potta d'Anna  Anna a leghjitima ch'hè stata bona pera  Amichi di a puesia vi dicu bona sera.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

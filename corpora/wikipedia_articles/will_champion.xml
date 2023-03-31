@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Will Champion
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Will%20Champion"/>
+     <date>
+      2014-03-23T15:12:33Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Will Champion
+   </head>
+   <p>
+    Will Champion hè u batterista di Coldplay.
+   </p>
+   <p>
+    Champion,Will
+   </p>
+   <p>
+    Champion,Will
+   </p>
+  </body>
+ </text>
+</TEI>

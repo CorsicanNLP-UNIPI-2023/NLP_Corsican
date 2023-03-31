@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tribuna libera di i lettori : Siscò in Siscu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Tribuna-libera-di-i-lettori-Sisco-in-Siscu_a2531.html"/>
+     <date>
+      Sun, 05 Feb 2017 18:43:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ULTIMI
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tribuna libera di i lettori : Siscò in Siscu
+   </head>
+   <div type="excerpt">
+    <p>
+     Avemu ricevutu d'un lettore stu bigliettu ch'è no publichemu quì.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     SISCÒ IN SISCU. 
+Ùn sò micca duve ellu hè u veru sconciu in tutta issa storia custì. Ùn hè nè u fattu diversu chì hà oppostu dui o trè furdani, di i quali l'origine hà poca impurtanza, ad una mansa di paisani rivultati, bramosi di fà valè un certu dirittu d'autodifesa più chè legitimu, nè a vuluntà predatrice di quellu francesone d'avucatu chì hè per fà si caccià à mumenti cù dui o trè pattoni à rombu di rompe le ad agricultori chì circanu unicamente di stantà cun difficultà numarose u so pane nantu ad a so terra ed a mezu ad i soii. 
+Innò ! Nunda di più chè dui fenomeni ad i quali ci toccherà ad avvezzà ci in issa Cursichella venduta ad u cunsumerisimu è prumessa ad u cuntrastu cumunitariu ed ad u cunfrontu cù tutti issi sgaiuffelli chì a si sentenu di più in più cù e brave ghjente. 
+Innò dicia dunque, a strage hè in altrò. A socu chì nunda pò parè più impurtante chè u campà inseme, a terra corsa spugliata da i furesteri, u soldu rè o i prublemi d'integrazione. Iè, va bè. Impurtantissimu serà tuttu què. 
+Ma chì vulete ch'eiu vi dica, u mio core pienghje per altru affare. In quella attualità merza è carca à news mullizzute, à mè ciò chì mi hà cumossu hè statu di sente tutti issi mucciconi di pinzuti, sbarcati da affaccendà si ad so grande opera di desinfurmazione diventata sistemica, cum'è un cuncorsu in u quale si vincerà un paghju di pinup famite quellu chì ci cunterà a bucia a più straurdinaria di a so leva pervertita da u carrierisimu, isse zecche affaccate sbavacciuloni in issu terrivule paese di Siscò... 
+Siscò. Eccula a strage. Avè datu l'occasione à millioni di cerbelli lubutumizati di sente issu stroppiu, issu stronzu di prununzia pinzuta oramai integratu in capu à tutte isse ghjente furagne, ed in capu ad issi Corsi impinzutiti chì a si anu da ripete avà, è Siscò custì, è Siscò culà, è noi à mezu, corcii nustrali di u 2017, minacciati di esse annecati sottu ad i fiumi viulenti di a pinzuteria generalizata.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

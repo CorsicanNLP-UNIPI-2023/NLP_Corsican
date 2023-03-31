@@ -1,0 +1,87 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vinci
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Vinci"/>
+     <date>
+      2014-03-23T15:11:30Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Vinci
+   </head>
+   <p>
+    Vinci hè una cumuna toscana di a pruvincia di Firenze. Teni 14.308 abitanti
+   </p>
+   <p>
+    cumuna di Toscana
+   </p>
+   <p>
+    | cumuna= Vinci
+   </p>
+   <p>
+    | pruvincia= Firenze
+   </p>
+   <p>
+    | nomuff= Vinci
+   </p>
+   <p>
+    | cp= 50069
+   </p>
+   <p>
+    | lungitudina=
+   </p>
+   <p>
+    | latitudina=
+   </p>
+   <p>
+    | alt= 975 m
+   </p>
+   <p>
+    | superficia= 54 km²
+   </p>
+   <p>
+    | pop= 14308
+   </p>
+   <p>
+    | dinsità= 255 ab./km²
+   </p>
+   <p>
+    | nomab=
+   </p>
+   <p>
+    == Riferimenti ==
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    U situ ufficiali
+   </p>
+   <p>
+    Cumuna di Toscana
+   </p>
+  </body>
+ </text>
+</TEI>

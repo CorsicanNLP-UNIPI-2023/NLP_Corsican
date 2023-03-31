@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     L'invasione di i clubs corsi
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/L-invasione-di-i-clubs-corsi_a1575.html"/>
+     <date>
+      Sat, 25 May 2013 11:42:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    L'invasione di i clubs corsi
+   </head>
+   <div type="excerpt">
+    <p>
+     Thiriez avia dettu chì Bastia "nuit à l'image du football français". Trippa per ellu è pè u foot business, ci seranu dui clubs bastiacci prufessiunali quist'annu chì vene...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U CAB hà riesciutu una prova chì nimu aspettava. Battendu à Créteil mentre chì Mandrichi battia à Fréjus, l'altru club bastiacciu riesce una doppia accessione in dui anni. Si ritruverà dunque prufessiunale quist'annu chì vene. 
+Peccatu chì u GFCA ùn appia riesciutu à mantenesi in L2. Averia fattu un bellu doppiu derby è una bella seria di pena in capu pè i membri di a cummissione di disciplina di a LFP... 
+In tantu a pena in capu serà dinù per a CAB pè a gestione di u stadiu di Furiani è di a so famosa "plus belle pelouse d'Europe". 
+Ma femu u paragonu : 
+Parigi :  2 milioni d'abitanti, 1 club prufessiunale.  Bastia : 43.000 abitanti, 2 clubs prufessiunali. 
+Vene à dì chì sì Bastia avia a pupulazione di a capitale di a Francia, averia 93 clubs prufessiunali. 
+Quandu si sà e difficultà ch'elli anu scuntratu quelli chì anu pruvatu di fà un "segondu grande club pariginu" (Red Star, Paris FC, Matra Racing, Saint-Denis Saint-Leu...) ci hè di chè surride. 
+Allora avà, cosa si pò sperà per u futbol corsu ? Mandà un terzu rapresentente in L1 ? O mandà à Antisanti, Prupià o l'US Corti in National ? L'invasione di i clubs corsi in u futbol francese s'arresterà quì ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

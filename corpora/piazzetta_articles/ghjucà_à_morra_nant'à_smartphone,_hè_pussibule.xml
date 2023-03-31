@@ -1,0 +1,76 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ghjucà à morra nant'à smartphone, hè pussibule
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ghjuca-a-morra-nant-a-smartphone-he-pussibule_a2702.html"/>
+     <date>
+      Mon, 22 Jan 2018 01:18:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ghjucà à morra nant'à smartphone, hè pussibule
+   </head>
+   <div type="excerpt">
+    <p>
+     L'idea vene da Sardegna. Hè stata creata "Sa Murra", un'appiegazione per ghjucà à morra nant'à iPhone è Android.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Bon, tuttu u mondu cunnosce e regule di a morra, o ci hè bisognu di ramintalle ?
+    </p>
+    <p>
+     St'anticu ghjocu era cunnisciutu da i Rumani è forse ancu da l'Egizziani. Esiste ind'è parechji populi di u Mediterraniu. In u meziornu di a Francia si chjama mourre, in Italia morra, in Sardegna murra.
+    </p>
+    <p>
+     Il gioco della #morra #samurra
+Une publication partagée par  Gianlorenzo Janzo Lenza (@janzo75) le 26 Août 2017 à 3 :31 PDT
+    </p>
+    <p>
+     Dapoi pocu, ci hè ancu un campiunatu corsu.
+    </p>
+    <p>
+     È avà per intrenassi, esiste ancu l'appiegazione. L'idea hè di dui giovani sardi chì anu creatu Sa Murra, u primu ghjocu di morra nant'à smartphone.
+    </p>
+    <p>
+     Pudete ghjucà contr'à un robot. Ma ci hè ancu di più divertente : pudete ghjucà contr'à ghjucadori reali in diretta, cunnettati è messi in rete via a piattaforma di l'appiegazione. Ci vulia à pensacci !
+    </p>
+    <p>
+     Bon d'accordu, mancanu i rimori, i mughji, è l'odore di u pastizzu. Forse in una prussima versione ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

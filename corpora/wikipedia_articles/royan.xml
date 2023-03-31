@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Royan
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Royan"/>
+     <date>
+      2015-05-08T20:10:29Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Royan
+   </head>
+   <p>
+    Royan hè una cità in Poitou è Charentes di 17 102 abitanti (1999).
+   </p>
+   <p>
+    L'abitanti di Royan si chjamanu i Royannais.
+   </p>
+   <p>
+    Cità di a Francia
+   </p>
+  </body>
+ </text>
+</TEI>

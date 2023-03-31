@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     2012, e closce collanu in muntagna
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/2012-e-closce-collanu-in-muntagna_a1345.html"/>
+     <date>
+      Mon, 21 May 2012 21:02:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    2012, e closce collanu in muntagna
+   </head>
+   <div type="excerpt">
+    <p>
+     E closce ùn stanu più in piaghja è à u mare, avà si ne collanu dinù in muntagna !
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In u 1979, a canzona di Canta u Populu Corsu L'Ancura di Misericordia dicia : 
+Avà corsu stami à sente  Sta canzone ùn hè finita  Fatti onore à ripiglià  Un pezzu di a to vita  È lampa fora stu latru  À la manu troppu ardita 
+30 anni dopu, ci sò sempre i pattoni chì si perdenu !
+    </p>
+    <p>
+     Canta u Populu Corsu - L'ancura di misericordia par le_politburo_des_UB
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

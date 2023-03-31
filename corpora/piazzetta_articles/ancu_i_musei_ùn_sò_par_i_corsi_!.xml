@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ancu i musei ùn sò par i Corsi !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ancu-i-musei-un-so-par-i-Corsi-_a1544.html"/>
+     <date>
+      Mon, 15 Apr 2013 13:02:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ancu i musei ùn sò par i Corsi !
+   </head>
+   <div type="excerpt">
+    <p>
+     Cunnisciami u tuttu turisimu, un sviluppu par u turisimu chì parmittia quantunqua di fà vincia qualchi soldi à certi Corsi, avemu avà u sviluppu par i turisti ma difesu à i Corsi. Fighjulemi un pocu...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè statu apartu l'annu scorsu un museu in Roccapina. 
+Amparemu chì l'apartura abbisugnava appena di più d'un millioni d'euri, dati frà altri da u Cunsigliu Ginirali di Corsica Suttana. 
+U museu tratta di "la présence de l'homme sur le site pour un aspect ethnologique (...) l'occupation des lieux durant les deux guerres mondiales" è "l'aspect géologique et cette érosion si particulière à la microrégion qui a vu la naissance des taffoni et autres animaux pétrifiés, seront également à l'honneur. Tout comme l'environnement : faune, flore, (...)" 
+Un'idea chì di siguru si duvaria salutà. Mà u prublema hè quissu quì, circhendu cumu fà par visità u museu, s'ampara chì sarà apartu "Du 25/07/2013 au 31/08/2013" da veda quì. 
+Capì "sculari corsi firmetti gnurenti, turisti simu quì par voi". 
+Hè vera chì a ghjuventù corsa chì si franciseghja sempri di più ùn hà micca bisognu di cunnoscia u so patrimoniu storicu è naturali... 
+In quantu à noi Corsi ci pudemu dumandà, si in fin' di contu a nostra piazza ùn hè micca... ind'è un museu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

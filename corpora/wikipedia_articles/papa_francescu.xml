@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Papa Francescu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Papa%20Francescu"/>
+     <date>
+      2015-11-27T03:59:40Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Papa Francescu
+   </head>
+   <p>
+    Papa Francescu (Jorge Mario Bergoglio; 1936-) hè u papa di a ghjesgia cattolica dipoi u marzu 2013.
+   </p>
+   <p>
+    Argentina
+   </p>
+  </body>
+ </text>
+</TEI>

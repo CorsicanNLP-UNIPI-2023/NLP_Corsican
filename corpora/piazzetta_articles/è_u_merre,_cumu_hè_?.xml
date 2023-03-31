@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È u merre, cumu hè ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-u-merre-cumu-he_a1657.html"/>
+     <date>
+      Thu, 19 Dec 2013 20:22:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       A-PIAZZETTA-TV
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È u merre, cumu hè ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Cum'ellu si dice, "ogni sumiglia cù persone o situazioni esistenti o chì sò esistite ùn ponu esse chè un azardu".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A seguita nant'à YouTube.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Val d'Ese
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Val%20d%27Ese"/>
+     <date>
+      2014-03-23T15:09:43Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Val d'Ese
+   </head>
+   <p>
+    Val d'Ese hè una stazione di schì corsa situata nant'a a cumuna di Bastelica in Corsica suttana. Da Val d'Ese nasce u fiume "Ese", a stazione hè accircundata da i monti Punta di Petra Male (1674 m), Punta Vaccaiu (1759 m) è Punta Coperchiana (1939 m)
+   </p>
+   <p>
+    ==Distanze==
+   </p>
+   <p>
+    Val d'Ese - Bastelica = 11 km
+   </p>
+   <p>
+    Val d'Ese - Aiacciu = 51 km
+   </p>
+   <p>
+    Val d'Ese - Sartè = 92 km
+   </p>
+   <p>
+    Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

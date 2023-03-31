@@ -1,0 +1,71 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Site malatu ? Pigliatevi una sborgna
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Site-malatu-Pigliatevi-una-sborgna_a1213.html"/>
+     <date>
+      Tue, 15 Nov 2011 13:49:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Site malatu ? Pigliatevi una sborgna
+   </head>
+   <div type="excerpt">
+    <p>
+     "Soignez-vous par le vin" hè un best-seller di l'anni 70 chì hè statu turnatu à esse editatu. Un libru fundamentale.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U duttore Maury hè un geniu. Infine, s'ellu hà esistitu da veru. In verità ùn si sà mancu quale ellu era. Un pseudo ? Un scruccone ? Un briagone ? Un libru finanzatu da u lobby francese di u vinu in l'anni 70, quandu a lege Evin ùn esistia micca ? 
+Hè un misteriu ma sta bibbia di u sburgnone hè stata turnata à esse editata (edizioni Nil). À noi ci pare chì stu libru fundamentale hè da mette in a categuria di i grandi pensatori francese, in a successione di BHL è di Michel Onfray. 
+A so lettura ralegrerà tutti l'amatori di comptoir è derà l'impressione à i passiunati d'apperitivi chì beie hè una necessità per esse in salute. Chì tanti yoga, salle de muscu è footing... 
+Aérophagie ? Sciaccatevi duie cuppette di champagne. 
+Ménopause ? Dui bichjeroni di Médoc. Perchè, ùn si sà. 
+Cacarella ? Un Beaujolais. 
+Pena in capu ? Sopr'à tuttu micca un Efferalgan ! Preferite un stagnone di Sauternes. 
+Si puderia cuntinuvà cusì : 
+Angine ? Trè pastizzi on the rocs. 
+Frebba ? Quattru gin-tonic-cul-sec à prendre au milieu des repas. 
+Conjonctivite ? Una cascia di Malibu ananas. 
+Gueule de bois ? Una Suze cù appena di Liptonic. 
+Invece, nunda nant'à a malatia di DSK. 
+Lasciate cascà u vostru duttore, a medicina chinese o l'omeopattia. Empiite a vostra cantina di sottu scala piuttostu ch'è a vostra farmacia. Sì a pulizza v'arresta è ch'è vo site à 3 grammi, dite ch'ellu hè per via di u vostru trattamentu. Vi l'aviamu detta, stu tippu hè un tercanu. 
+Alè, à a salute è ch'ella sia a nostra medicina !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

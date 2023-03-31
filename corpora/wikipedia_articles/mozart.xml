@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mozart
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Mozart"/>
+     <date>
+      2014-03-23T14:41:20Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Mozart
+   </head>
+   <p>
+    Wolfgang Amadeus Mozart, (u nome cumpletu era Johannes Chrysostomus Wolfgangus Theophilus Mozart) (Salisburgu 27 ghjennaghju 1756– Vienna 5 decembre 1791), fù unu prolificu è impurtante musicante austriacu di l'epica classica.
+   </p>
+   <p>
+    == Opere principali ==
+   </p>
+   <p>
+    41 sinfonie
+   </p>
+   <p>
+    27 concerti per piano
+   </p>
+   <p>
+    5 concerti per violinu
+   </p>
+   <p>
+    22 opere liriche
+   </p>
+   <p>
+    Musicante
+   </p>
+  </body>
+ </text>
+</TEI>

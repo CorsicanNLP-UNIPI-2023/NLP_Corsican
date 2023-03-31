@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Avà l'UMP dinù canta u Diu vi salvi
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ava-l-UMP-dinu-canta-u-Diu-vi-salvi_a1292.html"/>
+     <date>
+      Thu, 15 Mar 2012 00:13:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       PRESIDENZIALI-2012
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Avà l'UMP dinù canta u Diu vi salvi
+   </head>
+   <div type="excerpt">
+    <p>
+     Avà chì l'UMP corre appressu à i voti naziunalisti, si canta u Diu vi salvi Regina à a fine di i meetings di a diritta. À quandu A Palatina è L'Armata di l'ombra interpretati da Francisci è Rocca Serra ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A diritta hà scupertu l'esistenza di u populu corsu. 
+Ind'i tempi, i meetings di u RPR si passavanu tranquillamente è bè. Bandere "bleu-blanc-rouge", Marseillaise à a fine è "la France une et indivisible" à ogni frasa. In sti tempi antichi, a diritta facia à u minimu 60% di i voti. 
+Ma i tempi anu scambiatu. Avà ch'ella hè cascata sott'à i 30% è chì i naziunalisti sò à 35%, eccu u tempu di a rimessa in quistione. Stéphanie Grimaldi l'avia detta annu à RCFM : "il faut corsiser l'UMP (...) Il faut revenir à des thèmes régionalistes" (sic). 
+Cunsequenza, avà i meetings di l'UMP finiscenu cù u Diu vi salvi Regina. Cusì s'hè passata sabbatu in Corti. Sta video hè stata filmata da Marcel Francisci chì l'hà messa nant'à u so prufilu Facebook, cù stu cummentu : Fin de réunion magnifique cet après midi à Corte reprise par la salle du Dio Vi Salvi Regina à la fin de notre meeting de soutien à Nicolas Sarkozy, je n'ai pas résisté et j'ai filmé les dernières secondes de la scène. 
+Ùn ci dice micca quale d'ellu, di Sauveur Gandolfi-Scheit, Stéphanie Grimaldi, Camille de Rocca Serra, Antoine Sindali è d'Ange Santini hà cantatu u più falsu. 
+Ma u più bellu hè l'imbuleghju Diu vi salvi - "Nicolas !!! Nicolas !!!" è a canzona di The Rasmus chì passa in l'emissione di Laurent Ruquier. U mix hè degnu di DJ Corti. Cun Sarko, tuttu diventa veramente pussibule ! 
+Ma una volta chì i naziunalisti averanu rimessu a "mascina à perde" in marchja è ch'elli seranu vultati sott'à 10%, si canterà sempre l'innu corsu à l'UMP ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

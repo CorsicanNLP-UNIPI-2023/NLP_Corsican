@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Melissa Joan Hart
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Melissa%20Joan%20Hart"/>
+     <date>
+      2017-03-04T12:31:47Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Melissa Joan Hart
+   </head>
+   <p>
+    Melissa Joan Hart hè un attrice americana.
+   </p>
+   <p>
+    Hart, Melissa Joan
+   </p>
+   <p>
+    Hart, Melissa Joan
+   </p>
+  </body>
+ </text>
+</TEI>

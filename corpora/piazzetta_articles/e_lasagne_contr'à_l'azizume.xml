@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     E lasagne contr'à l'azizume
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-lasagne-contr-a-l-azizume_a1663.html"/>
+     <date>
+      Sun, 03 Jan 2016 15:43:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    E lasagne contr'à l'azizume
+   </head>
+   <div type="excerpt">
+    <p>
+     A dice u pruverbiu : "chì ùn manghja lasagne u ghjornu di Pasqua Pifania tuttu l'annu si lagna". Allora fate puru un sforzu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Certe volte hè megliu à ùn ride cù e tradizioni. Pè Pasqua Pifania (l'Epiphanie) u pruverbiu ci dice ch'ellu hè megliu à ùn scurdacci di manghjà lasagne. 
+Piglierete u rìsicu d'esse azezu tuttu l'annu ? 
+Marchja dinù cù e lasagne surgelées, e lasagne di cavallu, e lasagne à a bulugnese.
+    </p>
+    <p>
+     Ma di siguru e più bone sò e lasagne à l'usu corsu, cù u stufatu.
+    </p>
+    <p>
+     In quant'à a bona risuluzione di fà u sport, si viderà più tardi hein.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

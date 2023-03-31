@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     À populu fattu bisognu à smachjà
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-populu-fattu-bisognu-a-smachja_a1348.html"/>
+     <date>
+      Wed, 23 May 2012 23:25:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       LEGISLATIVE-2012
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    À populu fattu bisognu à smachjà
+   </head>
+   <div type="excerpt">
+    <p>
+     Dopu à i machjaghjoli, eccu i smachjaghjoli.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cummencia forte a campagna di e prussime legislative (10 è 17 ghjugnu). Per dinunzià l'abandonu di i "spazii verdi" di Lupinu, Gilles Simeoni hà organizatu un'operata pè rimette in statu è pulisce i lochi. 
+Jean-Jean 2012 ùn hà micca appreziatu è risponde nant'à u so blog di campagna. Parla di "détracteurs déguisés en jardiniers". 
+In tutti i casi, i smachjaghjoli ci anu fattu una bella dimustrazione di u scambiamentu di l'utilizazione di u "treillis". 30 anni dopu, i fucili sò rimpiazzati da e débroussailleuses. Deve esse quessa a rivuluzione verde. 
+Averemu da chjamallu "Stihl Simeoni" ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

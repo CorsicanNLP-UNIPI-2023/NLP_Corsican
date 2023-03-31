@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ragnoli
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Ragnoli"/>
+     <date>
+      2015-07-01T23:48:24Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ragnoli
+   </head>
+   <p>
+    Quand'ellu si tomba un purcellu, si face sdrughje u lardu pè fa u sdruttu, e tandu fermanu i ragnoli chi ponu serve a fà bastelle.
+   </p>
+   <p>
+    Cucina
+   </p>
+  </body>
+ </text>
+</TEI>

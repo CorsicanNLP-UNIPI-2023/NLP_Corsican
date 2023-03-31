@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Porta
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/A%20Porta"/>
+     <date>
+      2019-09-05T12:47:57Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A Porta
+   </head>
+   <p>
+    A Porta hè una cumuna di u dipartimentu di a Corsica suprana.
+   </p>
+   <p>
+    Hè u capilocu di u cantone di Fiumaltu d'Ampugnani.
+   </p>
+   <p>
+    == Geografia ==
+   </p>
+   <p>
+    == Storia ==
+   </p>
+   <p>
+    == Merri ==
+   </p>
+   <p>
+    == Referenze ==
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Cumuna di Corsica suprana
+   </p>
+   <p>
+    Cumuna di Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

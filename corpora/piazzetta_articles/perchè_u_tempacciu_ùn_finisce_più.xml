@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Perchè u tempacciu ùn finisce più
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Perche-u-tempacciu-un-finisce-piu_a1531.html"/>
+     <date>
+      Fri, 05 Apr 2013 11:38:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Perchè u tempacciu ùn finisce più
+   </head>
+   <div type="excerpt">
+    <p>
+     I primi ghjorni d'aprile sò i "pristaticci", i ghjorni chì u mese d'aprile hà imprestatu à u mese di marzu, d'appressu à a legenda. Ma cù a crisa, quist'annu i pristaticci ùn finiscenu più...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'antichi avianu una spiegazione pè u tempacciu frequente di i primi ghjorni d'aprile : hè a fola di i ghjorni pristaticci (da u verbiu "imprestà"). 
+A storia dice chì à u mese di marzu, un pastore (un picuraghju) si ne ridia di u mese di marzu. L'inguernu era compiu è u pastore a s'avia francata. E pecure eranu grasse, i so casgi tamanti, i so brocci belli bianchi... è allora si muntava appena a sega. Dispettosu, si magagnava à u mese di marzu : 
+« Marzu, catarzu, figliolu d’un bugnone, facciu l’agnelli tamanti è muntoni, u brocciu tamantu è spurtoni » è cuntinuvava à ride... 
+Ma u mese di Marzu hè un biscone. Vole vindicassi è dumanda à u mese d'Aprile d'imprestalli dui o trè ghjorni per vultà à metteli una concia : 
+« O Aprile, u mo fratellu, imprestami u primu è u dui, ch'aghju da fà penta u falsu picuraghju ». 
+Sulidariu, Aprile li risponde : 
+« U primu u tengu per mè. Ma t'imprestu u dui è u trè » 
+Tandu, cum'è un Schwarzenegger, Marzu volta i primi ghjorni d'aprile per fà nasce timpesta, toni, saette, acqua à sechje è ancu neve per punisce u pastore appena troppu pretensiunutu. 
+Cusì si spiega chì u tempu hè sempre gattivu u dui è u trè d'aprile. 
+Ma quist'annu, i pristaticci a s'allonganu è ùn sò ancu finiti. Serà forse colpa à a crisa è à Aprile chì hà messu parechji chjodi à Marzu. 
+Da leghje : parechje versioni di sta fola : nant'à Wikipedia, u blog di Canonici è u situ In punta di lingua.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

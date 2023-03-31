@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ma chì si passa à Corse-Matin ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ma-chi-si-passa-a-Corse-Matin_a1290.html"/>
+     <date>
+      Fri, 09 Mar 2012 00:40:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ma chì si passa à Corse-Matin ?
+   </head>
+   <div type="excerpt">
+    <p>
+     In più di l'articuli di giurnalisti, avà esistenu i "publi-reportages" per fà a prumuzione di i candidati. Cumu serà ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Prima ci hè u titulu : "Jean Zuccarelli l'affranchi". Appena cumu si Jean-Jean avia da ghjucà in u remake di Goodfellas di Scorsese, cun François Tatti è Ange Rovere à a piazza di De Niro è Jo Pesci. 
+Dopu ci hè l'articulu, piuttostu bravu (hè un eufemisimu...) cù u candidatu. 
+Piccula scelta : "Jean Zuccarelli s'émancipe... il occupe le terrain et fait feu de tout bois. Ceux qui le pensaient sans envergure ni charisme en sont pour leurs frais... en train de se faire un prénom... Jean Zuccarelli est sur orbite... gagne des points et accumule les opinions favorables... Cordial et avenant... il connait parfaitement ses dossiers... il a un ton posé et sa parole fait mouche... Jean Zuccarelli n'a pas peur... il a foi en lui et regarde l'avenir avec optimisme... il a des idées plein la tête... il veut briser les stéréotypes de fils à papa et se sens prêt à mener tous les combats..." 
+Allora ? Articulu di stampa ? O publicità pè Jean-Jean ? 
+Avemu capitu, crìtiche in st'articulu, ùn ne truveremu micca. Ùn ci serà veramente nunda à dì ? Mancu un picculu suppulellu di criticuccia, ancu chjuca chjuca ? Ci vole à crede chì nò. Stranu... 
+È a cunclusione chì pesta : "Que cela plaise ou non, la dynastie des Zuccarelli est loin d'être terminée". Pigliatevi què ! L'elezzione hè dunque fatta, avemu u miglior candidatu di tutti in tempi in Bastia è ùn a sapiamu mancu. 
+Iè, ancu più forte chè Jacques Cheminade, Jean-Jean ! Ma cumu serà chì Barack Obama ùn l'hà ancu chjamatu ! 
+Bon, appena và bè. Ma quantunque, ùn truvate micca chè vo avete appinuccia esageratu, nò ? 
+Aspettemu cun impazienza listessu trattamentu è listessi "publi-reportages di campagna" pè l'altri candidati, à sapè Tony Cardi, Sauveur Gandolfi-Scheit, Jean-François Baccarelli, Gilles Simeoni, Jean-Philippe Antolini. Metterà infine appena d'animazione in sta campagna.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

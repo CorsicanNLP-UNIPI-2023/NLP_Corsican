@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Marine Le Pen è u bislinguisimu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Marine-Le-Pen-e-u-bislinguisimu_a1253.html"/>
+     <date>
+      Wed, 25 Jan 2012 00:55:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Marine Le Pen è u bislinguisimu
+   </head>
+   <div type="excerpt">
+    <p>
+     Chì hè l'avisu di Marine Le Pen nant'à u bislinguisimu ? Eccu a risposta...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Almenu, ùn si puderà micca dì chì e cose ùn sò micca chjare...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

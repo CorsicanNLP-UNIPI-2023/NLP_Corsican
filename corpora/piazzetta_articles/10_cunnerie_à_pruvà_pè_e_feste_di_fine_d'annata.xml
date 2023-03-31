@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     10 cunnerie à pruvà pè e feste di fine d'annata
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/10-cunnerie-a-pruva-pe-e-feste-di-fine-d-annata_a2073.html"/>
+     <date>
+      Sat, 13 Dec 2014 16:42:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    10 cunnerie à pruvà pè e feste di fine d'annata
+   </head>
+   <div type="content">
+    <p>
+     E spese à l'ultimu 
+Rigalà cose goffe  U libru di Trierweiler o quellu di Zemmour, u custume di "Super Corse" 
+Fiascà u so ripastu 
+Plasticà a so fattura EDF cù i lumi 
+Fà un selfy in un rond-point
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

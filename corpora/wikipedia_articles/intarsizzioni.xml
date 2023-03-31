@@ -1,0 +1,132 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Intarsizzioni
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Intarsizzioni"/>
+     <date>
+      2014-12-04T18:00:53Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Intarsizzioni
+   </head>
+   <p>
+    In matematica, è in particulari in a tiuria di l'insemi, l' intarsizzioni (o intersezzione) (simbulu \cap ) di dui insemi A è B hè l'insemu di l'elementi chì appartenini à tempu sighi à l'insemu A sighi à insemu B.
+   </p>
+   <p>
+    L'intarsizzioni hè un'uparazioni binaria. In l'algebra booleana currispondi à l'uparatori AND è, in logica, à a cunghjunzioni.
+   </p>
+   <p>
+    == Difinizioni ==
+   </p>
+   <p>
+    L'intarsizzioni di dui insemi A è B si denota cumunamenti incù A \cap B. Dunqua x hè un elementu di A \cap B s'è è solu s'è x hè à tempu un elementu di l'insemi A è B, in simbuli:
+   </p>
+   <p>
+    (x \in A \cap B) \Leftrightarrow (x \in A \wedge x \in B).
+   </p>
+   <p>
+    Più in generali, data una famidda qualsiasi \{A_\alpha,\alpha\in \mathcal{I}\} d'insemi, l'intarsizzioni hè difinita com'è l'insemu \cap_{\alpha \in \mathcal{I}} A_\alpha à u quali un elementu x apparteni s'è è solu s'è x apparteni à ugnunu di l'A_\alpha.
+   </p>
+   <p>
+    == Prubità ==
+   </p>
+   <p>
+    Da a difinizioni suvita subitu ch'è l'intarsizzioni hè un'uparazioni cummutativa. In simbuli:
+   </p>
+   <p>
+    A \cap B = B \cap A.
+   </p>
+   <p>
+    Infatti
+   </p>
+   <p>
+    x \in A \cap B \Leftrightarrow x \in A \wedge x \in B \Leftrightarrow x \in B \wedge x \in A
+   </p>
+   <p>
+    \Leftrightarrow x \in B \cap A.
+   </p>
+   <p>
+    L'intarsizzioni hè inoltri un'uparazioni assuciativa:
+   </p>
+   <p>
+    \left ( A \cap B \right ) \cap C = A \cap \left (B \cap C \right ).
+   </p>
+   <p>
+    Infatti
+   </p>
+   <p>
+    x \in ( A \cap B ) \cap C \Leftrightarrow x \in A \cap B \wedge x \in C \Leftrightarrow x \in A \wedge x \in B \wedge x \in C \Leftrightarrow
+   </p>
+   <p>
+    x \in A \wedge x \in B \cap C \Leftrightarrow x \in A \cap (B \cap C).
+   </p>
+   <p>
+    Par quissa si pò rinuncià à i parentesi quand'iddu si cunsidarighja l'intarsizzioni di più di dui insemi, scrivindu simpliciamenti A \cap B \cap C.
+   </p>
+   <p>
+    == Asempii ==
+   </p>
+   <p>
+    Com'è asempiu elementari si devini cunsidarà dui insemi finiti (veni à dì incù un numaru finitu d'elementi) A=\{1,2,3\} è B=\{2,3,4\}. In stu casu si pò virificà dirittamenti par ogni elementu di A s'iddu hè ancu elementu di B (o viciversa), uttinindu
+   </p>
+   <p>
+    A \cap B = \{2, 3\}.
+   </p>
+   <p>
+    Un asempiu un pocu più astrattu hè datu da dui insemi difiniti par via di ditarminati prubità di i so elementi: sighini A l'insemu di i numari intrei divisibili par 4 è B l'insemu di i numari intrei divisibili par 6. In stu casu, A \cap B hè l'insemu di i numari intrei divisibili sighi par 4 sighi par 6, vali à dì tutti i numari intrei divisibili par 12.
+   </p>
+   <p>
+    L'insemi di i Numari pari è di i Numari dispari sò disghjunti; infatti un numaru ùn pò micca essa à tempu paru è disparu. L'intarsizzioni di sti dui insemi hè dunqua l'insemu biotu.
+   </p>
+   <p>
+    ==Da vida dinò==
+   </p>
+   <p>
+    Unioni (matematica)
+   </p>
+   <p>
+    Diffarenza (matematica)
+   </p>
+   <p>
+    Tiuria di l'insemi
+   </p>
+   <p>
+    Tiuria di l'insemi
+   </p>
+   <p>
+    Uparazioni binarii
+   </p>
+   <p>
+    == Noti ==
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia in talianu.
+   </p>
+  </body>
+ </text>
+</TEI>

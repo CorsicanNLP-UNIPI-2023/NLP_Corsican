@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     L'isula chì ùn sapia pruduce mancu una "cagette"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/L-isula-chi-un-sapia-pruduce-mancu-una-cagette_a1909.html"/>
+     <date>
+      Thu, 10 Jul 2014 12:52:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    L'isula chì ùn sapia pruduce mancu una "cagette"
+   </head>
+   <div type="excerpt">
+    <p>
+     Pare faciule à fà, una "cagette". Ma per via di a greva, l'agricultori sò obligati di ghjittà i so frutti. Ancu quessa, simu obligati di falla vene da fora.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A greva di i marinari di a SNCM oramai compia (sin'à quandu ?) averà avutu u meritu di fà nasce parechje interrugazioni in Corsica. 
+Di siguru si pone a sempiterna quistione di a maestria di i trasporti, di u rollu di u Statu, di u rollu di i sindicati marsegliesi. Tante cose sò state scritte nantu. Da leghje per esempiu in Le Monde SNCM : la Corse asphyxiée ? « l'Etat s'en fout ». 
+Per Marc Simeoni, e perdite sò digià impurtante : "La grève de la SNCM coûte 7 à 8 millions € par jour à l’économie corse". E riservazione sò calate, è s'elle ùn ci sò "retombées" pè u Tour de France, risicheghjanu d'esseci cunsequenze di a greva in termini di fiure è di riputazione pè i trasporti corsi. 
+Ma cun sta greva avemu amparatu dinù chì l'agricultori anu ghjittatu frutti è legumi, chì anu mancatu di "cagettes" per tene a so pruduzzione. 
+Purtantu, hè connu cum'è ogettu, una "cagette" in legnu. Ebbeh mancu quessa, ùn a sapemu fà. Simu obligati d'impurtà, è avà l'agricultori devenu ghjittà. 
+Volta allora u dibattitu nant'à u tippu d'ecunumia ch'è no vulemu. 
+Un'ecunumia fatta di grande distribuzione, d'immubiliare, di turìsimu, cundiziunata à una stagione di più in più corta è ch'ùn pruduce nunda, mancu una "cagette" semplice semplice. 
+O circà di fà cresce a parte di pruduzzione ? Ùn hè micca quistione d'esse contr'à u turìsimu. Ma di circà di pruduce appena di più in Corsica, chì per avà, si pruduce troppu pocu. 
+Certi si ponenu a dumanda. Da leghje : Conflit SNCM : sonne-t-il le glas du tout-tourisme ?. 
+U dibattitu hè lanciatu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

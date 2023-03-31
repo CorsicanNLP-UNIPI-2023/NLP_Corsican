@@ -1,0 +1,52 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Article n°2429
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Article-n-2429_a2429.html"/>
+     <date>
+      Mon, 13 Jun 2016 12:15:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Article n°2429
+   </head>
+   <div type="content">
+    <p>
+     L'infurmazione hè data da u situ babycenter.com : di più in più d'Americani danu à i so zitelli nomi di filtri Instagram. Per esempiu : Lux, Juno, Reyes, Ludwig, Amaro, Valencia è Willow sò crisciuti assai st'ultimi mesi. Ma rassiguratevi, tutti i filtri ùn anu micca datu un nome. Ùn truvemu ancu parenti chì anu chjamatu u so ciucciu Clarendon, Crema, Perpetua, Lo-Fi o X-Pro II. Simu salvi.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

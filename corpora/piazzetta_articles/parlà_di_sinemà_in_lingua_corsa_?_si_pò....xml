@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Parlà di sinemà in lingua corsa ? Si pò...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Parla-di-sinema-in-lingua-corsa-Si-po_a1766.html"/>
+     <date>
+      Mon, 28 Apr 2014 14:25:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Parlà di sinemà in lingua corsa ? Si pò...
+   </head>
+   <div type="content">
+    <p>
+     Una pagina Facebook per parlà in lingua corsa di sinemà ? 
+Esiste, si chjama Tilone. 
+Allora andateci è "likate" puru ! Aiutateli à fà cresce u nùmeru di fans. 
+Felicitemu i so creatori per l'iniziativa è ventu in poppa !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Wallace Shawn
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Wallace%20Shawn"/>
+     <date>
+      2016-09-22T14:45:12Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Wallace Shawn
+   </head>
+   <p>
+    Wallace Michael Shawn (New York, New York (Statu), 12 nuvembre 1943) hè statu un attore americanu.
+   </p>
+   <p>
+    Shawn, Wallace
+   </p>
+   <p>
+    Shawn, Wallace
+   </p>
+  </body>
+ </text>
+</TEI>

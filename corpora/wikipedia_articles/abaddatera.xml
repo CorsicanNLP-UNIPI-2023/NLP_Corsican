@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Abaddatera
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Abaddatera"/>
+     <date>
+      2015-07-09T15:23:37Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Abaddatera
+   </head>
+   <p>
+    L' abaddatera hè u fattu di cantà a baddata, un cantu funebru prufanu di Corsica, cantatu da i donni, chì hè chjamatu voceru o vociaru in altri parti di a Corsica. U tarmini baddata hè specificu di u Sartinesu. Quidda chì canta hè l'abaddatrici.
+   </p>
+   <p>
+    == Referenze ==
+   </p>
+   <p>
+    Salvatore Viale, Canti popolari corsi, 1855, Fabiani:Bastia
+   </p>
+   <p>
+    A. L. A. Fée, Voceri, Canti pupulari di a Corsica, 1850, Derivaux
+   </p>
+   <p>
+    Galletti, Storia illustrata di a Corsica - Histoire illustrée de la Corse, 1863
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    Thiers, Ghjacumu, 1999, U gestu è a parola in u voceru corsu - Le geste et la parole dans le voceru corse
+   </p>
+   <p>
+    Musica Corsa
+   </p>
+  </body>
+ </text>
+</TEI>

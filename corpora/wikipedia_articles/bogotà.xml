@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bogotà
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Bogot%C3%A0"/>
+     <date>
+      2014-03-23T14:04:57Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bogotà
+   </head>
+   <p>
+    Bogotà hè a capitale di a Colombia.
+   </p>
+   <p>
+    Tene circa 6.778.691 abitanti.
+   </p>
+   <p>
+    America di u Sudu
+   </p>
+  </body>
+ </text>
+</TEI>

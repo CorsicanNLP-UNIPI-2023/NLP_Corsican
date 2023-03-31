@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mandà i nostri pulitichi in Bèlgica ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Manda-i-nostri-pulitichi-in-Belgica_a1034.html"/>
+     <date>
+      Sun, 20 Feb 2011 00:05:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Mandà i nostri pulitichi in Bèlgica ?
+   </head>
+   <div type="excerpt">
+    <p>
+     A Bèlgica ùn hà più guvernu dapoi più di 250 ghjorni, u record di l'Iraccu vene d'esse battutu è i so abitanti ne sò addisperati. In Corsica, ùn manchemu d'omi pulitichi ch'ùn dumandanu ch'è quessa, di guvernà... È s'è no li mandavamu i nostri ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     I Bèlgichi ùn sanu più chì fà pè sprime u so addisperu. Anu lanciatu a so Rivuluzione di i pomi fritti pè festighjà u 249esimu ghjornu d'un paese senza guvernu. U record di l'Iraccu hè battutu. Infine, custì dinù ci hè dibattitu trà Walloni è Flamandi. Ancu custì, ùn sò micca d'accordu nant'à a manera di cuntà. 
+Ma u risultatu hè u listessu. Dapoi tantu tempu senza guvernu, futte veramente male in Auropa. Allora certi preferiscenu ridene è ci sò state parechje manifestazioni è iniziative di i Bèlgichi : greva di a barba, greva di u sessu... 
+Noi dinù, pudemu fà qualcosa per aiutalli. Quantu n'avemu omi pulitichi, merri, cunsiglieri generali, candidati fiascati ch'ùn dumandanu ch'è quessa, ghjunghje à u putere ? O piuttostu "accéder aux responsabilités" cum'elli a dicenu ? 
+Perchè micca pruponeli un "pack" d'omi pulitichi corsi disimpiegati, da mette à capu di a Bèlgica ? À l'anziana squadra chì era à capu di l'esecutivu di a CTC li manca u travagliu. 
+Ange Santini, Camille de Rocca Serra, Jérôme Polverini, Antoine Giorgi o Jean-Pierre Leccia puderianu purtà e so cumpetenze à stu grande paese. In più di quessa, quallà nisun rìsicu d'esse imbestiatu cù e storie di residenze segundarie è di bettunizazione di u liturale. 
+À manca è ind'è i naziunalisti dinù, ùn sò i candidati chì mancanu. Allora perchè micca ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

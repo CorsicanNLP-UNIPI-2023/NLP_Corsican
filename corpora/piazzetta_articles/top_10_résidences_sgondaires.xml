@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Top 10 résidences sgondaires
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Top-10-residences-sgondaires_a1756.html"/>
+     <date>
+      Fri, 25 Apr 2014 16:45:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Top 10 résidences sgondaires
+   </head>
+   <div type="content">
+    <p>
+     Lumiu 75,7  Calcatoghju 74,3  Sarra di Farru 74,3  Casaglione 73,0  Grussetu Prugna 62,5  Piana 61,8  Portovek 52,6 
+2010 
+http://www.insee.fr/fr/bases-de-donnees/default.asp?page=statistiques-locales.htm
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Charlie Sheen
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Charlie%20Sheen"/>
+     <date>
+      2015-07-01T17:21:44Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Charlie Sheen
+   </head>
+   <p>
+    Charlie Sheen hè un attore americanu.
+   </p>
+   <p>
+    Sheen, Charlie
+   </p>
+   <p>
+    Sheen, Charlie
+   </p>
+  </body>
+ </text>
+</TEI>

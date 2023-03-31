@@ -1,0 +1,72 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È voi, site Corsi ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-voi-site-Corsi_a1164.html"/>
+     <date>
+      Mon, 12 Sep 2011 19:29:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È voi, site Corsi ?
+   </head>
+   <div type="excerpt">
+    <p>
+     "Et qui on est !" A fòrmula hè in bocca à tutti. Ci vole forse à vedeci ch'ellu ùn si sà più qual'è no semu è ch'ellu ci hè un prublema d'identità. Allora noi avemu pigliatu a dumanda à u primu gradu è circatu di rispondeci appughjendusi nant'à sciffri è statistiche. Eccu ciò ch'elli sò i Corsi in u 2011...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Sò poveri :  - 30 000 abitanti campanu in a precarità.  - I Restos du Cœur tuttu sò in pienu sviluppu : +20% di ripasti dati (a media naziunale hè di +12%). 
+Sò futuri SDF ?  - A Corsica hè a terza regione a più ricca in termine di prezzi di l'immubiliare.  - Ci sò 33% di residenze segundarie (ma 60% è 70% in certi lochi di u liturale) allora chì a media naziunale hè di 10%. 
+Ùn pruducenu nunda :  - A parte di pruduzzione lucale in a cunsumazione hè di menu di 20%. 
+Sò cunsumatori :  - A prupurzione di supermercati è di grandes surfaces hè a più forte di Francia. 
+Sò depressivi :  - Un Corsu nant'à quattru piglia antidepressori di manera regulare. 
+Una sucetà di più inghjusta ch'è in altrò :  - 10% di e famiglie (ménages) e più ricche vincenu 7 volte u rivenutu di i 10% i più poveri, allora chì a media naziunale hè di 5,4%. 
+Campanu à l'usu americanu :  - L'obesità di i 5-7 anni hè una di e più alte di Francia : tocca 23% di i zitelli (media francese 14%). 
+Ùn anu micca cunfidenza in l'avvene :  - Zitelli, si ne face pocu : a natalità hè a più bassa di Francia.  - A Corsica hè a prima pè l'IVG : 22,5% contr'à una media di 14,5%. 
+Sò vechji :  - Segonda regione a più vechja di Francia.  - À stu rìtimu, in 2040 un Corsu nant'à trè averà più di 65 anni. 
+Si stìnzanu :  - A criminalità hè diventata più forte ch'è in Sicilia (19 assassinii in u 2009 pè 5 milioni d'abitanti). In Corsica avemu cuntatu 17 assassinii pè 300.000 abitanti. 
+Sò ignuranti è senza diplomi :  - Solu 60% di i giovani trà 18 è 21 anni sò scularizati.  - Tenimu u record di Francia di giovani micca inseriti (nè impiegu, nè scularizati). 
+Sò piaghjinchi :  - A pupulazione hè cuncentrata nant'à u liturale allora chì l'internu hè disertu. 
+Sò rimpiazzati :  - A pupulazione cresce di manera forte, ma unicamente perchè a ghjente ci vene da fora : ogni ghjornu sò 13,5 persone chì ghjunghjenu. 
+Ùn cunnoscenu più a so lingua :  - U corsu hè a quarta lingua parlata nant'à sta terra. 
+Et qui on est ? Avà a sapete... 
+Sciffri : INSEE, Corse-Matin, 24 Ore...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

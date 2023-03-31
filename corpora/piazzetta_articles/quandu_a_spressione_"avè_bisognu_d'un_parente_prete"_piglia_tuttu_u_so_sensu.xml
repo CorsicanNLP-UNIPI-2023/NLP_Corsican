@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quandu a spressione "avè bisognu d'un parente prete" piglia tuttu u so sensu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quandu-a-spressione-ave-bisognu-d-un-parente-prete-piglia-tuttu-u-so-sensu_a1953.html"/>
+     <date>
+      Mon, 22 Sep 2014 00:17:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quandu a spressione "avè bisognu d'un parente prete" piglia tuttu u so sensu
+   </head>
+   <div type="content">
+    <p>
+     Un lettore ci hà mandatu stu ritrattu nant'à Twitter. 
+D'un disgraziatu, si dice  hà "bisognu d'un parente prete" (o "d'un ziu prete). 
+Dopu à avè vistu stu ritrattu, si capisce megliu perchè. Di chè rilancià a chjesa corsa in piena crisa di e vucazioni. 
+Almenu chì i cunduttori di Porsche sianu di più scrianzati ch'è l'altri... 
+(Ringrazii à @Tumasgiu_GI !)
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

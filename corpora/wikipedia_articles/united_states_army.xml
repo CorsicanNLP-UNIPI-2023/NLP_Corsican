@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     United States Army
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/United%20States%20Army"/>
+     <date>
+      2015-07-02T00:17:27Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    United States Army
+   </head>
+   <p>
+    L'United States Army, o cortu U.S. Army, face parte di e forze armate americane. Hè a parte più grande di u militare americanu, incù più di mezu milione suldati regulari.
+   </p>
+   <p>
+    Pulitica
+   </p>
+  </body>
+ </text>
+</TEI>

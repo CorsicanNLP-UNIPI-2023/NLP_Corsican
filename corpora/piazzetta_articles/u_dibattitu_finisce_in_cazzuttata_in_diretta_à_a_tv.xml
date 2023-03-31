@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U dibattitu finisce in cazzuttata in diretta à a tv
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-dibattitu-finisce-in-cazzuttata-in-diretta-a-a-tv_a1786.html"/>
+     <date>
+      Thu, 08 May 2014 22:15:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U dibattitu finisce in cazzuttata in diretta à a tv
+   </head>
+   <div type="content">
+    <p>
+     È dì chì certi ministri dicenu chì ind'è noi a viulenza hè culturale ! À cantu à què, i dibattiti di e municipali è e discussioni nant'à u portu di a Carbonite parenu un episodiu di i Bisounours. 
+Si passa in Giordania. U dibattitu porta nant'à a crisa in Siria. L'invitati sò dui giurnalisti. À manu manca Mohammed al-Jayousi. À manu diritta Chaker al-Johari. Finisceranu pè smuntà u studio di a televisiò. 
+Ch'averia fattu Jean-Vitus à a piazza di u giurnalistu ? 
+Ridimu ma in tantu, ci hè un massacru in Siria in l'indifferenza generale...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

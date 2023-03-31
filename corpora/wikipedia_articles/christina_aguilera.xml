@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Christina Aguilera
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Christina%20Aguilera"/>
+     <date>
+      2019-03-10T12:21:10Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Christina Aguilera
+   </head>
+   <p>
+    Christina María Aguilera (* 18 di decembre 1980 in Staten Island, New York, SUA) hè una musicante americana.
+   </p>
+   <p>
+    Aguilera, Christina
+   </p>
+  </body>
+ </text>
+</TEI>

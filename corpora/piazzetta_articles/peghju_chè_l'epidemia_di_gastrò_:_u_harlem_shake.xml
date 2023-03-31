@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Peghju chè l'epidemia di gastrò : u Harlem Shake
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Peghju-che-l-epidemia-di-gastro-u-Harlem-Shake_a1511.html"/>
+     <date>
+      Mon, 11 Mar 2013 08:00:07 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Peghju chè l'epidemia di gastrò : u Harlem Shake
+   </head>
+   <div type="excerpt">
+    <p>
+     Da per tuttu hè digià trapassatu è fora di moda. Ma in Corsica, ghjunghje in forza.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U mese di ferraghju 2013 hà vistu nasce l'epidemia di gastrò è quella di Harlem Shake. 
+Un Harlem Shake hè una piccula videò chì mostra ghjente chì ballanu n'importa cumu, nant'à un pezzu di musica electrò piuttostu angusciosu (d'un certu DJ Baauer chè no ùn ringraziemu micca). 
+Hè ciò chì face u buzz in u mondu sanu dapoi un mese, è saria forse ora di piantà. 
+A videò si passa in dui tempi. Prima si vede un omu ballà solu solu (mascheratu) à mezu à un gruppu d'altri chì facenu cumu s'elli ùn u vidianu micca. In un segondu tempu, dop'à una tagliatura, tutte e persone si mettenu à ballà di manera frenètica. Certi sò travestiti, d'altri à pelu. 
+In quindeci ghjorni, più di 50.000 Harlem Shake eranu in linea nant'à i siti di videò. 
+Per fà nece d'esse cool, ci vole à fà un Harlem Shake in a so intrapresa. Ancu una sezzione parigina di l'UMP hà fattu u soiu, per divvi... 
+In fatti hè un imbuleghju di Gangnam Style è di lipdub. Vale à dì orrìbile. 
+U 18 ferraghju, u situ Slate scrivia chì u Harlem Shake era digià "ringard". 
+In Corsica, parechji caffè, bars, clubs di sports anu messu a so videò nant'à Youtube. 
+È cum'è sempre, quandu tutti dicenu chì u Harlem Shake hè anticognu, goffu è ch'ellu ùn ghjova à nunda, induve hè ch'ellu ghjunghje in forza ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

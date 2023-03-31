@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quale ci la ferà à chjappà u diavule ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quale-ci-la-fera-a-chjappa-u-diavule_a1595.html"/>
+     <date>
+      Fri, 28 Jun 2013 00:09:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quale ci la ferà à chjappà u diavule ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Cochonou, hè fatta. Gérard Holtz, hè fatta. Ma u diavule goffu chì seguiteghja u giru di Francia, chì ne serà?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Passemu nant'à i ciclisti cù e so medicine, a caravana Cochonou è Gérard Holtz. 
+A dumanda chì tuttu ognunu si pone hè : u diavule chì seguiteghja u giru di Francia serà ghjuntu in Corsica anch'ellu ? 
+U satanassu abbastanza goffu si chjama Didi Senft, hè tedescu è seguiteghja tutti l'anni u Tour de France cù e so corne è un tridente. Hà ancu a so pagina nant'à Wikipedia. 
+Per avà u Vescu di Corsica Monsignore Olivier de Germay ùn hà ancu cundannatu avec la plus grande fermeté sta manifestazione luciferiana. Essendu datu ch'ellu ùn li piace tantu l'ochju, forse averà da facci un cummunicatu s'ellu spunta l'alemanu indiavulatu. 
+Serà venutu anch'ellu in Corsica ? Qualchissia ci la ferà à chjappallu ? Chì ne penserà quellu di u GFCA ? 
+Risposta da quì à pocu tempu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

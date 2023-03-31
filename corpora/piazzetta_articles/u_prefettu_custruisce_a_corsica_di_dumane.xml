@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U prefettu custruisce a Corsica di dumane
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-prefettu-custruisce-a-Corsica-di-dumane_a1271.html"/>
+     <date>
+      Wed, 15 Feb 2012 13:59:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U prefettu custruisce a Corsica di dumane
+   </head>
+   <div type="excerpt">
+    <p>
+     Nò, ùn sunniate micca. Cusì si passa in Corsica...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A Corsica và megliu, u Statu face u so travagliu. Oghje si pò leghje in Corse-Matin chì : Le préfet rassure les professionnels du bâtiment de Porto-Vecchio. 
+È dopu chì : Patrick Strzoda tend la main aux entreprises du secteur en présentant son plan de sortie de crise. Il a notamment indiqué que 70% des dossiers avaient reçu un avis favorable malgré l’annulation du PLU. 
+Nò, ùn hè micca una magagna. 
+Casca bè, u stessu prefettu dicia in l'emissione di RCFM è di Corse-Matin Place publique nant'à a viulenza chì : 
+"On parle beaucoup de violence... ce fléau, ce cancer, qui contrecarre un projet de développement auquel aspire la grande majorité de la population. Nous sommes déterminés à lutter contre ces phénomènes, c'est bien pour garantir de l'avenir de la Corse. L'avenir de la corse il est dans le développement". 
+Eccu, avà a sapemu. A Corsica ùn hà più ch'è una scelta pè sviluppà a so ecunumia, hè u BTP. Ci hè un'alternativa à u tuttu turisimu : u tuttu bettonu. È per quessa, ùn hè bisognu di Padduc. 
+Ma postu chì tuttu u mondu hè cuntentu, cuntinuvemu cusì.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

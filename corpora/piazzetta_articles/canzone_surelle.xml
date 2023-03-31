@@ -1,0 +1,73 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Canzone surelle
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Canzone-surelle_a2203.html"/>
+     <date>
+      Mon, 27 Apr 2015 18:51:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Canzone surelle
+   </head>
+   <div type="excerpt">
+    <p>
+     Cunniscite tutti "A Strada di l'omu", canzona di Canta u Populu Corsu. Ma sapete da induv'ella vene ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In lu settanta, indiatura, country/folk music, versu nustrale è puesia campavanu in armunia. Canta u Populu Corsu cantava (è fischjava dinù) A strada di l'omu (in u discu "A Strada di l'avvene", scritta da GP Poletti) :
+    </p>
+    <p>
+     A cunniscite tutti :
+    </p>
+    <p>
+     Issa bellissima canzona chì ci pare un classicu corsu, era un'adattazione è un accunciamentu di « Dark as a dungeon » una canzona americana scritta da Merle Travis, un grande musicante di bluegrass. 
+Eccu u filmettu di Mèrulu Travis, in custume di minadore da salutà i veri travagliadori, cantendu è sunendu di ghitara (è di zappone) in 1951 :
+    </p>
+    <p>
+     Eccu dinù à Johnny Cash  chì dimostra ch'ellu si pò cantà i strazii di l'operai incù una banana in capu (l'avera ancu pruvata è riesciuta incù una patata calda in bocca).
+    </p>
+    <p>
+     A grandissima Joan Baez anch'ella hà fattu a so ripresa :
+    </p>
+    <p>
+     È per compie l'affare (ma pichjate puru nant'à internet chì ci sò tone di riprese), torna una interpretazione sòbria è distinta di Mèrulu Travis accumpagnatu incù mandulina è voci di u Nitty Gritty Dirt Band un impurtantissimu gruppu di country/folk chì si primurava anch'ellu, à a so manera, di u Riacquistu :
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

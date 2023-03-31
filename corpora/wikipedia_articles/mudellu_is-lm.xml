@@ -1,0 +1,198 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mudellu IS-LM
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Mudellu%20IS-LM"/>
+     <date>
+      2017-10-27T05:40:34Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Mudellu IS-LM
+   </head>
+   <p>
+    U Mudellu IS-LM hè un mudellu ecunomicu chi trascrive elementi di a Teuria Generale di John Maynard Keynes in termi neu-classichi. In una situazione di sottu-impiegu, permette di sceglie trà sfarente pulitiche ecunomiche, apprizzendu i so effetti respettivi. Prupusata da John Hicks in u 1937 in Mr Keynes and the “Classics”: A Suggested Interpretation è riarticulata da Alvin Hansen (da duve vene u so altru nome di mudellu Hicks-Hansen ), hè diventatu u « mudellu nurmale» in macroecunumia. U mudellu permette di stabili un equilibru generale à l'intersezzione di u marcatu di i beni è servizii, chi liga investimentu è u risparmiu, (investments and savings,"IS") è di u marcatu munetariu, chi liga dumanda et offerata di munaia (liquidity preference and money supply "LM"). L'equilibru cunghjuntu di 'ssi dui marcati definisce u nivellu d'equilibru di a dumanda è di a tassa d'interessu. Esiste un terzu marcatu implicitu, quiddu di i tituli, ignuratu parchi l'equilibru ni i dui primi zerga u terzu (leghje di Walras : se n-1 marcati so a l'equilibru, u n-esimu l'hè).
+   </p>
+   <p>
+    Un'arricata essenziale di u keynesianisimu (è di IS/LM) hè l'isistenza di a disoccupazione à questu equilibru. Avemu allora un equilibru di sottu-impiegu ;a causa hè un dumanda effettiva insufficenza.
+   </p>
+   <p>
+    == Introitu ==
+   </p>
+   <p>
+    === Un mudellu aggrigatu, incù trè settori ===
+   </p>
+   <p>
+    U mudellu IS/LM un piglia micca in puntu di principiu l'analisa micru-ecunumica ma raghjuneghja direttamente in termi d'aggrigati naziunali, di cui l'inter-dipendenzi so definite di manera empirica.
+   </p>
+   <p>
+    In a prima versione prupusata da Hicks, u mudellu IS/LM cumporta trè settori, o trè marcati : quellu di i beni, quellu di a munaia è quellu di i tituli.
+   </p>
+   <p>
+    === A rilazione d'equilibru per i beni (a curva IS) ===
+   </p>
+   <p>
+    ==== Una rilazione decriscente trà a pruduzzione è a tassa d'interessu nantu à u marcatu di i beni. ====
+   </p>
+   <p>
+    A dumanda sana (o aggrigata), annutata Z, hè aggrigazione di u cunsumu, annutatu C, di l'investimentu privatu annutatu Ip, è infine di e spese publiche, annutate G.
+   </p>
+   <p>
+    Z = C + I_p + G \,
+   </p>
+   <p>
+    A pruduzzione Y hè impiegata  sia per u cunsumu C, sia per u risparmiu S (saving) cio'è :
+   </p>
+   <p>
+    Y = C + S \,
+   </p>
+   <p>
+    Aghja chi l'ecunumia è chjosa, à l'equilibru, a pruduzzione naziunale è uguale à a dumanda aggrigata. Avemu dunque :
+   </p>
+   <p>
+    Y^* = Z^* \,
+   </p>
+   <p>
+    C + S = C + I_p + G  \,
+   </p>
+   <p>
+    S = I_p + G \,
+   </p>
+   <p>
+    Rimarca : à l'equilibru, se pigliemu G cume un investimentuIg, avemu l'ugualità :S = I_p + I_g = I\,, da duve u nome di a curva IS : l'investimentu (investment) hè uguale à u risparmiu (savings) in ciascun puntu di a curva IS.
+   </p>
+   <p>
+    Aghja chi u mudellu IS/LM circa à diterminà a dumanda (Z = Y) è a tassa d'interessu r (o R) à l'equilibru, queste maiurezze deve sprime si in funzione di Y è r. Diverse prisentazioni di u mudellu utilizeghjanu sprissioni più o menu analitiche.
+   </p>
+   <p>
+    Di manera ginirale, l'invistimentu hè sottupostu esse una funzione dicriscente di a tassa d'interessu, cio chi ci dà una curva dicriscente ; a so pendita dipende di l'elasticità di l'investimentu in funzione di a tassa d'interessu è di u multiplicatore keynesianu.
+   </p>
+   <p>
+    Per esempiu, impieghendu e rilazzione linearie :
+   </p>
+   <p>
+    G hè sottupostu esughjenu (sceltu da u guvernu), uguale à G0 ;
+   </p>
+   <p>
+    C=C_0+c(Y-T)-s.r\, induve C0 hè u cunsumu autonomu, c hè a tendenza marginale à frazà, T hè l'imposta (Y - T hè l'intrata dispunibile), s hè a tendenza à risparmià in funzione di a tassa d'interessu  r ;
+   </p>
+   <p>
+    I_p=I_0-a.r\, induve I0 hè l'inseme di i prughjetti d'investimenti pussubili, a hè sinsibilità di l'aghjenti (u finanziatore) à a tassa d'interessu.
+   </p>
+   <p>
+    In stu casu, a dumanda aggrigata si scrive :
+   </p>
+   <p>
+    Z= (C_0+c(Y-T)-s.r) + (I_0-a.r) + G_0\,
+   </p>
+   <p>
+    Sia, difinendu A0 = C0 + I0 + G0 :
+   </p>
+   <p>
+    Z= cY + A_0 - c.T -(a+s)r\,
+   </p>
+   <p>
+    E a rilazione IS si scrive :
+   </p>
+   <p>
+    Y=Z=\frac{1}{(1-c)}\times(A_0-c.T-(a+s)r)\,
+   </p>
+   <p>
+    A dumanda aggrigata Z hè una funzione linearia di a pruduzzione  Y, di pendita c inferiore à 1 (Fig. A).
+   </p>
+   <p>
+    ==== Spustamentu di a curva IS ====
+   </p>
+   <p>
+    Y'=\frac{1}{(1-c)}\times(C_0+I_0+G'-c.T-(a+s)r)\,
+   </p>
+   <p>
+    Y'-Y=\frac{1}{(1-c)}\times(G'-G)\,
+   </p>
+   <p>
+    Y'=\frac{1}{(1-c)}\times(A_0-c.T'-(a+s)r)\,
+   </p>
+   <p>
+    Y'-Y=\frac{1}{(1-c)}\times(T-T')
+   </p>
+   <p>
+    === A rilazione LM ===
+   </p>
+   <p>
+    ==== Una rilazione criscente trà a tassa d'interessa è a pruduzzione nantu à u marcatu di a munaia ====
+   </p>
+   <p>
+    M_d = P.L(i,Y) \,
+   </p>
+   <p>
+    M_d = M_s \,
+   </p>
+   <p>
+    i = r \,
+   </p>
+   <p>
+    M_d/P = Y.L(r) \,
+   </p>
+   <p>
+    \frac{M_d}{P}=m.Y-b.r=\frac{M_s}{P}
+   </p>
+   <p>
+    ==== Déplacements de la courbe LM ====
+   </p>
+   <p>
+    == Appiecazioni ==
+   </p>
+   <p>
+    === L'effeti di un accriscimentu di e spese di u Statu ===
+   </p>
+   <p>
+    === L'effeti di una pulitica munetaria espansionista ===
+   </p>
+   <p>
+    === Aggalabata di l'effeti : policy-mix di u Statu ===
+   </p>
+   <p>
+    == Cunfine ==
+   </p>
+   <p>
+    == Stinzioni ==
+   </p>
+   <p>
+    === IS-LM-BP ===
+   </p>
+   <p>
+    === Mudellu MPS ===
+   </p>
+   <p>
+    Inoltre in l'anni 1960, Franco Modigliani sviluppa un mudellu macro-ecunumetricu cumplessu, u mudellu MPS, in cui u nucleu è un mudellu IS-LM aumentatu di a rilazione inflazione-misata ispirata di a curva di Phillips.
+   </p>
+   <p>
+    === IS-LM-EE ===
+   </p>
+   <p>
+    In u 1999, Anthony Heyes hà prupusatu u mudellu IS-LM-EE, a curva EE riprisintendu "l'equilibru ambientale".
+   </p>
+  </body>
+ </text>
+</TEI>

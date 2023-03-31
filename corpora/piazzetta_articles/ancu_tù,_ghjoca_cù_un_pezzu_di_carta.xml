@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ancu tù, ghjoca cù un pezzu di carta
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ancu-tu-ghjoca-cu-un-pezzu-di-carta_a1684.html"/>
+     <date>
+      Tue, 25 Feb 2014 12:43:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ancu tù, ghjoca cù un pezzu di carta
+   </head>
+   <div type="excerpt">
+    <p>
+     Avete siguramente vistu passà ste magagne-ritratti cù pezzi di carte è nomi di carte. In corsu dinù, si pò !
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cunniscite forse u Tumblr "Laissez parler les petits papiers" chì si techja di ste magagne fatte cù un pezzu di carta. 
+Hè unu di sti ghjochi participativi nant'à a tela induve tuttu ognunu face a so magagna è manda u so ritrattu. Ci n'hè pienu cusì, è certi facenu ride da veru. 
+In corsu dinù, si ne pò truvà. Esiste a pagina "Jeux de mots Corsica" induve tutt'ognunu pò mandà i ritratti di e so magagne, è certe sò da sbillicassi. Felicitazioni dunque à l'autore di stu ritrattu chì circuleghja nant'à Facebook. 
+Circate di fanne d'altri in corsu, mandatecili è i metteremu in linea nant'à sta pagina : apiazzetta@free.fr, è mandatele puru dinù nant'à u muru di "Jeux de mots Corsica".
+    </p>
+    <p>
+     Ùn ci hè vulsutu tantu tempu per a risposta à u primu messagiu...
+    </p>
+    <p>
+     Per capisce l'ultima, ci vole à cunnosce a canzona ! 
+À ringraziavvi à tutti !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

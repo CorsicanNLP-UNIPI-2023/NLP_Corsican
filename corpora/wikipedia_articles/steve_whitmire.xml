@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Steve Whitmire
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Steve%20Whitmire"/>
+     <date>
+      2016-09-22T16:04:37Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Steve Whitmire
+   </head>
+   <p>
+    Steven "Steve" Whitmire (Atlanta - Georgia, 24 Settembre 1959) hè un attore americanu.
+   </p>
+   <p>
+    Whitmire, Steve
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ustersbach
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Ustersbach"/>
+     <date>
+      2014-03-23T15:09:31Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ustersbach
+   </head>
+   <p>
+    Ustersbach hè una cumuna di a Germania. Teni 1.177 abitanti.
+   </p>
+   <p>
+    ==Liami==
+   </p>
+   <p>
+    U situ ufficiali
+   </p>
+   <p>
+    Germania
+   </p>
+  </body>
+ </text>
+</TEI>

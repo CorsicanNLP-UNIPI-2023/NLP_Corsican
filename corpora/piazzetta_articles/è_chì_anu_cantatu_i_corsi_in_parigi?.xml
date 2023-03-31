@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È chì anu cantatu i Corsi in Parigi?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/corsi-parigi-on-est-pas-francais/"/>
+     <date>
+      Tue, 21 Apr 2015 00:32:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È chì anu cantatu i Corsi in Parigi?
+   </head>
+   <div type="excerpt">
+    <p>
+     Un filmettu circuleghja dapoi eri sera nant'à e rete suciale. Rammintemu i fatti : u risultatu hè di 4 à 0, l'arbitru hà inghjustamente espulsu u difensore bastiacciu u più bonu dop'à vinti minuti (ciò chì rivene à dì : "futtite u cane, ùn avete nunda à fà quì") è per aghjustà appena di più d'umiliazione, u publicu pariginu hà cantatu duie volte a Marseillaise è un cantu dedicatu "français vous êtes, français vous resterez". Eccu a risposta da u cantu corsu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Forse chì quelli chì sò à u capu di stu paese duverianu principià à interrugassi.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

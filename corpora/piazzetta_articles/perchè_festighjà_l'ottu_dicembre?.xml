@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Perchè festighjà l'ottu dicembre?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Perche-festighja-l-ottu-dicembre_a1648.html"/>
+     <date>
+      Sun, 08 Dec 2013 13:05:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       10-RAGIONI-DI
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Perchè festighjà l'ottu dicembre?
+   </head>
+   <div type="excerpt">
+    <p>
+     A festa di a nazione rimanda à e rivolte corse di u diciottesimu è à a guerra d'indipendenza contr'à Genuva. Ma perchè festighjà stu ghjornu ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     1. Perchè una festa di dicembre cù u fretu è pienu d'azezi hè sempre megliu chè una festa l'estate cù DJ è mojitos. 
+2. Perchè in a nostra a festa, ùn ci hè micca défilé  nè musica militare. 
+3. Perchè hè sempre megliu chè a "fête des voisins". 
+4. Perchè ancu si l'immaculata cuncezzione ùn vi dice nunda, pudete fà a festa quantunque. 
+5. Perchè hè sopr'à tuttu u mumentu pè ritruvassi. Bon d'accordu, hè una scusa per sorte. 
+6. Perchè ùn si sà sempre micca ciò ch'ellu s'hè passatu in e cunsulte d'Orezza è di Corti di ghjennaghju 1735. È ùn face nunda. 
+7. Perchè ùn face nunda si à i tempi di Pasquale Paoli l'ottu dicembre ùn era micca festighjatu. 
+8. Perchè "ci serà da beie è da manghjà". 
+9. Perchè l'ottu dicembre hè dinù l'anniversariu di Jim Morrison è di Gérard Holtz. 
+10. Perchè nè Manuel Valls nè Marine Le Pen festighjeranu stu ghjornu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

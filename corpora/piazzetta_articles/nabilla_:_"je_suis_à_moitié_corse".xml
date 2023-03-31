@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Nabilla : "je suis à moitié corse"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Nabilla-je-suis-a-moitie-corse_a1895.html"/>
+     <date>
+      Mon, 23 Jun 2014 18:52:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Nabilla : "je suis à moitié corse"
+   </head>
+   <div type="content">
+    <p>
+     Quessa l'infurmazione ùn era mai stata palisata. Hè u situ Staragora chì hà fattu un'intervista di Nabilla. 
+Interrugata nant'à a crescita di u FN, dice : 
+"Franchement ça me fait flipper. Moi qui suis moitié italienne corse, moitié algérienne... Je me rappelle que mon père a souffert du racisme lorsqu'il est arrivé en France. C'était dur pour lui. Pour trouver du travail, dans le regard des gens. A l'époque on disait à ma mère que c'était la honte d'être avec un sale arabe ! Sauf que la France, ce n'est pas ça." 
+Allora, statutu di residente accurdatu o nò ? 
+Perchè micca, avemu bè un ministru di l'internu chì si rivendicheghja corsu, chì và à vede a casa in pistìcciuli di i so antichi, è ch'ùn vole sente parlà di nunda...
+    </p>
+    <p>
+     Casca bè, noi l'aviamu fatta parlà corsu in a nostra piccula video per a serata di Parlemu Corsu
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

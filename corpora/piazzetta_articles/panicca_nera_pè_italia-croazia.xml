@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Panicca nera pè Italia-Croazia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Panicca-nera-pe-Italia-Croazia_a2027.html"/>
+     <date>
+      Mon, 17 Nov 2014 13:49:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Panicca nera pè Italia-Croazia
+   </head>
+   <div type="excerpt">
+    <p>
+     Ci sò stati l'azzuffi in San Siro pè a partita trà l'Italia è a Cruazia. In Francia ùn si pò organizà una partita trà Bastia è Nizza. Casca bè, i cruati sò in gamba...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Partita interrotta duie volte, fumìgeni nant'à u campu di ghjocu, pulizzeri chì intervenenu in tribuna. Era sabbatu sera in Milanu. 
+I Cruati sò in forma è l'anu fatta sapè à tutti. 
+Casca bè, da quì à menu di dui anni di serà l'Euro 2016 di futbol, in Francia. 
+Risicheghja d'esseci appena d'animazione. In generale un Euro hè spessu u locu induve i più boni cazzutadori d'Auropa si danu appuntamentu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

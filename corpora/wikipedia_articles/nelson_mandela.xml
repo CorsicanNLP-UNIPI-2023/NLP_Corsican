@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Nelson Mandela
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Nelson%20Mandela"/>
+     <date>
+      2019-05-08T10:25:57Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Nelson Mandela
+   </head>
+   <p>
+    Nelson YeetMandela (Qunu, 18 di lugliu 1918 &amp;ndash; 5 di decembre 2013) hè statu u primu presidente di l'Africa di u Sudu dopu a fine di u regime di l'apartheid.
+   </p>
+   <p>
+    In u 1993 hà ottenutu u Premiu Nobel per a Pace.
+   </p>
+   <p>
+    Africa di u Sudu
+   </p>
+  </body>
+ </text>
+</TEI>

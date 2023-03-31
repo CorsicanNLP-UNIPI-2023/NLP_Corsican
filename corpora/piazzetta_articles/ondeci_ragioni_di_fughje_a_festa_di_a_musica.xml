@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ondeci ragioni di fughje a festa di a musica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ondeci-ragioni-di-fughje-a-festa-di-a-musica_a1121.html"/>
+     <date>
+      Tue, 21 Jun 2011 14:42:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       10-RAGIONI-DI
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ondeci ragioni di fughje a festa di a musica
+   </head>
+   <div type="excerpt">
+    <p>
+     Cum'è tutti l'anni, a sola suluzione hè di scappà.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     1. Hà da piove.  Sapete chì e voce di cazzerole arreganu a piogia è u tempacciu. 
+2. E sonò fragiche.  Amatori di musica, statevi in casa. Ùn senterete nunda, trà e sonò troppu forte è quelle pùzziche, senterete una spezia di rimore di fondu insuppurtèvule. 
+3. E croce sò di surtita. Pè a festa di a musica, tutti i mostri sò di surtita. Sapete, quelli chì mettenu u nasu fora pè u Beaujolais, u 14 di lugliu è u 31 dicembre... È in più di quessa, beienu. 
+4. I peghji gruppi sò quelli chì càntanu. Hardos cughjosi, rappeurs mittomani, curale di vechji cucchi, culturali corsi in depressione... Pè u 21 di ghjugnu si face l'unione internaziunale di e voce di cazzerole. 
+5. Un ripertoriu spaventosu. Micca festa di a musica senza Michel Sardou, Claude François è Mike Brant. 
+6. I djembés. Ogni pusessore di djembé si crede in l'obligazione quellu ghjornu di fà una dimustrazione di stu strumentu di turtura. 
+7. Siate appena anti cunfurmistu. Luttate contr'à a mossa di e feste : di e mamme, di i babbi, di e mammone, di i babboni, di a Nazione, festa di i voisins, Saint Valentin... 
+8. Dr House.  Ancu s'è vo u truvate azezu, hè sempre megliu ch'è d'esse in carrughju à sente una ripresa di Serge Lama o di a Compagnie Créole. 
+9. Hè l'anniversariu di Michel Platini è di François Baroin. Iè, ste duie narpie sò nate un 21 di ghjugnu. Ùn avete micca u dirittu di participà à sta cumedia. 
+10. È u nostru fucarè di San Ghjuvà ? Quessa sì chì hè una vera è bella festa ! 
+11. Cummencia a carnavalata di l'estate. L'Estate, stagione di u turisimu, di e birkenstock è di i camping-cars. Ùn pudete micca participà à stu vituperiu !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

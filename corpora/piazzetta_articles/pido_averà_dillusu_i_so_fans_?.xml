@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pido averà dillusu i so fans ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Pido-avera-dillusu-i-so-fans_a1673.html"/>
+     <date>
+      Sun, 02 Feb 2014 16:24:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MUNICIPALI-2014
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pido averà dillusu i so fans ?
+   </head>
+   <div type="excerpt">
+    <p>
+     "Cause engagement avec Zuccarelli, vends DVDs Pido". Hè u titulu d'un annunziu nant'à Le Bon coin.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Poveru Pido. Lanciassi in pulitica hè sempre risicatu per un artistu. 
+Annunziendu a presenza d'Eric Fraticelli nant'à a so lista, Jean Zuccarelli, hà riesciutu à fà parlà d'ellu. Hè statu u primu di i candidati bastiacci à presentà a so lista (da leghje nant'à CNI) in un cuntestu abbastanza tesu. 
+Di u colpu, s'hè cummentatu assai l'infurmazione nant'à Facebook è Twitter, è micca sempre in bè. Philippe Peretti (partigianu di François Tatti) hà parlatu nant'à u so contu d'una "ambiance "mafiosa" à lupino...et discours haineux à la tribune...". 
+Ma oghje, hè nant'à u situ d'annunzi Le Bon Coin ch'ellu si ne parla : 
+"Vends 4 DVDs spectacles Pido, cause engagement avec JEAN ZUCCARELLI candidat reactionnaire, jacobin, anti-corse comme son père depuis toujours" 
+Quattru spetaculi in DVD pè 10 euri. Almenu, quellu chì i cumprerà ferà una bona incetta. 
+Sta campagna hà da esse longa...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

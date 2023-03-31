@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Volterra
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Volterra"/>
+     <date>
+      2015-05-05T01:46:59Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Volterra
+   </head>
+   <p>
+    Volterra hè una cumuna taliana di a pruvincia di Pisa.
+   </p>
+   <p>
+    == Paisoli ==
+   </p>
+   <p>
+    Saline di Volterra, Villamagna.
+   </p>
+   <p>
+    == Cumune in cunfina ==
+   </p>
+   <p>
+    Casole d'Elsa (SI), Colle di Val d'Elsa (SI), Gambassi Terme (FI), Lajatico, Montaione (FI), Montecatini Val di Cecina, Peccioli, Pomarance, San Gimignano (SI).
+   </p>
+   <p>
+    Cumuna di a pruvincia di Pisa
+   </p>
+  </body>
+ </text>
+</TEI>

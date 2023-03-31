@@ -1,0 +1,147 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cungittura di Goldbach
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Cungittura%20di%20Goldbach"/>
+     <date>
+      2014-11-26T20:25:07Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cungittura di Goldbach
+   </head>
+   <p>
+    In matematica, a cungittura di Goldbach (o congettura di Golbach) hè un di i più vechji prublemi irrisuluti in a tiuria di i numari. Afferma ch'è ogni numaru paru più maiò ch'è 2 pò essa scrittu com'è a somma di dui numari primi (chì poni essa ancu uguali).
+   </p>
+   <p>
+    Par asempiu,
+   </p>
+   <p>
+    4 = 2 + 2
+   </p>
+   <p>
+    6 = 3 + 3
+   </p>
+   <p>
+    8 = 3 + 5
+   </p>
+   <p>
+    10 = 3 + 7 = 5 + 5
+   </p>
+   <p>
+    12 = 5 + 7
+   </p>
+   <p>
+    14 = 3 + 11 = 7 + 7
+   </p>
+   <p>
+    etc.
+   </p>
+   <p>
+    == Urighjini ==
+   </p>
+   <p>
+    In 1742, u matematicu prussianu Christian Goldbach scrissi una lettara à Eulero ind'eddu li pruposi a siguenti cungittura:
+   </p>
+   <p>
+    Ogni numaru intreiu più maiori ch'è 5 pò essa scrittu com'è somma di trè numari primi.
+   </p>
+   <p>
+    Eulero, intarissendu si à u prublemu, risposi rifurmulendu u prublemu in a siguenti virsioni equivalenti:
+   </p>
+   <p>
+    Ogni numaru paru più maiori ch'è 2 pò essa scrittu com'è somma di dui numari primi.
+   </p>
+   <p>
+    A virsioni di Eulero hè a forma in a quali a cungittura hè furmulata à i ghjorna d'oghji ed hè calchì volta dinuminata cungittura forti di Goldbach. A cungittura debuli di Goldbach, chì hè implicata da a cungittura forti, asserisci ch'è tutti i numari dispari più maiori ch'è 7 poni essa scritti com'è somma di trè primi dispari.
+   </p>
+   <p>
+    == Risultati ==
+   </p>
+   <p>
+    A cungittura di Goldbach hà attrattu l'attinzioni di molti tiurichi di i numari. A maiò parti di i matematichi riteni ch'è a cungittura hè vera, basendu si par u più annantu à cunsidarazioni statistichi è prubabilistichi ottinuti incù u tiurema di i numari primi.
+   </p>
+   <p>
+    In u 1923 Hardy è Littlewood ani dimustratu ch'è s'è l'iputesi di Riemann generalizata hè vera, tandu a cungittura debuli di Goldbach hè vera par tutti l'intrei dispari abbastanza grandi. In u 1937, Ivan Vinogradov cacceti l'assunzioni di l'iputesa di Riemann generalizata, mustrendu ch'è ogni numaru disparu n &gt; 3^{3^{15}} hè somma di trè primi. Inoltri, basendu si nantu à l'idei di Vinogradov, Chudakov, van der Corput, è Estermann ani dimustratu ch'è guasi tutti i numari pari poni essa scritti com'è somma di dui primi, veni à dì ch'è a frazzioni di i numari chì poni essa scritti in 'ssu modu tendi à 1. In 1975, Hugh Montgomery è Robert Vaughan ani datu una virsioni più pricisa di stu risultatu mustrendu ch'è u numaru d'intrei pari più minori ch'è N chì ùn sò micca ripprisintevuli com'è somma di dui primi hè più minori ch'è C N^{1-c} par dui custanti c,C&gt;0.
+   </p>
+   <p>
+    Parechji altri risultati parziali sò stati dimustrati in u corsu di l'anni. In u 1939 L.G. Schnirelmann pruvò ch'è ogni numaru paru n ≥ 4 pò essa scrittu com'è somma di à u più 20 numari primi.Stu numaru hè statu abbassatu dopu da numarosi matematichi, in particulari Olivier Ramaré in u 1995, hà dimustratu ch'è ogni numaru paru n ≥ 4 si pò scriva com'è somma di à u più 6 numari primi. Si ussirvò dinò ch'è a cungittura debuli di Goldbach implicheghja u listessu risultatu, ma incù soli 4 numari primi.
+   </p>
+   <p>
+    In 1951, Linnik hà dimustratu ch'eddu esisti un intreiu k tali ch'è ogni numaru paru abbastanza grandi si pò scriva com'è somma di dui primi è à u più k putenzi di dui. In u 2002 Roger Heath-Brown è Jan-Christoph Schlage-Puchta ani dimustratu ch'è k=13 hè sufficienti è in u 2003 Pintz è Ruzsa ani migliuratu stu risultatu mustrendu ch'eddu si pò piglià k=8.
+   </p>
+   <p>
+    Un antru risultatu impurtanti hè quiddu ottinutu da Chen Jingrun chì in u 1966 hà dimustratu ch'è ogni numaru paru abbastanza grandi pò essa scrittu com'è somma o di dui primi, o d'un prima è un mezu primu (u pruduttu di dui primi - par asempiu, 100 = 23 + 7·11).
+   </p>
+   <p>
+    Infini, in u corsu di l'anni ci sò stati parechji risultati par abbassà a limita 3^{3^{15}} minziunata sopra aldilà di a quali a cungittura debuli di Goldbach hè dimustrata. Trà quiddi, ci hè a dimustrazioni di Deshouillers, Effinger, te Riele è Zinoviev ch'è l'iputesa di Riemann generalizata implicheghja a cungittura debuli di Goldbach. In u 2013 Harald Helfgott hà annunciatu d'avè dimustratu 'ssu risultatu senza l'assunzioni di l'iputesa di Riemann, risulvendu tutalamenti dunqua a cungittura debuli di Goldbach.
+   </p>
+   <p>
+    == Citazioni in l'arti ==
+   </p>
+   <p>
+    In 2000, à u scopu di fà a riclama par u libru Ziu Petros è a cungittura di Goldbach di Apostolos Doxiadis, l'editori britannicu Tony Faber uffrì un premiu di 1 000 000 di dullari par una dimustrazioni di a cungittura. U premiu saria statu assignatu solu par dimustrazioni inviati par a publicazioni prima d'aprili 2002, ma ùn fù mai riclamatu.
+   </p>
+   <p>
+    A cungittura di Goldbach hè citata in u filmu A Bestia incù un miliardu di schieni, virsioni cinematugrafica di a seria animata Futurama, in una scena in a quali u professor Farnsworth è u so rivali-cullega prof. Wernstrom affermani d'avè truvatu "un'antra dimustrazioni elementari" di a cungittura di Goldbach.
+   </p>
+   <p>
+    Hè citata in u libru U tiurema di u pappagallu di Denis Guedj.
+   </p>
+   <p>
+    Hè citata in u libru Parchì eiu credu in Quiddu chì hà fattu u mondu. Trà fedi è scenza di Antonio Zichichi.
+   </p>
+   <p>
+    Hè citata in u filmu spagnolu La habitación de Fermat.
+   </p>
+   <p>
+    Hè citata in u prima racontu (Milioni di trilioni) di I banchetti di i veduvi neri d'Isaac Asimov
+   </p>
+   <p>
+    == Noti ==
+   </p>
+   <p>
+    == Bibliugrafia ==
+   </p>
+   <p>
+    Ziu Petros è a cungittura di Goldbach (1992), di Apostolos Doxiadis, Bompiani (ISBN 88-452-4861-5)
+   </p>
+   <p>
+    L'ostinazioni d'un matematicu, vali à dì comu mora trè volti par a cungittura di Goldbach (2005), di Didier Nordon, Sironi Editori (ISBN 88-518-0047-2)
+   </p>
+   <p>
+    Numari primi
+   </p>
+   <p>
+    Goldbach, cungittura di
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia in talianu.
+   </p>
+  </body>
+ </text>
+</TEI>

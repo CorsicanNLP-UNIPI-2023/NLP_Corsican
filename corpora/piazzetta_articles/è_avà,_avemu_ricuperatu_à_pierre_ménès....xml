@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È avà, avemu ricuperatu à Pierre Ménès...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-ava-avemu-ricuperatu-a-Pierre-Menes_a2024.html"/>
+     <date>
+      Sat, 15 Nov 2014 17:04:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È avà, avemu ricuperatu à Pierre Ménès...
+   </head>
+   <div type="excerpt">
+    <p>
+     U Christophe Barbier di u foot francese si mette anch'ellu à truvà chì e sanzione di a LFP contr'à i Corsi sò appena strane. Induve andemu ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ma chì si serà passatu in u capu di Pierre Ménès ? Cunnisciutu per e so cacciate contr'à i clubs corsi, eccu chì u cunsultante u più azezu di u futbol francese si mette à piglià a so difesa. 
+Ùn ci hè più un palmu di nettu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

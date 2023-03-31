@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Corsica infine trasfurmata in Côte d'Azur ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-Corsica-infine-trasfurmata-in-Cote-d-Azur_a1932.html"/>
+     <date>
+      Mon, 01 Sep 2014 23:39:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A Corsica infine trasfurmata in Côte d'Azur ?
+   </head>
+   <div type="excerpt">
+    <p>
+     In Corsica, i bettunizadori ùn si riposanu mai. I prugetti immubiliari tremendi sò di ritornu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U situ di l'associu U Levante face circulà una petizione di u cullettivu di a lege liturale contr'à u prugettu di Padduc chì prevede di custruisce nant'à certe ZNIEFF (zone naturelle d'intérêt écologique, faunistique et floristique). 
+E Znieff sò prutette è incustruttibili dapoi u 1992. Ma ben'intesu, ùn mancanu e pressioni di e cagnacce chì volenu trasfurmà a Corsica in Côte d'Azur. 
+Hè cusì chì di parechji prugetti immubiliari in i più belli lochi priservati di Corsica sò di ritornu. U Levante parla di quelli di A Testa Vintilegna in Figari, Arone in Piana, o in Coti Chjavari : "projet immobilier sur 137 hectares avec villas de 400 m², golf 18 trous..." 
+In altrò, si sà chì stu mudellu di sviluppu ùn viaghja micca è ch'ellu hè dannificu. Ma cum'è in Corsica ùn avemu capitu nunda è ch'è no avemu 30 anni di ritardu, arruvinemu i nostri paisaghji chì eranu (à pocu pressu) priservati sin'avà. 
+À voi di fà sente a vostra voce s'è vò ùn vulete di quessa. A petizione si trova quì. 
+Avà, avete u dirittu di pensà ch'ellu hè più bellu quandu hè tuttu bettunizatu è chì "on ne va quand même pas transmettre que du maquis à nos enfants".
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

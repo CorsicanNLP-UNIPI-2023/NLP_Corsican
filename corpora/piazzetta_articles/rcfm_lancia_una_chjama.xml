@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     RCFM lancia una chjama
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/RCFM-lancia-una-chjama_a2184.html"/>
+     <date>
+      Mon, 06 Apr 2015 22:25:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    RCFM lancia una chjama
+   </head>
+   <div type="excerpt">
+    <p>
+     Di regula, à u forum di RCFM, ci n'hè sempre unu chì "lancia una chjama". Sta volta, hè a radio chì dice ch'ella hà bisognu di noi tutti.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ùn strappa più a greva à Radio France. Guasi trè settimane, è sempre u listessu missaghju à l'antenna : 
+"En raison d’un appel à la grève par plusieurs organisations syndicales portant sur les difficultés budgétaires et la défense de l’emploi à Radio France, nous ne sommes pas en mesure de diffuser l'intégralité de nos programmes habituels." 
+Allora ci n'hè chì sò diventati fanatichi di a playlist di a greva, d'altri chì ùn a supportanu più. 
+Radio France si trova di pettu à una di e crise e più massicce dapoi a so creazione. Si tratta di truvà 50 milioni d'euri per equilibrà i conti. U so presidente Mathieu Gallet s'hè messu tuttu u mondu à dossu è u persunale teme un grande colpu di kärcher. Si parla di 300 o 350 impieghi supressi. 
+Tandu, ci seranu dinù cunsequenze pè RCFM. Digià, un raportu di a "Cour des comptes" dice chì a radio corsa hà troppu giurnalisti è troppu mezi... è si parla avà d'un postu di tecnicu minacciatu. 
+Mezi in menu pè RCFM, chì vole dì ? Menu giurnalisti, menu emissioni lucali è di più "naziunali" di a rete France Bleu (vi n'arricurdate quandu avianu messu à l'antenna u disgraziatu di Patrick Sabatier ?), è menu lingua corsa dunque, postu ch'ellu ci vulerà à fà scelte. 
+Per tuttu què, perchè ch'è no avemu bisognu più ch'è mai d'un serviziu publicu forte, d'impieghi per i giovani corsi, di giurnalisti è tecnichi di quì, d'emissione è d'infurmazione fatte quì (è dinù perchè ch'è no avemu bisognu di l'azezi chì chjamanu a matina u Forum, di e scrianzature di Petru Mari è di i mughji di Jean Pruneta per i macci di Bastia), pudete sustene à RCFM. 
+Ci serà un'addunita mercuri nant'à a piazza Santu Niculà in Bastia, ci hè una petizione in linea è pudete seguità e pagine Facebook è Twitter create à posta.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

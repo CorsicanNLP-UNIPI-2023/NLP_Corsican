@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     The Terminator
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/The%20Terminator"/>
+     <date>
+      2016-05-18T14:33:16Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    The Terminator
+   </head>
+   <p>
+    The Terminator (titulu francese solu Terminator) hè un filmu d'azzione-fintascienza di u realizatore James Cameron di l'annu 1984, cun Arnold Schwarzenegger, Linda Hamilton è Michael Biehn.
+   </p>
+   <p>
+    Filmu di l'anni 1980
+   </p>
+   <p>
+    Filmu d'azzione
+   </p>
+   <p>
+    Filmu di fintascienza
+   </p>
+   <p>
+    Filmu americanu
+   </p>
+  </body>
+ </text>
+</TEI>

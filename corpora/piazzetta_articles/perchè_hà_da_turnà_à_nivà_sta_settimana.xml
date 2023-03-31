@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Perchè hà da turnà à nivà sta settimana
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Perche-ha-da-turna-a-niva-sta-settimana_a1515.html"/>
+     <date>
+      Sun, 17 Mar 2013 17:09:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Perchè hà da turnà à nivà sta settimana
+   </head>
+   <div type="excerpt">
+    <p>
+     Pierre Ménès parla in bè di u Sporting, Jean-Michel Aulas dice chì a securità in Furiani hè "top" è Emile Zuccarelli firma a cartula di a lingua corsa.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     È si a fine di u mondu era per dumane ? 
+A ghjurnata d'eri hà vistu nasce dui tweets chì annunzianu forse a fine di u mondu. 
+U primu hè statu Pierre Ménès, à parlà di manera pusitiva di u Sporting : 
+"Quand je vois Bastia comme ça là je dis oui. Du beau jeu, des jolis buts, du talent et une belle ambiance. Rien à dire" 
+U segondu vene da u contu di u presidente di l'OL, Jean-Michel Aulas : 
+"Les corses ont fait 2 belles prestations ce we (Om OL) un coup de chapeau aussi à l'organisation logistique et de sécurité à Bastia top !" 
+Malgradu a concia (disfatta di Liò 4 à 1), ùn si parla nè di "contexte corse", nè di "hooliganisme" (mancu un cartone giallu per i ghjucadori di u SCB). È dunque a securità in Bastia hè "top". 
+Ma u terzu miràculone bastiacciu hè statu quellu di a signatura di a cartula di a lingua corsa da a municipalità. 
+U scopu di sta cartula hè prumove è di rende visibile a nostra lingua in a cummunicazione di e cumune (signalètica, rispunditore telefonicu, currieru ecc...). Dopu à sei anni d'esistenza, più di novanta cummune l'avianu firmata. Aiacciu per esempiu l'avia fatta in u 2011. 
+Bastia hà pigliatu u so tempu, ma hà finitu per decidesi (da leghje nant'à CNI è u situ di France 3). Era forse appena ora, nò ? 
+A settimana hà da esse longa pè Dumè Moret
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

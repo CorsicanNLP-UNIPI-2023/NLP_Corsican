@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Katy Perry
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Katy%20Perry"/>
+     <date>
+      2015-07-01T23:20:59Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Katy Perry
+   </head>
+   <p>
+    Katy Perry hè una musicante americana.
+   </p>
+   <p>
+    Perry, Katy
+   </p>
+   <p>
+    Perry, Katy
+   </p>
+  </body>
+ </text>
+</TEI>

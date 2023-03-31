@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A malfatta a più fràcica di l'annu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-malfatta-a-piu-fracica-di-l-annu_a1000.html"/>
+     <date>
+      Sun, 09 Jan 2011 17:09:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A malfatta a più fràcica di l'annu
+   </head>
+   <div type="excerpt">
+    <p>
+     2010 fù dinù l'annu di e malfatte in Corsica : cunventu di Sartè, stadiu di Furiani, Téléthon... Induve si pianteranu i picculi Tony Montana in cartone ? Tuttu quessa pè pudè mette una buttiglia in buatta è cumprassi un paghju di Prada.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Techji di u filmu Scarface è certe volte di droga, i picculi maffiuselli sò stati in grande forma annu passatu. Per certi, esse corsi vole dì adurà Tony Montana, Spaggiari o Mesrine (prununzià "Merrine", cum'è i macchi). 
+2010 fù dunque l'annata di e malfatte e più merze. Culpacci è braccasgi di losers, solu di chè cumprassi un paghju di Prada è una buttiglia in buatta. 
+Arricurdemuci. D'aprile ci hè statu u braccasgiu di trè frati (80 anni ognunu) à un cunventu in Sartè. 
+Di settembre era quellu d'una giuelleria d'un centru cummerciale in Bastia, "à l'usu iugoslavu" sciappendu e vitrine. 
+Sempre di settembre era quellu d'una intrapresa in Furiani in piena ghjurnata à colpi d'esplusivi. 
+Di nuvembre ci hè statu quellu di e casce di u Sporting una sera di macciu. 
+Di dicembre ci hè quellu di un camion di panini in Aiacciu. 
+Ci hè statu dinù a seria di u "casque blanc" in Aiacciu, arrestatu ma chì si ne fughjitu da Castellucciu qualchì ghjornu dopu. 
+Ùn cuntemu più e giuellerie, tabacchi, panatteri, picculi Spar è ùn parlemu mancu di u braccasgiu di u King Jouet in 2009 fattu cun... pistole in plàsticu 
+Infine, ùn sò micca braccasgi ma ci hè statu l'arrubecciu di a ricetta di u Téléthon in Portivechju è quellu di u Secours Populaire in Aiacciu. 
+I preti, i vechji, l'associ umanitarii, u Sporting, e pizzerie... l'anu truvate tutte. Chì ci riserva 2011 ? Cumu fà peghju ? Una ciucceria ? Un braccasgiu à a MAPAD ? 
+Ma siate rassigurati amichi corsi. I servizii di u Statu si feliciteghjanu : u nùmeru d'attentati pulitichi (ch'elli chjamanu "viulenza") hà guasi smaritu. Pudete dorme tranquilli...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

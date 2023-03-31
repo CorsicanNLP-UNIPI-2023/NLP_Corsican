@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A "plus belle pelouse d'Europe" in a storia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-plus-belle-pelouse-d-Europe-in-a-storia_a1470.html"/>
+     <date>
+      Thu, 13 Dec 2012 00:50:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A "plus belle pelouse d'Europe" in a storia
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè entrata in a grande storia di u Sporting, à cant'à Flavio, Piekarski, Chimbonda è Deblock.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U Sporting hà e so stelle : Claude Papi, Johnny Rep, Paul Marchioni, Pierrot Bianconi, Antò Drobnjak. 
+Eppò hà dinù u so Panteonu di l'orrore, cù i so catini : Pierre Deblock, Flavio Donizete, Paulo Alvès, William... è dunque avà a "plus belle pelouse d'Europe". 
+A "plus belle pelouse d'Europe" hè nata st'estate in Corse-Matin (di u 7 lugliu). 
+L'intraprese spagnola chì l'hà messa ci avia fattu sunnià. Un certu Jorge Martinez, di a sucetà Iber Green dicia à Corse-Matin : « Cette pelouse a été cultivée pendant 14 mois dans la région de Tarragone à un kilomètre de la mer pour qu'elle corresponde davantage au climat que nous allions trouver à Bastia. Les bandes sont épaisses de 3 cm 3 000 mètres carrés ont été posés par jour. Dans une semaine, il sera possible de jouer au football dessus. Elle sera parfaitement implantée pour la reprise du championnat de France de Ligue et Bastia aura de la sorte une des plus belles pelouses d'Europe. » 
+Guasi guasi è Lionel Messi firmava in Bastia pè ghjucà nant'à st'erba. 
+536 000 euros è qualchì settimana dopu, u terrenu era digià in pistìcciuli. 
+Di nuvembre ci hè dunque vulsutu à caccialla è rifalla sana sana. 
+Ma a maledizzione hè troppu forte. Un mese dopu à sta segonda rifezzione, ci hè di più fanga chè erba. 
+A "Plus belle pelouse d'Europe" hè entrata in a storia di u Sporting, à cant'à Flavio, Piekarski, i piloni elettrichi à mezu à a tribuna Est è Chimbonda. In Bastia, e grande legende ùn morrenu mai.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

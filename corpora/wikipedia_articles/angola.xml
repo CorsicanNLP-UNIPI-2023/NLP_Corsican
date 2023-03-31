@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Angola
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Angola"/>
+     <date>
+      2016-08-23T16:56:10Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Angola
+   </head>
+   <p>
+    Angola hè un paese in Africa grande 1.246.700 km², incù 25.789.024 abitanti (2014).
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Elefante
+   </p>
+   <p>
+    Africa
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Steven Seagal
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Steven%20Seagal"/>
+     <date>
+      2016-09-20T18:02:10Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Steven Seagal
+   </head>
+   <p>
+    Steven Frederic Seagal (10 d'aprile 1952) hè un attore americanu.
+   </p>
+   <p>
+    Seagal, Steven
+   </p>
+   <p>
+    Seagal, Steven
+   </p>
+  </body>
+ </text>
+</TEI>

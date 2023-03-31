@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È avà, eccu i legumi di A Piazzetta
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-ava-eccu-i-legumi-di-A-Piazzetta_a1614.html"/>
+     <date>
+      Mon, 09 Sep 2013 09:48:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È avà, eccu i legumi di A Piazzetta
+   </head>
+   <div type="excerpt">
+    <p>
+     A Piazzetta si lancia anch'ella in u merchandising. In sustegnu à l'agricultori corsi, avemu decisu di lancià a nostra linea di legumi. Eccu a prima merzana nustrale chì piglia a forma di a nostra testa di moru. A prussima volta, vi mustreremu a zucca.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ringrazii à David Mezzacqui pè u ritrattu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

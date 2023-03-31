@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Perchè a Corsica è Sardegna sò isule surelle
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Perche-a-Corsica-e-Sardegna-so-isule-surelle_a2478.html"/>
+     <date>
+      Thu, 03 Nov 2016 10:35:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Perchè a Corsica è Sardegna sò isule surelle
+   </head>
+   <div type="content">
+    <p>
+     1. A prestoria : micca bisognu di battellu 
+2. Antichità : a pruvincia di "Corsica et Sardinia" 
+3. A bandera, una lascita di l'Aragone 
+4. Regnu medievu 
+5. Una sucetà isulana, pasturalina 
+6. "I Corsi" di Sardegna 
+7. E chjese rumaniche 
+8. A pulifunia
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

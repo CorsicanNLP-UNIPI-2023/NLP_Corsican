@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Benvenuti à Sarkozy è à u nulu radioattivu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Benvenuti-a-Sarkozy-e-a-u-nulu-radioattivu_a1066.html"/>
+     <date>
+      Wed, 23 Mar 2011 11:30:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Benvenuti à Sarkozy è à u nulu radioattivu
+   </head>
+   <div type="excerpt">
+    <p>
+     Doppiu culpacciu in 24 ore in Corsica : sò ghjunti Sarkozy in Sulinzara è a radioattività giappunese. Chì serà u peghju di i dui ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Avà sapemu perchè Sarkozy hè attaccatu à a Corsica : li ghjova di basa militare, per ghjucà à a guerra cù i so aviò. Hè ghjuntu era à a basa di Sulinzara (chì si trova in fatti in Vintisari è chì si chjama oghje "Zarà") per fà u Tom Cruise di "Top Gun". 
+L'aviò chì anu da bumbardà à Kadhafi partenu dunque da a basa chì porta u nome di "Commandant Albert Preziosi"... Pocu capatoghju Freudiannu pè u puverettu di Muammar ! 
+Tristu destinu di a Corsica, chì u solu rollu hè d'esse un "porte-avion" di l'OTAN in u Mediterraniu... 
+25 anni dopu à Cernobil, u nulu radioattivu face u so grande come back. Ma ùn v'inchietate, i spezialisti ci dicenu chì "les risques sont minimes "... allora semu salvi. Heu... ùn vi ramenta nunda ? 
+Finalmente, trà a radioattività è Sarkozy, difficiule di dì qualessu hè u peghju di i dui...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

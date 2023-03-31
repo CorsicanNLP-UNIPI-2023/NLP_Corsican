@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Johann Sebastian Bach
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Johann%20Sebastian%20Bach"/>
+     <date>
+      2015-07-06T09:18:32Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Johann Sebastian Bach
+   </head>
+   <p>
+    Johann Sebastian Bach natu in Eisenach u 21 marzu di u 1685 è mortu in Lipsia u 28 lugliu di 1750 hè statu uni di i più impurtanti cumposidori di a storia di a musica.
+   </p>
+   <p>
+    Musicante
+   </p>
+  </body>
+ </text>
+</TEI>

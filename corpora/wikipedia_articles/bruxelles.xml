@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bruxelles
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Bruxelles"/>
+     <date>
+      2019-10-12T10:21:37Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bruxelles
+   </head>
+   <p>
+    Bruxelles (in neerlandesu : Brussel, in inglesu : Brussels) hé a capitale di a Belgica, ma dinù di l'Unione Europea.
+   </p>
+   <p>
+    Belgica
+   </p>
+  </body>
+ </text>
+</TEI>

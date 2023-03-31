@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ci la ferà u Sporting à fà cum'è a Fiorentina ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ci-la-fera-u-Sporting-a-fa-cum-e-a-Fiorentina_a2655.html"/>
+     <date>
+      Thu, 28 Sep 2017 13:14:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ci la ferà u Sporting à fà cum'è a Fiorentina ?
+   </head>
+   <div type="content">
+    <p>
+     https://it.wikipedia.org/wiki/Florentia_Viola_2002-2003 
+https://it.wikipedia.org/wiki/Storia_dell%27ACF_Fiorentina#L.27era_dei_Della_Valle 
+https://www.labaroviola.com/15-anni-la-fiorentina-si-prende-la-sua-rivincita-pisa/19080/ 
+I tifosi del Pisa a Firenze nel 2002  https://www.labaroviola.com/wp-content/uploads/2017/05/Screenshot_2017-05-14-13-18-41-1.png 
+http://www.corriere.it/Primo_Piano/Sport/06_Giugno/27/fiorentina.shtml 
+http://www.sofoot.com/c-etait-la-florentia-viola-194811.html 
+http://www.futebolmarketing.com.br/2017/florentia-viola-a-historia-do-rebrand-forcado-da-fiorentina/ 
+http://www.br73.net/fiorentina.htm 
+https://www.civile.it/sportivo/visual.php?num=57827 
+http://www.repubblica.it/online/calcio2002_serie_a/marchio/marchio/marchio.html 
+http://www1.adnkronos.com/Archivio/AdnAgenzia/2002/09/27/Sport/Calcio/CALCIO-TRIBUNALE-DECRETA-FALLIMENTO-FIORENTINA-2_150700.php 
+http://www.ceraunavoltailcalcio.it/angelo-di-livio-capitano-della-fiorentina-dai-mondiali-alla-serie-c2/#
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cazeneuve : megliu i Rolling Stones ch'è a Corsica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cazeneuve-megliu-i-Rolling-Stones-ch-e-a-Corsica_a1880.html"/>
+     <date>
+      Sat, 14 Jun 2014 10:45:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cazeneuve : megliu i Rolling Stones ch'è a Corsica
+   </head>
+   <div type="content">
+    <p>
+     A visita in Corsica di u ministru di l'internu cuntinuveghja d'esse cummentata assai quì. Ma a Corsica ùn impedisce micca à Cazeneuve di dorme. 
+U ministru era à u cuncertu di i Rolling Stones à u Stade de France venneri sera, qualchì ora dop'à u so pass'è veni in Corsica. 
+Si pò leghje nant'à u situ di RTL : 
+"Pas de doute, c'est bien eux les maîtres du rock. Il n'y a qu'à voir Manuel Valls, Bernard Cazeneuve et Claude Bartelone s'époumoner sur Honkytonk Women pour comprendre." 
+Ùn hà micca mustratu listessu entusiasmu in Aiacciu è in Bastia. Ma semu cuntentu per ellu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

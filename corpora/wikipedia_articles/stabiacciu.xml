@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Stabiacciu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Stabiacciu"/>
+     <date>
+      2019-10-15T03:52:48Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Stabiacciu
+   </head>
+   <p>
+    U Stabiacciu hè un fiume di Corsica.
+   </p>
+   <p>
+    == Riferimenti ==
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Fiumi di Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

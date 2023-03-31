@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U ghjocu di l'oca di e municipali
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-ghjocu-di-l-oca-di-e-municipali_a1828.html"/>
+     <date>
+      Fri, 23 May 2014 10:06:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U ghjocu di l'oca di e municipali
+   </head>
+   <div type="excerpt">
+    <p>
+     Pruvate u ghjocu di l'oca di l'elezzioni municipali è circate à vince. A froda hè autorizata.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Eccu u nostru Ghjocu di l'oca di e municipali, chì era esciutu in l'ultimu numeru di A Piazzetta. 
+Hè l'opera di Boemiana, è site sempre à tempu per pruvà di vince, o micca. 
+Cliccate nant'à a fiura per ingrandalla o caricate a fiura in qualità migliore quì sottu. 
+ghjocu_di_l'oca.jpg
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

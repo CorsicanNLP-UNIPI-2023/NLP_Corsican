@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Murat Han
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Murat%20Han"/>
+     <date>
+      2016-12-28T11:59:00Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Murat Han
+   </head>
+   <p>
+    Murat Han (Ankara,  1 d'maghju 1975) hè un attore turcu.
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    IMDB
+   </p>
+   <p>
+    Attore
+   </p>
+   <p>
+    Turcu
+   </p>
+  </body>
+ </text>
+</TEI>

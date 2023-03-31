@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "A viulenza hè male"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-viulenza-he-male_a1210.html"/>
+     <date>
+      Wed, 09 Nov 2011 23:49:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "A viulenza hè male"
+   </head>
+   <div type="excerpt">
+    <p>
+     4 fucilate, 2 morti, 4 feriti in un ghjornu. U procuratore d'Aiacciu ci annunzia un scoop : ci hè a viulenza in Corsica.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'analisa a più bona di a ghjurnata nera chì a Corsica hà cunnisciutu eri ci vene da Thomas Pison, u procuratore di a Ripublica in Corse-Matin : « Il y a un climat de violence important ». 
+Felicitazioni, ùn ci n'eramu micca resi contu. Averia pussutu aghjustà chì quand'ellu piove semu crosci, chì a crisa hè gattiva, chì a viulenza hè male, chì i cani abbaghjanu, chì i rancichi sò topi. 
+Di manera più seria, cumu ùn esse inchietu di l'attualità di st'ultimi ghjorni ? Detta quessa, chì pudemu fà ? 
+Sei mesi dopu à i dibattiti nant'à a viulenza à a CTC, semu sempre à sicutera. Arricurdatevi : La « commission violence » de la CTC veut donner un signal fort à la Corse (Corse-Matin di u 7 di maghju 2011). 
+Pudemu cuntrastà ore sane, u discorsu chì dumineghja hè u sempiternu "Corsica ùn averà mai bè", "chì semu duventati" è "povera Cursichella". L'aviamu detta, pè l'assassinii femu peghju ch'è a Sicilia. 
+Riorganizazione di i maffiosi post-Brise de Mer, picculi dealers è affari di droga, interessi in l'immubiliare è u BTP, u turìsimu... Tuttu s'imbuleghja. A viulenza è e maffie nascenu in a miseria è u sottu sviluppu. Saria ora di cummincià à indignassi da veru, è micca solu quandu esce "Mafiosa"...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

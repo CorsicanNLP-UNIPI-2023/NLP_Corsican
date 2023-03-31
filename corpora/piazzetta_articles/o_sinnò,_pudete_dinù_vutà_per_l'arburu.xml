@@ -1,0 +1,70 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     O sinnò, pudete dinù vutà per l'arburu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/O-sinno-pudete-dinu-vuta-per-l-arburu_a1693.html"/>
+     <date>
+      Thu, 20 Mar 2014 02:42:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    O sinnò, pudete dinù vutà per l'arburu
+   </head>
+   <div type="excerpt">
+    <p>
+     Ci hè Jean-Jean, Tonton Simon, Gilles, François, Jean-Chri è tutti l'altri. Ma ci hè dinù l'elezzione di l'arburu di l'annu. È per una volta, hè un castagnu corsu chì pò vince.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Di a campagna di e municipali, ne sapete guasi tuttu è ne sentite tantu parlà ch'è vo ne site forse stufu. 
+Di l'elezzione di l'arburu di l'annu, si ne parla menu. Hè un cuncorsu (sìmbolicu, l'arburu ùn vince nunda, mancu un viaghju à Disneyland) organizatu da Terre Sauvage è l'ONF. 
+Senza false precure, si pò dunque vutà trà parechji arburi. Ogni regione hà u soiu. 
+Pè a Corsica hè un bellu castagnu chì hè statu ritenutu. Appena anzianottu (stimatu trà 800 è 1000 anni, quantunque) è chì si trova nant'à a cummuna di U Pianellu. 
+Di siguru, ci hè u "chauvinisme" (tè, ci vulerà à truvà una traduzzione corsa pè sta parolla) chì vole ch'è no vulemu fà vince u candidatu corsu. Ma micca solu. 
+Al dilà di quessa, a messa in lume di u nostru vechjone pianellacciu ci pone parechje dumande. 
+Prima quella di l'avvene di u castagnetu corsu, minacciatu da u cynips è da l'abandonu. 
+Pone a quistione di u travagliu di a terra, di l'agricultura, abandunata ella dinù. Pone a quistione di e terre agrìcule, minacciate da una frenesia di custruzzione dannifica. 
+Pone a dumanda di l'economia di a Corsica, oghje pensata in giru à u turìsimu, a stagione, l'immubiliare, è mai in giru à a pruduzzione. In Corsica ùn si pruduce nunda, mancu i pommi di i pommi fritti serviti l'estate à i turisti ùn sò prudutti quì. 
+Pone a dumanda di a ruralità. In una Corsica diventata citatina, è ancu peghju, periurbana, induve tuttu ognunu vole u so pavillon cù u so modu di campà uniformizatu, chì ne femu di i nostri paesi chì si morrenu ? 
+Pone a dumanda di a leia à a nostra terra, à e nostre radiche, à i nostri antichi chì a ci l'anu lasciata. Chì ne femu ? È noi, in chì statu a lasceremu à e generazione à vene ? 
+Allora iè, ùn hè ch'è un cuncorsu nant'à u net, ùn si vince nunda è forse ùn hè mancu più male cusì. 
+Ma sì, per una volta, pudiamu mette in lume un'altra Corsica ? Stu paese ch'è no tenimu cusì caru, ma ch'è no pigliemu tantu piacè à distruge ? 
+Alè, femu vince u nostru amicu pianellacciu. È fate girà sta pagina !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

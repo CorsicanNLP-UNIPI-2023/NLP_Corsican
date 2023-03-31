@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Aleksandr Sergeevič Puškin
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Aleksandr%20Sergeevi%C4%8D%20Pu%C5%A1kin"/>
+     <date>
+      2015-07-16T10:19:14Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Aleksandr Sergeevič Puškin
+   </head>
+   <p>
+    Aleksandr Sergeevič Puškin, in lingua russia Александр Сергеевич Пушкин, natu à Mosca u 6 ghjugnu (26 maghju di u calendariu giulianu) 1799 è mortu u 10 ferraghju (27 ghjennaghju di u calendariu giulianu) 1837 à San Petroburgu, hè statu unu scrivanu in lingua russa.
+   </p>
+  </body>
+ </text>
+</TEI>

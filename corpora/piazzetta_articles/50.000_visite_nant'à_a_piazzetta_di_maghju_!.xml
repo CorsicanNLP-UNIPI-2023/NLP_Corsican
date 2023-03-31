@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     50.000 visite nant'à A Piazzetta di maghju !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/50-000-visite-nant-a-A-Piazzetta-di-maghju-_a1850.html"/>
+     <date>
+      Sun, 01 Jun 2014 10:24:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    50.000 visite nant'à A Piazzetta di maghju !
+   </head>
+   <div type="content">
+    <p>
+     U record di frequentazione nant'à A Piazzetta hè statu battutu ! 
+(iè in talianu "record" si dice "record", allora forse si pò aduprà in corsu dinù, ùn avemu micca trovu d'altra parolla) 
+Ci sò state più di 50.000 vìsite arregistrate nant'à u situ (senza cuntà l'applicazione), hè a prima volta dapoi chì A Piazzetta esiste, dapoi u mese di dicembre 2007. Ci sò state più di 160.000 pagine viste. 
+Ùn serà forse tantu di pettu à d'altri siti corsi d'infurmazione. Ma A Piazzetta, picculu situ in lingua corsa animatu da una squadra benevulente, ci l'hà fatta à fassi una piazzuccia nant'à a rete corsa. 
+C'incuragisce à cuntinuvà, ben ch'ella ùn sia micca sempre faciule. 
+À ringraziavvi à tutti !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

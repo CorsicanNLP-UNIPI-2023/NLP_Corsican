@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chì fà pè a Festa di a Nazione ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Chi-fa-pe-a-Festa-di-a-Nazione_a2049.html"/>
+     <date>
+      Mon, 01 Dec 2014 22:11:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chì fà pè a Festa di a Nazione ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Per a Festa di a Nazione, ci serà "da beie è da manghjà" appena da per tuttu. Circhemu di fanne u listinu. Di siguru, pudete pruvà di fà u "grand chelem" di tutte e feste organizate.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In Ruglianu, u 6 :  Cunferenze, musica è spulendata : vede l'evenimentu FB 
+In Conca, u 6 :  Sfilata paulina, addunita cù e bandere, messa cantata, cannunate, veghja, cuncertu è manghjusca : da vede quì 
+In Parigi, u 6 :  O piuttostu in Issy-Les-Moulineaux, pè i Corsi di Parigi è di u circondu, ci serà una messa è una festa a sera à a Casa di u Populu : eccu a pagina 
+In Bastia, u 7 :  Hè organizata a corsa di a Spassighjata in Bastia, a sera ci serà un cuncertu in piazza di u Mercà 
+In Corti, l'ottu :  Prugramma tutta a ghjurnata è veghja a sera : si passa quì 
+In Bastia, l'ottu :  - Una sfilata hè organizata da Voce Pupulare : da vede quì  - Serata nustrale à u caffè U Sax : da vede quì  - Festa cù tutti i cullegi è licei di a cità à a sala pulivalente di Lupinu, à partesi da 6 ore è mezu : da vede quì 
+In Ulmetu, l'ottu :  À a sala di e feste, musiche, canzone, da beie è da manghjà : eccu l'affissu 
+In Fiumorbu, l'ottu :  À a cità sculare, da vede qui. 
+In Aiacciu, l'ottu :  L'APC organizeghja una cerimonia à 6 ore è mezu davant'à a statua di Pasquale Paoli : eccu u so cummunicatu 
+D'altri evenimeti ? Mandateci apiazzetta@free.fr o puru un messagiu nant'à a nostra pagina Facebook
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

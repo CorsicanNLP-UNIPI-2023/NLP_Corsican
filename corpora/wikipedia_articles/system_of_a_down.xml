@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     System of a Down
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/System%20of%20a%20Down"/>
+     <date>
+      2017-03-26T02:09:23Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    System of a Down
+   </head>
+   <p>
+    System of a Down hè un gruppu di rock americanu, fundatu in 1994. Hè cumpostu di Serj Tankian (cantu), John Dolmayan (batteria), Shavo Odadjian (chitarra bassa) è Daron Malkian (chitarra).
+   </p>
+   <p>
+    == Albumi ==
+   </p>
+   <p>
+    System of a Down (1998)
+   </p>
+   <p>
+    Toxicity (2001)
+   </p>
+   <p>
+    Mezmerize (2005)
+   </p>
+   <p>
+    Hypnotize (2005)
+   </p>
+   <p>
+    Gruppu di rock
+   </p>
+  </body>
+ </text>
+</TEI>

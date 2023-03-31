@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Battaglia di i Sette Ghjorni
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Battaglia%20di%20i%20Sette%20Ghjorni"/>
+     <date>
+      2014-03-23T14:03:59Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Battaglia di i Sette Ghjorni
+   </head>
+   <p>
+    A Battaglia di i Sette Ghjorni di u 1862 hè stata una battaglia durante a Guerra Civile Americana (1861-1865).
+   </p>
+   <p>
+    Sette Ghjorni
+   </p>
+  </body>
+ </text>
+</TEI>

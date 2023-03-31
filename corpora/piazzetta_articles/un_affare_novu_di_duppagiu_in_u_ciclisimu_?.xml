@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Un affare novu di duppagiu in u ciclisimu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-affare-novu-di-duppagiu-in-u-ciclisimu_a1466.html"/>
+     <date>
+      Mon, 10 Dec 2012 01:20:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Un affare novu di duppagiu in u ciclisimu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Sta volta, hè principiata da veru a carnavalata di u Tour de France.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Paul Giacobbi è Emile Zuccarelli anu fattu una corsa di bissicletta d'appartamentu. Era sàbbatu sera nant'à a Piazza Santu Niculaiu in Bastia. 
+À vede e fiure, u merre di Bastia pare strazià appena di più chè u presidente di l'esecutivu, chì surride. 
+Paul Giacobbi pare esse in testa ma cum'è sempre in u ciclisimu, ci vole aspettà i risultati di i cuntrolli anti doping per sapè quale hè u veru vincitore. 
+Invece, ùn sapemu micca quale c'era in a voiture-balais.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

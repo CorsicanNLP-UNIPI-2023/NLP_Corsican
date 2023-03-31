@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Beaujolais : nò, ùn site micca obligati di fà cum'è tuttu u mondu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Beaujolais-no-un-site-micca-obligati-di-fa-cum-e-tuttu-u-mondu_a2033.html"/>
+     <date>
+      Thu, 20 Nov 2014 20:54:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Beaujolais : nò, ùn site micca obligati di fà cum'è tuttu u mondu
+   </head>
+   <div type="excerpt">
+    <p>
+     A Corsica, u paese chì conta un centu di vigne classate in AOC. Ma sta sera, sò litri è litri di Beaujolais chì faleranu à rivocchi.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Sta sera « Beaujolais nouveau » ! Festa in paese ! A più parte di e cantine e di i caffè anu da prupone « Barbecue-grillades » è « sauciflard-pâté en croûte » per fà passà u gustu di u vinu francese aspettatu da tutti cum'è Pasquale Paoli in u 1755. 450 000 litri di fragnu anu da annacquà u mondu tale una cavallata cerria. 
+I giappunesi anu ancu, per sta celebrazione, rimpiazzatu l’acqua di u bagnu incù u « Beaujolpif » (cusì u chjamanu certi). Speremu ch'elli ùn u rimetteranu micca in buttiglia dop’à l’abluzione. 
+Sta vinaccia hè stata maturata dui mesi (guasi nunda), techja di levitu, pizzica assai quand’ella fala è ancu di più quand’ella colla. 
+Ma sta sera, a Francia sana (è ancu a Corsica), s’annigherà sott’à u liquidu acru. Seguiteremu i « flonflons » è u pezzu di a carne à u focu cum’è i topi anu seguitatu à quellu ghjucatore di pirulla d’Hamelin è ci truveremu tutti n cità, azezi, criticoni è spapersi à buleghju, senza sapè perchè no simu quì. 
+Sopr'à tuttu, pruveremu di truvà u gustu di l’annata : fragula, rubu, banana, o ancu puru carne macinata. Di tutte e manere, sò i capizzoni di a cummunicazione è i giurnalisti chì decideranu ciò ch’ellu sentia u vinu di u terzu ghjovi di nuvembre. 
+Avete capitu, ùn site mica voi chì sceglite di beie u « Beauj’ », ghj’è ellu chì v’hà sceltu, chè vo siate di cunsentu o nò. Simu tutti pari per ciò chì ghjè di moda. 
+Puderiamu scrive un altru capuversu à quella canzona di Canta u Populu Corsu : « Nuvembre sente u Beaujolais… »
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

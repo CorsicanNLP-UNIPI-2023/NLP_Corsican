@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Jeux de hasard
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Jeux-de-hasard_a2110.html"/>
+     <date>
+      Mon, 05 Jan 2015 11:56:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Jeux de hasard
+   </head>
+   <div type="content">
+    <p>
+     http://www.la-croix.com/Actualite/France/Avec-la-crise-les-jeux-de-hasard-prosperent-_NG_-2012-06-08-816106 
+Les jeux sont pour les uns un « impôt sur les pauvres », mais aussi, selon la charmante expression d'une heureuse gagnante, un « impôt du bonheur ». Le bonheur des uns fait le rêve des autres. C'est l'une des règles du jeu ! 
+http://www.lemonde.fr/afrique/article/2009/03/16/du-benin-au-congo-l-insolente-prosperite-des-pmu-africains_1168421_3212.html 
+http://www.monde-diplomatique.fr/1994/08/CARLANDER/7412
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

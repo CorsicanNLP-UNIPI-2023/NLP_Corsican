@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chamaeleon
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Chamaeleon"/>
+     <date>
+      2019-10-03T11:14:49Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chamaeleon
+   </head>
+   <p>
+    Chamaeleon hè una di e 88 custellazione moderne.
+   </p>
+   <p>
+    == Stelle ==
+   </p>
+   <p>
+    == Oggetti celesti rimarchevuli ==
+   </p>
+   <p>
+    == Storia ==
+   </p>
+   <p>
+    == Mitologia ==
+   </p>
+   <p>
+    == Referenze ==
+   </p>
+   <p>
+    Custellazione
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Arkansas
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Arkansas"/>
+     <date>
+      2016-08-24T03:16:59Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Arkansas
+   </head>
+   <p>
+    L'Arkansas hè un statu di i Stati Uniti d'America. Teni 2.978.204 abitanti (2015). A capitale hè Little Rock.
+   </p>
+   <p>
+    Stati di i SUA
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,72 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Georges Mela hà toccu l'Euro Millions
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Georges-Mela-ha-toccu-l-Euro-Millions_a1598.html"/>
+     <date>
+      Wed, 03 Jul 2013 23:43:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Georges Mela hà toccu l'Euro Millions
+   </head>
+   <div type="excerpt">
+    <p>
+     U Tour de France, nimu sà per avà quant'ellu rapurterà à a Corsica. Ma pè Georges Mela, sò quindeci milioni cash, è nunda chè per Portivechju.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Georges Mela duveria fà un spettaculu. Un stand-up. Dapoi qualchì settimana, u merre di Portivechju hè scatinatu è ùn pianta più di sorte e cacciate. 
+Dop'à "on ne peut pas que transmettre que du maquis à nos enfants" nant'à Canal +, l'amicu di quellu chì vulia "désanctuariser la Corse" n'hà fattu un'altra. 
+Tuttu u mondu s'interrugheghja nant'à e famose "retombées économiques" è ci vulerà à aspettà appena nanzu di tirà un bilanciu. Ma Jojo ùn pò aspettà è in Corse Net Infos s'infiara. U Giru di Francia, sò 15 milioni d'€, cash è solu pè Portivechju. 
+Micca cinque, micca dece, ma quindeci. Cumu sapella ? Cumu verificà ? Ellu solu a sà. 
+Purtantu, nant'à Twitter u contu Corse-Economie prevenia : 
+"Retombées économiques tdf : arrêtons de spéculer, il suffira de regarder le PIB corse... publication prévue en 2015 
+Eppo :  "#tdf #Corse retombées éco doivent tenir compte des effets d'éviction transport &amp; hôtels + fermetures voiries &amp; commerces + administrations" 
+Ma pè u nostru merre, sò quindeci milioni. Ancu di grazia ch'ellu casca solu tutti i cent'anni. Altrimente, sariamu ricchi...
+    </p>
+    <p>
+     Retombées éco tdf : arrêtons de spéculer, il suffira de regarder le PIB corse... publication prévue en 2015 #Insee #Produitencroix
+— corse-economie (@corseeconomie) June 20, 2013
+    </p>
+    <p>
+     #tdf #Corse retombées éco doivent tenir compte des effets d'éviction transport &amp; hôtels + fermetures voiries &amp; commerces + administrations
+— corse-economie (@corseeconomie) June 26, 2013
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

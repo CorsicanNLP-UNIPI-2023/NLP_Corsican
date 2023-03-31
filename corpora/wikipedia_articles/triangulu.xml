@@ -1,0 +1,294 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Triangulu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Triangulu"/>
+     <date>
+      2015-07-09T08:25:04Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Triangulu
+   </head>
+   <p>
+    In giumitria, u triangulu  hè un poligunu furmatu da trè anguli o vertici è da trè lati. Ripprisenta a figura incù u più picculu numaru di lati, chì trè hè u numaru minimu di sigmenti nicissarii par dilimità una superficia chjusa.
+   </p>
+   <p>
+    == Carattaristichi di u triangulu ==
+   </p>
+   <p>
+    U triangulu hè carattarizatu da i siguenti prubità:
+   </p>
+   <p>
+    hè una figura indifurmevuli, à a diffarenza di i poliguni incù un grandi numaru di lati; assignati i lunghezzi di i lati, sò ditarminati univucamenti ancu l'anguli;
+   </p>
+   <p>
+    hè l'unicu poligunu par u quali ùn hè micca richiestu ch'eddu sii rigulari parch'eddu si pudissi circuscriva è iscriva una circumfarenza, parchì par trè punti passa sempri una è una sola circumfarenza;
+   </p>
+   <p>
+    a somma di l'anguli interni hè uguali à un angulu paru, veni à dì 180°, essendu quantunqua pricisatu chì 'ss'ugualità vali sultantu in a giumitria euclidea è micca in altri tipi di giumitria com'è a giumitria sferica è quidda iperbolica, induva inveci 'ssa somma hè, rispittivamenti, più maiori è minori ch'è 180°;
+   </p>
+   <p>
+    a somma di dui lati devi essa sempri più grandi ch'è u terzu latu, è à a diffarenza di dui lati devi essa sempri più minori ch'è u terzu latu.
+   </p>
+   <p>
+    Dui trianguli sò cungruenti s'eddi suddisfani alminu un di i criterii di cungruenza.
+   </p>
+   <p>
+    Dui trianguli si dicini simili s'eddi suddisfani alminu un di i criterii di similitudina.
+   </p>
+   <p>
+    == Classificazioni di i trianguli ==
+   </p>
+   <p>
+    I trianguli poni essa classificati siont'è a lunghezza rilativa di i lati:
+   </p>
+   <p>
+    In un triangulu equilateru tutti i lati ani una lunghezza uguali. Un triangulu equilateru si pò difiniscia di manera equivalenti com'è triangulu equiangulu, vali à dì un triangulu chì t'hà i so anguli interni di uguali ampiezza, para à 60°.
+   </p>
+   <p>
+    In un triangulu isusceli dui lati ani una lunghezza uguali. Un triangulu isusceli si pò difiniscia di manera equivalenti com'è un triangulu chì t'hà dui anguli interni di uguali ampiezza.
+   </p>
+   <p>
+    In un triangulu scalenu tutti i lati ani lunghezzi diffarenti. Un triangulu scalenu si pò difiniscia di manera equivalenti com'è un triangulu avendu i trè anguli interni d'ampiezzi diffarenti.
+   </p>
+   <p>
+    I trianguli poni essa classificati ancu siont'è i diminsioni di u so angulu internu più ampiu; sò discritti di seguitu usendu i gradi d'arcu.
+   </p>
+   <p>
+    Un triangulu rettu (o triangulu rittangulu) hà un angulu internu di 90°, veni à dì un angulu rettu. U latu oppostu à l'angulu rettu hè dittu iputenusa; hè u latu più longu di u triangulu rettu. L'altri dui lati di u triangulu sò ditti cateti. Par stu triangulu vali u tiurema di Pitagora.
+   </p>
+   <p>
+    Un triangulu ottusu hà un angulu internu di più di 90°, veni à dì un angulu ottusu.
+   </p>
+   <p>
+    Un triangulu acutu hà tutti l'anguli interni di più di 90°, veni à dì t'hà trè anguli acuti.
+   </p>
+   <p>
+    Un triangulu equiangulu, veni à dì s'è hà tutti l'anguli interni uguali, veni à dì di 60°.
+   </p>
+   <p>
+    Par i trianguli chì ùn sò micca rittanguli vali una generalisazioni di u tiurema di Pitagora cunnisciuta in trigunumitria com'è tiurema di Carnot.
+   </p>
+   <p>
+    == Punti nutevuli ==
+   </p>
+   <p>
+    À ogni triangulu sò assuciati parechji punti, ciascunu di i quali assumi un rollu chì, in calchì manera, u qualificheghja com'è cintrali par u triangulu stessu. Si poni definiscia sti punti di manera cuncisa riferendu si à un triangulu T di u quali dinutemu cù A, B è C i vertici è i lati opposti rispittivamenti cù a, b è c.
+   </p>
+   <p>
+    l'ortucentru di T hè l'intersizzioni di i so altezzi;
+   </p>
+   <p>
+    u baricentru o cintroidi di T hè l'intersizzioni di i so midiani;
+   </p>
+   <p>
+    l'incentru di T hè l'intersizzioni di i so trè bisettrici, vali à dì u centru di l'inchjerchju di T;
+   </p>
+   <p>
+    u circucentru di T hè l'intersizzioni di i so trè assi, vali à dì u centru di a so circumfarenza circuscritta (vedi circumchjerchju);
+   </p>
+   <p>
+    l'excentru di T oppostu à un di i so vertici A hè l'intersizzioni di a so bisettrici in A è di i dui bisettrici esterni rilativi à i dui vertici rimanenti B è C;
+   </p>
+   <p>
+    u puntu di Bevan di T hè u circucentru di u triangulu excintrali di T;
+   </p>
+   <p>
+    u puntu d'Apolloniu di T hè l'intersizzioni di i trè sigmenti chì rispittivamenti uniscini un vertici A di T incù u puntu in u quali l'exchjerchju di T oppostu à A hè tangenti à u chjerchju tangenti à i trè exchjerchji di T;
+   </p>
+   <p>
+    u puntu di Gergonne di T hè l'intersizzioni di i trè sigmenti chì rispittivamenti uniscini un vertici A di T incù u puntu in u quali u latu di T oppostu à A hè tangenti di l'inchjerchju di T;
+   </p>
+   <p>
+    u puntu di Nagel di T hè l'intersizzioni di i trè sigmenti ciascunu di i quali unisci un vertici di T incù u puntu in u quali u so latu oppostu hè tangenti di u currispundenti exchjerchju;
+   </p>
+   <p>
+    u puntu di Nabulionu di T hè l'intersizzioni di i trè sigmenti chì cullegani ognunu di i so vertici A incù u centru di u triangulu equilateru custruitu, esternamenti à T, nantu à u latu a oppostu à A;
+   </p>
+   <p>
+    u centru di i novi punti di T hè u centru di u cusiddittu chjerchju di i novi punti (o chjerchju di Feuerbach) di T; sti novi punti cumprendini i trè punti medii di i lati di T, i trè peda di l'altezzi di T, i punti medii di i trè sigmenti ciascunu di i quali unisci un vertici di T incù l'ortucentru di T.
+   </p>
+   <p>
+    == Formuli ==
+   </p>
+   <p>
+    === Formuli trigunumetrichi ===
+   </p>
+   <p>
+    L'aria d'un triangulu pò essa truvata par via trigunumetrica. Usendu i lettari di a figura à dritta, l'altezza h=a\sin\gamma. Sustituiscendu quissa in a formula truvata innanzi (par via giumetrica), S=\frac{1}{2}ab\sin\gamma. L'aria d'un triangulu hè dunqua ancu uguali à u mezu pruduttu di dui lati par u sinu di l'angulu cumpresu.
+   </p>
+   <p>
+    Par via di cunsiquenza, par l'idantità \sin x=\sin(\pi-x), l'aria d'un qualsiasi triangulu incù i dui lati a è b è l'angulu cumpresu \gamma, hè uguali à l'aria di u triangulu incù i stessi lati a è b ma incù l'angulu cumpresu supplimintariu (\pi-\gamma)
+   </p>
+   <p>
+    L'aria d'un parallelugramma incù dui lati aghjacenti a è b è angulu cumpresu \gamma hè u doppiu di quidda di u triangulu chì hà i stessi dati, veni à dì ab\sin\gamma.
+   </p>
+   <p>
+    Par risolva u triangulu, veni à dì ditarminà a misura di tutti i lati è anguli, dati dui lati è l'angulu cumpresu frà eddi, o un latu è i dui anguli aghjacenti, s'usani u tiurema di i sini è u tiurema di u cusinu, quist'ultimu essendu megliu cunnisciutu cù u nomu di tiurema di Carnot.
+   </p>
+   <p>
+    L'aria A di u triangulu pò essa misurata incù a formula matematica:
+   </p>
+   <p>
+    A = \frac{bh}{2},
+   </p>
+   <p>
+    induva b hè a basa è h l'altezza à edda rilativa, parchì u triangulu hè cunsidaratu com'è a mità d'un parallelugramma di basa b è altezza h.
+   </p>
+   <p>
+    Di manera altirnativa l'aria di u triangulu pò essa calculata incù
+   </p>
+   <p>
+    A = \sqrt{p(p - a)(p - b)(p - c)},
+   </p>
+   <p>
+    induva a, b è c sò i lati è p u mezu perimetru (Formula d'Erone).
+   </p>
+   <p>
+    === Formuli analitichi ===
+   </p>
+   <p>
+    Cunsidarendu un triangulu ABC in u pianu cartesianu individuatu par via di i coppii di cuurdinati di i vertici (x_A,y_A), (x_B,y_B), (x_C,y_C).
+   </p>
+   <p>
+    A so aria A hè datu da l'esprissioni
+   </p>
+   <p>
+    A=\frac{1}{2} \left| \det\begin{pmatrix}x_A &amp; x_B &amp; x_C \\ y_A &amp; y_B &amp; y_C \\ 1 &amp; 1 &amp; 1\end{pmatrix} \right| = \frac{1}{2} \big| x_A (y_B - y_C) - x_B(y_A - y_C) + x_C (y_A - y_B) \big|,
+   </p>
+   <p>
+    oppuri incù un'esprissioni chì ùn improda micca u cuncettu di matrici
+   </p>
+   <p>
+    A = \frac{ \big| (y_B-y_A)(x_C-x_B)+(y_B-y_C)(x_B-x_A) \big|}{2},
+   </p>
+   <p>
+    oppuri
+   </p>
+   <p>
+    A = ( x_M - x_m )( y_M - y_m ) - \left( \frac{1}{2}\big|x_A - x_B \big| \big|y_A - y_B \big| + \frac{1}{2}\big|x_A - x_C \big| \big|y_A - y_C \big| + \frac{1}{2}\big|x_B - x_C \big| \big|y_B - y_C \big|\right),
+   </p>
+   <p>
+    induva
+   </p>
+   <p>
+    x_M = \mathrm{max} \{ x_A , x_B , x_C \}
+   </p>
+   <p>
+    x_m = \mathrm{min} \{ x_A , x_B , x_C \}
+   </p>
+   <p>
+    y_M = \mathrm{max} \{ y_A , y_B , y_C \}
+   </p>
+   <p>
+    y_m = \mathrm{min} \{ y_A , y_B , y_C \}
+   </p>
+   <p>
+    è u so perimetru P hè datu da
+   </p>
+   <p>
+    P = \sqrt{(x_A - x_B)^2 + (y_A - y_B)^2} + \sqrt{(x_A - x_C)^2 + (y_A - y_C)^2} + \sqrt{(x_B - x_C)^2 + (y_B - y_C)^2}.
+   </p>
+   <p>
+    == Giumitrii non euclidei ==
+   </p>
+   <p>
+    U cuncettu di triangulu si stendi ed hè ampiamenti usatu in tutti i giumitrii non euclidei. Un triangulu in una giumitria non euclidea si distingui in generali par u fattu ch'è a somma di i so anguli interni ùn hè micca 180°: sta somma hè infiriori à 180° par ogni triangulu in u casu d'una giumitria iperbolica, mentri edda hè supiriori par ogni triangulu in u casu d'una giumitria ellittica
+   </p>
+   <p>
+    == Liami esterni ==
+   </p>
+   <p>
+    i_casi_par_a_risuluzioni_d'_un_triangulu.html Studiu di i casi par a risuluzioni d'un triangulu
+   </p>
+   <p>
+    Triangle in MacTutor
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Toru (giumitria)
+   </p>
+   <p>
+    Giumitria piana
+   </p>
+   <p>
+    Angulu rettu
+   </p>
+   <p>
+    Catetu
+   </p>
+   <p>
+    Mezaretta
+   </p>
+   <p>
+    Perimetru
+   </p>
+   <p>
+    Sigmentu
+   </p>
+   <p>
+    Triangulu isusceli
+   </p>
+   <p>
+    Triangulu equilateru
+   </p>
+   <p>
+    Tiurema di Pitagora
+   </p>
+   <p>
+    Iputenusa
+   </p>
+   <p>
+    Tangenti
+   </p>
+   <p>
+    Trigunumitria
+   </p>
+   <p>
+    Uttaedru
+   </p>
+   <p>
+    Trianguli
+   </p>
+   <p>
+    Poliguni
+   </p>
+   <p>
+    Matematica di basa
+   </p>
+   <p>
+    == Noti ==
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia in talianu.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Anne Hathaway
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Anne%20Hathaway"/>
+     <date>
+      2018-02-03T20:07:45Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Anne Hathaway
+   </head>
+   <p>
+    Anne Hathaway (12 Nuvembre 1982) hè un'attrice americana.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Brokeback Mountain
+   </p>
+   <p>
+    Hathaway, Anne
+   </p>
+   <p>
+    Hathaway, Anne
+   </p>
+  </body>
+ </text>
+</TEI>

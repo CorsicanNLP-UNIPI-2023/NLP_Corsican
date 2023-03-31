@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chì sà a pulizza di l'assassiniu d'Antoine Sollacaro ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Chi-sa-a-pulizza-di-l-assassiniu-d-Antoine-Sollacaro_a1858.html"/>
+     <date>
+      Tue, 03 Jun 2014 01:17:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chì sà a pulizza di l'assassiniu d'Antoine Sollacaro ?
+   </head>
+   <div type="content">
+    <p>
+     Guasi dui anni dopu à l'assassiniu di l'avucatu, à chì ne simu ? 
+Hè da leghje nant'à Le Monde.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

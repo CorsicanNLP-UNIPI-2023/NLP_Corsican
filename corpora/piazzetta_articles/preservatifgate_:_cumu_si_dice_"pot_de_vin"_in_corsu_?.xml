@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Preservatifgate : cumu si dice "pot de vin" in corsu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Preservatifgate-cumu-si-dice-pot-de-vin-in-corsu_a1009.html"/>
+     <date>
+      Mon, 17 Jan 2011 00:10:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Preservatifgate : cumu si dice "pot de vin" in corsu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     L'affare di u "preservatifgate" di u CG2B cuntinuveghja à fà i rimusci. Ma ci hè un prublema : a parolla "pot de vin" ùn esiste micca in corsu...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè u situ di u giurnale La Provence chì hà cappiatu a bomba. U 14 ghjennaghju publicheghja l'articulu intitulatu Des pots-de-vin versés à des proches de Giacobbi ? 
+Segondu i giurnalisti, Pierre Olmeta, incarceratu in Marseglia, averia cappiatu una bomba : 
+Lors de sa garde à vue en novembre dernier, il a confié aux gendarmes qu'il versait des pots-de-vin à Dominique Domarchi et Dominique Viola, deux des plus proches conseillers de Paul Giacobbi, l'ancien président (PRG) du Conseil général de Haute-Corse, aujourd'hui à la tête du Conseil exécutif de Corse. Pierre Olmeta a expliqué qu'à chaque marché obtenu par une des sociétés de Boudemaghe, celui-ci lui remettait "entre 20000 et 25000 euros" qu'il donnait ensuite à Domarchi et Viola. 
+Paul Giacobbi ellu ùn trema micca è attacca : dumanda ancu à esse intesu da u ghjudice Duchaine. L'hà detta in una cunferenza stampa è parla "d'histoire extravagante"... Cumu si dice digià "abracadabrantesque" in corsu ? U blog Via Macagnola imagineghja digià un Giacobbi pigliendu a machja... 
+Dapoi, France 3 ci dice chì Pierre Olmeta saria vultatu nant'à ciò ch'ellu avia dettu nant'à i cunsiglieri di presidente di a CTC. 
+À noi, sta storia (chì ferà pschitt o chì serà un terramotu ?) c'imbestia più ch'altru affare. Cumu traduce a parolle "pot de vin" in corsu ? Hè un prublema chì risichemu d'avè à impiegalla spessu in i ghjorni à vene. 
+Vi prupunemu manciata  o smanciata (chì vole dì dinù pourboire), l'Infcor  prupone dinù sbruffu, u dizziunariu u Maiò ci dà imboccu, buccone o buccale, u talianu dice una bustarella (chì vole dì un inviluppu). Allora, chì ne dite voi ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

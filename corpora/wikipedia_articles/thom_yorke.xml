@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Thom Yorke
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Thom%20Yorke"/>
+     <date>
+      2014-03-23T15:03:50Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Thom Yorke
+   </head>
+   <p>
+    Thom Yorke hè u frontman di u gruppu di rock Radiohead.
+   </p>
+   <p>
+    Yorke,Thom
+   </p>
+   <p>
+    Yorke,Thom
+   </p>
+  </body>
+ </text>
+</TEI>

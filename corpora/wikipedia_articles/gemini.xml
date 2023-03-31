@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Gemini
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Gemini"/>
+     <date>
+      2015-07-01T15:01:20Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Gemini
+   </head>
+   <p>
+    Gemini  hè una di e 88 custellazione moderne.
+   </p>
+   <p>
+    == Caratteristiche ==
+   </p>
+   <p>
+    == Ogetti celesti rimarchevuli ==
+   </p>
+   <p>
+    == Mitologia ==
+   </p>
+   <p>
+    == Stelle ==
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    [http://www.allthesky.com/Custellazione/gemini/ The Deep Photogr
+   </p>
+   <p>
+    aphic Guide to the Custellazione: Gemini]
+   </p>
+   <p>
+    Custellazione
+   </p>
+  </body>
+ </text>
+</TEI>

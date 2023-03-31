@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U sbagliu d'una publicità di Super U
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-sbagliu-d-una-publicita-di-Super-U_a2245.html"/>
+     <date>
+      Thu, 30 Jul 2015 18:11:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U sbagliu d'una publicità di Super U
+   </head>
+   <div type="excerpt">
+    <p>
+     "Fiers de nos paysages" dice una publicità per i magazini "U" esciuta in Corse-Matin. Iè, ma u ritrattu di Portivechju hè di fatti una cità... taliana.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Eccu a publicità. Belli lochi, chè ?
+    </p>
+    <p>
+     Portivechju ? À pocu pressu...
+    </p>
+    <p>
+     O piuttostu a cità di Desenzano del Garda, in Italia.
+Bella piccula cità taliana di a pruvincia di Brescia, in Lumbardia.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

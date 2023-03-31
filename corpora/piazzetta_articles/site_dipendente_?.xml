@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Site dipendente ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Site-dipendente_a1001.html"/>
+     <date>
+      Fri, 04 Feb 2011 00:16:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Site dipendente ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Passà una ghjurnata senza u vostru teleffunu è senza internet, a pudete fà ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     È sì piantà di fumà era più faciule ch'è di stà senza teleffunu è senza internet ? Unepochi di scentifichi amricani di l'università di Maryland anu pruvatu una sperienza chì ci face riflette (per una volta). 
+Anu dumandatu à parechji vuluntarii di stà 24 ore senza mail, senza Facebook, senza iPhone è senza Twitter. Avianu solu u dirittu d'utilizà un teleffunu fissu (sapete, quellu di u seculu passatu, à i tempi di a prestoria). 
+Risultatu : certi anu craccatu prestu. Anu sviluppatu listessi sìntimi ch'è quelli chì cercanu di piantà di fumà. Stress, angoscia, impressione di mancanza... cum'è i drugati. 
+Ùn ridite micca ! Voi chì site diventatu addict à Facebook è à u vostru iPhone (almenu 95% di i lettori di stu situ...), puderiate stà un ghjornu sanu senza nunda ? 
+È s'è no eramu tutti drugati, senza rendecine contu ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

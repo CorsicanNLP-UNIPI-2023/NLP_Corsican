@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Carl von Ossietzky
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Carl%20von%20Ossietzky"/>
+     <date>
+      2015-07-03T12:23:38Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Carl von Ossietzky
+   </head>
+   <p>
+    Carl von Ossietzky, ghjurnalista è pacifistu tedescu, hè natu à Amburgu u 3 d'uttobre 1888 è hè mortu à Berlinu u 4 di maghju 1938.
+   </p>
+   <p>
+    In u 1927 hè divinutu redattoru di u settimanale politicu liberale Die Weltbühne.
+   </p>
+   <p>
+    In u 1935 hà avutu u Premiu Nobel pè a pace pè a so upposizione à u nazismu.
+   </p>
+   <p>
+    Biugrafia
+   </p>
+   <p>
+    Tedescu
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Scandalu : torna un PLU annulatu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Scandalu-torna-un-PLU-annulatu_a1449.html"/>
+     <date>
+      Wed, 28 Nov 2012 09:59:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Scandalu : torna un PLU annulatu
+   </head>
+   <div type="excerpt">
+    <p>
+     Torna una gattiva nutizia per a bettunizazione : cuntestatu da l'associi di difesa di l'ambiante, u PLU di Sulinzara hè statu annulatu da u tribunale amministrativu di Bastia. Ma perchè u Statu lascia fà ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U PLU (plan local d'urbanisme) di a cumuna di Sari Sulinzara (oghje chjamata "Zarà") hè statu annulatu da u tribunale amministrativu di Bastia, ci amapara u situ di l'associu U Levante. 
+Hè una brutta nutizia : u PLU prividia di custruisce 264 ettare supplementarie, sopr'à tuttu nant'à u liturale. Chì peccatu. 
+Ci vole à dì chì stu PLU esistia dapoi u 2006. 
+U Levante ci dice chì : "Dès 2009, les associations demandaient à la DDE et au préfet de Corse-du-Sud d’effectuer son contrôle de légalité face à ces permis de construire manifestement illégaux accordés par le maire. Peine perdue !" 
+È cumu u Statu hà lasciatu fà, oghje hè un scumpientu : "Le littoral de la commune est aujourd’hui mité par ces constructions, situées entre la route et la mer, constructions qui n’auraient jamais du voir le jour, mais qui sont bien réelles et qui, souvent s’accompagnent de la privatisation de ce bord de mer (exemple Cala d’Oru). La RN est d’ailleurs maintenant bordée de multiples hauts murs." 
+A realità di a Corsica hè questa quì oghje. U Statu lascia fà, è tocca à l'associi di difesa di l'ambiante di cuntestà in ghjustizia l'urbanizazione frenètica di e cumune. 
+Ma bon, ùn avemu micca da dumandà à u Statu di fà u so travagliu, nò ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Matthew W. Taylor
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Matthew%20W.%20Taylor"/>
+     <date>
+      2015-07-01T17:59:57Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Matthew W. Taylor
+   </head>
+   <p>
+    Matthew William Taylor hè un attore americanu.
+   </p>
+   <p>
+    Taylor, Matthew W.
+   </p>
+  </body>
+ </text>
+</TEI>

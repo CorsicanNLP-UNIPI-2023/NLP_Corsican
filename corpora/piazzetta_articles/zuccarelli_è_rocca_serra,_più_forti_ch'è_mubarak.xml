@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Zuccarelli è Rocca Serra, più forti ch'è Mubarak
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Zuccarelli-e-Rocca-Serra-piu-forti-ch-e-Mubarak_a1022.html"/>
+     <date>
+      Tue, 01 Feb 2011 00:01:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Zuccarelli è Rocca Serra, più forti ch'è Mubarak
+   </head>
+   <div type="excerpt">
+    <p>
+     Mubarak : 30 anni à u putere. Ben Ali : 20 anni solu. I nostri eletti ? Ùn si contanu mancu i seculi...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Eranu veramente forti Ben Ali è Mubarak pè cascà cusì in furia ? Ci hè di chè dumandassi. Ùn sò mancu stati capaci di tene più di 30 anni à capu di u so statu. 
+Invece chì e nostre e dinastie sò veramente di ferru. 
+Quandu anu cumminciatu e dinastie di Giacobbi, Rocca Serra è Zuccarelli ? Ùn si sà mancu. Ci vuleria à ricullà à i tempi di a feudalità, è ancu. S'è no femu un test ADN in Filitosa è Cucuruzzu qualcosa si truverà. 
+Hè cusì o ghjente, ci piace u clanu. L'anni passanu, e casate di i nostri sceffi nò. Semu fatti per quessa, u scambiamentu ci stumaca, ci face a paura. Ci vole à perpetuà e tradizioni di i nostri cari antichi. Trà di noi, ci pudemu sempre arrangià. 
+È dì chì u mondu sanu si scandalizeghja di u pistonu di Gamal Mubarak allora chì Jean-Jean hà trovu a so piazza à l'ADEC, chì Paul Emploi hà pigliatu a piazza di François, Camille quella di Jean-Paul, è ùn parlemu mancu di Francisci è di Manue de Gentili. Ancu Edmond hà passatu a manu à Gilles è Pierrot Cahuzac hà riesciutu à piazzà u so figliulinu à u Sporting. 
+I naziunalisti anu riesciutu à fà crede ch'ellu ci vulia à ammazà stu sistema allora chì ùn ci hè sistema più corsu ch'è u clanisimu. Ùn sapemu funziunà di manera altra. U ghjornu induv'ellu ùn ci serà più clanu in Corsica vulerà dì ch'ellu ùn ci serà più Corsi. 
+Allora ùn vale a pena di fà quelli chì sò contr'à u niputisimu. Ci piace, hè cusì. Ci rassigureghja di crede chì u mondu ùn scambia. 
+Di rivuluzione quì, ùn ci ne serà mai. A rivolta di Sambucucciu d'Àlandu per mette fora i sgiò ferma un'anumalia di a storia...
+    </p>
+    <p>
+     Sta videò hè tirata da u ducumentariu Partiti è pulitichella passatu in l'emissione Ghjente nant'à France3 Corsica. Per vedela sana, andate quì.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

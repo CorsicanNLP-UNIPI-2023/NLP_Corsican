@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     L'estate nera di u Valincu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/L-estate-nera-di-u-Valincu_a1149.html"/>
+     <date>
+      Wed, 10 Aug 2011 20:28:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    L'estate nera di u Valincu
+   </head>
+   <div type="excerpt">
+    <p>
+     10 assassinii in trè anni, una fucilata in terrazza di i caffè in Sartè, u "Triangle des Bermudes" corsu torna à fà parlà d'ellu. È in più, ghjunghje Philippe Risoli.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cun dece morti in trè anni, a regione di Sartè, Prupià è Ulmetu torna à fà parlà d'ella. Annu passatu, era una fucilata chì schjattava in Sartè. 
+Serà a passione di l'immubiliare chì hà discitatu sta guerra di e bande ? O a morte di Jean-Jé chì hà lasciatu u Valincu senza capimachja ? 
+In Corse-Matin s'ampara un elementu novu : Philippe Risoli hè ghjuntu è a face sapè. 
+Senza gilet pare-balle è senza garde du corps, l'omu ùn hà paura di nimu. 
+Avemu i patrinii ch'è no meritemu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

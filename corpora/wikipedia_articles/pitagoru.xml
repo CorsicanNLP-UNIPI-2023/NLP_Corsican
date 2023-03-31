@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pitagoru
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Pitagoru"/>
+     <date>
+      2014-08-22T11:31:13Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pitagoru
+   </head>
+   <p>
+    Pitagoru (in grecu anticu Πυθαγòρας; natu in Samo versu 570 AC – Metaponto versu 495 AC) hè un filosofu è matematicu grecu presocraticu. Hè avutu com'è maestru Anassimandru ed hè il fundatore di a scola pitagorica a Crotone. Hè notu anche per lo Teorema di Pitagoru.
+   </p>
+   <p>
+    Filosofu
+   </p>
+   <p>
+    Matematicu
+   </p>
+  </body>
+ </text>
+</TEI>

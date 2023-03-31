@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Postu ch'ellu ùn ci hè più Corsi...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Postu-ch-ellu-un-ci-he-piu-Corsi_a1222.html"/>
+     <date>
+      Tue, 29 Nov 2011 22:46:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Postu ch'ellu ùn ci hè più Corsi...
+   </head>
+   <div type="excerpt">
+    <p>
+     Cumprate u "mannequin" vechju Corsu nustrale ! Mettitelu in giardinu, cacciatelu à l'ora di l'apperitivu, mettitelu à a finestra pè a festa di a Nazione... In più, sò in prumuzione.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     • Ideale per mette à u balconu di a vostra «résidence secondaire» ! 
+• Sò cum’è i veri, sò vechji è ùn pàrlanu più a so lingua… di tutte e manere, nimu i sterebbe à sente ! 
+• Create un’ambianza «identitaire nustrale» à l’ora di l’apperitivu... 
+• Ben attends, j’amène mes vieux faux Keurses ! Avec eux on s’croirait au village !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

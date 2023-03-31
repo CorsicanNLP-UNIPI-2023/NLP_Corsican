@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Georges de la machja
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Georges-de-la-machja_a1494.html"/>
+     <date>
+      Thu, 07 Feb 2013 23:18:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Georges de la machja
+   </head>
+   <div type="excerpt">
+    <p>
+     A Sicilia hà i so ghjudici anti-maffia. A Corsica, hà i so merri anti-machja. Georges Mela, merre di Portivechju, preferisce i parpaings à a machja.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Da vede, è turnà à vede, per u piacè :
+    </p>
+    <p>
+     Bétonisation de la #corse "Je vais bien, tout... par antofpcl
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

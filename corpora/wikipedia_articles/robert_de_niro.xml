@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Robert De Niro
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Robert%20De%20Niro"/>
+     <date>
+      2015-07-01T18:18:41Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Robert De Niro
+   </head>
+   <p>
+    Robert De Niro hè un attore americanu. Hà ricevutu dui Oscar.
+   </p>
+   <p>
+    De Niro
+   </p>
+   <p>
+    De Niro
+   </p>
+  </body>
+ </text>
+</TEI>

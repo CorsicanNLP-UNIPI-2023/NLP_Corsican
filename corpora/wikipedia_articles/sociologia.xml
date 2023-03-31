@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sociologia
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Sociologia"/>
+     <date>
+      2018-06-05T14:51:44Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sociologia
+   </head>
+   <p>
+    A sociologia hè a scenza chi ha per oggettu l'osservazione e a spiegazione di a società.
+   </p>
+   <p>
+    image:Emile Durkheim.jpg|Émile Durkheim
+   </p>
+   <p>
+    image:Karl Marx.jpg|Karl Marx
+   </p>
+   <p>
+    image:Vilfredo pareto.jpg|Vilfredo Pareto
+   </p>
+   <p>
+    image:Simmel 01.JPG|Georg Simmel
+   </p>
+   <p>
+    image:Max Weber 1894.jpg|Max Weber
+   </p>
+   <p>
+    Sociologia
+   </p>
+  </body>
+ </text>
+</TEI>

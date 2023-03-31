@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tuda (pieve)
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Tuda%20%28pieve%29"/>
+     <date>
+      2019-10-03T11:24:57Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tuda (pieve)
+   </head>
+   <p>
+    Tuda hè u nome d'un anziana pieve di Corsica.
+   </p>
+   <p>
+    == Riferimenti ==
+   </p>
+   <p>
+    CRDP di Corsica U Thesaurus MOTBIS
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Pievi di Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

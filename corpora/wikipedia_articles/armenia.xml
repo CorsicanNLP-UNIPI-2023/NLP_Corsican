@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Armenia
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Armenia"/>
+     <date>
+      2018-11-19T19:46:47Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Armenia
+   </head>
+   <p>
+    L'Armenia hè un paese asiaticu. A più grande cità è a capitale hè Erevan.
+   </p>
+   <p>
+    Europa
+   </p>
+   <p>
+    Asia
+   </p>
+  </body>
+ </text>
+</TEI>

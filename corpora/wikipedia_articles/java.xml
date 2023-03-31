@@ -1,0 +1,99 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Java
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Java"/>
+     <date>
+      2015-05-08T20:09:02Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Java
+   </head>
+   <p>
+    Java hè un linguagiu di prugrammazione urientatu ogettu, derivatu di u linguagiu C++ (e inderatamente di u langagiu C) hè creatu da Sun Microsystems. U linguagiu inizialmente si chjamava Oak. U nome fu scambiatu in Java a causa di un problemu di copyright. Java fu prisentatu a u SunWorld di 1995.
+   </p>
+   <p>
+    Dopu l'achjappu di Sun Microsystems da a cumpania Oracle, Java hè diventatu a prupretà di st'ultima.
+   </p>
+   <p>
+    == U Lingagiu ==
+   </p>
+   <p>
+    Un'esempiu facile di un prugrammu in Java. A funzione main hè la primera funzione chjamava quandu u prugrammu hè eseguitu.
+   </p>
+   <p>
+    class HelloWorld {
+   </p>
+   <p>
+    public static void main(String[] args) {
+   </p>
+   <p>
+    System.out.println("Hello World");
+   </p>
+   <p>
+    }
+   </p>
+   <p>
+    }
+   </p>
+   <p>
+    == E parole riservate pè u linguagiu ==
+   </p>
+   <p>
+    abstract else instanceof strictfp while boolean false
+   </p>
+   <p>
+    assert (JDK 1.4) enum (JDK 1.5) interface super byte null
+   </p>
+   <p>
+    break extends native switch char true
+   </p>
+   <p>
+    case final new synchronized double
+   </p>
+   <p>
+    catch finally package this float
+   </p>
+   <p>
+    class for private throw int
+   </p>
+   <p>
+    const (Un impiegatu) goto (Un impiegatu) protected throws long
+   </p>
+   <p>
+    continue if public transient short
+   </p>
+   <p>
+    default implements return try void
+   </p>
+   <p>
+    do import static volatile
+   </p>
+   <p>
+    Informatica
+   </p>
+  </body>
+ </text>
+</TEI>

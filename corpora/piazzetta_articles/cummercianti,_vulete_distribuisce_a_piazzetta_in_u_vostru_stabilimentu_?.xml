@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cummercianti, vulete distribuisce A Piazzetta in u vostru stabilimentu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cummercianti-vulete-distribuisce-A-Piazzetta-in-u-vostru-stabilimentu_a2436.html"/>
+     <date>
+      Fri, 17 Jun 2016 11:52:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       GIURNALE
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cummercianti, vulete distribuisce A Piazzetta in u vostru stabilimentu ?
+   </head>
+   <div type="content">
+    <p>
+     Avete un cummerciu è vulete riceve u nostru giurnale per distribuiscelu (gratisi !) à i vostri clienti ? Cuntattateci ! 
+Chjamate à Sarah : 0669231930 o mandateci un mail à sarah@apiazzetta.com 
+Per infurmazione, A Piazzetta hè sempre :  un giurnale distribuitu di rigalu  15.000 esemplarii  Tutti i trè mesi  500 punti di diffusione in a Corsica sana
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Si parlerà di Rigiru u 12 agostu à u Tavagna Club
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Si-parlera-di-Rigiru-u-12-agostu-a-u-Tavagna-Club_a1930.html"/>
+     <date>
+      Mon, 11 Aug 2014 16:22:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Si parlerà di Rigiru u 12 agostu à u Tavagna Club
+   </head>
+   <div type="content">
+    <p>
+     U Tavagna club di Talasani organizeghja un dibattitu u marti 12 agostu à 6 ore di sera. 
+U tema : l'impurtanza di a rivista Rigiru in u rinnovu literariu è culturale di a Corsica in l'anni 70 è 80. 
+Seranu presenti : Ghjuvan Ghjaseppiu Franchi, Ghjacumu Fusina, Dumenicantone Geronimi, Ghjuvanteramu Rocchi. 
+Rinsignamenti è riservazione pè u risturante : 04 95 36 91 94.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

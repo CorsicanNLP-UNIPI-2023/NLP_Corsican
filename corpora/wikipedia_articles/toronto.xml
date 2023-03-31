@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Toronto
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Toronto"/>
+     <date>
+      2015-07-09T09:11:50Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Toronto
+   </head>
+   <p>
+    Toronto hè a cità a più grande di u Canadà. Ha più di 600 km² di superficia è circa 5 milioni d'abitanti.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    York University
+   </p>
+   <p>
+    Cità di u Canadà
+   </p>
+  </body>
+ </text>
+</TEI>

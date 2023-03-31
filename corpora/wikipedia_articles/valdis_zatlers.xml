@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Valdis Zatlers
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Valdis%20Zatlers"/>
+     <date>
+      2014-03-23T15:09:52Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Valdis Zatlers
+   </head>
+   <p>
+    Valdis Zatlers hè u presidentu di a Lettonia.
+   </p>
+   <p>
+    Zatlers
+   </p>
+   <p>
+    Zatlers
+   </p>
+  </body>
+ </text>
+</TEI>

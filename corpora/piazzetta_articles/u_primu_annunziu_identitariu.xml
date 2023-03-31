@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U primu annunziu identitariu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-primu-annunziu-identitariu_a1216.html"/>
+     <date>
+      Tue, 22 Nov 2011 20:37:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U primu annunziu identitariu
+   </head>
+   <div type="excerpt">
+    <p>
+     "Cumuna di Luri, terrenu custruttivule di 712m2 in vendita. Unicamente à un Corsu".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Eccu l'annunziu ch'ellu si pò leghje nant'à u situ di Corse-Hebdo. 
+Ci vole à crede chì certi ùn aspettanu micca a messa in piazza d'un ipotèticu statutu di "residente corsu" pè circà di regulà u prublema di u fundiariu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

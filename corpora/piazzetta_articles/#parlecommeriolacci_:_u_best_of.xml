@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     #ParlecommeRiolacci : u best of
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/ParlecommeRiolacci-u-best-of_a1688.html"/>
+     <date>
+      Mon, 03 Mar 2014 23:50:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MUNICIPALI-2014
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    #ParlecommeRiolacci : u best of
+   </head>
+   <div type="excerpt">
+    <p>
+     Ùn sò mancate e riazzioni nant'à Twitter dop'à e parolle di Jean Zuccarelli è Francis Riolacci. Più di 2000 tweets in trè ghjorni, ùn s'era mai vista nant'à a twitosfera nustrale.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Serà forse a prima elezzione corsa induve e rete suciale averanu cuntatu ? Ùn si sà, forse a ci dicerà l'avvene. Ma in tutti i casi hè un spaziu induve si passanu è si dicenu assai cose, senza chì l'omi pulitichi possinu cuntrullacci qualcosa, è quessa li face paura. 
+A vìttima di u ghjornu hè u poveru Francis Riolacci. Cù una frasa in una cunferenza di stampa, hè statu à l'orìgine d'un tsunamì di tweets. Più di 200 in una meza ghjurnata ci dice CNI. Un record pè a twittosfera corsa. 
+À 10 ore 44, un giurnalistu d'Alta Frequenza ammenta sta frasa di Riolacci :  "le simeonisme prend sa source dans la collaboration avec l'Italie mussolinienne" 
+À 11 ore, un contu paròdicu lancia :  Francis Riolacci : "si Gilles Simeoni remporte l'élection, il va doter Bastia de l'arme nucléaire et attaquer la France" 
+À 2 ore di u dopu meziornu hè lanciatu u hashtag #parlecommeRiolacci, è sin'à a sera a cummedia ùn pianterà :  Gilles Simeoni est responsable de la grande peste de 1347 #parlecommeRiolacci 
+Circa 2000 tweets dopu, eccu un picculu bestoffu.
+    </p>
+    <p>
+     Felicitazioni à tutti pè ste magagne chì cuntinuveghjanu nant'à Twitter !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

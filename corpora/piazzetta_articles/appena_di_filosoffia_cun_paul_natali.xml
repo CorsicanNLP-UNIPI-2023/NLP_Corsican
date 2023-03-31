@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Appena di filosoffia cun Paul Natali
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Appena-di-filosoffia-cun-Paul-Natali_a1346.html"/>
+     <date>
+      Tue, 22 May 2012 00:11:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Appena di filosoffia cun Paul Natali
+   </head>
+   <div type="excerpt">
+    <p>
+     Corse-Matin ci dice chì l'anzianu senatore piglia a vita "cun filosoffia".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Paul Natali era intervistatu in u Corse-Matin di u 18 maghju. 
+S'ampara chì tuttu và bè per ellu è pè i so affari (ch'ellu hà fattu in u BTP). Ch'ellu fideghja l'attualità corsa "avec philosophie". 
+Nant'à a viulenza, hà dettu "Avà basta, u troppiu stroppia". 
+Nant'à stu puntu, l'anzianu senatore hè d'accordu cun Dumènicu Bucchini chì tuttu ciò ch'ellu avia trovu à dì nant'à a viulenza era : "Basta, basta, basta". 
+Cuntinuvemu l'anàlisa : "L'Etat doit prendre la juste mesure du problème et apporter des réponses précises pour interpeller des personnes qui agissent avec un esprit de destruction et d'abandon total de nos valeurs ancestrales." 
+Ah "l'esprit de destruction" è "l'abandon total de nos valeurs ancestrales"... Ci saria tantu à dì o Paul. Hè vera, puderia ancu fà un bonu sugettu di filosoffia à u baccu !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

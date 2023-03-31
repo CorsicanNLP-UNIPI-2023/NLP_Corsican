@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hè illegale è raporta assai. A droga ? Nò, l'immubiliare...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/He-illegale-e-raporta-assai-A-droga-No-l-immubiliare_a1873.html"/>
+     <date>
+      Tue, 10 Jun 2014 16:09:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hè illegale è raporta assai. A droga ? Nò, l'immubiliare...
+   </head>
+   <div type="content">
+    <p>
+     In Piantaredda, nant'à a cummuna di Bunifaziu, i novanta alloghji custruiti senza permessu sò stati dichjarati illegali da a ghjustizia. Ma ùn sò micca stati distrutti... è raportanu assai soldi. Scrive U Levante : 
+"À Piantaredda, un studio pour 1 à 2 personnes se loue par semaine entre 810 € et 2 280 € selon la saison. Intéressant, non, pour une construction illégale ?" 
+Da leghje nant'à Alcudina è dinù U Levante
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

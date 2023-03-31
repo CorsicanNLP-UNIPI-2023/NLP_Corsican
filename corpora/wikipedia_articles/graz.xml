@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Graz
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Graz"/>
+     <date>
+      2014-03-23T14:23:52Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Graz
+   </head>
+   <p>
+    Graz hè una cità di l’Austria.
+   </p>
+   <p>
+    Hè a siconda cità austriaca per populazione, incù 261.540 abitanti (2011).
+   </p>
+   <p>
+    == Geografia ==
+   </p>
+   <p>
+    Graz si trova in a parte meridiunale di l’Austria in u statu(land) di Stiria (Steiermark in lingua tedesca) di qualessa hè u capilocu è hè bagnata da u fiume Mur.
+   </p>
+   <p>
+    Cità austriache
+   </p>
+  </body>
+ </text>
+</TEI>

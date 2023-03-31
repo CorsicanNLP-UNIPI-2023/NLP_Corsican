@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     RMS Titanic
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/RMS%20Titanic"/>
+     <date>
+      2015-07-01T23:47:24Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    RMS Titanic
+   </head>
+   <p>
+    U Titanic era un batellu brittannicu di a White Star Line. Sprufundò in u 1912.
+   </p>
+   <p>
+    Storia
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quale vole parlà à Manuel Valls
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quale-vole-parla-a-Manuel-Valls_a1444.html"/>
+     <date>
+      Wed, 21 Nov 2012 09:59:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quale vole parlà à Manuel Valls
+   </head>
+   <div type="excerpt">
+    <p>
+     Ciò chì manca à a Corsica pè Manuel Valls ùn sò micca mezi supplementarii nè pulizzeri di prima trinca. Nò, manchemu di delatori. Allora Corsi, parlate ! Site tutti culpèvuli.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Davant'à "la spirale meurtrière que rien ne semble arrêter en Corse" (tìppica frasa giurnalìstica ch'ellu si sente dapoi 20 anni), u Statu si dumanda : "chì fà ?" 
+U ministru di l'internu a ci dice : "ci vole à parlà !" 
+Manuel Valls cerca à capisce ciò ch'ellu si passa è s'hè fattu un amicu novu ch'ellu hà invitatu : "Alain Orsoni sait des choses alors qu'il parle". I pulizzeri in Corsica seranu cusì mal infurmati ? 
+Jérôme Ferrari ellu hà datu a so risposta : "Pour la plupart des gens normaux, c'est-à-dire 95 % de la population, on ne comprend rien à ce qui se passe". 
+Bon, hè purtantu sèmplice o Jérôme. Basta à leghje Le Monde chì ci spiega tuttu grazia à sta carta tutta in animazione. 
+Intitulata Les dates-clés de la recomposition du grand banditisme corse, saperete tuttu nant'à tuttu : 
+- l'affari aiaccio-aiaccini  - a successione di Jean-Jé Colonna in u Valincu  - a vindetta Costa-Mattei  - a seguita di a Brise de Mer  - e baruffe in piaghja orientale  - è l'affari casinchesi 
+Stranu, i giurnalisti sanu tuttu, ma i pulizzeri ùn facenu nunda è u Statu lascia fà dapoi trenta anni... 
+Ciò chì n'impedisce micca Valls di rimettene una : "les Corses doivent assumer leurs responsabilités " hà dettu una volta di più à l'Assemblea. 
+Iè amicu Corsu. Tù, sai tuttu è ùn dici nunda. Ancu tù sì culpèvule ! Allora parla, scrivi lettere anònime, surveglia u to vicinu ! Cusì ci dice di fà u Statu. 
+Allora ancu di grazia, Pierre-Laurent Santelli di l'associu U Levantu hà pigliatu a so penna è scrittu à Manuel Valls. Da leghje : Oui. Moi je sais… M. Valls 
+Ùn dubbitemu mancu una stonda ch'ellu ùn serà micca intesu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

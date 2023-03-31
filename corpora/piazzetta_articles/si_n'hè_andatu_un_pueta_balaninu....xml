@@ -1,0 +1,78 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Si n'hè andatu un pueta balaninu...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Si-n-he-andatu-un-pueta-balaninu_a1380.html"/>
+     <date>
+      Fri, 29 Jun 2012 16:29:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Si n'hè andatu un pueta balaninu...
+   </head>
+   <div type="excerpt">
+    <p>
+     Dédé Nobili si n'hè andatu è ci hà lasciatu unepochi di capi d'opera cum'è "Le Chemin des Dames", A Ballata di Mattea, U Celu di Balagna, Cità, L'Altu Pratu, Viaghjà...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Le Chemin Des Dames - I Chjami Aghjalesi par Itashi2a  Quantu liceani corsi averanu amparatu a storia di a Corsica (quella chì ùn figura micca in i prugrammi officiali), studiendu "Le Chemin des Dames; ? Quantu averanu pigliatu cuscenza di u macellu chì hè stata a guerra di 14 cun sta canzona? 
+U làscitu chì ci hà fattu Dédé Nobili hè quistu quì, cun tanti d'altri capi d'opera di I Chjami Aghjalesi. Era dunque normale ch'è no li rendimu un picculu omàgiu à stu grande pueta è canterinu, chì avia dinù participatu à d'altri gruppi cum'è Canta u Populu Corsu, A Filetta è U Celu. 
+Riposa in pace, Dédé...
+    </p>
+    <p>
+     A Ballata di Mattea
+    </p>
+    <p>
+     L'Altu Pratu
+Chjami Aghjalesi - L'altu Pratu par Larenzu
+    </p>
+    <p>
+     U Celu di Balagna
+    </p>
+    <p>
+     Viaghjà
+    </p>
+    <p>
+     Cità
+    </p>
+    <p>
+     Per u troppu
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

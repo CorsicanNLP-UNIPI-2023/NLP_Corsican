@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lingua svedese
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Lingua%20svedese"/>
+     <date>
+      2015-05-08T20:10:10Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lingua svedese
+   </head>
+   <p>
+    A lingua svedese o svedesa (u svedese/svedesu; in svedese: svenska) hè una lingua ghjermanica. Hè lingua offiziale in Svezia è Finlandia.
+   </p>
+   <p>
+    Svedese
+   </p>
+  </body>
+ </text>
+</TEI>

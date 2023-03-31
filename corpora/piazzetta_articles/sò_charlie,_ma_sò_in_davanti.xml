@@ -1,0 +1,94 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sò Charlie, ma sò in davanti
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/So-Charlie-ma-so-in-davanti_a2123.html"/>
+     <date>
+      Mon, 12 Jan 2015 07:50:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sò Charlie, ma sò in davanti
+   </head>
+   <div type="excerpt">
+    <p>
+     Unione naziunale, marchja republicana, dignità è omagiu à e vìttime di u terrurisimu... o micca. Di l'avisu di i giurnalisti presenti, u spetàculu era abbastanza patèticu in Bastia.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Tutti fratelli, tutti Charlie ? 
+Micca veramente s'ellu si leghje l'articulu di Sébastien Tieri nant'à u situ di France 3 Corsica : A Bastia, union sacrée et course aux micros pour les élus. 
+U giurnalistu ci conta chì i nostri eletti ùn sò micca stati veramente republicani è degni cum'ellu ci vulia. Eccu ciò ch'ellu dice : 
+"Certains ont choisi de ceindre l’écharpe tricolore - même ceux qui n'y sont pas autorisés par la loi comme le conseiller municipal et président de la CAB, François Tatti- comme pour mieux se distinguer. La plupart jouent des coudes pour avoir une place sur la photo et tenir la banderole." 
+Per tene u striscione in prima linea è per esse nant'à a fottò hè stata a panicca. Ma ancu per parlà à u micrò. 
+U giurnalistu parla d'un "affligeant ballet pour savoir qui va parler à la foule". 
+In ste circustanze, ci hè sempre u penseru di a ricuperazione pulitica di l'evenimentu. Cum'è prevista, ùn l'avemu francata.
+    </p>
+    <p>
+     L'articulu di France 3 :
+    </p>
+    <p>
+     Parechji giurnalisti presenti parenu esse di u listessu avisu :
+    </p>
+    <p>
+     A Bastia, visiblement, le rassemblement était l'occasion pour certains de se montrer...
+— Julien Pernici (@JulienPernici) 11 Janvier 2015
+    </p>
+    <p>
+     Bastia: seule ville de Corse, de France et d'ailleurs où les élus se sont précipités pour être en tête de cortège. #Vergogna @FTViaStella
+— Michelle Castellani (@_mocali) 11 Janvier 2015
+    </p>
+    <p>
+     Ma micca solu i giurnalisti :
+    </p>
+    <p>
+     I Bastiacci sarianu stati peghju ch'è l'altri ? D'appressu à e reazzione nant'à Twitter, ci vole à crede di sì :
+    </p>
+    <p>
+     A Ajaccio on a su se tenir, aucun élu en écharpe à la tête du cortège!
+— Sébastien C (@caarchitetti) 11 Janvier 2015
+    </p>
+    <p>
+     U riportu di France 3 Corsica :
+    </p>
+    <p>
+     Poveri Cabu, Charb, Tignous è Wolinski. In più d'avè à suppurtà quantità di minuti di silenziu in i stadii, di Marseillaises arrabiate, di messe, d'omagi naziunali è di pulizzeri chì si facenu sciaccamanà, devenu dinù abbuchjassi quessa. 
+Ci saria piaciutu d'avelli cun noi pè e prussime elezzione...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

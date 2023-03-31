@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Le broutch in prime time nant'à M6
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Le-broutch-in-prime-time-nant-a-M6_a1329.html"/>
+     <date>
+      Tue, 17 Apr 2012 10:27:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Le broutch in prime time nant'à M6
+   </head>
+   <div type="excerpt">
+    <p>
+     In l'emissione Le chef en France, Cyril Lignac ci hà mustratu pastori, tragulini, cacciadori simpàtichi è Corsi à l'antica. Seranu stati veri o attori?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè bravu Cyril Lignac, hà fattu una bella emissione nant'à a Corsica, senza clichés. Ùn s'hè micca risu di noi è ùn hà parlatu nè di viulenza, nè di razzisimu, nè di saucisson d'âne. 
+Bon, hà fattu cum'ellu pudia, ci hà mustratu a fabricazione di "le broutch" è avemu vistu "la figadèl". Ma quessu ùn era micca u prublemu. 
+M6 hà vulsutu mustrà i Corsi "authentiques" : un pastore simpàticu, un bravu tragulinu, un purcaghju di prima trinca, è ancu una banda di cacciadori chì cantavanu ghjustu. Avemu vistu dinù una "mamma corse" à l'antica. 
+Ma c'era un prublemu, nò ? 
+Mancavanu i veri Corsi d'oghje, les vrais gens cum'ellu dice u francese. I veri Corsi d'oghje ùn sanu micca fà u brocciu, ùn vanu micca à caccighjà, ùn sanu micca fà a differenza trà un lonzu è un prisuttu. 
+I veri Corsi d'oghje manghjanu i knackis, u sabbatu ùn collanu micca in paese ma puntanu u caddie à Géant Casino. Manghjanu di più Caprice des Dieux chè brocciu passu, ci hè di più mittomani in Cayenne in circulazione chè di mulatteri. Sò più numerosi à campà in HLM è in lotissement ch'ellu ci n'hè chì respiranu l'aria pura di e nostre muntagne. È sò più numerose e tonfie piene di cuccaina chè e donne chì staccianu a farina pisticcina. 
+M6 ci hà mustratu una fiura di a nostra identità chè no vuleriamu vede, ma ch'ùn esiste guasi più. Quessa l'identità hè annigata in un tsunamì di cunsumerisimu mundializatu techju di TF1, di Quick, di grandes surfaces è di reality show. 
+Allora piuttostu chè di vede a realità in faccia, femu nece di crede chì sta sucetà corsa esiste sempre, chè no semu sempre differenti di l'altri, allora chè no semu cum'è l'altri. 
+Unu di i prutagunisti di u filmu hà dettu c'est ça la Corse. O micca.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     William Tecumseh Sherman
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/William%20Tecumseh%20Sherman"/>
+     <date>
+      2015-07-09T09:04:51Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    William Tecumseh Sherman
+   </head>
+   <p>
+    William Tecumseh Sherman (1820-1891) fù un generale durante a Guerra Civile Americana.
+   </p>
+   <p>
+    Sherman
+   </p>
+   <p>
+    Sherman, William Tecumseh
+   </p>
+  </body>
+ </text>
+</TEI>

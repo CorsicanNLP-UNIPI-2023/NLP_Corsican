@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Amichi turisti, cascate veramente male quist'annu...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Amichi-turisti-cascate-veramente-male-quist-annu_a1723.html"/>
+     <date>
+      Wed, 23 Apr 2014 00:56:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Amichi turisti, cascate veramente male quist'annu...
+   </head>
+   <div type="excerpt">
+    <p>
+     Torna un culpacciu pè l'ATC : una cagnaccia di trè metri in u golfu d'Aiacciu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'estate 2014 serà quellu chì viderà un turistu fraiatu da una cagnaccia? Aiacciu, Amity Island, listessu destinu ? 
+France 3 ci annunzia chì una cagnaccia di trè metri hè stata piscata in u golfu aiaccinu. 
+A ghigna hè chì ancu i media naziunale cum'è Le Parisien anu ripigliatu l'infurmazione. 
+Si pò leghje chì l'amicu hè "inoffensif pour l'homme". 
+Cari amichi turisti, ùn i state micca à sente. Què hè intox è parechje centinaie di cagnacce famite s'avvicinanu di e coste corse. Site sempre à tempu per cambià di destinazione.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

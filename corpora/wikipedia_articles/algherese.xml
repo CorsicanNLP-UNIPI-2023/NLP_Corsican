@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Algherese
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Algherese"/>
+     <date>
+      2015-07-16T10:35:11Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Algherese
+   </head>
+   <p>
+    L'algherese (in catalanu: alguerès o alguerés) hè un dialettu di a lingua catalana. Hè parlatu in a cità di Algheru in Sardegna. Face parte di i dialetti catalanu-orientali.
+   </p>
+   <p>
+    Algherese
+   </p>
+  </body>
+ </text>
+</TEI>

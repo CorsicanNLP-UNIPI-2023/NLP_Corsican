@@ -1,0 +1,165 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Rombu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Rombu"/>
+     <date>
+      2014-10-12T12:56:34Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Rombu
+   </head>
+   <p>
+    In geomitria, un rombu (o "lusanga") è un quatrangulu chì hà tutti i so lati di listessa lunghezza paralleli à dui à dui.
+   </p>
+   <p>
+    U quatratu hè un tipu particulare di rombu: inoltre u fattu d'avè tutti i so lati uguali, hà ancu tutti i so anguli chì sò uguali è pari à 90°.
+   </p>
+   <p>
+    == Proprietà ==
+   </p>
+   <p>
+    === Lati ===
+   </p>
+   <p>
+    I lati opposti di un rombu sò paralleli: in cunsequenza, u rombu face parte di a famiglia di i parallelogrammi.
+   </p>
+   <p>
+    === Diagunale ===
+   </p>
+   <p>
+    Com'è in tutti i quatranguli, u rombu hà dui diagunale, chì anu la particularità d'esse perpendiculare frà elle è d'intersecà si in u so puntu mediu.
+   </p>
+   <p>
+    Ogni diagunale divide u rombu in dui trianguli isusceli.
+   </p>
+   <p>
+    === Anguli ===
+   </p>
+   <p>
+    L'anguli opposti di un rombu sò congruenti, vene à dì anu un valore uguale: quindi
+   </p>
+   <p>
+    Â=Ĉ=\alpha è Ḃ=Ḋ=\beta
+   </p>
+   <p>
+    Dui anguli cunsecutivi in u rombu sò supplementarii, vene à dì ch'è a so somma hè para à 180*: in altri termini :
+   </p>
+   <p>
+    {\alpha} + {\beta} = 180°
+   </p>
+   <p>
+    Un casu particulare di rombu, avendu tutti i so anguli uguali è pari à 90°, hè u quadratu.
+   </p>
+   <p>
+    == Altezza di  u rombu ==
+   </p>
+   <p>
+    L'altezza di u rombu hè a distanza h trà dui di i so lati opposti.
+   </p>
+   <p>
+    ==Perimetru==
+   </p>
+   <p>
+    S'è a hè u latu di u rombu, u so perimetru hè datu da a formula:
+   </p>
+   <p>
+    p = 4 \cdot a.
+   </p>
+   <p>
+    ==Area==
+   </p>
+   <p>
+    L'area di u rombu si pò calculà in quattru modi:
+   </p>
+   <p>
+    com'è per tutti i parallelogrammi, effettuendu u prodottu di a base a, coincidente cù u latu di u rombu, per l'altezza h:
+   </p>
+   <p>
+    A = a \cdot h,
+   </p>
+   <p>
+    multiplichendu a diagunale maggiore d_1 per a diagunale minore d_2 è dividendu u risultatu per 2:
+   </p>
+   <p>
+    A = ,
+   </p>
+   <p>
+    multiplichendu u mezuperimetrup per u raghju r di a circunferenza iscritta:
+   </p>
+   <p>
+    A = p \cdot a,
+   </p>
+   <p>
+    infine, calculendu u quadratu di u latu a è multiplichendu lu per u segnu di unu qualunque di l'anguli interni
+   </p>
+   <p>
+    A = {a^2 \cdot \sin\alpha} = {a^2 \cdot \sin\beta}.
+   </p>
+   <p>
+    Riguardu à sta quarta formula par u calculu di l'aria sò nutati parechji punti:
+   </p>
+   <p>
+    \sin\alpha è \sin\beta sò uguali parchì \alpha è \beta sò anguli supplementari: quistu hè u mutivu par u quale si pò usà indifferentamente l'unu o l'altru
+   </p>
+   <p>
+    u rombu pruduce a so aria massima quandu i lati sò parpindiculari trà elli per furmà un quatdratu: in stu casu \sin\alpha è \sin\beta sò uguali à 1 è a formula s'identificheghja incù quella di u quadratu vene à dì diventa
+   </p>
+   <p>
+    A = {a^2}
+   </p>
+   <p>
+    à misura ch'è u rombu si sciaccia, \sin\alpha è \sin\beta diventanu minori di 1 è dunque l'aria di u rombu diventa più piccula rispettu à quella di u quadratu da u quale s'era partutu
+   </p>
+   <p>
+    infine, sciaccendu tutalamente u rombu finu à avè \alpha = 0 è dunque \sin\alpha = 0, a so aria diventa nulla
+   </p>
+   <p>
+    == Da vede dinò ==
+   </p>
+   <p>
+    Quadrilateru
+   </p>
+   <p>
+    Parallelugramma
+   </p>
+   <p>
+    Quatratu
+   </p>
+   <p>
+    Quadrilateri
+   </p>
+   <p>
+    == Note ==
+   </p>
+   <p>
+    ==Fonte==
+   </p>
+   <p>
+    'Ss'articulu pruvene in parte o in tutalità da l'articulu currispundente di a wikipedia in talianu.
+   </p>
+  </body>
+ </text>
+</TEI>

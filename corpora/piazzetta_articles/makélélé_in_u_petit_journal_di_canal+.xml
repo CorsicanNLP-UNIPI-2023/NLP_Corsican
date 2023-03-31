@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Makélélé in u Petit Journal di Canal+
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Makelele-in-u-Petit-Journal-di-Canal_a2009.html"/>
+     <date>
+      Tue, 28 Oct 2014 01:36:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Makélélé in u Petit Journal di Canal+
+   </head>
+   <div type="content">
+    <p>
+     Eccu, l'intrenore di u Sporting vene di fà a so entrata in u Petit Journal nant'à Canal+. 
+Poveru Claude, digià chì i tempi sò duri per ellu è ch'ellu ùn si sà micca s'ellu finiscerà a stagione nant'à u bancu di u Sporting...
+    </p>
+    <p>
+     Le Petit Journal du 29/09 - Lundi ballon
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

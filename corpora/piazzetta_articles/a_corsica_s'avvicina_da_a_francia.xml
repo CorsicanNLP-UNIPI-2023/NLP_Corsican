@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Corsica s'avvicina da a Francia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-Corsica-s-avvicina-da-a-Francia_a1256.html"/>
+     <date>
+      Thu, 26 Jan 2012 08:01:04 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A Corsica s'avvicina da a Francia
+   </head>
+   <div type="excerpt">
+    <p>
+     Nant'à e carte di a metteò di M6, a Corsica entre guasi in portu di Nizza. Serà à stu puntu à a deriva ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Avete rimarcatu cumu nant'à certe carte metteò, a Corsica hè vicina da a Francia ? Ci vole à crede chì a tectonicca di e placche ci punta ogni ghjornu appena di più versu a costa francese. 
+Serà forse per quessa, chì certi preferiscenu l'OM à i club corsi ? 
+Purtantu, a Corsica s'hè spiccata da u cuntinente francese circa 25 milioni d'anni fà, è in realità hè bella più luntanu è à u meziornu chè quessa.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

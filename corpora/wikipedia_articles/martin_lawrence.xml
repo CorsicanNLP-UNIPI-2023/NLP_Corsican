@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Martin Lawrence
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Martin%20Lawrence"/>
+     <date>
+      2015-07-01T17:58:47Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Martin Lawrence
+   </head>
+   <p>
+    Martin Fitzgerald Lawrence hè un attore americanu.
+   </p>
+   <p>
+    Lawrence, Martin
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A carta di i cummerci induv'ellu si parla corsu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-carta-di-i-cummerci-induv-ellu-si-parla-corsu_a2379.html"/>
+     <date>
+      Sun, 17 Apr 2016 11:22:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A carta di i cummerci induv'ellu si parla corsu
+   </head>
+   <div type="excerpt">
+    <p>
+     Compru in Corsu hè un situ internet è un'appiegazione chì hà cum'è scopu di ricensà i cummerci cursòfuni. Eccune a carta !
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Bon và bè, ùn ci sò micca tutti (ancu di grazia). Ma eccu una carta di i cummerci, artigiani è prufessione liberale cursòfuni. 
+Sapete chì a lingua corsa rincula (dinù) per via di a crianza ("aghju da parlà francese per chì tuttu u mondu capisca") è di u fattu d'ùn sapè sì l'interlocutore parla o nò a lingua. 
+U scopu di Compru in Corsu hè dunque di facilità è di prumove i cummerci induve u vostru interlocutore capisce è parla u corsu. 
+Circa 300 cummerci è artigiani si sò riferenzati da per elli. 
+L'indirizzu : compruincorsu.corsica  A pagina FB : facebook.com/CompruInCorsu  Per vede a carta : compruincorsu.corsica/explore
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Burgo de Osma-Ciudad de Osma
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Burgo%20de%20Osma-Ciudad%20de%20Osma"/>
+     <date>
+      2014-03-23T14:06:01Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Burgo de Osma-Ciudad de Osma
+   </head>
+   <p>
+    Las Aldehuelas hè una cumuna spagnola di a pruvincia di Soria, in a cumunità autonoma di Castiglia è León.
+   </p>
+   <p>
+    Pruvincia di Soria
+   </p>
+  </body>
+ </text>
+</TEI>

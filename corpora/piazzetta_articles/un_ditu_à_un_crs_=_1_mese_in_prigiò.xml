@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Un ditu à un CRS = 1 mese in prigiò
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-ditu-a-un-CRS-1-mese-in-prigio_a1234.html"/>
+     <date>
+      Thu, 22 Dec 2011 15:02:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Un ditu à un CRS = 1 mese in prigiò
+   </head>
+   <div type="excerpt">
+    <p>
+     In Aiacciu, un omu chì hà pisatu u ditu davant'à un fourgon di CRS passerà Natale in prigiò. Bone feste.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Amichi, fate pianu. Ancu s'è vo site in buchja nera, ch'è vo site azezi è in crisa contr'à ciò ch'ellu si chjama in francese "les forces de l'ordre", evitate di mustralla troppu. 
+Corse-Matin in a so edizione di u 21 dicembre conta ciò chì hè accadutu à un omu chì hà fattu un ditu à un fourgon di CRS chì per disgrazia si truvava davant'à ellu. 
+Bon hè vera ch'ellu hè difficiule in Aiacciu o in Bastia d'ùn cascà mai davant'à a BAC, i CRS, i gendarmi è a pulizza. Avemu a più forte prupurzione di flicchi d'Auropa. 
+Hè vera dinù chì l'omu a s'hè circata appena : 12 cundanne in 22 anni per parechje cose, venia di sorte di a prigiò di U Borgu è era in bomba ceca. 
+Ma quantunque, un picculu ditu fattu à un CRS li custerà di passà Natale è capu d'annu in prigiò. 
+In a vita, hè megliu à esse CRS ch'è disgraziatu, ma quessa a sapiamu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

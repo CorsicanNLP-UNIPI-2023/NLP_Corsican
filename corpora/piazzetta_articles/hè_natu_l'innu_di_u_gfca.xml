@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hè natu l'innu di u GFCA
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/He-natu-l-innu-di-u-GFCA_a1870.html"/>
+     <date>
+      Sun, 08 Jun 2014 19:13:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hè natu l'innu di u GFCA
+   </head>
+   <div type="content">
+    <p>
+     Cosa hè chì hè rossu è turchinu, chì hè ammazzatu in permanenza, è chì ùn more mai ? 
+U GFCA hà esciutu u so innu è si pò avà ascultà in linea. Si chjama "L’Eterna vultata", hè statu scrittu è cumpostu da Micheli Solinas. 
+Si pò stà à sente quì nant'à Sound Cloud è e parolle si ponu leghje quì. 
+Quelli chì cunnoscenu l'ambianza in i stadii ricunnisceranu chì a riturnella ripiglia un tube ch'elli cantanu i sustenidori ultras, chjamatu "Gam gam". Natu in e curve d'Italia, "Gam gam" hè à l'orìgine una canzona yiddish chì si pò sente in un filmu talianu (Jona che visse nella balena). 
+Hè diventatu dopu un successu in e discoteche in l'anni 90, cù un remix di Mauro Pilato. 
+L'aria hà girata l'Auropa sana, è avà n'esiste una versione corsa. 
+È perchè micca ? Femu puru a scumessa chì st'innu diventerà un tube di Mezavia.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

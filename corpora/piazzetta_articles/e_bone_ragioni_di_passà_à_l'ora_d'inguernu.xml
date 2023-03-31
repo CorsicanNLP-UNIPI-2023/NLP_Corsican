@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     E bone ragioni di passà à l'ora d'inguernu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-bone-ragioni-di-passa-a-l-ora-d-inguernu_a1430.html"/>
+     <date>
+      Sat, 27 Oct 2012 14:26:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    E bone ragioni di passà à l'ora d'inguernu
+   </head>
+   <div type="excerpt">
+    <p>
+     Sta notte, si scambia d'ora.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     1. Si dorme un'ora in più. Tutti l'anni hè sempre un grande piacè di ringrazià l'ora d'inguernu chì ci permette di dorme appena di più. 
+2. Si beie un'ora di più. Pè tutti i passiunati di a night è pè l'acelli di notte, si face a festa un'ora di più. 
+3. Si pò fidighjà a rediffusione di Des chiffres et des lettres. Casu mai avete mancatu a vostra emissione preferita. 
+4. Si pò leghje o fidighjà un filmu un'ora in più. Serà sempre megliu chè di fidighjà l'emissione di Ruquier. 
+5. S'entre infine in l'inguernu. Hè ora ch'elli ghjunghjinu u fretu, a neve, e castagne, u figatellu. 
+6. Avete una bona scusa pè ghjunghje in ritradu. "Avec le passage à l'heure d'hiver, j'ai oublié de changer l'heure du réveil..." Attenzione, sta scusa pò marchja durante trè settimane. Dopu, face troppu. 
+7. Si vince un'ora d'azizume in più. A crisa, a fine di u mondu, i Corsi chì si tazzanu, l'amore di e zitelle (chì cambia cum'è e stagioni), u Tour de France... Sta notte, serete azezu un'ora di più. 
+8. Si pò fà un'attività nova. Postu chì dumenica matina v'arrizzerete più prestu, prufittatene pè fà qualcosa di novu : andà à u mercatu, fà u sport, fidighjà Téléfoot. Bon, ùn hè forse micca una bona idea in fine di contu. 
+9. Seguitate u scambiamentu d'ora in diretta sta notte. Tutte l'infurmazione, l'analise è e riazzione nant'à u scambiamentu d'ora sò à seguità sta notte nant'à e pagine Twitter è Facebook di A Piazzetta. Vi feremu campà st'evenimentu impurtante grazia à i nostri inviati speziali in Bustanicu è in Peru Casevechje. 
+Bon in fatti, tuttu u mondu si n'impippa, nò ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,77 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Evviva, hè natu u sandwich "Le Paoli"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Evviva-he-natu-u-sandwich-Le-Paoli_a2667.html"/>
+     <date>
+      Thu, 02 Nov 2017 10:05:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Evviva, hè natu u sandwich "Le Paoli"
+   </head>
+   <div type="excerpt">
+    <p>
+     Pensavate avè vistu tuttu. Ma eccu chì una grande catena di panatteria lancia u so sandwich "Le Paoli". Una vittoria di più pè a nazione ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A sucetà di cunsumu finisce sempre pè ricuperassi tuttu. Dop'à i ribelli in vendita à i supermercati, a bandera corsa messa à tutte e salze è stu poveru Pasquale Paoli diventatu un pruduttu cummerciale, eccu chì a Corsica face a so entrata in e grande catene di risturazione francese. 
+Un internautu hà pustatu nant'à Twitter stu ritrattu, pigliatu à l'aeorportu di Roissy. Si tratta di l'insegna "Brioche Dorée".
+    </p>
+    <p>
+     Mais qu'est-ce qu'on aura fait au Diable pour mériter ça ? pic.twitter.com/LlIWsopfPE
+— Pîrî Reis (@_Piri_Reis_) 2 novembre 2017
+    </p>
+    <p>
+     Ùn si sà si u nome di u sandwich face riferenza à Pasquale Paoli, à Sandra Paoli di a seria "Mafiosa" o s'ellu hè ghjustu per "faire authentique". 
+Allora andemu à vede ciò ch'ella dice a pagina Facebook di Brioche Dorée :
+    </p>
+    <p>
+     "Le Paoli" hè presentatu cusì : 
+"Il est craquant, il a du caractère, il est authentique, il sait rester simple, il tient toujours ses promesses" 
+À voi chì vi site sempre posti a dumanda "chì hè esse corsu", i magazini Brioche Dorée vi danu infine una bona definizione. È voi site cusì ? 
+Cumentu d'un internautu stumacatu : 
+"J'espère qu'ils vont faire des sandwichs qui s'appelleront "le corsico" avec des vrais bouts de saucisson d'âne dedans, que dans la description ils diront "et on prononce pas la dernière syllabe comme Doumé !" et que ça sera vendu dans une boulangerie tenue par des voyous amis de natios comme ça on sera obligé de fermer nos gueules en bons couards théâtraux qu'on est." 
+Bona ghjurnata à tutti.
+    </p>
+    <p>
+     Ritrattu Twitter / Pîrî Reis
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

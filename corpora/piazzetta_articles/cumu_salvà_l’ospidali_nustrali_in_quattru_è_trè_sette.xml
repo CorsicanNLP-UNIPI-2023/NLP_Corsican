@@ -1,0 +1,75 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cumu salvà l’ospidali nustrali in quattru è trè sette
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cumu-salva-l-ospidali-nustrali-in-quattru-e-tre-sette_a2552.html"/>
+     <date>
+      Wed, 01 Mar 2017 10:32:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cumu salvà l’ospidali nustrali in quattru è trè sette
+   </head>
+   <div type="excerpt">
+    <p>
+     In u so rapportu annuale, a Corte di i Conti s’inchieta di a gestione di l’ospidali corsi. E perdite sò tamante, più di 17 milioni in Aiacciu, più di 7 milioni in Bastia. A ragiò di a bancarotta hè chjara, scrivenu i magistrati. L’impiegati sarebbinu troppu numerosi ma guasi sfaccendati postu chì i malati è l’atti medicali sò troppu scarsi. Eppuru cresce l’attività d’un ospidale hè faciule. Eccu u nostru rèfice.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ecotaxe, hôpitaux corses, CRS... : les cartons rouges de la Cour des comptes https://t.co/KArfIrdLdX pic.twitter.com/Y9Qov8veJk
+— Les Décodeurs (@decodeurs) 9 février 2017
+    </p>
+    <p>
+     1/ Chì ognunu fessi un sforzu per esse appena di più malatu
+Diventà imbambuccitu, stroppiu o depressivu. L’occasioni di ritruvassi nant’à un lettu di l’Assitenza Pùblica ùn mancanu : stamburizzà à a porta d’un maffiosu da dumandà a prutezzione di u liturale, ingolle una fetta di pulenda industriale cù una Vache-qui-rit, imprestà una pistola à un zitellu, cunduce briacu merzu...
+    </p>
+    <p>
+     2/ U selfinacciu
+Apre un serviziu pupulare di radiugrafia in selfie, scanner in selfie, IRM in selfie, da seduce a giuventù chì puderà mandà millaie di mortesecche « duck face » nant’à Snapchat !
+    </p>
+    <p>
+     3/ Fassi operà o ammuzzà pè nunda
+Cusì pè u piacè, pè a bellezza di u gestu, ch’ella crescessi l’attività di i chirurgichi. S’omu cerca, òrgani o membre inùtuli, ci n’hè parechji : l’orechje di i prugrammadori di NRJ, e ghjambe di i geek, u cerbellu di u mo cugnatu...
+    </p>
+    <p>
+     4/ Dumandà à u persunnale ospidalieru di travaglià di manere sulidaria è participativa
+ Fà una chjama pè ficcà una sciringa, un'operata pè purtà un brancale, esse vinti intornu à u lettu d’un disgraziatu chì hà chersu un bichjeru d’acqua... 
+Aiò, tutti, operai tronchjuli è paisani sgalabati hè venuta l’ora di furbisce falce è martellu è di ritruvassi à l’urgenze.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

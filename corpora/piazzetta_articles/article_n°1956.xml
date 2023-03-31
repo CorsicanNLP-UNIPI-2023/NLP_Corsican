@@ -1,0 +1,52 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Article n°1956
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Article-n-1956_a1956.html"/>
+     <date>
+      Tue, 23 Sep 2014 10:06:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Article n°1956
+   </head>
+   <div type="content">
+    <p>
+     http://www.alta-frequenza.com/podcast/storia_nustrali/02_02_2014_a_storia_di_pasquale_paoli_parties_1_2_et_3_66548  http://www.alta-frequenza.com/podcast/storia_nustrali/02_02_2014_a_storia_di_pasquale_paoli_parties_4_et_5_66549  http://www.alta-frequenza.com/podcast/storia_nustrali/09_02_2014_a_storia_di_pasquale_paoli_parties_6_7_et_8_66682  http://www.alta-frequenza.com/podcast/storia_nustrali/09_02_2014_a_storia_di_pasquale_paoli_parties_9_et_10_66683  http://www.alta-frequenza.com/podcast/storia_nustrali/26_02_2014_a_storia_di_pasquale_paoli_parties_11_12_et_13_66952  http://www.alta-frequenza.com/podcast/storia_nustrali/26_02_2014_a_storia_di_pasquale_paoli_parties_14_et_15_66982  http://www.alta-frequenza.com/podcast/storia_nustrali/14_03_2014_a_storia_di_pasquale_paoli_parties_16_17_et_18_67212  http://www.alta-frequenza.com/podcast/storia_nustrali/14_03_2014_a_storia_di_pasquale_paoli_parties_19_et_20_67230  http://www.alta-frequenza.com/podcast/storia_nustrali/21_03_2014_a_storia_di_pasquale_paoli_parties_21_22_et_23_67300  http://www.alta-frequenza.com/podcast/storia_nustrali/21_03_2014_a_storia_di_pasquale_paoli_parties_24_et_25_67358  http://www.alta-frequenza.com/podcast/storia_nustrali/28_03_2014_a_storia_di_pasquale_paoli_parties_26_27_et_28_67527  http://www.alta-frequenza.com/podcast/storia_nustrali/28_03_2014_a_storia_di_pasquale_paoli_parties_29_et_30_67559  http://www.alta-frequenza.com/podcast/storia_nustrali/02_04_2014_a_storia_di_pasquale_paoli_parties_31_32_et_33_67658  http://www.alta-frequenza.com/podcast/storia_nustrali/02_04_2014_a_storia_di_pasquale_paoli_parties_34_et_35_67706  http://www.alta-frequenza.com/podcast/storia_nustrali/09_04_2014_a_storia_di_pasquale_paoli_parties_36_37_et_38_67788$  http://www.alta-frequenza.com/podcast/storia_nustrali/11_04_2014_a_storia_di_pasquale_paoli_parties_39_et_40_67830  http://www.alta-frequenza.com/podcast/storia_nustrali/16_04_2014_a_storia_di_pasquale_paoli_parties_41_42_et_43_67904  http://www.alta-frequenza.com/podcast/storia_nustrali/18_04_2014_a_storia_di_pasquale_paoli_parties_44_et_45_67939
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tradizioni di a Settimana Santa in Bastia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Tradizioni-di-a-Settimana-Santa-in-Bastia_a1697.html"/>
+     <date>
+      Thu, 02 Apr 2015 12:30:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tradizioni di a Settimana Santa in Bastia
+   </head>
+   <div type="excerpt">
+    <p>
+     E tradizioni di a Settimana Santa in Corsica sò ricche assai. Eccune qualchì una in Bastia.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A Settimana Santa principia cù a dumenica di E Palme, chì marca l'entrata di Ghjesù in Gerusaleme induve fù accoltu è acclamatu da a ghjente chì facia sventulà palme. Ma quessa a sapiate chì avete tutti e vostre crucette, pesci è mazzuli d'alivi. Vicinu di Bastia, in a pieve di Lota si facenu sempre e pullezzule, da vede nant'à u foru Isula. 
+In Bastia u Ghjovi Santu hè u ghjornu induve sò messi in e chjese di a cità i sepòlcuri (in francese "reposoirs"). Un sepòlcuru hè una rapresentazione di a morte di Ghjesù Cristu, un crucifissu cù candele è fiori in giru. In certe chjese ci sò decori è pitture chì rapresentanu a Passione è chì si ponu vede solu stu ghjornu custì. Ci vole à visitanne un sciffru sparu : unu, trè, cinque o sette. Ci sò in e chjese di San Carlu, di A Cuncezziò, in San Ghjuvà, San Roccu, Santa Maria, San Ghjisè, Santa Croce... Sta tradizione esiste in d'altri lochi di Corsica. 
+A cena domini : u Ghjovi Santu currisponde à u mumentu induve Ghjesù Cristu pigliò u so ultimu ripastu cù i so discipuli, dettu a Cena o l'Ultima cena. A tradizione vole chì in memoria di st'ultimu ripastu si manghji a cena domini, vale à dì a cena di u Signore. Hè una suppa di paste è di ceci. 
+Stu ghjornu hè quellu di U Passiu, in francese "l'Office des ténèbres" chì si dice in San Carlu. Unu à unu quattordeci di i quindeci lumi di u candileru sò spenti. 
+Venneri hè u ghjornu di e viacruci. E prucessioni organizate da e numerose cunfraterne ammentanu a Passione di Cristu. In Brandu hè u ghjornu induve e cunfraterne facenu A Cerca. In parechji paesi si face a granitula, cum'è in U Viscuvatu. 
+È luni, s'è vo partite in merendella, ùn vi scurdate di piglià u vostru campanile, biscottu di Pasqua di forma tonda cù un ovu, sìmbulu di resurrezzione.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

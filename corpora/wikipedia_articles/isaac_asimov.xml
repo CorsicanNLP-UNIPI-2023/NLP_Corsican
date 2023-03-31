@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Isaac Asimov
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Isaac%20Asimov"/>
+     <date>
+      2018-05-06T19:18:17Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Isaac Asimov
+   </head>
+   <p>
+    Isaac Asimov, natu u 2 ghjennaghju 1920 à Petroviči (Russia) è mortu u 6 d’aprili 1992 à New York fubbe unu omu di scienza è scrivanu americanu di scienza fizzione.
+   </p>
+   <p>
+    Scrivanu
+   </p>
+  </body>
+ </text>
+</TEI>

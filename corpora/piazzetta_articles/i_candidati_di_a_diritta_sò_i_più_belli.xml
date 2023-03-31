@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I candidati di a diritta sò i più belli
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-candidati-di-a-diritta-so-i-piu-belli_a1038.html"/>
+     <date>
+      Sun, 27 Feb 2011 14:54:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I candidati di a diritta sò i più belli
+   </head>
+   <div type="excerpt">
+    <p>
+     In a seria di i studii chì ùn ghjovanu à nunda, eccune unu micca male. D'appressu à una inchiesta finlandese, l'omi pulitichi di diritta sarianu più belli ch'è quelli di manca. Eccu perchè riescenu megliu à l'elezzioni. Veramente ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ci vole à crede chì l'osservatori di a vita pulitica in u nordu di l'Auropa s'annoianu appena. Trè ecunumisti finlandesi è svedesi anu avutu a cunclusione chì i candidati di diritta sò più belli ch'è quelli di manca. 
+Da leghje : Pourquoi les candidats de droite sont les plus beaux nant'à u situ di u Nouvel Obs. 
+Anu dumandatu u so avisu à 2.500 persone nant'à u fìsicu di parechji candidati, è hè a diritta chì hà vintu. È cum'ellu si sà chì à l'elezzioni u fìsicu hè di più in più impurtante... U Figaro à di siguru ripigliatu st'infurmazione capitale. 
+D'appressu à i circadori, si pò pensà chì cum'elli sò ricchi, sò dunque belli è attenti à u fìsicu. È cum'elli sò ricchi, anu menu a voglia di sparte e ricchezze. Dunque sò di diritta. 
+Invece, quelli di manca facenu di più attenzione à l'argumenti è menu à l'apparenza. Ùn hè micca Ange Rovere chì dicerà u cuntrariu. 
+Dopu à 2000 anni di demucrazia, eccu induve ne semu. In un mondu chì hè di più in più quellu di l'apparenze è di e fiure, si face di più in più attenzione à a chigna, u surrisu, a giuventù, i capelli lisci è pettinati... ma per ciò chì hè di u discorsu è di l'argumentariu, aspetteremu. 
+Bon, di siguru stu studiu assai seriu ùn parla micca di a Corsica è ùn mintuveghja micca nè i centristi nè i naziunalisti. Ùn hè micca siguru ch'è no appiamu avutu listessi risultati ind'è noi... 
+È voi, chì ne pensate ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Julie Warner
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Julie%20Warner"/>
+     <date>
+      2015-07-01T18:43:51Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Julie Warner
+   </head>
+   <p>
+    Julie Warner hè un'attrice americana.
+   </p>
+   <p>
+    Warner, Julie
+   </p>
+   <p>
+    Warner, Julie
+   </p>
+  </body>
+ </text>
+</TEI>

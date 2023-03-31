@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mike Tyson
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Mike%20Tyson"/>
+     <date>
+      2015-07-06T12:45:16Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Mike Tyson
+   </head>
+   <p>
+    Mike Tyson hè un pugilistu americanu natu u 30 di ghjugnu di u 1966. Fubbe parechje volte campione di u mondu.
+   </p>
+   <p>
+    Tyson
+   </p>
+  </body>
+ </text>
+</TEI>

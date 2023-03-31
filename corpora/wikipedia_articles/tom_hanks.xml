@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tom Hanks
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Tom%20Hanks"/>
+     <date>
+      2017-03-13T20:22:56Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tom Hanks
+   </head>
+   <p>
+    Tom Hanks (9 lugliu 1956) hè un attore americanu. Hè statu numinatu cinqui volte pè un Oscar pè u megliu attore in un rollu principale. Hà guadagnatu dùie volte, pè i filmi Philadelphia (USA 1992/93) è Forrest Gump (USA 1994).
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Saving Private Ryan
+   </p>
+   <p>
+    Matt Damon
+   </p>
+   <p>
+    Steven Spielberg
+   </p>
+   <p>
+    Hanks, Tom
+   </p>
+   <p>
+    Hanks, Tom
+   </p>
+  </body>
+ </text>
+</TEI>

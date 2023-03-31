@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Principia l'annu di a scimia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Principia-l-annu-di-a-scimia_a2339.html"/>
+     <date>
+      Mon, 08 Feb 2016 12:11:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Principia l'annu di a scimia
+   </head>
+   <div type="excerpt">
+    <p>
+     Bon dì, bon annu, è bon capu d'annu à tutti. Hè principiatu l'annu di a scimia. In China sò previsti parechji ghjorni di festa, è in Corsica dinù seranu parechji à rende omagiu à l'animale.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     D'appressu à u calindariu chinese, s'entre dunque in l'annata di a scimia. Da Pecchinu à Chinatown sò previsti parechji ghjorni di festa. 
+Per esse più precisi, entremu in l'annata di a "scimia di focu". È s'ampara ch'ellu hè bon segnu. Le Figaro ci dice chì ; 
+"Le singe est connu pour être malin, charmeur, chanceux, intuitif et inventif. Son côté joueur, sociable, son agilité et son attitude imprévisible l'amènent à prendre des risques et à trouver des idées innovantes. Exubérant et dynamique, il est ingénieur ou artiste dans l'âme." 
+Cusì, Ghjuliu Cesaru, Leunardu da Vinci, Charles Dickens, Mick Jagger, ma ancu Jacques Chirac, Kim Kardashian, Marine Le Pen è Céline Dion sò nati sott'à u segnu di scimia. Hè veramente bon segnu dunque. 
+È in Corsica ? S'è no sapemu chì à l'antichità c'eranu scimiette chì campavanu in Corsica (scimie "magot" d'appressu à l'autori antichi), a scimia hè sopr'à tuttu assuciata à a cunsumazione eccessiva di bivenda alculizata. À a briachina, a sborgna chè. 
+Face una stonda chì in Corsica si festighjeghja l'annu di a scimia. Per una volta, avemu ancu appena d'avanzu nant'à Chinesi.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

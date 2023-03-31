@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A lingua francese camperà !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-lingua-francese-campera-_a1519.html"/>
+     <date>
+      Wed, 20 Mar 2013 23:56:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A lingua francese camperà !
+   </head>
+   <div type="excerpt">
+    <p>
+     Avemu avutu a paura, ma Jean-Pierre Chevènement, Michel Charasse è Angelo Rinaldi ùn averanu micca bisognu di Lexomil pè dorme sta notte.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A ratificazione di a càrtula di e lingue minuritarie è regiunali ùn hè sempre micca à u prugramma. Era a prumessa di campagna nùmeru 56 di François Hollande. 
+A canzona, avà pò a cunniscite per core : « La langue de la République est le français » (articulu 2 di a Constitution). 
+À u Paese Bascu, in Brittagna o in Alsazzia sò numerose e dillusione. 
+Paul Giacobbi dice ch'ellu si ne parlerà à a CTC, ma per avà e porte in Parigi sò chjose è blindate. 
+I sempiterni opponenti à a lingua corsa ci diceranu cum'è sempre chì sta misura hè simbòlica è ch'ella ùn impedisce micca a ghjente di parlà. 
+Sigura, ma quandu durante più di duie centu anni avete messu in capu à a ghjente di stu paese chì a so lingua era una lingua di pastori ch'ùn merita di campà, hè appena di più cumplicatu chè quessa. 
+Per salvà una lingua in perìculu ci hè bisognu di misure forte. In quant'à l'insignamentu di u corsu à a scola, u sistema attuale ùn basta è ci hè bisognu d'andà più luntanu. Senza obligazione, senza interessu ecunòmicu, una lingua hè morta. 
+Oghje, i figliulini di l'abbé Grégoire, i partigani di l'uniformizazione è i dinosauri anti-lingua corsa tenenu forte. 
+D'appressu à l'UNESCO, 6 000 lingue parlate oghje averanu smaritu da quì à a fine di u seculu; Forse u corsu serà una di queste quì. Trippa pè l'apertura nant'à u mondu latinu, trippa pè tene e radighe d'una lingua vechja di 2000 anni. 
+Hè cusì, u francese deve campà. A lingua corsa deve more. Ùn ci vulia micca à perde in Ponte Novu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cumu si dice "sexiste" in corsu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cumu-si-dice-sexiste-in-corsu_a1600.html"/>
+     <date>
+      Tue, 09 Jul 2013 22:17:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cumu si dice "sexiste" in corsu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Ci vulerebbe à dì "sessistu". Cum'è a publicità sessista è dimmula franca, ancu appena "beauf" ch'ellu si vede appena da per tuttu in Corsica per un'acqua.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ùn sò l'esempii di publicità sessiste chì mancanu. Fiure induve e donne sò sprezzate, mustrate cum'è pezzi di carne o sottumesse ci n'hè tant'è più. Per favvi una piccula idea andate à vede stu situ. 
+U peghju, hè ch'ellu ci n'hè tantu ch'ellu ùn si face mancu più casu. Da leghje : Publicités sexistes : les Français les réprouvent... mais ne les voient pas. 
+Pensavate ch'ella era finita sta "beaufitude" di u seculu passatu ? Era sottustimà a capacità di l'intraprese di cummunicazione. 
+Quist'annu quella chì hà fattu forte hè quella chì hà fattu a pubba pè Zilia. Per vende l'acqua, nunda di megliu chè un culu. Normale. 
+Ci vole à dì chì in Corsica, e donne sò sempre cusì valurizate. Per quessa si pò cuntà nant'à Paul-Marie Bartoli. Ùn si pò micca presentà à l'elezzione ? Chì pò fà, mette a so moglia per un certu tempu in prima pusizione è dopu vulterà à piglià a so piazza.
+    </p>
+    <p>
+     Annu passatu, era a campagna di u Syvadec chì avia fattu parlà d'ella.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

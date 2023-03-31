@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mancu i soldi di u nostru turisimu sò per noi
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Mancu-i-soldi-di-u-nostru-turisimu-so-per-noi_a1592.html"/>
+     <date>
+      Sat, 22 Jun 2013 11:59:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Mancu i soldi di u nostru turisimu sò per noi
+   </head>
+   <div type="excerpt">
+    <p>
+     Ùn hè micca una magagna, hè un corsu chì hà da investisce in u grandissimu FC Tours è u so passatu gluriosu di 4 anni in lega 1 per salvallu d'una falata in naziunale via di a DNCG.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Amparemu chì u debbitu saria di l'ordine di 3 millioni d'euri è chì Jean-Marc Ettori, presidente di Corsica Tours (sans jeu de mots) è dinù di l'A.S.P.V. hè prontu à copre lu. 
+A raghjone d'issa passione : "Corsicatours a un pied en Touraine, via un partenariat avec l'aéroport de Tours qui propose des lignes hebdomadaires (de mai à septembre) vers Figari et Ajaccio" si pò leghje in a stampa lucale. 
+Forse ci vole à vede quì una manera di salvà impieghi staghjunali corsi. 
+Hè vera chì in Corsica squadre prufessiunale di ballò ùn ci ne hè assai è chì ci vole à circà le in a Francia prufonda.  Hè vera dinù chì e squadre corse sò ricche vistu chì u Gazelec hà solu bisognu di dumandà 1 millione d'euri à a CTC per esse mantenutu in naziunale.  Hè vera dinù chì strutture in Corsica ci ne hè à buzeffu vistu chì sò soli vint'anni ch'aspettemu un stadiu finitu è chì avà ci tocca quasgi à rifà lu talmente hè anzianettu.  È po in ssi tempi di crisa è una bona per "l'image de la Corse" d'esse generosu incù l'altri è di sparte e nostre ricchezze nò ? 
+In Corsica i soldi sarianu boni à piglià mà micca à investisce ?  U turisimu un hè micca privistu per sviluppà ?  I club corsi averanu à aspettà i qatari per avè i soldi ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

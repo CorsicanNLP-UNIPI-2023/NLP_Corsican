@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Nutella
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Nutella"/>
+     <date>
+      2016-05-30T03:48:09Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Nutella
+   </head>
+   <p>
+    (A) Nutella (cù o senza l'artìculu) hè una crema di cicculata populare chi vene à l'orìgine d'Italia, chi hè cunnusciuta in assai paesi.
+   </p>
+  </body>
+ </text>
+</TEI>

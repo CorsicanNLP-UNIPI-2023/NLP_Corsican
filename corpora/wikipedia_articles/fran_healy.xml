@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Fran Healy
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Fran%20Healy"/>
+     <date>
+      2014-03-23T14:20:21Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Fran Healy
+   </head>
+   <p>
+    Fran Healy hè u frontman di u gruppu di rock scuzzese Travis.
+   </p>
+   <p>
+    Healy,Fran
+   </p>
+   <p>
+    Healy,Fran
+   </p>
+  </body>
+ </text>
+</TEI>

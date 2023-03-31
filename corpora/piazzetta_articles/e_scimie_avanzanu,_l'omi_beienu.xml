@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     E scimie avanzanu, l'omi beienu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-scimie-avanzanu-l-omi-beienu_a1165.html"/>
+     <date>
+      Wed, 14 Sep 2011 23:07:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    E scimie avanzanu, l'omi beienu
+   </head>
+   <div type="content">
+    <p>
+     A saperete avà, noi altri di A Piazzetta, simu spessu impenseriti. 
+L’altru eri, pè cambià appena l’idee (è postu ch’ellu c'era stu calore di u Diavule), tutta a squadra di u blog hà decisu d’andà à u sinemà per fidighjà un filmu catastrofa, cum’è i Mericani ne sanu fà tantu è tantu. Era un bellu spetaculu : Rise of the Planet of the Apes, chì si puderebbe traduce à la lestra “A mossa di u pianeta di e scimie”. 
+À principiu, sò simpatichelli, quelli animalotti, ricchi di spressioni umane. Ma dopu, per via di una medicina chì face cresce l’ingeniu è u ghjudiziu, s’annerbanu è sciappanu tuttu è tutti. È ghjè l’invasione. 
+Sta volta, ùn si tratta micca di i Pinzuti, di l’Arabi o di i Chinesi. A minaccia nova sò e scimie. Un nimicu di più pè l’industria di u filmu, diceriste. U prublema hè chì forse l’affari incù e scimie so digià in francese (tandu, ùn sapemu micca sì e scimie parlanu francese, pò esse). Vulemu dì chì e scimie anu principiatu à richjappà u so pretesu ritardu : 
+- Pochi mesi fà, una scimia hà riesciutu à pigliassi in fottò  - Una altra hà pigliatu à mitragliate parechji suldati in Africa à colpi d’AK-47  - In stu ducumentariu Ape Genius, ci prisentanu Koko, un gurillu di 120 kg chì parla a lingua di i segni, Azy, un urangutanu chì risolve prublemi di matematica è ancu Kanzi, chì capisce 3000 parolle d’inglese. 
+Allora, a fine per l’umani ? Per avà, mancu. Un sapiente spezialistu di i primati ci permette di spenseracci ; segondu ellu, ùn risichemu nunda di e scimie perchè malgradu e so qualità, anu parechji difetti spiumbati : ùn anu nisunu sensu di a cumunità, sò ghjelosi trà d'elli, si lacanu purtà da i so affetti, sò viulenti, impulsivi è vinditteri. 
+Hè vera, nunda à chì vede incù l’umani, simu salvi !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

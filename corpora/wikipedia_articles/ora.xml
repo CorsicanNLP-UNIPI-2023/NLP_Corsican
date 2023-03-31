@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ora
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Ora"/>
+     <date>
+      2015-07-02T01:23:16Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ora
+   </head>
+   <p>
+    L'ora hè una misura di u tempu.
+   </p>
+   <p>
+    ==Citazioni==
+   </p>
+   <p>
+    L'ora hè mintuvata à spessu in a litteratura è a cultura corsa. Par asempiu, in i pruverbii:
+   </p>
+   <p>
+    In una ora, Diu lavora.
+   </p>
+   <p>
+    Nanzi ghjunta la so ora, nè si nasci nè si mori.
+   </p>
+   <p>
+    Ora vivu ora mortu.
+   </p>
+   <p>
+    ==Rifarenzi==
+   </p>
+   <p>
+    Saravelli-Retali, 1976, A vita in Corsica per via di i pruverbii è i detti - La vie en Corse à travers proverbes et dictons, Nice: Don Bosco
+   </p>
+   <p>
+    Fisica
+   </p>
+  </body>
+ </text>
+</TEI>

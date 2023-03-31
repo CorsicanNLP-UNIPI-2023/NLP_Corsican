@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Balena morta in Aiacciu : avia anch'ella manghjatu à u Quick ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Balena-morta-in-Aiacciu-avia-anch-ella-manghjatu-a-u-Quick_a1019.html"/>
+     <date>
+      Sat, 29 Jan 2011 10:07:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Balena morta in Aiacciu : avia anch'ella manghjatu à u Quick ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Una vìttima nova in l'affare di u hamburger avvelenatu ? Una balena hè stata trova morta à A Parata, in Aiacciu. Per avà l'anàlisi ùn permettenu micca di dì s'ellu si tratta d'una intussicazione alimentaria.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Corse-Matin è Alta Frequenza anu fattu casu sta settimana d'una balena ritruvata morta nant'à u mare di A Parata. 
+A pulizza hà messu da cantu l'ipòtesi d'un assassiniu è d'una vindetta da trà bande rivale di a Brise de Mer o di u Petit Bar. 
+Invece, si sà chì a povera balena avia manghjatu à u Quick a vigilia. Avia pigliatu un "Extra Long Beef pepper". Trè ore dopu, a tinta hà resu è hà avutu diarrìa. U lindumane, a pena in capu era sempre forte. I succorsi ùn anu pussutu fà nunda. 
+Per avà, ùn si sà s'ellu si pò parlà d'una intussicazione alimentaria o nò.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

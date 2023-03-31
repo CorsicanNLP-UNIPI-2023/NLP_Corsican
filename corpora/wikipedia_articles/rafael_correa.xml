@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Rafael Correa
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Rafael%20Correa"/>
+     <date>
+      2015-07-07T21:15:09Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Rafael Correa
+   </head>
+   <p>
+    Rafael Correa (natu à Guayaquil u 6 aprile di u 1963) hè u presidente di l'Ecuador.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Sixto Durán Ballén
+   </p>
+   <p>
+    León Febres Cordero
+   </p>
+   <p>
+    Correa
+   </p>
+  </body>
+ </text>
+</TEI>

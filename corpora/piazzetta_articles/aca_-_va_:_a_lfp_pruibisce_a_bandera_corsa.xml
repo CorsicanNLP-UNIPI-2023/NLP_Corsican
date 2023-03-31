@@ -1,0 +1,76 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     ACA - VA : a LFP pruibisce a bandera corsa
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/ACA-VA-a-LFP-pruibisce-a-bandera-corsa_a2003.html"/>
+     <date>
+      Fri, 24 Oct 2014 20:06:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    ACA - VA : a LFP pruibisce a bandera corsa
+   </head>
+   <div type="excerpt">
+    <p>
+     U delegatu di a partita ACA - Valenciennes hà vulsutu pruibisce chì i zitelli chì entrenu nant'à u terrenu apiinu una bandera corsa, hè Alta Frequenza chì l'hà fatta sapè.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Torna una "bandera gate" sta dumenicata ? Ùn pare micca chì a LFP provi à appacià l'affari. 
+Hè u situ di a radio Alta Frequenza chì a face sapè. 
+In un cummunicatu, l'ACA dice chì u delegatu di a LFP hà fattu sapè "qu'il serait interdit de pénétrer sur la pelouse si les enfants accompagnant les joueurs avaient une bandera à la main". 
+Sì a LFP circava à pruvucà incidenti, a più bella manera di riesce era siguramente questa quì...
+    </p>
+    <p>
+     Football (Ligue 2) - Le drapeau corse interdit sur la pelouse de Timizzolu par la LFP http://t.co/8vS1Pgg3hy via @alta_frequenza
+— Alta Frequenza (@alta_frequenza) 24 Octobre 2014
+    </p>
+    <p>
+     #ajaccio#corse. Des drapeaux corses interdits sur la pelouse pour ACA/Valenciennes. L'ACA passe outre l'injonction du délégué.
+— France Bleu RCFM (@FranceBleuRCFM) 24 Octobre 2014
+    </p>
+    <p>
+     Interdiction bravée par l'@ACAofficiel ! Bravo. Y aura-t-il des sanctions de la Ligue ? #LT #çavatroploin pic.twitter.com/OU7R1hwtz8
+— Adrien Verrecchia (@Adrien_Ve) 24 Octobre 2014
+    </p>
+    <p>
+     Drapeau corse interdit à Timizzolu : l'AC Ajaccio parle de racisme anti-corse http://t.co/xsndtB1OnD via @alta_frequenza
+— Alta Frequenza (@alta_frequenza) 24 Octobre 2014
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

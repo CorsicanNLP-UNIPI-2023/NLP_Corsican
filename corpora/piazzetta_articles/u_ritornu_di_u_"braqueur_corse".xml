@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U ritornu di u "braqueur corse"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-ritornu-di-u-braqueur-corse_a1943.html"/>
+     <date>
+      Sat, 13 Sep 2014 00:49:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U ritornu di u "braqueur corse"
+   </head>
+   <div type="excerpt">
+    <p>
+     Di quandu in quandu, si ne sente parlà. L'averete rimarcata, ùn si parla mai di l'orìgine di i malfattori. Ùn viderete mai "voyou picard", "truand bourguigon" o di "braqueur francilien". Invece, "truand corse", sì.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Bon d'accordu, ùn ci hè nunda di novu, ùn hè micca a prima volta è siguramente micca l'ultima. Ma era solu per signalavvila. U "truand corse" hè di ritornu in l'attualità. 
+Aspettemu sempre chì l'orìgine di i voyous sia sistematicamente ammintata in a stampa. Ma nò. Sempre nisuna traccia di voyou aquitain, mosellan, berrichon o cévenol. 
+Sta volta hè Europe 1 chì hà cappiatu l'infurmazione, ripigliata da tutti i media, 20 minutes u primu. 
+Ùn ci ricunnoscenu nisuna specificità, simu "des français comme les autres" è femu parte di a grande nazione "une et indivisible"... fora di tuttu ciò chì tocca à u mezu, i malfattori, i sgaiuffi, i maffiuselli. 
+Custì tandu, li piace à insiste nant'à l'orìgine. 
+Bah, pigliemula cum'è una sorte di ricunniscenza...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

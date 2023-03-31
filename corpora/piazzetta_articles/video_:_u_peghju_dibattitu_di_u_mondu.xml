@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Video : u peghju dibattitu di u mondu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Video-u-peghju-dibattitu-di-u-mondu_a1364.html"/>
+     <date>
+      Sun, 10 Jun 2012 00:15:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       LEGISLATIVE-2012
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Video : u peghju dibattitu di u mondu
+   </head>
+   <div type="excerpt">
+    <p>
+     U dibattitu di a prima circuscrizzione di Corsica Suprana in menu di dece minuti.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Tutti i dibattiti sò da vede nant'à u situ di France 3.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Nò, ùn ci vulia micca à ghjucà Grenoble
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/No-un-ci-vulia-micca-a-ghjuca-Grenoble_a1090.html"/>
+     <date>
+      Sat, 30 Apr 2011 16:15:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Nò, ùn ci vulia micca à ghjucà Grenoble
+   </head>
+   <div type="excerpt">
+    <p>
+     A vuciata parlava d'un macciu arrangiatu trà Tours è Grenoble, è sò stati centinaie di Corsi à ghjucà... è à fassi cugliunà.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A Française des Jeux hà fattu siguramente a ricetta di l'annu in Bastia sta settimana. A voce dicia chì in L2 c'era un macciu arrangiatu : Tours ricevia à Grenoble è li lasciava a partita. 
+Tandu, sò decine è decine d'addisperati à lampassi à Cote &amp; Match pè ghjucà una vittoria di Grenoble. È tuttu andava bè, dopu à 50 minuti di ghjocu facia 2 à 0 pè i visitori. 
+Ma in l'ultimi minuti Tours signava duie rete è vultava à 2 à 2... 
+Risultatu : depressione nera è suppa di musu pè quelli chì avianu messu assai soldi nant'à sta partita. Quantu sò à avè messu 500, 1000 o 2000 eurò è ancu di più ? Si dice chì certi anu ghjucatu sin'à 10.000 eurò... pè u risultatu ch'ellu si sà. 
+U grande nùmeru di scumesse hè diventatu suspettu à tal puntu chì a FDJ hà cacciatu a partita è ch'ella hà dumandatu un'inchiesta. 
+Ùn averemu mai u nùmeru esattu di i cuglioni chì si sò fatti intrappulà da a Française des Jeux. È serà megliu, perchè u sciffru di sti soldi persi pè nunda risicheghja di fà assai male. 
+Al dilà di a lezzione chì speremu certi averanu ritenutu ("oui fraté de source sûre le match il est arrangé..."), ci hè da riflette nant'à st'attiranza pè u soldu faciule è i ghjochi di soldi. Hè siguramente u segnu d'una sucetà malata è sottu sviluppata. 
+L'infurmazione hè data ancu da u Figaro : Provenant en majorité de Corse, ces paris donnaient pour beaucoup la lanterne rouge iséroise vainqueur (cote moyenne à près de 4). 
+Pè cuntinuvà à fà biscà, eccu a chignaccia di Christophe Blanchard-Dignac, u P-DG di a Française des Jeux è chì centinaie di Corsi anu spulatu i so soldi :
+    </p>
+    <p>
+     Site cuntenti avà ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

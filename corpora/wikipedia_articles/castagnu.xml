@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Castagnu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Castagnu"/>
+     <date>
+      2013-03-08T01:18:48Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Castagnu
+   </head>
+   <p>
+    C. alnifolia - Castagnu di Bush
+   </p>
+   <p>
+    C. crenata - Castagnu Sgiappunesu
+   </p>
+   <p>
+    C. dentata - Castagnu Americanu
+   </p>
+   <p>
+    C. henryi - Castagnu di Henry
+   </p>
+   <p>
+    C. mollissima - Castagnu Chinesu
+   </p>
+   <p>
+    C. ozarkensis - Castagnu d'Ozark
+   </p>
+   <p>
+    C. pumila - Castagnu d'Alleghany
+   </p>
+   <p>
+    C. sativa -
+   </p>
+   <p>
+    C. seguinii - Castagnu di Seguin
+   </p>
+   <p>
+    Flora di Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

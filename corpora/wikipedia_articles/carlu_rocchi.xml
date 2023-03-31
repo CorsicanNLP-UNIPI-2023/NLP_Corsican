@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Carlu Rocchi
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Carlu%20Rocchi"/>
+     <date>
+      2017-12-12T21:47:28Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Carlu Rocchi
+   </head>
+   <p>
+    Carlu Rocchi era un cantadore corsu, natu in u 1920 à Rusiu è mortu u 5 ferraghju 2010 à Corti.
+   </p>
+   <p>
+    Cantadori corsi
+   </p>
+  </body>
+ </text>
+</TEI>

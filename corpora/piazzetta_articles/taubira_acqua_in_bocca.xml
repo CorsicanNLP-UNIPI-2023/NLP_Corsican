@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Taubira acqua in bocca
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Taubira-acqua-in-bocca_a1448.html"/>
+     <date>
+      Mon, 26 Nov 2012 21:57:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Taubira acqua in bocca
+   </head>
+   <div type="content">
+    <p>
+     Stranu, stu ritrattu pigliatu luni di Christiane Taubira in Aiacciu è publicatu nant'à u contu Twitter di Via Stella. 
+Chì serà u messagiu subliminale chì a ministra di a ghjustizia hà vulsutu facci passà ? 
+Serà una campagna anti alcoolìsimu ?  Vulerà dì chì "l'état de droit" passa pè a bocca di San Ghjorghju ?  Una discriminazione anti Zilia è anti Orezza ? 
+O forse ghjustu un'illustrazione di a spressione "acqua in bocca" ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

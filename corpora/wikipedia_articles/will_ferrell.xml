@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Will Ferrell
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Will%20Ferrell"/>
+     <date>
+      2016-09-22T09:27:21Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Will Ferrell
+   </head>
+   <p>
+    William "Will" Reilly (California, 16 lugliu 1967) hè un attore americanu.
+   </p>
+   <p>
+    Ferrell, Wll
+   </p>
+   <p>
+    Ferrell, Will
+   </p>
+  </body>
+ </text>
+</TEI>

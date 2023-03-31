@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Riello (León)
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Riello%20%28Le%C3%B3n%29"/>
+     <date>
+      2019-07-01T20:50:44Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Riello (León)
+   </head>
+   <p>
+    Riello hè una cumuna spagnola di a pruvincia di León, in a cumunità autonoma di Castiglia è León.
+   </p>
+   <p>
+    Spagna
+   </p>
+   <p>
+    Giugrafia
+   </p>
+  </body>
+ </text>
+</TEI>

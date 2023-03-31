@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Puma
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Puma"/>
+     <date>
+      2016-10-25T18:01:53Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Puma
+   </head>
+   <p>
+    U puma (Puma concolor), hè un mammiferu carnivoru chì appartene à a famiglia di e Felidae. U puma hè prisente in America di u Nordu, Centrale è Suttana.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    lionu
+   </p>
+   <p>
+    gattu
+   </p>
+   <p>
+    Felidae
+   </p>
+   <p>
+    Mammalia
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Raffarin nant'à e scruccunerie di Sarkozy : "Comme dans le foot, l'essentiel, c'est que l'arbitre ne le voie pas"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Raffarin-nant-a-e-scruccunerie-di-Sarkozy-Comme-dans-le-foot-l-essentiel-c-est-que-l-arbitre-ne-le-voie-pas_a1962.html"/>
+     <date>
+      Fri, 26 Sep 2014 00:53:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Raffarin nant'à e scruccunerie di Sarkozy : "Comme dans le foot, l'essentiel, c'est que l'arbitre ne le voie pas"
+   </head>
+   <div type="excerpt">
+    <p>
+     "Comme dans le foot, l'essentiel, c'est que l'arbitre ne le voie pas". O di piglià à Tony Chapron cum'è direttore di ghjocu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     E metàfore futbalìstiche sì prestanu bè à a vita pulìtica, è à e scruccunerie dinù. Piacenu ancu à Jean-Pierre Raffarin (chì hà nigatu dopu). 
+Hè u situ Le Lab chì raporta sta frasa di l'anzianu primu ministru, in Le Point : 
+"Les affaires, c'est comme dans le football. On peut toucher le ballon avec la main ; l'essentiel, c'est que l'arbitre ne le voie pas." 
+Quessa, hè detta.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

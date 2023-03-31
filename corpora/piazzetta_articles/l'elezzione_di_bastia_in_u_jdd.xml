@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     L'elezzione di Bastia in u JDD
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/L-elezzione-di-Bastia-in-u-JDD_a1739.html"/>
+     <date>
+      Sun, 20 Apr 2014 14:32:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    L'elezzione di Bastia in u JDD
+   </head>
+   <div type="content">
+    <p>
+     U JDD hà fattu un articulu nant'à l'elezzione municipale in Bastia : Comment les nationalistes ont conquis Bastia. 
+Ma forse, ùn anu micca capitu tuttu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

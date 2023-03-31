@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Nanardu, a glassa
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Nanardu-a-glassa_a1524.html"/>
+     <date>
+      Mon, 25 Mar 2013 23:48:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Nanardu, a glassa
+   </head>
+   <div type="excerpt">
+    <p>
+     Si pò cuntà nant'à Bernard Tapie pè alzà u livellu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ùn avemu ancu finitu di parlà di Nanardu. 
+Quellu chì hà pigliatu a testa di La Provence è Nice-Matin cù una banda d'amichi simpàtichi (Olivier Mazerolle à La Provence, cù i cunsiglii di Patrick Le Lay è Jacques Séguéla) hà turnatu à fà parlà d'ellu sta dumenicata. 
+Le Monde raporta ch'ellu averia dettu sta frasa, piena di glassa : 
+"Je ne vais pas augmenter les journalistes pour qu'ils aillent se payer des putes !". 
+Ah iè, hà dettu dinù ch'ellu vole occupassi di a furmazione di giovani corsi è apre furmazioni à i mistieri di cummerciu in i lucali di Corse-Matin in Aiacciu. 
+Cummencia bè.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

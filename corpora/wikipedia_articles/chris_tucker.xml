@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chris Tucker
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Chris%20Tucker"/>
+     <date>
+      2017-05-24T17:47:05Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chris Tucker
+   </head>
+   <p>
+    Christopher Tucker (31 d'aostu 1971) hè un attore americanu.
+   </p>
+   <p>
+    Tucker, Chris
+   </p>
+   <p>
+    Tucker, Chris
+   </p>
+  </body>
+ </text>
+</TEI>

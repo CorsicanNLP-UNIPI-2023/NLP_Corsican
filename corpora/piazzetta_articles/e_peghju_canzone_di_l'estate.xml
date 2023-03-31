@@ -1,0 +1,80 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     E peghju canzone di l'estate
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-peghju-canzone-di-l-estate_a1378.html"/>
+     <date>
+      Wed, 27 Jun 2012 17:23:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    E peghju canzone di l'estate
+   </head>
+   <div type="excerpt">
+    <p>
+     Una musica chè vo sentite 14 volte à ghjornu, una riturnella chì ùn sorte più di u vostru capu, un clip induve tuttu u mondu hè à pelu... Nisun dubbitu, hè un "tube di l'estate".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     una canzona ch'hè vo sentite da a mane à a sera à a radio, è chì passa 2 o 3 volte in buatta è in e feste di paese, quand'è vo site à tappu di Johnnie-Coca. 
+1985  Jean-Pierre Mader - Macumba  Baltimora - Tarzan Boy 
+1987  Sabrina - Boys 
+1988  David et Jonathan - Est-ce que tu viens pour les vacances ? 
+1989  Kaoma - Lambada 
+1990  Soca dance de Charles D. Lewis (1990) 
+1991  Yannick Noah – Saga Africa 
+1993  Les G.O. Culture - Darla Dirladada 
+1994  Reel 2 Real - I Like To Move It 
+1995  Felicidad - Dam dam deo (dance latino)  Indian's Sacred Spirit - Yeha Noha (TF1)  John Scatman - "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)" 
+1996  Los del Río - Macarena (M6)  La Bouche - Be My Lover (dance)  Tic Tic Tac de Carrapicho, un des tube du cru 1996  Wes - Alane 
+1997  Bellini - Samba de Janeiro  Paradisio - Bailando  Sacred Spirit sont les artistes de l'été 1995 pour TF1, avec leur titre Yeha Noha  Ricky Martin - Maria 
+1998  Hermes House Band - I Will Survive  Pata Pata de la chanteuse Coumba Gawlo est un des tubes de l'été 1998  1998, les Nomads font un carton avec leur tube Kayalelo  Eiffel 65 et les petits hommes bleu du tube Blue (Da ba dee) sont les stars de l'été 1998  La Tribu de Dana, Manau (1998) 
+1999  Lou Bega : Mambo n°5 
+2002  Asereje fait de Las Ketchup les stars de l'été 2002. 
+2003  Chihuahua de DJ Bobo est utilisé dans une publicité pour Coca-Cola en 2003  Dis l'heure 2 Zouk - Laisse parler les gens 
+2004  Dragosta Din Teï, un des tubes de l'été 2004  Aventura - Obsesion 
+2005 : Juanes - La camisa negra 
+2010 : Shakira - Waka waka
+    </p>
+    <p>
+     1985 : Macumba, Jean-Pierre Mader 
+L'annu 1985 vede a nascita di a new-wave francese è Jean-Pierre Mader si piglia per un marinaru cun Macumba. Si piglia ancu qualchì cazzottu in u clip. 
+Hè dinù l'annu di Tarzan Boy di u gruppu Baltimora. Un grande mumentu di l'anni 80.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Simon Renucci riesce à fà a leia trà #1casa1bandera è #jesuischarlie
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Simon-Renucci-riesce-a-fa-a-leia-tra-1casa1bandera-e-jesuischarlie_a2121.html"/>
+     <date>
+      Sun, 11 Jan 2015 15:59:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Simon Renucci riesce à fà a leia trà #1casa1bandera è #jesuischarlie
+   </head>
+   <div type="content">
+    <p>
+     Assai mondu in Aiacciu è Bastia. 
+Simon Renucci ellu hà riesciutu a prova d'addunisce a mossa "una casa una bandera" cun quella di "nous sommes Charlie".
+    </p>
+    <p>
+     Simon charli'berté@SimonRenucci@EngelsFriedrich @RenucciRenucci @PeroniValerie pic.twitter.com/HpOWoA9euv
+— Celine Rolland (@Aiaccini24) 11 Janvier 2015
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

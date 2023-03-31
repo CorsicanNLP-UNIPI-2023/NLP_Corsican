@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Jennifer Saunders
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Jennifer%20Saunders"/>
+     <date>
+      2015-07-01T19:05:29Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Jennifer Saunders
+   </head>
+   <p>
+    Jennifer Jane Saunders hè un'attrice inglesa.
+   </p>
+   <p>
+    Saunders, Jennifer
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sarko è e lingue regiunali
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Sarko-e-e-lingue-regiunali_a1276.html"/>
+     <date>
+      Mon, 20 Feb 2012 16:45:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       PRESIDENZIALI-2012
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sarko è e lingue regiunali
+   </head>
+   <div type="excerpt">
+    <p>
+     "Quand on aime la France, on ne propose pas de ratifier la charte des langues régionales". Difficiule d'esse più chjari.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cuntinuvemu u nostru giru di i candidati à l'elezzioni presidenziali. Dopu à Marine Le Pen "le bilinguisme c'est extrêmement grave") è nanzu à Jean-Luc Mélenchon (chì ghjunghje à mumenti...) eccu ciò ch'ellu hà dettu Nicolas Sarkozy in u so discorsu di Marseglia : 
+Quand on aime la France, on ne propose pas de ratifier la charte des langues régionales qui n’a pas pour but de faire vivre les langues régionales dans lesquelles je crois, mais de reconnaitre des droits linguistiques à toutes les minorités et de les placer sous le contrôle d’une Cour européenne qui jugera sans tenir compte de notre histoire nationale et de notre tradition républicaine. C’est le communautarisme qui est au bout du chemin et pas la défense d’un magnifique patrimoine de langues et de cultures qui font la richesse de notre pays. 
+Micca ratificazione di a cartula di e lingue minoritarie, micca ubligazione di l'insignamentu. 
+Sarko dice ch'ellu volde difende e lingue regiunali... ma e lascia more pocu à pocu. 
+Ùn puderete più dì ch'è vo ùn a sapiate micca.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

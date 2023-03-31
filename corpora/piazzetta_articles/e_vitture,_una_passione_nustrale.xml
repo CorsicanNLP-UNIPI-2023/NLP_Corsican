@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     E vitture, una passione nustrale
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-vitture-una-passione-nustrale_a1986.html"/>
+     <date>
+      Sun, 12 Oct 2014 10:44:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    E vitture, una passione nustrale
+   </head>
+   <div type="excerpt">
+    <p>
+     A nutizia d'oghje chì ralegrerà à tutti : ci seranu tunnelli è giratoghji novi in Furiani è Casatorra per fluidificà a circulazione. Hè benissimu, ma quandu ci puderemu passà di a vittura in Corsica ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Sauveur è Paul sò felici oghje. Sò principiati i travaglii di i giratoghji di Furiani è Casatorra. Dui tunnelli permetteranu di fluidificà a circulazione. 
+Ci vole à dì chì cun 40.000 vitture à ghjornu, l'entrata di Bastia hè infernale. 
+Costu di sti travaglii : 30 milioni d'euri. 
+Siguramente chì sti travaglii, ci vulia à falli. Hè solu peccatu ch'ellu ùn si pensi solu ch'è in termine di "tuttu vitture". Ci vole à aiutà e vitture, sustenele, fà parkings... 
+D'appressu à Frédéric Denhez, autore di "La fin du tout-voiture", una vittura costa trà 200 è 1300 euri à mese (essenza, assicuranza, parkings, riparazioni, intrattene, PV ecc...). Sia 20% di u bugettu di a ghjente (è sin'à 40% in u peri-urbanu perchè si piglia di più a vittura). 
+Sò parechji à parlà di a fine di u "tuttu vittura" (state puru à sente st'emissione). Micca a fine di a vittura hein, ma di u fattu chì ùn ci pudemu passà di a vittura in u nostru cutidianu. 
+In Corsica hè ancu di più vera ch'è in altrò, semu à u gradu zeru di i trasporti in cummunu. 
+Purtantu, sò numerose e cità d'Auropa induve si cerca di "mette fora" e vitture. A suluzione hè semplice ma costa caru è ci vole à cambià l'abitutine : si sviluppanu d'altri mezi di trasporti "puliti" : trenu, tram, bus eccetera. 
+Truvate normale d'ùn pudè piglià u trenu per andà e sere di partite in Furiani ? Truvate normale d'ùn pudè piglià trasporti in cummunu per quelli chì stanu in Borgu o Lucciana è chì travaglianu in Bastia ? 
+Per avà, sò pochi à circà di rifletteci in Corsica. Ma ci veneremu bè un ghjornu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

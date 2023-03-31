@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Svizzera hà dettu di nò à e residenze segundarie
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-Svizzera-ha-dettu-di-no-a-e-residenze-segundarie_a1335.html"/>
+     <date>
+      Fri, 27 Apr 2012 13:09:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A Svizzera hà dettu di nò à e residenze segundarie
+   </head>
+   <div type="excerpt">
+    <p>
+     Pè referendum, i Svizzeri anu decisu di limità à 20% e residenze segundarie. In Corsica, certi trovanu chì 75%, ùn hè micca abbastanza.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Un referendum era organizatu in Svizzera (chjamanu quessa una "votation"). L'iniziativa d'un ecologistu era chjamata « Pour en finir avec les constructions envahissantes de résidences secondaires » è dumanda a limitazione à 20% di residenze segundarie in e cumune. 
+L'argumenti : 
+Diminuer le nombre de lits froids :  vale à dì case piene di mondu in perioda turistica (quattru settimane à l'annu à u più), viote u restu di l'annu. "On va créer des villages fantômes" dicenu i Svizzeri.  Augmenter les habitants des villages. : "Nous ne voulons plus d’une extension des constructions qui fait grimper les prix, expulsant les locataires de leurs propres villages, où tout devient trop cher".  Terre natale menacée. Nos enfants aussi sont en droit de profiter encore de montagnes intactes. → Finissons-en avec ces lotissements sans âme de résidences secondaires qui dévorent et enlaidissent nos paysages !  Des sites et des paysages intacts sont un atout touristique. Trop de résidences secondaires mettent cet atout en danger. → Arrêtons cette défiguration de nos régions alpestres qui menace le tourisme !  Spéculation et affaires lucratives. La frénésie de la construction fait exploser les prix. → Halte à la perte de logements abordables pour les autochtones !  Un mètre carré par seconde. Voilà ce que nous perdons en terres cultivables, précieuses, jour après jour, année après année. → Arrêtons cette perte irrémediable, causée en grande partie par les résidences secondaires !  Préserver le patrimoine et sauver la nature contre le bétonage. 
+U contru-argumentu hè "tourisme = emplois". 
+In Corsica, ne simu in certe cumune di u liturale trà 50 è 75% di residenze segundarie, è certi eletti pensanu ch'ellu hè troppu pocu. S'è no arrestemu di custruisce, "on va tuer la Corse !" (sic) ci dicia Antoine Giorgi. 
+I Svizzeri anu sceltu di limità à 20% e residenze segundarie. In Corsica, si pensa chì u sviluppu passa solu pè l'immubiliare è u turisimu. E terre agrìcule smariscenu per fà piazza à lotissements novi novi. I merri cercanu di mudificà i PLU sott'à a pressione di u settore di u BTP. U Statu chjode l'ochji : u prefettu Patrick Strzoda ùn hà datu ragiò à i prufessiunali di u bastimentu in Portivechju ? 
+"Iè ma capisci, le tourisme et l'immobilier, ça va créer des emplois". Tantu peghju si a sucetà corsa ella, si sfragella appena di più ogni ghjornu. 
+Da vede : http://www.residences-secondaires.ch
+    </p>
+    <p>
+     Verbier, in u cantonu di u Valais. Cum'è in Corsica, ma senza u mare.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pablo Picasso
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Pablo%20Picasso"/>
+     <date>
+      2019-05-25T02:18:01Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pablo Picasso
+   </head>
+   <p>
+    == Biugrafia ==
+   </p>
+   <p>
+    Pablo Ruiz y Picasso, semplicemente cunnisciutu cume Pablo Picasso (Malaga, 25 d'uttobre 1881 – Mougins, 8 aprile 1973) hè statu un pittore, scultore e litugrafu spagnolu di fama mundiale, consideratu unu di i prutagunisti assoluti di a pittura di u XX seculu.
+   </p>
+   <p>
+    Puntu cintrali trà la tradizione ottucentesca è l'arte cuntempuraneu, Picasso hè statu un artistu innuvatore è puliedricu, lasciandu un segnu indelebile in a storia di l'arte mundiale cume u fundatore, incù Georges Braque, di u cubismu. Dopu avè trascorsu una ghjuventù burrascosa, ben espressa in i quadri di i cosiddetti periudi blu è rosa, a parte di l'anni venti di u Novecentu conobbe una rapidissima fama: trà e sue opare universalmenti conosciute Les demoiselles d'Avignon (1907) e Guernica (1937).
+   </p>
+  </body>
+ </text>
+</TEI>

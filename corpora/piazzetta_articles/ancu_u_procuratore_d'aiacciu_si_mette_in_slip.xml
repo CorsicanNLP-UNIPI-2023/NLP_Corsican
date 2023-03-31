@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ancu u procuratore d'Aiacciu si mette in slip
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ancu-u-procuratore-d-Aiacciu-si-mette-in-slip_a1240.html"/>
+     <date>
+      Wed, 04 Jan 2012 12:20:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ancu u procuratore d'Aiacciu si mette in slip
+   </head>
+   <div type="excerpt">
+    <p>
+     A Corsica, i so trafficoni, i so maffiuselli, i so malfattori, i so scrucconi... Ancu di grazia, a ghjustizia hè presente nant'à u terrenu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U tradiziunale ritrattu di i vechji cucchi in slip di u 1u ghjennaghju in Corse-Matin hè statu abbastanza stunante quist'annu. 
+A legenda ci dice chì Françoise, Thomas, Michel, Didier è Philippe anu trovu un mare à 13 gradi l'altru ghjornu. Sapete, Thomas hè quellu chì ci purtava un'eccelente anàlisi qualchì settimana fà dopu à e fucilate è chì ci spiecava chì "il y a un climat de violence en Corse" (sempre nant'à Corse-Matin...) 
+Ha ! C'est sympô la Keurse, y a la plage et l'soleil ! Ponu trimà i malfattori davant'à un procuratore in slip...
+    </p>
+    <p>
+     U listessu, dui mesi fà...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

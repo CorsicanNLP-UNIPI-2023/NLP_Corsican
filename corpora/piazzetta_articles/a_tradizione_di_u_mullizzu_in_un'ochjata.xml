@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A tradizione di u mullizzu in un'ochjata
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-tradizione-di-u-mullizzu-in-un-ochjata_a2331.html"/>
+     <date>
+      Mon, 11 Jan 2016 22:40:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A tradizione di u mullizzu in un'ochjata
+   </head>
+   <div type="excerpt">
+    <p>
+     Perchè una fiura vale di più ch'è ùn longu discorsu...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Infugrafia : kalli-graphic.com
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

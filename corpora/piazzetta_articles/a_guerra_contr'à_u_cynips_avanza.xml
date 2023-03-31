@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A guerra contr'à u cynips avanza
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-guerra-contr-a-u-cynips-avanza_a1987.html"/>
+     <date>
+      Sun, 12 Oct 2014 11:57:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A guerra contr'à u cynips avanza
+   </head>
+   <div type="excerpt">
+    <p>
+     A vera bona nutizia di u ghjornu, hè chì a vespuccia chì s'attacca à u cynips, u torymus, pruduce i so primi effetti.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     ALLELUIA !!! Forse puderemu salvà i nostri castagni. 
+A nutizia vene da u situ Corse Net Info è hè Pasquin Flori, presidente di u GRPTCMC (Groupement régional des producteurs et transformateurs de châtaignes et de marrons de Corse) chì a dice. 
+U torymus sinensis, a vespuccia chì s'attacca à u cynips face bè u so travagliu. Di siguru ci vulerà u tempu pè salvà tutti i castagneti di Corsica, ma in i lochi induve sò stati cappiati prestu, l'arburi ripiglianu fiatu è e castagne sò di ritornu : 
+"Nous avons constaté un démarrage sur les zones où il y a eu les premiers lâchers expérimentaux Inra en 2011 puis ceux massifs de 2012 et 2013 où toute production avait disparu. Certes, c'est encore marginal - nous sommes à 20 ou 25% de ce qu'était la production d'origine - mais les producteurs ont repris espoir. Ils remettent des filets, des moulins réouvrent, notamment à Campile et à Muratu. Nous sommes assez contents du fait, qu'en si peu de temps, nous ayons, déjà, eu des résultats visibles. Il y a un espoir très fort." 
+Ne ci vulerà di più per falla finita cù u fatalisimu nustrale è cù u "Corsica ùn averà mai bè", ma hè un bon principiu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

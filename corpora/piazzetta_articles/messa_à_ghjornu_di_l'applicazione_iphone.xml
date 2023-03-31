@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Messa à ghjornu di l'applicazione iPhone
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Messa-a-ghjornu-di-l-applicazione-iPhone_a1212.html"/>
+     <date>
+      Tue, 15 Nov 2011 11:50:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Messa à ghjornu di l'applicazione iPhone
+   </head>
+   <div type="excerpt">
+    <p>
+     S'è vo leghjite A Piazzetta nant'à u vostru iPhonu, pensate à fà a messa à ghjornu. Avà pudete lascià cummenti à partesi da l'applicazione.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Una messa à ghjornu di l'applicazione hè stata fatta è vi permette avà di cummentà l'articuli da u vostru smartphonu. 
+Per infurmazione, l'applicazione hè stata caricata circa 9 000 volte è hè stata sviluppata da l'intrapresa corsa Duo Apps. 
+Per quelli chì ùn anu micca iPhonu, trippa.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

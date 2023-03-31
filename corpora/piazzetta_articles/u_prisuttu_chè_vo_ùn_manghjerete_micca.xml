@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U prisuttu chè vo ùn manghjerete micca
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-prisuttu-che-vo-un-manghjerete-micca_a1517.html"/>
+     <date>
+      Tue, 19 Mar 2013 11:42:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U prisuttu chè vo ùn manghjerete micca
+   </head>
+   <div type="excerpt">
+    <p>
+     Catastrofa in Shangai : 13.000 porci sò stati ritruvati morti. Almenu, ùn ne manghjeremu micca st'estate.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Nimu sà veramente ciò chì s'hè passatu in China. Sò avà 13.000 porci ritruvati morti in un fiume di Shangai. 
+Malatia ? Pulluzione ? Regulamenti di conti ? Suicidiu cullettivu ? Per avà, nisuna pista ùn hè messa da cantu da a pulizza. 
+Hè longa a cumpagnia di l'animali ritruvati morti di manera misteriosa. 
+Ma quand'ellu si sà chì 90% di a carne purcina corsa ùn hè micca veramente corsa, è chì una maiò parte di i porci venenu da China, forse serà una bona nutizia. 
+Forse cusì eviteremu u "figatellu blanc", "la charcuterie de Follini" è u "figatellu à manger en barbeuk" chè no aviamu vistu dui anni fà à u salottu di l'agricultura. 
+È ancu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

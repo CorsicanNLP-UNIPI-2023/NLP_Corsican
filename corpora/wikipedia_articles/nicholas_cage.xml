@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Nicholas Cage
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Nicholas%20Cage"/>
+     <date>
+      2016-09-28T05:53:09Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Nicholas Cage
+   </head>
+   <p>
+    Nicholas Cage (Long Beach, California, 17 Ghjennaghju 1962) hè un attore americanu.
+   </p>
+   <p>
+    Cage, Nicholas
+   </p>
+   <p>
+    Cage, Nicholas
+   </p>
+  </body>
+ </text>
+</TEI>

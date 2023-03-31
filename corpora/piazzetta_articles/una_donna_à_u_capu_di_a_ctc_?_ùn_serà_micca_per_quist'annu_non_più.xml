@@ -1,0 +1,77 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Una donna à u capu di a CTC ? Ùn serà micca per quist'annu non più
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Una-donna-a-u-capu-di-a-CTC-Un-sera-micca-per-quist-annu-non-piu_a2296.html"/>
+     <date>
+      Thu, 12 Nov 2015 09:06:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Una donna à u capu di a CTC ? Ùn serà micca per quist'annu non più
+   </head>
+   <div type="excerpt">
+    <p>
+     Cù a parità, a piazza di e donne in pulitica duveria avanzà, in teuria. Ma a Corsica hè l'ultima pè e regione chì anu donne capiliste.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In Corsica a pulitca hè un affare d'omi è i futtogli di u putere. In i 61 eletti di a prima assemblea di Corsica in u 1982 si cuntava... una sola donna. 
+U mitu di "chez nous les femmes ont toujours eu le droit de vote" ne piglia un colpu.
+    </p>
+    <p>
+     "Induve sò e donne", cantava Patrick Juvet. Micca à a CTC...
+    </p>
+    <p>
+     Dece anni dopu, si ne conta... trè.
+    </p>
+    <p>
+     Un esecutivu di prugressu suciale.
+    </p>
+    <p>
+     A regula di a parità duvia scambià appena e cose. Hè vera chì a situazione hè appena inegualitaria è scandalosa. Rammintemu chì e donne sò numerose nant'à a terra è ch'elle rapresentatnu quantunque 50% di a pupulazione. Ùn pare micca cusì, ma hè assai. 
+Malgradu quessa, a pulitica ferma una storia d'omi (piuttostu vechji è incustumati). Ùn ci hè ch'è da vede a panicca à u mumentu di a cumpusizione di e liste induve spessu si cerca e donne à l'ultimu minutu (hè logica, nimu và à circalle in tempu normale). È spessu, hè per mette una "moglia di" o una "figliola di" (ùn vale micca a pena di turnà à parlà di a catastrofica storia di Prupià, annu passatu). 
+A prova cù st'inchiesta di France tv nant'à e donne à e regiunale. 
+A Corsica si distingue cù a so ultima piazza pè e regione induve e donne sò capiliste. È u peghju, hè ch'ellu ùn ci stona mancu più !
+    </p>
+    <p>
+     In u 1983, François Giroud dicia : "La femme serait vraiment l'égale de l'homme le jour où, à un poste important, on désignerait une femme incompétente." 
+Per avà avemu sempre una preferenza per l'omi incumpetenti.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

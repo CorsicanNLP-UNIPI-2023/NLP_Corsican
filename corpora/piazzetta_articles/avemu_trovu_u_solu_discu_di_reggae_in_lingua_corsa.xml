@@ -1,0 +1,71 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Avemu trovu u solu discu di reggae in lingua corsa
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Avemu-trovu-u-solu-discu-di-reggae-in-lingua-corsa_a1984.html"/>
+     <date>
+      Fri, 10 Oct 2014 00:25:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Avemu trovu u solu discu di reggae in lingua corsa
+   </head>
+   <div type="excerpt">
+    <p>
+     In u 1990 hè esciutu "erba corsa", u primu (è unicu) discu di reggae nustrale.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cunniscite Digamusic ? Stu situ hè un veru tesoru. Nant'à sta pagina cunsacrata à vechji dischi vinyle, si pò vede un "45 giri" appena misteriosu. 
+Grazia à u so animatore (ch'ellu sia ringraziatu Ronald !), chì hà numerizatu è messu in linea nant'à Youtube u discu, tuttu ognunu ne pò prufittà. 
+U dissegnu copia a fiura di e sigarette "Gitane". U gèneru musicale ellu saria "reggae". 
+U primu pezzu musicale si chjama "erba corsa" (tè ? Forse u fume di u dissegnu saria piuttostu quellu d'un tizzone, è micca quellu di u tabaccu di e Gitanes ?). U segondu s'intituleghja "Diu vi salvi regina and God save the queen ". 
+U gruppu si chjama "Corsica" (averianu pusstu fà un sforzu per esse di più originali...) è si sà pocu affare nant'à quelli chì l'anu fattu. 
+E parolle di a canzona "erba corsa" ùn lascianu piazza à u dubbitu ("Tuttu u mondu fuma l'erba corsa (...), fuma u prete, fuma u merre, fuma u sumere, fuma ancu u cignale"), simu bè in u reggae. 
+Ùn si sà ciò chì l'amatori di reggae pensanu di stu discu, chì ùn hà micca veramente cunnisciutu successu. 
+Una cosa hè sigura, l'anni 80 eranu veramente n'importa chè è c'era una vera varietà in a creazione musicale è una vera libertà di tonu. C'era statu Zia Devota, po veneranu dopu i Varans (da leghje U Top 25 di a pop rock nustrale). 
+Oghje, fora di The Corsica Sound, induve sò i rockers nustrali ?
+    </p>
+    <p>
+     Latu A : "Erba corsa"
+    </p>
+    <p>
+     Latu B : "Diu vi salvi regina and god save the queen"
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

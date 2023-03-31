@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cunniscite i Brocciunies ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cunniscite-i-Brocciunies_a2054.html"/>
+     <date>
+      Thu, 04 Dec 2014 18:20:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cunniscite i Brocciunies ?
+   </head>
+   <div type="content">
+    <p>
+     A sapemu bè, ci piacè à manghjà. Parechje volte, ingollemu robba merza è industriale à l'usu americanu, à colpi di cupcakes, burgers è altre cose bone ma gattive per a salute. 
+David Mezzacqui, u capicucinaru, ci prupone di mette appena di Corsica è di pulizia indè a nostra ingurdizia è hà inventatu i "brocciunies", cuntrazzione di "brownie" è di brocciu. 
+Da sente a sosula nant'à Alta Frequenza. 
+Noi semu troppu pessimi cucinari, ma si un lettore bravu vole pruvà di fà un brocciunies è faccilu tastà, simu clienti. 
+Avà aspettemu u hamburgatellu (hamburger di figatellu), i pizzapreti (pizza è sturzà preti) è i migliacciarons (macarons di migliacci). 
+Ma attenzione, micca knackilenda (knacki è pulenda), hein !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

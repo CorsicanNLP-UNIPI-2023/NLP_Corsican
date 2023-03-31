@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vincenzo Scamozzi
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Vincenzo%20Scamozzi"/>
+     <date>
+      2017-07-29T16:50:22Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Vincenzo Scamozzi
+   </head>
+   <p>
+    Architettu di a Rinascenza.
+   </p>
+   <p>
+    Natu à Vicenza in u 1552, mortu à Venezia in u 1616.
+   </p>
+   <p>
+    == Opere principali ==
+   </p>
+   <p>
+    Idee dell'architettura universale (Venezia, 1615).
+   </p>
+  </body>
+ </text>
+</TEI>

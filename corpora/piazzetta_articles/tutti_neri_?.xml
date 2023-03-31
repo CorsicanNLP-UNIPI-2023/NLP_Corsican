@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tutti neri ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Tutti-neri_a1195.html"/>
+     <date>
+      Sun, 23 Oct 2011 12:18:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tutti neri ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Ritrattu pigliatu durante a finale di a cuppa di u mondu di rugby.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In Corsica sò numerosi i sustenitori di a squadra di Francia di rugby, ma ancu i "Tutti neri" anu i so fanàtichi... 
+È voi, per quale erate durante stu turneu ? 
+(Vistu nant'à Facebook)
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

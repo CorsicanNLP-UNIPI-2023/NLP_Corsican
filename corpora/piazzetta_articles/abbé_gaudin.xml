@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Abbé Gaudin
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Abbe-Gaudin_a2658.html"/>
+     <date>
+      Fri, 29 Sep 2017 14:22:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Abbé Gaudin
+   </head>
+   <div type="content">
+    <p>
+     Mais c'est en vain qu'on chercheroit un pareil spectacle, non-seulement au Niolo, mais dans toute la Corse ; les fêtes y sont très communes, mais ce ne sont que des assemblées de dévotion : les prières finies, on se sépare, chacun va faire tristement son repas sous un arbre. Pas un seul instrument, pas une danse, pas la moindre étincelle de gaîté. La foule, toujours vêtue uniformément de couleurs sombres &amp; tristes, avec une démarche grave &amp; concertée, présente bien moins l'image d'une fête que celle d'un deuil ou d'un enterrement. 
+http://gallica.bnf.fr/ark:/12148/bpt6k65575473/f1.item.r=deuil.texteImage
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ind'i tempi, c'era a lingua corsa...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ind-i-tempi-c-era-a-lingua-corsa_a1181.html"/>
+     <date>
+      Fri, 07 Oct 2011 00:21:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ind'i tempi, c'era a lingua corsa...
+   </head>
+   <div type="excerpt">
+    <p>
+     Ind'i tempi di i tempi, à l'epica di Tempi Fà, c'era una lingua chì si chjamava "lingua corsa". Ma face veramente un pezzu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ritrattu pigliatu nant'à u mercatu di Bastia. 
+Dop'à quessa, chì fà ? Beie un bichjeru di javel ? Un cocktail Prozac-Lexomil-Temesta ? Un Primperan ? Un succidiu ? Un'immulazione cù u focu ? 
+Ringraziemu quellu chì hà pigliatu stu ritrattu è vi preghemu salute à tutti. À vedeci.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

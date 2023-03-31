@@ -1,0 +1,74 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Si face attaccà da una scimia in diretta è sopravvive
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Si-face-attacca-da-una-scimia-in-diretta-e-sopravvive_a1839.html"/>
+     <date>
+      Wed, 04 Jun 2014 11:13:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       VIDEO
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Si face attaccà da una scimia in diretta è sopravvive
+   </head>
+   <div type="excerpt">
+    <p>
+     Dop'à u coppiu di turisti attaccatu da una vacca in Ascu, eccu u giurnalistu chì si face scuzzulà da una scimia in Santu Petru di Tenda. Era in diretta nant'à Via Stella. L'omu si ne sorte senza ferita.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     È voi chì cridite chì i giurnalisti corsi a si scialanu. Al dilà di l'azizume ambiante è di i criticoni mai cuntenti chì i stuzzicheghjanu in permanenza, ponu dinù fassi scuzzulà di tantu in tantu. 
+Hè ciò ch'ellu hè accadutu à stu poveru giurnalistu di France 3 Corsica. Durante un diretta in Corsica Prima, si vede una scimia ricunnosce l'ambrascu è vene à stuzzicallu. Avemu appena paura per ellu, ma finalmente và bè, l'animale ùn pare micca esse periculosu. In un segondu tempu invece, si ferà appena scuzzulà. 
+Antone, simu à fianc'à tè è simu sulidari. Curagiu.
+    </p>
+    <p>
+     Hè l'occasione per noi di rende omagiu à e false scimie e più famose, cum'è :
+    </p>
+    <p>
+     Pub-Pub, a scimia verde di Téléchat, spezializata in u sabbuttagiu di i spots publicitarii :
+    </p>
+    <p>
+     A scimia di u filmu La Chèvre :
+    </p>
+    <p>
+     Quelle antipatiche di U pianeta di e scimie.
+    </p>
+    <p>
+     Ma forse, tuttu què ùn hè ch'è un omagiu chì Antone Albertini rende à Stanley Kubrick, è à u so capidora assolutu 2001, l'Odyssée de l'espace. U tippu hà a glassa.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

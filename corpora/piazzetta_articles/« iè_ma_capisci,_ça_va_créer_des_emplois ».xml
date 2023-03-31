@@ -1,0 +1,78 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     « Iè ma capisci, ça va créer des emplois »
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/%C2%A0Ie-ma-capisci-ca-va-creer-des-emplois%C2%A0_a1958.html"/>
+     <date>
+      Tue, 23 Sep 2014 23:45:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    « Iè ma capisci, ça va créer des emplois »
+   </head>
+   <div type="excerpt">
+    <p>
+     Quessa a frasa, l'avete tutti intesa. Vole dì chì i fatalisti ch'è no semu, semu pronti à accettà n'importa in cambiu di a creazione d'impieghi. Cumu sì a preservazione di l'identità, di l'ambiu, di l'agricultura, ùn pudianu andà cù a creazione di ricchezza. È voi, sin'à induve site pronti à andà in nome di u "sviluppu" ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Duveriamu forse interrugacci appena di più nant'à u mudellu di sviluppu ch'è no vulemu per u nostru paese. "Ca va créer des emplois" hè a frasa tìppica per ghjustificà tuttu è n'importa chè. Ma s'è no mettessimu dinù l'ambiu, a cultura, l'identità, l'educazione, a qualità di vita à u core di e nostre preocupazione ? 
+Qualchì esempiu ? 
+- E centrale à u fiul pisivu... sò assai impieghi forse, ma ci facenu respirà un velenacciu. L'impieghi contr'à u càncaru ?  - A custruttibilità di e terre... U cimentu si manghja i terreni agrìculi. Crescenu case, casali, casoni è centri cummerciali, è a Corsica cuntinuveghja d'ùn pruduce nunda è impurtemu tuttu. Sempre di più dipendenti da i muvimenti fresteri.  - Sempre di più turisti... ma per mette induve ? Face quarant'anni ch'ellu si sente di "rallonger la saison", è quarant'anni ch'è no ùn ci la femu. Di più in più turisti, ma tutti à tempu. Risultatu : marine saturate, ingorghi, infrastrutture chì mancanu. Ùn parlemu mancu di e grande stazioni d'epurazione ch'è no paghemu noi è chì sò fatte pè suppurtà i turisti quindeci ghjorni l'estate.  - Sempre di più mondu... nant'à e strade, in i rifugi di muntagna, nant'à u mare... allora chì l'infrastrutture ci mancanu è chì i siti naturali (laghi di muntagna è bor di mare) sò dilicati è vedenu ghjunghje troppu mondu.  - Custruisce sempre di più... à u rìsicu dinù d'arruvinà u paisaghju per sempre. A Corsica diventa goffa è s'assumiglia à n'importa chì zona cummerciale di Salon de Provence o di u periurbanu d'Ile de France. Cun trent'anni di ritardu. In Portivechju sò culline chì sò state rasate è tuttu u mondu trova quessa normale. 
+Forse "ça va créer des emploi" hè ancu statu l'argumentu di quelli chì anu fattu l'usina di tigliu di Cànari. È siguramente quellu chì anu fattu à Tchernobyl. 
+Ma ùn vale a pena d'andà cusì luntanu. Pigliemu u prugettu cumplettamente sprupusitatu di zona cummerciale chì si face in Sarrula Carcupinu. In u sugettu di Corsica Sera hè esattamente ciò chì un omu dice. 
+L'argumentu massicciu hè lampatu. 
+Trippa per i picculi cummerci, trippa per a morte di a cità, trippa per l'hypercunsumazione ("des logements seront créés pour alimenter le centre commercial..." pare esse un scenariu d'un filmu angusciosu), trippa s'ellu s'arruvina u paisaghju (digià più ch'è toccu), trippa per l'ambiu, per s'ellu si face nisuna piazza à a cultura è à l'identità corsa, trippa s'ellu ùn si pensa à nunda per i trasporti (evviva a dipendenza à a vittura), a cunsumazione hè à u core di tuttu. 
+L'uniformizazione di i paisaghji è di i modi di campà. L'abitanti di sti lochi novi seranu felici di campà sott'à u sole di Corsica senza avè l'impressione di campà in Corsica. 
+Avà camperete in Corsica cum'è in n'importa chì lucacciu cummerciale di banlieue francese. Un vechju sonniu di certi. 
+Ma postu chì "ça va créer des emplois"...
+    </p>
+    <p>
+     L'argumentu massiccu hè statu lampatu in Corsica Sera da un'abitante di a "cità nova" in Sarrula Carcupinu : "ça va créer des emplois".
+    </p>
+    <p>
+     À chì prezzu ?
+    </p>
+    <p>
+     In tantu in Portivechju, si rasanu e culline, è tuttu u mondu trova quessa normale.
+    </p>
+    <p>
+     Furiani ? Mezavia ? Portivechju ? Salon de Provence ? Marne la Vallée ? Ùn sapete mancu più...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Universidade Tecnológica Federal do Paraná
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Universidade%20Tecnol%C3%B3gica%20Federal%20do%20Paran%C3%A1"/>
+     <date>
+      2014-03-23T15:09:03Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Universidade Tecnológica Federal do Paraná
+   </head>
+   <p>
+    L'Universidade Tecnológica Federal do Paraná (UTFPR) hè un' università brasiliana, situata in a cità di Curitiba. Ci sò à l'incirca 21.092 stughjanti.
+   </p>
+   <p>
+    Fù fundata u 1909.
+   </p>
+   <p>
+    Università
+   </p>
+  </body>
+ </text>
+</TEI>

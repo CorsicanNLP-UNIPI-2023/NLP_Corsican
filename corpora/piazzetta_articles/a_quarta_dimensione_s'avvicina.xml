@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A quarta dimensione s'avvicina
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-quarta-dimensione-s-avvicina_a1506.html"/>
+     <date>
+      Tue, 05 Mar 2013 01:15:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A quarta dimensione s'avvicina
+   </head>
+   <div type="excerpt">
+    <p>
+     Dapoi u derby di sabbatu trà Aiacciu è Bastia, un tsunamì di cunnerie hà annigatu a Corsica.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U Sporting è l'ACA sò entrati in un chjam'è rispondi chì pare senza fine : da vede a cunferenza di stampa di u SCB è quella di l'AC Aiacciu. 
+Dopu à Zahia chì sorte un libru per i zitelli, dopu à Jérôme Rothen chì piglia a difesa di u populu corsu., dopu à Véronique Genest chì si lancia in pulitica, l'attualità ci mostra ch'ellu si pò fà sempre peghju. 
+In u tsunamì di cunnerie ch'ellu si pò sente dapoi u derby, a più bella hè siguramente questa quì : 
+"Il ne suffit de s'autoproclamer Club de la Corse, encore faudrait-il respecter certaines valeurs, ce genre de comportements criminels ne font pas partie de notre culture !" 
+L'odiu ci hè da i dui lati, i cumpurtamenti sò i listessi da i dui lati, tuttu u mondu aspetta una scusa per azzizzà u nemicu, ma ci vole quantunque à mustrà chì u culpèvule, hè l'altru. Ùn vi rammenta nunda ? 
+Per quelli chì anu avutu a furtuna d'ùn micca avè micca cunnisciutu i chjam'è rispondi trà u MPA è a Cuncolta in l'anni 1993-1995, fidighjate puru u ducumentariu di Samuel Lajus "Génération FLNC". 
+Disgraziatamente, certe volte hè bè d'ùn micca scurdassi di a nostra storia, di sapè per chì mumenti semu passati, è ciò chè no semu capaci di fà. 
+Piantemu quandu cun tutte ste cunnerie ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

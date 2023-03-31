@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Attenti, eccu u citrolu assassinu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Attenti-eccu-u-citrolu-assassinu_a1106.html"/>
+     <date>
+      Mon, 30 May 2011 00:59:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Attenti, eccu u citrolu assassinu
+   </head>
+   <div type="excerpt">
+    <p>
+     A sapiate ? Avà, ancu un citrolu pò tumbà.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Eccu, ci semu ! Dopu à a "vache folle" è u Quick assassinu, eccu avà chì un citrolu (dettu dinù "cucùmeru") pò esse un serial killer. 
+Iè, stu legume vene di piglià a so rivìncita nant'à l'omu dopu à seculi è seculi di disprezzu : "cucùmeru" hè sinònimu di "baullu" è un "citrolu" hè qualchissia chì hè sempre malatu. 
+U scàndalu di i "concombres contaminés" hà fattu una decina di morti in Alemagna. In Francia si contanu trè casi è unu saria un bastiacciu. 
+Oghje avemu amparatu chì ancu e insalate è i pomi d'oru eranu "sott'à surveglianza" (sic) di u ministeru di a salute. 
+A causa hè una batteria (escherichia coli entérohémorragique, vi và ?) chì si trova in e stintine di i mamìferi. Detta altrimenti, i legumi (chì venenu da Spagna) sò stati cuntaminati da i cacati di e vacche. 
+Siguramente chì pè ragioni di corsa à a rentibilità è di cumpetizione sfrenata, i legumi ùn eranu micca abbastanza lavati. 
+A decina di morti averanu dunque a so piazza nant'à a longa lista di e vìttime di u liberalisimu è di a mundializazione... 
+À quandu a maledizzione di a zucca ? Ah nò quessa l'avemu, hè bastiaccia.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

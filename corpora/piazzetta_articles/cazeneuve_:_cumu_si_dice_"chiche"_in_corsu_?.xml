@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cazeneuve : cumu si dice "chiche" in corsu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cazeneuve-cumu-si-dice-chiche-in-corsu_a2150.html"/>
+     <date>
+      Sun, 08 Feb 2015 12:56:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CUMU-SI-DICE
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cazeneuve : cumu si dice "chiche" in corsu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     In viaghju in Corsica, Bernard Cazeneuve hà dettu "chiche" à a cullettività territuriale unica. È hà aghjustatu "mais ce n'est pas une expression corse". Aiutemulu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     "Une collectivité territoriale unique, nous vous disons chiche ! Mais ce n'est pas une expression corse..." 
+Hè cusì chì u ministru di l'internu, Bernard Cazeneuve, hà rispostu à l'interrugazioni di l'eletti di a CTC. Da ascultà nant'à RCFM :
+    </p>
+    <p>
+     Hè vera, "chiche" ùn esiste micca in corsu. Cumu traduce sta spressione allora ? 
+Forse "focu à a ceppa !" o "a ci pruvemu ?" o ancu "scumetti !" è "scumettemu ?" 
+S'è vo avete megliu cum'è traduzzione, aghjustate un cummentu. 
+Ma ùn avendu mancu una parolla pè a lingua corsa (è u votu di a CTC nant'à a cuufficialità) è u statutu di residente (purtantu ci hè statu un votu di l'assemblea di Corsica...), hà sopr'à tuttu dettu "zitti !" o "baccalà". 
+D'altronde, i più felici dop'à sta visita ministeriale, sò stati i cunservatori. 
+Tè, ci face pensà à un dissegnu di Dominique Fumaroli ch'è no avemu vistu in a mostra The Mostra :
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

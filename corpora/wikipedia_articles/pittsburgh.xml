@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pittsburgh
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Pittsburgh"/>
+     <date>
+      2014-03-23T14:49:35Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pittsburgh
+   </head>
+   <p>
+    Pittsburgh hè una cità di i Stati Uniti.
+   </p>
+   <p>
+    Tene 312.819 abitanti (circa 2.500.000 incù a cità metrupolitana).
+   </p>
+   <p>
+    == Geografia ==
+   </p>
+   <p>
+    A zona oraria di Pittsburgh hè cinque ore à l'uvestu di u meridianu di Greenwich.
+   </p>
+   <p>
+    A cità si trova in Pennsylvania, (cuntea d'Allegheny) à a confluenza di i fiumi Allegheny è Monongahela induve si forma u fiume Ohio.
+   </p>
+   <p>
+    == Storia ==
+   </p>
+   <p>
+    A cità hè nata à u principiu di u seculu XVIII induve ci era un forte francese chjamatu Fort Duquesne.
+   </p>
+   <p>
+    In 1758 l'inglesi ani distruttu Fort Duquesne è custruitu un altru forte più grande chjamatu Fort Pitt, in unore di u prima ministru William Pitt u vechju.
+   </p>
+   <p>
+    Stati Uniti d'America
+   </p>
+  </body>
+ </text>
+</TEI>

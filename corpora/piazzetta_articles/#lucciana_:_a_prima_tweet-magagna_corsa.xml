@@ -1,0 +1,82 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     #Lucciana : a prima tweet-magagna corsa
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Lucciana-a-prima-tweet-magagna-corsa_a1402.html"/>
+     <date>
+      Thu, 23 Aug 2012 15:28:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    #Lucciana : a prima tweet-magagna corsa
+   </head>
+   <div type="excerpt">
+    <p>
+     A dumenica sera, a ghjente s'annoia. Allora quandu ci hè un focu à a centrala di Lucciana, ch'ellu ci hè un macciu di l'ACA, è ch'ellu ci hè Twitter...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Dumenica sera passata quelli chì sò nant'à Twitter anu assistitu à a prima tweet-magagna in diretta. 
+Per seguità A Piazzetta nant'à Twitter, andate quì. 
+I prutagunisti : a centrale di Lucciana, a partita ACA-PSG in Timizzolu è... Paul Giacobbi. 
+Ma ripigliemu tuttu in l'ordine. Prima, hè partutu un focu in Lucciana è l'infurmazione s'hè subbitu ritruvata nant'à a rete :
+    </p>
+    <p>
+     L'infurmazione circuleghjanu è si pò vede cusì chì Twitter diventa u media u più ràpidu per esse infurmatu in tempu reale, bellu in davant'à i media tradiziunali. Ma ancu pè a magagna...
+    </p>
+    <p>
+     U prublema hè chì quella sera, ci hè ACA-PSG... è chì Paul Giacobbi, chì hè assai attivu nant'à Twitter, assista à a partita.
+    </p>
+    <p>
+     Hè cusì chì da infurmazione in live avemu da cascà in a magagna...
+    </p>
+    <p>
+     Tandu, da picculu focu senza impurtanza si passa à una catastrofa nuclearia. 
+U web si scatena :
+    </p>
+    <p>
+     È ci n'hè ancu pè u presidente di l'esecutivu, in piena partita di ballò...
+    </p>
+    <p>
+     Cunclusione di Paul Giacobbi, chì ùn pare micca avè apreziatu sta tweet-magagna :
+    </p>
+    <p>
+     Infurmazione, intox, magagne o pazzie, a Corsica hè veramente entrata in a twittosfera !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,216 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Toru (giumitria)
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Toru%20%28giumitria%29"/>
+     <date>
+      2015-07-09T08:17:59Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Toru (giumitria)
+   </head>
+   <p>
+    In giumitria u toru o turoidi hè una superficia à forma di ciambedda. Pò essa ottinuta com'è superficia di rivuluzioni, fendu voglia una circumfarenza, a generatrici, intornu à un assi di rutazioni appartinenti à listessu pianu ch'è a generatrici, ma disghjuntu da edda.
+   </p>
+   <p>
+    U terminu diriveghja da u latinu torus chì si rifiria, frà l'altri cosi, à un tipu di cuscinu à forma di ciambedda.
+   </p>
+   <p>
+    == U toru in a giumitria euclidea ==
+   </p>
+   <p>
+    === Ripprisintazioni par via di l'equazioni parametrichi ===
+   </p>
+   <p>
+    Una ripprisintazioni parametrica di u toru, in l'usuali spaziu euclideu tridiminsiunali, hè data da:
+   </p>
+   <p>
+    x(p,t) = (R+r\,\cos p)\cos t
+   </p>
+   <p>
+    y(p,t) = (R+r\,\cos p)\sin t
+   </p>
+   <p>
+    z(p,t) = r\,\sin p
+   </p>
+   <p>
+    induva  t, p  varieghjani trà 0 è  2\pi ,  R&gt;0  hè a distanza da u centru di u tubu à u centru di u toru è  r&gt;0  hè u raghju di u tubu.
+   </p>
+   <p>
+    L'equazioni in cuurdinati cartesiani, chì individueghja un toru induva l'assi di simitria cuincidi incù l'assi z, hè data da:
+   </p>
+   <p>
+    \left(R - \sqrt{x^2 + y^2}\right)^2 + z^2 = r^2
+   </p>
+   <p>
+    === Prubità metrichi ===
+   </p>
+   <p>
+    L'aria esterna è u vulumu di u toru sò dati rispittivamenti da:
+   </p>
+   <p>
+    A = 2\pi r\ 2\pi R=4\pi^2 Rr,
+   </p>
+   <p>
+    V = \pi r^2 \ 2\pi R=2\pi^2R r^2.
+   </p>
+   <p>
+    == Tupulugia di u toru ==
+   </p>
+   <p>
+    === Custruzzioni ===
+   </p>
+   <p>
+    Un toru tupulogicu hè un spaziu tupulogicu omeumorfu à un toru in u spaziu euclideu. Quiddu pò essa difinitu com'è u pruduttu di dui circumfarenzi S1 × S1. L'equazioni parametrichi ch'è avemu datu par u toru in R3 individueghjani un omeumurfisimu incù l'insemu S1 × S1.
+   </p>
+   <p>
+    Un modu equivalenti par custruiscia un toru tupulogicu hè quiddu di cunsidarà un quatratu è "incuddà" i lati opposti. Quissa currispondi à difiniscia nantu à u quatratu
+   </p>
+   <p>
+    Q = [0,1] × [0,1] ⊆ R2
+   </p>
+   <p>
+    a rilazioni d'equivalenza \sim_T tali chì/ch'è x \sim_T y s'è è solu s'è x=y hè un unicu puntu internu oppuri x è y sò annantu à dui lati opposti è ani una cuurdinata uguali. Incù sta rilazioni d'equivalenza si pò difiniscia u spaziu quuzienti Q/\sim_T chì hè par appuntu un toru tupulogicu.
+   </p>
+   <p>
+    Un antru modu par difiniscia u toru tupulogicu hè quiddu di custruiscia u spaziu quuzienti di u R2 rispettu à u sottugruppu Z2.
+   </p>
+   <p>
+    === Prubità tupulogichi ===
+   </p>
+   <p>
+    U toru hè una superficia, dunqua una varietà diffarinzevuli di diminsioni 2.
+   </p>
+   <p>
+    U toru hè cumpattu, cunnessu, ma ùn simpliciamenti cunnessu. Infatti u so gruppu fundamintali hè  \mathbb{Z}\times \mathbb{Z} .
+   </p>
+   <p>
+    A carattaristica d'Euleru di u toru hè zeru.
+   </p>
+   <p>
+    U genaru di u toru hè 1.
+   </p>
+   <p>
+    Nantu à u toru ùn s'appiegani micca molti tiuremi di a giumitria piana. Par asempiu, ùn privali micca u tiurema di i quattru culori. In u dissegnu à fiancu u toru hè statu divisu in setti rigioni, à dui à dui tutti cunfinanti: sò dunqua nicissarii setti culori diffarenti affinch'è dui rigioni cunfinanti ùn aghjini micca listessu culori. Hè stata dimustrata una generalisazioni di u Tiurema di i quattru culori da aquali cunsegui chì setti culori sò sufficienti par culurà qualsiasi suddivisioni di u toru.
+   </p>
+   <p>
+    == U toru solidu ==
+   </p>
+   <p>
+    U toru solidu hè l'ughjettu tridiminsiunali dilimitatu da u toru (toru inclusu). Si tratta veni à dì di a purzioni di spaziu cuntinuta à l'internu di u toru inclusa a parti di spaziu chì a dilimiteghja. Tupulugicamenti, si tratta d'un spaziu omeumorfu à u pruduttu D\times S^1 di u discu bidiminsiunali
+   </p>
+   <p>
+    D = \{(x,y)\in\R^2\ |\ x^2+y^2\leq 1\}
+   </p>
+   <p>
+    incù a circumfarenza S^1. Si tratta d'una 3-varietà incù bordu; u bordu cunsisti par appuntu in u toru. U so gruppu fundamintali hè  \mathbb{Z} .
+   </p>
+   <p>
+    U toru solidu hè un ughjettu impurtanti in u studiu di i 3-varietà è più in generali in a tupulugia di a diminsioni bassa.
+   </p>
+   <p>
+    == Da veda dinò ==
+   </p>
+   <p>
+    Superficia (matematicu)
+   </p>
+   <p>
+    Cilindru (giumitria)
+   </p>
+   <p>
+    Sfera
+   </p>
+   <p>
+    Superficia torica
+   </p>
+   <p>
+    == Liami esterni ==
+   </p>
+   <p>
+    I sizioni circulari d'un toru
+   </p>
+   <p>
+    Torus Games: ghjochi (scarichevuli gratuitamenti) chì illustrani a tupulugia di u toru è di a butteglia di Klein
+   </p>
+   <p>
+    Suparficii
+   </p>
+   <p>
+    == Noti ==
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Giumitria piana
+   </p>
+   <p>
+    Angulu rettu
+   </p>
+   <p>
+    Catetu
+   </p>
+   <p>
+    Mezaretta
+   </p>
+   <p>
+    Perimetru
+   </p>
+   <p>
+    Sigmentu
+   </p>
+   <p>
+    Triangulu isusceli
+   </p>
+   <p>
+    Triangulu equilateru
+   </p>
+   <p>
+    Tiurema di Pitagora
+   </p>
+   <p>
+    Iputenusa
+   </p>
+   <p>
+    Tangenti
+   </p>
+   <p>
+    Trigunumitria
+   </p>
+   <p>
+    Triangulu
+   </p>
+   <p>
+    Uttaedru
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia in talianu.
+   </p>
+  </body>
+ </text>
+</TEI>

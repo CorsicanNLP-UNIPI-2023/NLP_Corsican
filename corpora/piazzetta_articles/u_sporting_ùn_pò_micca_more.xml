@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U Sporting ùn pò micca more
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-Sporting-un-po-micca-more_a1333.html"/>
+     <date>
+      Wed, 25 Apr 2012 00:44:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U Sporting ùn pò micca more
+   </head>
+   <div type="excerpt">
+    <p>
+     Bastia ùn serà mai un club cum'è l'altri. Quist'annu chì vene, serà in L1 è cum'ellu hà dettu Thiriez, cuntinuverà di "nuire gravement à l'image du football français".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     7 anni dopu à avè persu a so piazza in L1, dui anni dopu à a so retrogradazione in CFA, u Sporting hè di ritornu. Hè l'occasione di salutà qualchì amichi nostri : 
+Frédéric Thiriez : per l'inseme di a so opera anti-corsa. 
+Gervais Martel : u presidente di Lens chè no lascemu ellu dinù in fondu di a classifica di L2. 
+Jean-Jacques Panunzi : chì ùn vulia micca chì a CTC salvi u Sporting durante l'estate 2010. 
+Henri Legarda, presidente di Le Mans : avia dettu nant'à Bastia chì : « Les rencontres se déroulent toujours dans une agressivité permanente et un climat de terreur. ». U so club hè sempre in l'ultimi di a classifica. 
+Jean-Claude Darcheville  : chì avia rispostu à a dumanda Le pire public de France ? « Celui de Bastia. Ce sont vraiment des c... J'aurais bien aimé que le club descende en CFA. Dès lors, il n'y aurait pas de déplacement là-bas... » 
+Mamadou Niang : Chì s'era battutu cum'è un lione in u 2005 per marcà contr'à u Sporting. Avia dettu tandu ch'ellu vulia fà tuttu per fà falà à Bastia in L2. 
+È di siguru, tutti quelli chì si sò tichjati durante anni è anni quand'elli eranu dirigenti di u Sporting. Falatu in National, Bastia ùn interessava più à nimu. Di ritornu in L1, speremu chì i manghjoni stianu u più luntanu pussibule da Furiani...
+    </p>
+    <p>
+     23 avril 2012 : Bastia retrouve la Ligue 1, le... par SportingClubBastia  Ritruvate ritratti è filmi nant'à u situ officiale.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

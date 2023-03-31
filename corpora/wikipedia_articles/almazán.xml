@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Almazán
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Almaz%C3%A1n"/>
+     <date>
+      2015-07-16T10:53:04Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Almazán
+   </head>
+   <p>
+    Almazán hè una cumuna spagnola di a pruvincia di Soria, in a cumunità autonoma di Castiglia è León.
+   </p>
+   <p>
+    Pruvincia di Soria
+   </p>
+  </body>
+ </text>
+</TEI>

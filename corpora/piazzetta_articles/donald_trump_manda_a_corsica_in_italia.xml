@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Donald Trump manda a Corsica in Italia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Donald-Trump-manda-a-Corsica-in-Italia_a2593.html"/>
+     <date>
+      Tue, 23 May 2017 10:33:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Donald Trump manda a Corsica in Italia
+   </head>
+   <div type="excerpt">
+    <p>
+     Serà ellu u primu presidente à ricunnosce chì a Corsica ùn hè micca francese ? Donald Trump vene di dà a Corsica à l'Italia...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ritrattu Facebook @DonaldTrump
+    </p>
+    <p>
+     Stu "fattu alternativu" hà fattu ride ancu da l'altra parte di l'Atlanticu.
+    </p>
+    <p>
+     Jesus:– Corsica isn't Italy– The Vatican isn't Italy– Jerusalem, per int'l law, isn't Israel – this White House staff isn't competent pic.twitter.com/CwOyYo67nP
+— Greg Greene (@ggreeneva) 22 mai 2017
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

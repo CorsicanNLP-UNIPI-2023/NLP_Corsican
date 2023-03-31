@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Avete rimarcatu cum'ellu si stà megliu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Avete-rimarcatu-cum-ellu-si-sta-megliu_a1379.html"/>
+     <date>
+      Fri, 29 Jun 2012 00:31:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Avete rimarcatu cum'ellu si stà megliu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Spetàculu, fair-play, suspens... Dapoi l'eliminazione di a squadra di Francia, l'Euro di futbol hè passiunante.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     "I will survive" ùn serà micca u tube di l'estate, l'équipe de France di Laurent Blanc si n'hè digià vultata in casa. 
+A FFF avia cum'è ogettivu di ristabilisce a fiura catastròfica di i Bleus dopu à a cuppa di u mondu calamitosa in u 2010... Dopu à duie settimane, era digià un fiascu. 
+Si pensava chì u bus di Knysna era luntanu, ma ci hè statu l'affare Nasri. A storia a cunniscite : insulte à i giurnalisti, individualisimu, eliminazione senza gloria. 
+Quandu i ghjucadori taliani rinunziavanu à e prime di macci in sulidarità cù i so paisani, i ghjucadori francesi adupravanu un cumpurtamentu indegnu. 
+À tal puntu chì Jean-Pierre Pernaut s'hè cappiatu in u so JT, offrendusi cusì un bellu buzz nant'à Facebook. Da vede : Jean-Pierre Pernaut démonte l'équipe de France. 
+Ci hè qualcosa chì ùn và quandu si vede u presentadore di TF1 (a catena tv di a vulgarità, di i soldi è di a dicerbellazione) fà a lezzione di murale à Nasri. Ùn parlemu di a ricuperazione pulitica chì hè fatta... 
+Ma quantunque, avete vistu cum'ellu hè bellu u futbol, senza sta squadra di Francia ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

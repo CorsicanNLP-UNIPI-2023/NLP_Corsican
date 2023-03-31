@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A passione di l'autodestruzzione
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-passione-di-l-autodestruzzione_a1231.html"/>
+     <date>
+      Tue, 20 Dec 2011 00:47:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A passione di l'autodestruzzione
+   </head>
+   <div type="content">
+    <p>
+     Quellu chì hà tombu l'ultimu cervu 
+U patrimoniu 
+U quad 
+A lingua corsa 
+E droghe
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

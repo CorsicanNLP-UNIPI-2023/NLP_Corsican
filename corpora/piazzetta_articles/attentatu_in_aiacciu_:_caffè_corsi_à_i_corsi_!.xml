@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Attentatu in Aiacciu : caffè corsi à i Corsi !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Attentatu-in-Aiacciu-caffe-corsi-a-i-Corsi-_a1013.html"/>
+     <date>
+      Thu, 20 Jan 2011 08:01:02 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Attentatu in Aiacciu : caffè corsi à i Corsi !
+   </head>
+   <div type="excerpt">
+    <p>
+     Un bar è un cyber sò stati plasticati in Aiacciu. Nanzu si dicia "Terra corsa à i Corsi"... Oghje saria "Caffè corsi à i Corsi" !
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U doppiu pichju s'hè passatu in u quartieru di Les Cannes E Canne. 
+Una panetta di 5 chilò, un'altra di 10. 
+Si tratta d'un cyber è d'un bar in un locu chì a stampa qualificheghja di "pupulare" per parlà di manera puliticamente curretta. 
+Sta volta, femu pianu nanzu di parlà "d'attentatu razzistu". Arricurdatevi l'affare di l'imam di Sartè. A storia hà fattu i primi tìtuli di a stampa è inghjennatu una viulente riazzione anti-corsa. Ancu Emile Zuccarelli dichjarava chì : 
+L’odieux attentat qui a visé l’imam de Sartène m’inspire consternation, écoeurement et dégoût. Manifestement on a tiré dans le but de tuer. L’objectif raciste et xénophobe de cette exaction, la référence au nazisme, les slogans d’exclusion retrouvés sur les lieux sont autant d’indications inquiétantes de la dérive de quelques individus. 
+Invece, l'affare era una storia trà ghjente d'orìgine magrebina, trà d'elli... 
+Dunque, sta volta femu pianu nanzu di tirà e cunclusioni. Ùn si sà per avà ciò chì s'hè passatu. 
+Ma s'ellu hè una lita trà cumunità corse è magrebine, ci hè da riflette. Parechji anni fà, l'ambizioni eranu grande, u slogan puliticu à a moda era "Terra corsa à i Corsi". 
+Oghje, ne semu ridotti à "Bar corsi per i Corsi" ?  È dumane "un pezzu di comptoir per i Corsi" ? 
+L'amicale di i Corsi di Corsica ùn hè luntanta, ci avvicinemu di a riserva indiana induv'elli anu da metteci pianu pianu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

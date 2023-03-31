@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Galipedia
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Galipedia"/>
+     <date>
+      2019-02-19T12:14:23Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Galipedia
+   </head>
+   <p>
+    A Galipedia hè a versione di Wikipedia in lingua galiziana. Hè stata creata u 8 di marzu 2003. Cum'è tutte l'altre Wikipedia in tutte l'altre lingue si tratta d'un'enciclopedìa lìbera è gratisi. Ognunu chi vole pò participà è cuntribuisce cun u so sapè. U nome di a "Corsipedia", a versione di Wikipedia in lingua corsa, hè inspiratu da u nome "Galipedia".
+   </p>
+   <p>
+    Attualmente, a Wikipedia in lingua galiziana hà più di 154.000 artìculi (ferraghju 2019).
+   </p>
+   <p>
+    Wikipedia
+   </p>
+  </body>
+ </text>
+</TEI>

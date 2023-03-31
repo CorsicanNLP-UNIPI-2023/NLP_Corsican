@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U nostru umagiu à Pétillon
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-nostru-umagiu-a-Petillon_a2739.html"/>
+     <date>
+      Mon, 01 Oct 2018 11:47:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U nostru umagiu à Pétillon
+   </head>
+   <div type="excerpt">
+    <p>
+     René Pétillon hè mortu è oghje tuttu ognunu li rende omagiu. Avia più ch'è l'altri riesciutu à trattà di a Corsica. Senza offende è ridendusine di tutti : Corsi, turisti, pulizzeri, naziunalisti, omi pulitichi francesi, pinzuti stallati in Corsica... A Piazzetta li deve a so testa di moru.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A testa di moru di A Piazzetta hè ricacciata da un vechju disegnu di Pétillon esciutu in u "Canard Enchaîné" (bellu nanzu à "L'Enquête Corse").
+    </p>
+    <p>
+     Avia capitu a Corsica megliu ch'è centinaie di giurnalisti è d'editurialisti francesi (è ancu puru Corsi). 
+Pè A Piazzetta, bella sigura aviamu principiatu senza dumandalli nunda (in u 2007 pè a creazione di u situ). 
+Allora quandu Pétillon hè venutu pè u festivale "BD à Bastia" semu andati à truvallu per spiegalli. Li avemu arricatu unepochi di numeri di A Piazzetta chì l'anu fattu ride. In quant'à l'utilizazione di u so disegnu, si ne impippava è ci hà dettu ch'è no cuntinuvessimu puru. Ci hà rigalatu i diritti. Era un tippettu stu brittonu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

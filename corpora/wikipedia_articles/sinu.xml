@@ -1,0 +1,234 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sinu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Sinu"/>
+     <date>
+      2014-11-18T20:00:54Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sinu
+   </head>
+   <p>
+    In matematica, in particulari in trigunumitria, datu un triangulu rittangulu, u sinu di unu di i dui anguli interni aghjacenti à l'iputenusa hè difinitu com'è u rapportu trà i lunghezzi di u catetu oppostu à l'angulu è di l'iputenusa.
+   </p>
+   <p>
+    Più in generali, u sinu d'un angulu \alpha, espressu in gradi o radianti, hè una quantità chì dipendi solu da \alpha, custruita usendu a circumfarenza unitaria.
+   </p>
+   <p>
+    Difiniscendu com'è \sin(x) u sinu in l'angulu x, s'otteni a funzioni sinu, una funzioni trigunumetrica di fundamintali impurtanza in l'analisa matematica.
+   </p>
+   <p>
+    == Difinizioni ==
+   </p>
+   <p>
+    In u triangulu rossu annantu à a figura, u sinu di x hè datu da
+   </p>
+   <p>
+    \sin(x) = \overline{DC}
+   </p>
+   <p>
+    Più in generali, si difinisci u sinu d'un angulu x (aspressu in gradi o radianti) à parta da a circumfarenza guniumetrica, vali à dì da a circumfarenza di raghju unitariu in u pianu cartisianu. Presa a mezaretta chì esci da l'urighjina chì forma un angulu x incù l'assu di l'ascissi com'è annantu à a figura, u sinu di l'angulu hè dunqua difinitu com'è u valori di a cuurdinata y di u puntu d'intarsizioni trà a mezaretta è a circumfarenza (nantu à a figura, hè a lunghezza di u sigmentu CD).
+   </p>
+   <p>
+    U duminiu di a funzioni sinu hè l'insemu di i numari riali, mentri u cuduminiu hè l'intarvallu riali [-1; +1], veni à dì applichendu tali funzioni à qualunqua numaru riali s'otteni sempri un numaru riali cumpresu trà -1 è +1, estremi inclusi.
+   </p>
+   <p>
+    A tavuledda siguenti esponi i principali valori nutevuli assunti da a funzioni sinu:
+   </p>
+   <p>
+    In i testi di matematica u sinu di x hè di solitu indicatu incù a nutazioni \sin(x), induva \sin hè un'abbriviazioni di u latinu sinus usata ancu in i paesi di lingua inglesa.
+   </p>
+   <p>
+    Esisti un'altra difinizioni di sinu chì si cullega à i rutazioni: u sinu d'un angulu x hè u cumpunenti longu l'assu di l'urdinati di u virsori i, virsori di l'assu di l'ascissi, ghjiratu di x.
+   </p>
+   <p>
+    == Funzioni sinu ==
+   </p>
+   <p>
+    A funzioni sinu hè difinita assucendu à x u sinu di l'angulu x (rapprisintatu in radianti), è hè indicata incù \sin(x). postu ch'è x è x+2\pi definiscini u stessu angulu, a funzioni sinu hè una funzioni piriodica di periodu 2\pi (induva 2\pi hè l'angulu ghjiru).
+   </p>
+   <p>
+    == Sinu è cusinu ==
+   </p>
+   <p>
+    Trà sinu è cusinu esisti a rilazioni fundamintali:
+   </p>
+   <p>
+    \sin^2x + \cos^2x = 1,
+   </p>
+   <p>
+    chì hè cunsiquenza di u tiurema di Pitagora. Infatti in u triangulu OCD in a figura in altu u cusinu di x hè difinitu com'è
+   </p>
+   <p>
+    \cos(x) = \frac{\overline{OC}}{\overline{OD}}.
+   </p>
+   <p>
+    D'altra parti u tiurema di Pitagora applicatu à u triangulu OCD furnisci a rilazioni:{\overline{DC}}^2 + {\overline{OC}}^2 = {\overline{OD}}^2,è dunqua:\sin^2x + \cos^2x = \left(\frac{\overline{DC}}{\overline{OD}}\right)^2 + \left(\frac {\overline{OC}}{\overline{OD}}\right)^2 = \frac{\overline{OD}^2} = \frac{\overline{OD}^2}{\overline{OD}^2} = 1.
+   </p>
+   <p>
+    Vali ancu a rilazioni:
+   </p>
+   <p>
+    \sin(x) = \cos\left(x-\frac{\pi}{2}\right).
+   </p>
+   <p>
+    Com'è par u cusinu, a cusecanti d'un angulu hè 1 divisu u sinu di l'angulu.
+   </p>
+   <p>
+    == Prubità analitichi di a funzioni sinu ==
+   </p>
+   <p>
+    A dirivata di a funzioni sinu hè a funzioni cusinu. Avemu veni à dì:\sin'x=\cos x.
+   </p>
+   <p>
+    A dirivata siconda hè inveci:\sin x = -\sin x.
+   </p>
+   <p>
+    A funzioni sinu hè una funzioni analitica, è a so espansioni in seria di Taylor hè:\sin x = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + \cdots = \sum_{n=0}^\infty \frac{(-1)^nx^{2n+1}}{(2n+1)!}.
+   </p>
+   <p>
+    In analisa matematica st'ugualità hè spessu usata par difiniscia u sinu. A stessa seria difinisci u sinu com'è funzioni olumorfa annantu à tuttu u pianu cumplessu.
+   </p>
+   <p>
+    == Equazioni fundamintali rilativi à u sinu ==
+   </p>
+   <p>
+    Si rapportani quì di seguitu parechji equazioni fundamintali riguardu à a funzioni sinu;
+   </p>
+   <p>
+    \sin^2x + \cos^2(x) = 1,
+   </p>
+   <p>
+    \sin(x\pm y) = \sin x \cos y \pm \cos x \sin y,
+   </p>
+   <p>
+    \cos(x\pm y) = \cos x \cos y \mp \sin x \sin y,
+   </p>
+   <p>
+    incù l`aghjunta di a cundizioni ch'è:
+   </p>
+   <p>
+    0
+   </p>
+   <p>
+    Esisti ancu un'idantità trigunumetrica chì metti in rilazioni a funzioni sinu è a funzioni tangenti:
+   </p>
+   <p>
+    \sin(x) = \frac{2\tau}{1+\tau^2} \quad \text{ incù }\quad \tau = \tan\frac{x}{2}.
+   </p>
+   <p>
+    st'idantità si svela di fundamintali impurtanza in a risuluzioni d'equazioni guniumetrichi in a quali a scunnisciuta figura com'è argumentu sii d'un sinu sii d'un cusinu (o di funzioni dirivati da quiddi). Esisti, infatti, un'idantità analoga par ciò chì riguarda u cusinu, u chì parmetti a risuluzioni di l'equazioni in a scunnisciuta \tau.
+   </p>
+   <p>
+    == Difinizioni currilati ==
+   </p>
+   <p>
+    U reciprocu di u sinu (difinitu induva u sinu hè diffarenti da zeru) hè a cusecanti
+   </p>
+   <p>
+    \csc x =\frac {1}{\sin x}
+   </p>
+   <p>
+    A funzioni sinu, ristretta à l'intarvallu \left[-\frac{\pi}{2}, \frac{\pi}{2}\right] hè iniettiva è dunqua hà una inversa, chjamata arcusinu (indicatu incù \arcsin o incù \sin^{-1} chì ripiglia a nutazioni di a funzioni inversa). Par difinizioni s'hà dunqua:
+   </p>
+   <p>
+    x = \arcsin y \Longleftrightarrow y = \sin x, \quad -\frac{\pi}{2}\leq x \leq \frac{\pi}{2}, \quad -1\leq y \leq 1.
+   </p>
+   <p>
+    ==Storia è urighjina di u nomu==
+   </p>
+   <p>
+    U cuncettu di sinu fù introduttu da u matematicu è astrunomu indiana Aryabhata I (in devanāgarī: आर्यभट) (476 - 550) in a so opara Aryabhatiya (499).
+   </p>
+   <p>
+    U sinu hè par difinizioni a mità d'una corda, veni à dì un sigmentu chì unisci dui punti (ditti estremi) d'una circumfarenza. A parola sanscrita par mità corda hè jya-ardha, calchì volta sustituitu incù ardha-jya è abbriviatu in jya (corda). Stu terminu fù impurtatu in a lingua araba com'è jiba, un terminu senza significatu prima di tandu ma chì riflittia a prununcia funetica di u nomu jya. Sicondu i reguli di a lingua araba, 'ssu nomu fù scrittu incù i dui cunsunanti jb, senza vucali. Più dopu, quandu i traduttori
+   </p>
+   <p>
+    uccidintali ebbini cunniscenza di i fonti arabi, intarpritàni a parola jb com'è jaib, chì u so significatu era baia. Infini, u talianu Gherardo da Cremona (1114 - 1187) tradussi a parola in latinu com'è sinus, di a quali u significatu era par appuntu baia''.
+   </p>
+   <p>
+    U sinu d'un angulu hè indicatu incù \mathrm{sin}(x).
+   </p>
+   <p>
+    == Da veda dinò ==
+   </p>
+   <p>
+    Funzioni trigunumetrica
+   </p>
+   <p>
+    Sinusoidi
+   </p>
+   <p>
+    Cusinu
+   </p>
+   <p>
+    Tangenti (matematica)
+   </p>
+   <p>
+    Arcusinu
+   </p>
+   <p>
+    Circumfarenza guniumetrica
+   </p>
+   <p>
+    formula di Eulero
+   </p>
+   <p>
+    Formuli di duplicazioni
+   </p>
+   <p>
+    Formuli di bisizzioni
+   </p>
+   <p>
+    Formuli di Werner
+   </p>
+   <p>
+    Tiurema di i sini
+   </p>
+   <p>
+    Funzioni piriodica
+   </p>
+   <p>
+    Funzioni altirnata
+   </p>
+   <p>
+    sinu iperbolicu
+   </p>
+   <p>
+    Trigunumitria
+   </p>
+   <p>
+    == Noti ==
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia in talianu.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U clip (in corsu) di presentazione di a maglia nova di u Sporting
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-clip-in-corsu-di-presentazione-di-a-maglia-nova-di-u-Sporting_a1901.html"/>
+     <date>
+      Fri, 27 Jun 2014 18:28:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U clip (in corsu) di presentazione di a maglia nova di u Sporting
+   </head>
+   <div type="excerpt">
+    <p>
+     Per presentà a maglia nova di a stagione 2014-15, eccu u filmettu in lingua corsa realizatu da una sucetà bastiaccia. Micca troppu male nò ?
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

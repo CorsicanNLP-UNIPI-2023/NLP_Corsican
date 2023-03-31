@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Giacobbi, solu à u mondu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Giacobbi-solu-a-u-mondu_a1790.html"/>
+     <date>
+      Sat, 10 May 2014 02:08:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Giacobbi, solu à u mondu
+   </head>
+   <div type="content">
+    <p>
+     Paul Giacobbi si serà intesu bellu solu venneri sera in l'emissione di Frédéric Taddei "Ce soir ou jamais" nant'à France 2. U tema era : "Qui est propriétaire de quoi ?", ma s'è vo l'avete mancata, ùn avete mancatu nunda. U presidente di l'esecutivu era quì per difende u statutu di residente. 
+In faccia à ellu, l'altri invitati ùn eranu quì ch'è per ridesine di i Keurses. È tutti, di siguru, ùn capianu u perchè di stu prugettu. 
+Pascal Salin, ecunumistu, hà prupostu un'idea semplice per fà calà u prezzu di u fundiariu. Postu chì Giacobbi dicia chì u liturale era statu prutettu, basta à fà cresce l'offerta per fà calà i prezzi. È custruisce dunque à buzeffu è à fà vene a ghjente : "mais enfin, y a d'la place en Corse !" Custì almenu hè chjara, l'omu difende a culunizazione di pupulamentu. 
+Périco Légasse, maritu di l'accanita ripublicana Natacha Polony, hà passatu u so tempu à ridesine di u prugettu di statutu di residente : "vous aurez l'indépendance avant !" 
+Gaspard Koenig, scrivanu è giurnalistu tuttu in pretensione, hà a suluzione per noi : "ben dites aux Corses qu'ils n'ont qu'à pas vend'm'sieur Giacobbi". Cummencia à diventà longu. 
+Tandu si sente Giacobbi spazientà : "vous n'avez pas inventé le fil à couper le beurre apparemment." 
+Sola, a filòsoffa Judith Revel paria capisce u prublema di u fundiariu è u fattu chì solu i più ricchi (fresteri) trovanu à allughjassi in e grande cità, è chì hè listessa in Parigi induve i studienti ùn ponu più stà. 
+L'emissione si compie cù un storicu, Bruno Fuligni, autore di u libru Tour du monde des terres françaises oubliées è chì face u ricensu di tutte l'isule è l'isulotte francese in u mondu, antichi resti d'un passatu culuniale. 
+L'occasione hè troppu bella per Périco Legasse : "Finalement si j'comprends bien, y a plus qu'la Corse qui n'est pas française" è tuttu u mondu ride di sta bella cacciata. 
+Hè sempre longa, a cumpagnia di i nostalgichi di u passatu culuniale... 
+U situ di Ce soir ou jamais
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

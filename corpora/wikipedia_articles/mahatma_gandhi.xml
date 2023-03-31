@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mahatma Gandhi
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Mahatma%20Gandhi"/>
+     <date>
+      2014-09-23T09:34:14Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Mahatma Gandhi
+   </head>
+   <p>
+    Mohandas Karamchand Gandhi (in lingua  devanagari मोहनदास करमचन्द गांधी) dettu u Mahatma, natu à Porbandar u 2 uttobre 1869 è mortu à New Delhi u 30 ghjennaghju 1948, hè statu un omu puliticu è filosofu indianu.
+   </p>
+   <p>
+    Impurtante guida spirituale pè u so Paese, hè cunnisciutu soprattuttu incù u cugnome di mahatma (in sanscritu महात्मा, "grande anima"). Un altru cugnome hè Bapu, chì in hindi significheghja "babbu".
+   </p>
+  </body>
+ </text>
+</TEI>

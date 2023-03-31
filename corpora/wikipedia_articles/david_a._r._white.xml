@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     David A. R. White
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/David%20A.%20R.%20White"/>
+     <date>
+      2016-08-26T18:00:53Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    David A. R. White
+   </head>
+   <p>
+    David Andrew Roy White (12 Maghju 1970) hè un attore americanu.
+   </p>
+   <p>
+    White, David A. R.
+   </p>
+   <p>
+    White David A. R.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Jean-François Baccarelli s'attacca à a canzona
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Jean-Francois-Baccarelli-s-attacca-a-a-canzona_a2391.html"/>
+     <date>
+      Tue, 03 May 2016 00:24:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Jean-François Baccarelli s'attacca à a canzona
+   </head>
+   <div type="excerpt">
+    <p>
+     THE VOICE - Dop'à essesi attaccatu à i migranti, l'altru JFB s'attacca à a musica. Ùn sapemu ancu s'ellu conta cuntinuvà a pulitica, ma forse chì una carriera nova s'apre à ellu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Tutti i ghjorni ci hè qualcosa di novu in u mondu virtuale di Jean-François Baccarelli. L'omu puliticu bastiacciu s'hè lanciatu sti pochi ghjorni in a publicazione di filmetti musicali nant'à a so pagina Facebook. 
+À u prugramma parechji tubes nustrali : Versu Tè di L'Albinu è Sunatu hè lu cornu. 
+U risultatu hè più incuragente ch'è i so risultati à l'elezzione. Ghjudicate da per voi. 
+Aspettemu cun impazienza e so date di cuncerti di l'estate.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Battaglia di Cold Harbor
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Battaglia%20di%20Cold%20Harbor"/>
+     <date>
+      2014-03-23T14:03:54Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Battaglia di Cold Harbor
+   </head>
+   <p>
+    A Battaglia di Cold Harbor di l'annu 1864 fubbe una battaglia in a Guerra Civile Americana (1861-1865).
+   </p>
+   <p>
+    Cold Harbor
+   </p>
+  </body>
+ </text>
+</TEI>

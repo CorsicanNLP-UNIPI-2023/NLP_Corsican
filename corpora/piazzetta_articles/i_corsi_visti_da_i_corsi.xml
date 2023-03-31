@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I Corsi visti da i Corsi
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-Corsi-visti-da-i-Corsi_a1117.html"/>
+     <date>
+      Wed, 15 Jun 2011 16:07:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I Corsi visti da i Corsi
+   </head>
+   <div type="excerpt">
+    <p>
+     L'unione di i Corsi, mancu u grandissimu Generale de Paoli ùn avia riesciuta à falla. 200 anni dopu, averemu appena avanzatu ?
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

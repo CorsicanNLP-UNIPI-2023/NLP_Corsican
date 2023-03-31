@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A vita hè più cara in Corsica, ma ancu di grazia ci fermanu e sigarette
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-vita-he-piu-cara-in-Corsica-ma-ancu-di-grazia-ci-fermanu-e-sigarette_a2376.html"/>
+     <date>
+      Fri, 15 Apr 2016 14:19:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A vita hè più cara in Corsica, ma ancu di grazia ci fermanu e sigarette
+   </head>
+   <div type="excerpt">
+    <p>
+     Paese amicu o micca, i prezzi sò più cari in Corsica ch'è in Francia, di circa 4% in più.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A vita hè più cara in regione parigina ch'è in Corsica, ma in Corsica più ch'è in altrò. A dice un studiu di l'INSEE : i prezzi in Corsica sò più cari ch'è in Francia, di circa 4%. In Parigi è u so circondu, i prezzi sò di circa 9% più cari ch'è in pruvincia. 
+I prudutti alimentarii (a spesa a più impurtante d'una famiglia) sò più cari ch'è in pruvincia di 8,7%. Per tuttu u restu hè più caru dinù. Ch'ellu sia per i servizii, per curassi, pè a cultura o l'ammubulamentu, ci vole à sbancà. 
+Da vede nant'à u situ di l'insee : Les prix en Corse sont supérieurs de 4 % à ceux de la province 
+U pruverbiu ùn dice ch'ellu ùn si pò avè u caddie pienu è a moglia briaga ?
+    </p>
+    <p>
+     Da leghje nant'à LeMonde.fr : Vivre en région parisienne coûte 9 % plus cher qu’en province 
+Ancu di grazia, u cancaru di i pulmoni hè menu caru. E sigarette costanu 25% di menu ch'è in Francia, è e spese di salute costanu 2% di di più.    Et qui on est ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

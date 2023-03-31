@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Eddie Izzard
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Eddie%20Izzard"/>
+     <date>
+      2015-07-01T19:37:32Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Eddie Izzard
+   </head>
+   <p>
+    Edward John "Eddie" Izzard hè un attore canadianu.
+   </p>
+   <p>
+    Izzard, Eddie
+   </p>
+  </body>
+ </text>
+</TEI>

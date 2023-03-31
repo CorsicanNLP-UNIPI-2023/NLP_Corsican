@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Invasione di cignali in Bordeaux
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Invasione-di-cignali-in-Bordeaux_a2074.html"/>
+     <date>
+      Sat, 13 Dec 2014 19:40:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Invasione di cignali in Bordeaux
+   </head>
+   <div type="excerpt">
+    <p>
+     I castichi d'Alain Juppé u merre di Bordeaux ùn si riducenu micca solu à Sarkozy. Avà, i cignali ghjunghjenu in cità.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Quand on arrive en ville  Tout l'monde change de trottoir  On a pas l'air viril  Mais on fait peur à voir... 
+A canzona di Balavoine hè d'attualità in Bordeaux, ma i blousons noirs sò una mansa di cignali. 
+Parechji testimoni spieganu à Sud Ouest avè vistu i loubards è d'avè avutu a paura : 
+"Je sortais du travail, je regardais mon téléphone quand j'ai entendu un bruit lourd sur la chaussée. J'ai levé le nez et là j'ai vu un sanglier. Ça m'a fait peur" 
+L'affare puderia fà ride ma si n'hè vistu d'altri in a periferia di a cità. 
+Allora sò organizate battute in piena cità. 
+Attenti chì a moda di a falata in cità u sabbatu sera tocchi ancu i nostri cignali corsi...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

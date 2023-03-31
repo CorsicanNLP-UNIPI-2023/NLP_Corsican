@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I Russii sò quì, è i Corsi li vendenu tuttu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-Russii-so-qui-e-i-Corsi-li-vendenu-tuttu_a1384.html"/>
+     <date>
+      Tue, 10 Jul 2012 14:13:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I Russii sò quì, è i Corsi li vendenu tuttu
+   </head>
+   <div type="excerpt">
+    <p>
+     Un riccone russiu hà cumpratu 500 ettare di terreni in Bunifaziu... induve ùn si pò micca custruisce. Ma sin'à quandu ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'affare hè palisatu da a giurnalista di L'Express Hélène Constanty (quella chì hà scrittu Razzia sur la Corse). 
+Un miliardiariu russiu, Vitaly Borisovitch Malkin hà cumpratu più di 500 ettari di terreni intornu à Balistra pè 18,6 milioni d'euros. Corse-Matin hà ripigliatu eri l'infurmazione. 
+Ma dopu chì u Russiu l'essi cumpratu, u PLU di a cumuna di Bunifaziu hè statu mudificatu è i terreni (certi appartenianu à a famiglia Dewavrin capi d'insdustria francese è dinù à Jacques Dewez) sò stati impediti à a custruzzione. 
+Ma sin'à quandu ? In Corse-Matin, Jean-Charles Orsucci merre di Bunifaziu dice chì : « Sous ma responsabilité, c'est clair, ce terrain ne sera pas constructible. Mais comment dire que ce terrain ne sera jamais constructible ? Si une autre municipalité vient aux affaires, elle pourra changer le PLU. Aujourd'hui j'ai renforcé le droit de préemption du Conservatoire du Littoral sur ces terrains mais encore faut-il qu'ils soient à vendre ! J'inviterais bien monsieur Malkin à vendre son lot pour l'euro symbolique et à en faire un citoyen d'Honneur de Bonifacio... Mais est-ce qu'il accepterait ? » 
+Oghje, u nostru amicu russiu a si caccia cun Jean-Noël Marcellesi, prumutore immubiliare è osteriaghju purtivechjacciu. Saria ellu chì averia fattu l'intermediariu cù Malkin pè a vendita di sti terreni. 
+L'Express scrive nant'à ellu :"Marcellesi est la bête noire des écologistes pour avoir édifié illégalement une soixantaine de villas dans la baie de Santa Giulia. Le permis de construire de ces bâtiments a été annulé par le Conseil d'Etat en 2006, mais leur démolition n'a jamais été ordonnée". 
+St'affare hè un bellu sìmbulu di a Corsica di l'anni 2000. Una terra à vende (torna appinuccia prudetta, ma sin'à quandu ?), chì discetanu l'appititti di manghjoni pronti à tuttu per empiesi e stacche. A maiò parte di a pupulazione ella hè di più in più addisperata è povera. Strazieghja è vede passà i Porsche Cayenne climatizati di quelli chì sanu fà i so affari. 
+Jusqu'ici tout va bien...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

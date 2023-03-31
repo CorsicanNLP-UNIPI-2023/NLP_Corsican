@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Alaska
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Alaska"/>
+     <date>
+      2014-03-23T13:57:29Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Alaska
+   </head>
+   <p>
+    L'Alaska hè un statu di i Stati Uniti d'America. Teni 626.932 abitanti. A capitala hé Juneau
+   </p>
+   <p>
+    Stati di i SUA
+   </p>
+  </body>
+ </text>
+</TEI>

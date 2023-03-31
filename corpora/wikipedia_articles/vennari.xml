@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vennari
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Vennari"/>
+     <date>
+      2015-07-01T12:46:11Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Vennari
+   </head>
+   <p>
+    U Vennari hè u ghjornu di a sittimana chì veni dopu à u Ghjovi è innanzi à u Sabatu.
+   </p>
+   <p>
+    == In Corsica ==
+   </p>
+   <p>
+    U vennari hè mintuvatu calchì volta in i pruverbii è in i sprissioni corsi. Par asempiu:
+   </p>
+   <p>
+    Nè in vennari nè in luni ùn dà principiu à a to funi.
+   </p>
+   <p>
+    Cristu ùn paga micca tutti i vennari sera.
+   </p>
+   <p>
+    == Riferimenti ==
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    Ghjorni di a sittimana
+   </p>
+  </body>
+ </text>
+</TEI>

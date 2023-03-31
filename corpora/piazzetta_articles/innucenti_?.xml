@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Innucenti ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Innucenti_a1098.html"/>
+     <date>
+      Tue, 17 May 2011 00:00:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Innucenti ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Chì serà a verità di u DSKgate ? Manipulazione ? Tràppula ? Succidiu puliticu ? O patulugia ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè troppu à bon'ora pè tirà un insignamentu in l'affare DSK è per avà a Francia sana hè abbambanata d'avè persu u so candidatu preferitu (in i sundagi) pè l'elezzione di u 2012. 
+Una cosa hè sigura : tuttu ognunu si feliciteghja chì a famosa "présomption d'innocence" sia rispettata in Francia. 
+À stà à sente i cummentadori pulitichi, i dibàttiti sò rispettosi è degni. 
+For'di Bernard Debré chì parla di "delinquante sessuale" è chì dice à DSK " Disparaissez et vite " nimu s'hè scatinatu. 
+Sarkozy hà datu l'òrdine à a so magiurità d'ùn aghjustà micca cummenti pùzzichi (è d'altronde ùn si ne sente) è ch'ellu vulia chì tutti sianu "esemplarii". Ancu Frédéric Lefebvre ùn s'hè intesu. 
+Iè o Sarkò, ma basta d'arricurdassi di l'arrestazione "d'Yvon (sic) Colonna, assassin du préfet Erignac"...
+    </p>
+    <p>
+     Sarko Colonna par Tiotevalisse
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

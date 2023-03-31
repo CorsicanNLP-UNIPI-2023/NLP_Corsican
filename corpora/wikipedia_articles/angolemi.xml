@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Angolemi
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Angolemi"/>
+     <date>
+      2015-07-01T22:01:13Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Angolemi
+   </head>
+   <p>
+    Angolemi (Taşpınar / Αγγολεμι) hè una cità di u Cipru. Tene 212 abitanti (2006).
+   </p>
+   <p>
+    Giugrafia
+   </p>
+   <p>
+    Cipru
+   </p>
+  </body>
+ </text>
+</TEI>

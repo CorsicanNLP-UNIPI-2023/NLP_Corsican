@@ -1,0 +1,77 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pasquale Paoli à u sinemà, hè avà !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Pasquale-Paoli-a-u-sinema-he-ava-_a2270.html"/>
+     <date>
+      Mon, 05 Oct 2015 00:36:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pasquale Paoli à u sinemà, hè avà !
+   </head>
+   <div type="excerpt">
+    <p>
+     Esce infine "Les Exilés" di Rinatu Frassati, u filmu tantu aspettatu nant'à Pasquale Paoli. A prima pruiezzione serà fatta u 10 ottobre in Bastia pè u festivale Arte Mare. Spicciatevi per e piazze.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Dapoi più d'un annu, n'avemu parlatu assai è site stati numerosi à sustene u prugettu. Avà hè sunata l'ora di a surtita tanta aspettata di u filmu. 
+A prima pruiezzione serà fatta u sabbatu 10 d'ottobre à u teatru di Bastia, in u guatru di u festivale Arte Mare (piazze in vendita à u teatru è à l'offiziu di u turisimu, 6€). 
+L'affissu, degnu d'un episodiu di Star Wars, hè magnificu :
+    </p>
+    <p>
+     Ci vole à dì ch'ellu hè u primu filmu di u giovanu realizatore Rinatu Frassati, è unu di i primi nant'à Pasquale Paoli. 
+A maiò parte di u filmu hè in lingua corsa. U castingu hè nustrale : Jean-Philippe Ricci, Jeremy Alberti, Jean-Claude Acquaviva, Gigi Casabianca, Paul Garatte, Gray Orsatelli, Marie-Ange Casta è ancu i tecnichi sò corsi è esciuti da l'IUT di Corti. 
+A musica hè stata cumposta da Fred Poggi è Michel Tomei (di Voce Ventu) è ci hè ancu una canzona originale cumposta è scritta da Stéphane Casalta, Jean-Claude Acquaviva è Michel Frassati. 
+Bon, l'avete capita, stu filmu hè aspettatu è ci vole à spicciassi per e piazze. 
+L'altre date di pruiezzione : 
+- Venneri u 23 d'ottobre à 10 ore in Montpellier (Teatru di Lattes, festivale "Corsica cinéma") 
+- Da u 25 à u 29 di nuvembre in Aiacciu (Espace Diamant, festivale "Under my screen") 
+- Da u 7 à u 13 di dicembre in L'Isula (sinemà Le Fogata) 
+È per seguità l'attualità di u filmu, ci hè a so pagina Facebook :
+    </p>
+    <p>
+     (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/co_FR/sdk.js#xfbml=1&amp;version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));FAITES PLACE AU GÉNÉRAL PAOLI!L'aspittavate, eccu lu infine, u prima ritattu uffiziale di u cumediante Ghjuvan'Filippu...
+Posted by Les Exilés on Marti 29 Settembre 2015
+    </p>
+    <p>
+     È sì Pasquale Paoli vince un César, cumu femu ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

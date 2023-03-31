@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Arizona
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Arizona"/>
+     <date>
+      2015-07-16T14:57:16Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Arizona
+   </head>
+   <p>
+    L'Arizona hè un statu di i Stati Uniti d'America. Teni 5.130.632 abitanti.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Phoenix (Arizona)
+   </p>
+   <p>
+    Stati di i SUA
+   </p>
+  </body>
+ </text>
+</TEI>

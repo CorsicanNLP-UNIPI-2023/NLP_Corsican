@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Espeja de San Marcelino
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Espeja%20de%20San%20Marcelino"/>
+     <date>
+      2014-03-23T14:18:22Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Espeja de San Marcelino
+   </head>
+   <p>
+    hè una cumuna spagnola di a pruvincia di Soria, in a cumunità autonoma di Castiglia è León.
+   </p>
+   <p>
+    Pruvincia di Soria
+   </p>
+  </body>
+ </text>
+</TEI>

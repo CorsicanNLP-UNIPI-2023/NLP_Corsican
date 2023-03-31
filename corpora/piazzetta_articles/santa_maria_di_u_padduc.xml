@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Santa Maria di u Padduc
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Santa-Maria-di-u-Padduc_a1392.html"/>
+     <date>
+      Thu, 02 Aug 2012 15:29:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Santa Maria di u Padduc
+   </head>
+   <div type="excerpt">
+    <p>
+     V'arricurdate di u Padduc di Rocca Serra è Santini, chì nimu ùn ne vulia sente puzza ? Maria Guidicelli hà riesciutu u miràculu d'addunisce una magiurità daret'à u so prugettu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U Padduc prima versione, vi n'arricurdate? Dui anni fà, torna appena è nascia una guerra civile. Stu ducumentu fattu da u cabinettu di studii pariginu Tetra prividia di mette a Corsica nant'à a via di "l'ecunumia residenziale", vale à dì turìsimu è immubiliare. Pocu affare nant'à a cultura è a lingua, nant'à un'ecunumia di pruduzzione, nant'à l'università... U prugettu era cusì pèssimu ch'ellu era ancu ritiratu di ghjugnu 2009. Un annu dopu, facia perde e territuriale à a diritta. 
+Oghje, hè Maria Guidicelli chì hè incaricata di purtà u prugettu di novu Padduc... è hà riesciutu u miràculu di truvà un consensus. Un primu raportu chì dà e grande orientazione à u futuru Padduc hè statu vutatu di lugliu. 
+Presentatu cum'è di più à manca, di più ecologistu, di più centratu nant'à l'identità corsa, l'orientazione di stu Padduc novu sò state ben accolte ancu da i naziunalisti, menu da "la Gauche Républicaine" è da a diritta. 
+Da leghje nant'à Corse-Matin : Le rapport sur le Padduc largement approuvé par l'assemblée de Corse è Fr3 : Large consensus sur les orientations du PADDUC. 
+Jean-Guy Talamoni dichjara nant'à Alta Frequenza chì "c'est un départ très intéressant" è Femu A Corsica hà riesciutu à fà vutà ch'ellu sia mintuvata a nuzione di "populu corsu" è parla di "victoire politique", da leghje quì. 
+In Corsica ci sò dunque donne ingagiate in pulitica chì sò capace di facci surprese, quessa hè piuttostu una bona nova, nò ? Ci scambia di i sempiterni azezi in flacchina. 
+A prova chì Maria Guidicellu hà fattu un miràculu : ancu François Tatti hà vutatu pè a cuufficialità di a lingua corsa ! 
+Speremu ch'ellu ùn ci sia rinfriscata. Sarebbe ora chì a sucetà corsa s'appacessi, è chì i Corsi eppiinu cunfidenza in u so avvene, in a so cultura, in a so terra.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

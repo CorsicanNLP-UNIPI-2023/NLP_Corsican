@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lewis Carroll
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Lewis%20Carroll"/>
+     <date>
+      2015-07-02T13:02:34Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lewis Carroll
+   </head>
+   <p>
+    Lewis Carroll (di u so veru nome, Charles Lutwidge Dodgson) hè un rumanzeru, ritrattatore è matemàticu britannicu natu u 27 di ghjennaghju 1932 in Daresbury è mortu u 14 di ghjennaghju 1898 in Guildford. Hè cunnisciutu per u so libru Alice in Wonderland.
+   </p>
+   <p>
+    Biugrafia
+   </p>
+   <p>
+    Britannicu
+   </p>
+  </body>
+ </text>
+</TEI>

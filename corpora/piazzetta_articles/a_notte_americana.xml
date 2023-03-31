@@ -1,0 +1,81 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A notte americana
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-notte-americana_a1436.html"/>
+     <date>
+      Wed, 07 Nov 2012 15:09:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A notte americana
+   </head>
+   <div type="excerpt">
+    <p>
+     Eccu ciò chì s'hè veramente passatu a notte di a vittoria di Barack Obama.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     22h11 : Quale hà da vince trà Romney è Obama ? À st'ora quì ùn si sà nunda è tuttu hè pussìbule. 
+23h30 : I primi scagni chjodenu in certi stati. I primi sundagi anu da cascà da quì à pocu. 
+23h37 : Si sà chì un risultatu impurtante serà quellu di l'Ohio, un swing state chì pò fà cascà a vittoria in un campu o in l'altru. 
+00h45 : D'appressu à e prime stime, Mitt Romney vince in i stati cunservatori di l'Oklahoma, di u Mississippi, di l'Arkansas, di l'Alta Rocca è di u Tàravu. 
+0h48 : Prima supressa, Fox News annunzia chì l'Alisgiani hà vutatu per Obama. 
+1h15 : Nant'à CNN, Sauveur Gandolfi-Scheit dice ch'ellu hà fattu vutà à Ronald Reagan. 
+1h17 : Casca u risultatu di U Borgu : Ronald Reagan ghjunghje in testa cun 85,7% di i voti. 
+1h22 : Paul Giacobbi ghjunghje in testa in u Massachusetts è in Moltifau. 
+2h12 : In Niolu, George Bush hè in testa (66%), davant'à Mitt Romney (18%) è Jean-Jean Castellani (16%). 
+2h14 : Arnold Schwarzenegger è Marcel Francisci facenu a suppa di musu. Francisci dichjara à Fox News chì : "je suis parfaitement confiant pour la victoire de Nicolas Sarkozy". 
+2h43 : Prima baruffa in diretta nant'à Via Stella. Paul Quastana vole scuzzulà à Sarah Palin, Stéphane Usciati si piglia un cazzottu. 
+3h01 : L'aviò di Paul Giacobbi è di Mimi Viola vene di ponesi in l'Ohio. 
+3h27 : Primi incidenti di voti à u Kansas è in San Gavinu d'Ampugnani. 
+3h29 : Frédéric Hantz hè sempre in testa in Vulpaiola. 
+3h45 : A fottocopiosa di a merria di Bastia casca in panna. Ancu di grazia, quella di Los Angeles nò. 
+4h32 : A vittoria d'Obama hè di più in più chjara. In Ponte Leccia si sèntenu e prime calibrate. À u bar "Las Vegas" è à "America Garage" si stuppa u champagne. 
+4h40 : Camille de Rocca Serra si ne rientra in casa soia. A vittora d'Obama hè vicina. 
+5h30 : "Les Obamistes d'Ajaccio" vanu à u Privilège è Simon Renucci si piglia una strambacata in buatta. 
+5h14 : CNN è CBS danu a vittoria à Barack Obama. Ùn manca più chè u risultatu di u Fiumorbu. 
+5h15 : Finalmente, Jean Zuccarelli raghjunghje u campu d'Obama. 
+6h30 : Dumè Bucchini dichjara "le milieu est aux portes de la Maison Blanche". 
+7h12 : Michel Stefani dumanda l'organizazione d'un novu "concalve de Venaco". 
+7h34 : I naziunalisti si riuniscenu : "nous ne donnerons aucune consigne de vote". 
+12h43 : Paul Canarelli dichjara in Corse-Matin chì "il existe une Corse qui évolue et qui s'en sort" (nò ùn hè micca una magagna in più). Pocu tempu dopu, Jérôme Ferrari vince u Goncourt. 
+13h00 : Obama serà u prussimu presidente di u mondu. Ma ùn v'inchietate, ùn scambierà nunda à a vostra vita.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     « Des p’tits trous, des p’tits trous, toujours des p’tits trous »
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/%C2%A0Des-p-tits-trous-des-p-tits-trous-toujours-des-p-tits-trous%C2%A0_a1475.html"/>
+     <date>
+      Thu, 03 Jan 2013 23:33:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       TRIBUNA-DI-I-LETTORI-AZEZI
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    « Des p’tits trous, des p’tits trous, toujours des p’tits trous »
+   </head>
+   <div type="excerpt">
+    <p>
+     Una lettrice azeza ci avia mandatu st'articulu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In 1958, Serge Gainsbourg cantava : « Des p’tits trous ». Un precursore di u XXIesimu seculu in Corsica (è per parecchje cose…)? Sta canzona va perfettamente per u statu di a strada trà Venacu è Corti. Tafòni, camiò, omi incù u « gilet jaune fluo » : ci n’he ogni locu ! A strada s’assumiglia à un « morpion géant » : tondi, linee è pò croce soprattuttu ! 
+Anù messu riquadri dinò ! E pò micca dui o tre, almenu una decina : « danger », « travaux » (si pò fà un’armata d’omi inc’una pala !), « 30 », « 50 », « chaussée rétrécie », « circulation alternée », « feux de circulation »… Pare una revizione di u còdice di a strada ! 
+Dopu ci sò i fochi di circulazione : trè fochi per fà dece chilometri, chi dùranu 2 ò 3 minuti ognunu è à qualchì metru unu da l’astru ! Un sò mancu regulati di manera à passà inseme à l’aranciu ! Quandu si passa à l’aranciu à unu, s’arresta à l’astru duie centu metri in ghjò chi questu hè à u rossu. Per fà un tragettu di dece minuti nurmalamente, avà ci vole u dopiu ! 
+Ghjunt’in Corti o in Vivariu, simu tutti azezi !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

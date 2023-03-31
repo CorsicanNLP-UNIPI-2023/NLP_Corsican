@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Strema diritta in Corsica : u dissegnu di Fumaroli
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Strema-diritta-in-Corsica-u-dissegnu-di-Fumaroli_a2336.html"/>
+     <date>
+      Tue, 02 Feb 2016 23:36:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Strema diritta in Corsica : u dissegnu di Fumaroli
+   </head>
+   <div type="excerpt">
+    <p>
+     Un gruppu d'eletti auruperani di strema diritta hà sceltu a Corsica per un seminariu di qualchì ghjornu, d'appressu à u Canard Enchaîné. Eccu u sguardu di Dumenica Fumaroli.
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

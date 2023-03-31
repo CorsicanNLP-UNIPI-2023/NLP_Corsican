@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cristina Fernández de Kirchner
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Cristina%20Fern%C3%A1ndez%20de%20Kirchner"/>
+     <date>
+      2015-07-02T09:48:02Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cristina Fernández de Kirchner
+   </head>
+   <p>
+    Cristina Fernández de Kirchner hè una puliticante nata à La Plata u 19 frivaghju di u 1953.
+   </p>
+   <p>
+    Dapoi u 10 di dicembre di u 2007 hè u 55esimu presidente di a Republica Argentina.
+   </p>
+   <p>
+    Argentina
+   </p>
+  </body>
+ </text>
+</TEI>

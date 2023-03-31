@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Agostu sente a crisa di nerbii
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Agostu-sente-a-crisa-di-nerbii_a1154.html"/>
+     <date>
+      Tue, 23 Aug 2011 10:21:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Agostu sente a crisa di nerbii
+   </head>
+   <div type="excerpt">
+    <p>
+     Ùn ne pudete più ? Rassicuratevi, ùn site micca soli...
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

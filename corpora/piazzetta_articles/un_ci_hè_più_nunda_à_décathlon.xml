@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Un ci hè più nunda à Décathlon
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-ci-he-piu-nunda-a-Decathlon_a1220.html"/>
+     <date>
+      Sun, 27 Nov 2011 19:54:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Un ci hè più nunda à Décathlon
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè una grande è bona nutizia in u mondu magnificu di a cunsumazione à buzeffu : avà ci hè un Décathlon in Aiacciu, è hè statu pigliatu d'assaltu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     À noi Corsi, a sapete bè ci piace à cunsummà. Ci piacenu i parkings di supermercati, e mascine à cartes bleues, a coda à e casce, e spese... Avemu a passione di u caddie. 
+Semu poveri, ùn ci hè micca travagliu, a precarità hè sempre più impurtante, i restos du coeur in pienu sviluppu, ma a prupurzione di supermercati è di grandes surfaces hè a più forte di Francia. Hè cusì, à noi ci piace à spulà i nostri soldi, pè u più grande piacè di i grandi patroni. 
+Dapoi mercuri dunque, i passiunati di caddies è di catini sò cuntenti. A marca Décathlon hà apertu un magazinu in Sàrrula, è semu passati vicinu da a guerra civile. 
+Tutta a ghjurnata ci hè statu un mondu scemu. I rayons cumplettamente spachjati. À chì n'hè ripartutu cù veste Millet, à chì cun slips pè fà a bissicletta, à chì cun materiale di musculazione (chì di tutte e manere ùn serà mai utilizatu). Ci saria ancu statu una scuzzulata è trè feriti, per via d'una prumuzione nant'à articuli di piscina. 
+Tuttu cuntinuveghja d'andà benissimu in Corsica. Quì cummencia u terzu mondu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

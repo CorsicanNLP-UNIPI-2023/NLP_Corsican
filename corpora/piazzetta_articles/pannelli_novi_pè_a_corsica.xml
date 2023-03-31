@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pannelli novi pè a Corsica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Pannelli-novi-pe-a-Corsica_a1601.html"/>
+     <date>
+      Wed, 10 Jul 2013 15:04:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pannelli novi pè a Corsica
+   </head>
+   <div type="content">
+    <p>
+     Valls a ci dice : a viulenza corsa è culturale ma sta volta hè prumessa, u Statu hà da arrangià tuttu. D'altronde, a prefettura riflette à mette stu pannellu per fà piantà l'assassinii è i braccasgi. Viaghjerà ? Vistu nant'à u situ Cloudiz:
+    </p>
+    <p>
+     Chì serà a significazione di stu pannellu ? Mandatu da Dumè Gambini.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

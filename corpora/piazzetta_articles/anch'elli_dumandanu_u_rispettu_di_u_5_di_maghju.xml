@@ -1,0 +1,87 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Anch'elli dumandanu u rispettu di u 5 di maghju
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/furiani-pas-de-match-le-5-mai/"/>
+     <date>
+      Sun, 03 May 2015 22:17:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Anch'elli dumandanu u rispettu di u 5 di maghju
+   </head>
+   <div type="excerpt">
+    <p>
+     A dumanda di sacralizazione di u 5 di maghju hà francatu u mare dapoi una bella stonda. A prova cun sti ritratti pigliati appena da per tuttu in Francia (è ancu in Italia). Ciò chì ùn impedisce Thiriez d'ùn vulè sentene parlà...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ritratti pigliati st'ultimi anni.
+    </p>
+    <p>
+     Metz :
+    </p>
+    <p>
+     Montpellier :
+    </p>
+    <p>
+     Nantes :
+    </p>
+    <p>
+     Evian-Thonon-Gaillard :
+    </p>
+    <p>
+     Liò :
+    </p>
+    <p>
+     Reims :
+    </p>
+    <p>
+     Saint-Etienne :
+    </p>
+    <p>
+     Marseglia :
+    </p>
+    <p>
+     Valence :
+    </p>
+    <p>
+     In Ghjenuva, durante una partita di a Sampdoria :
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

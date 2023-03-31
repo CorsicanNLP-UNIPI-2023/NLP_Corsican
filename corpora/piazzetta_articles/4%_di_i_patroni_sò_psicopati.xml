@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     4% di i patroni sò psicopati
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/4-di-i-patroni-so-psicopati_a1158.html"/>
+     <date>
+      Sun, 04 Sep 2011 23:41:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    4% di i patroni sò psicopati
+   </head>
+   <div type="excerpt">
+    <p>
+     D'appressu à un studiu, 4% di i patroni americani sarianu psicopati. In quant'à i patroni corsi, ùn ne parlemu...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ùn hè micca una burla è si pò leghje l'articulu nant'à 20 minutes Plus de 4% des patrons seraient «des psychopathes qui ont réussi». 1 patrone americanu nant'à 25 saria un psicopatu. Hè di più ch'è in a pupulazione normale (1% solu). 
+Per disgrazia (o per furtuna...), nisun studiu sìmile hè statu fattu ind'è i patroni corsi. 
+Peccatu, saria interessante di vede ciò ch'ellu averia datu. 
+Trà quelli chì vèndenu a salciccia è u prisuttu "100% keurse" di rubaccia chinese, quelli chì facenu a pizza à 20€, quelli chì facenu pagà a piazza di parking, quelli chì piglianu à calci in culu i so impiegati, quelli chì s'empienu e stacche fendu n'importa chè, i tonti di e "paillotes" è quelli di i cabulò, hè prubàbile assai ch'è no siamu à più di 4%. 
+In quant'à l'eletti, ùn ne parlemu mancu. Ma quessa, a sapiamu digià...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

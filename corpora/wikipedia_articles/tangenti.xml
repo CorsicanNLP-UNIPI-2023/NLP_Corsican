@@ -1,0 +1,201 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tangenti
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Tangenti"/>
+     <date>
+      2015-07-09T08:23:18Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tangenti
+   </head>
+   <p>
+    Datu un triangulu rittangulu, a tangenti (o tangente) (abbriviatu tan) hè una funzioni trigunumetrica difinita com'è u rapportu trà u sinu è u cusinu di u stessu angulu. I simbuli par indicà a tangenti sò i più numarosi di tutti i funzioni trigunumetrichi, apposta ch'è edda s'indicheghja incù tg, tn, tang, tng (raru). U nomu di a funzioni deriveghja da u fattu ch'edda pò essa difinita com'è a lunghezza d'un sigmentu di a tangenti (in sensu giumetricu) à a circumfarenza guniumetrica. Infatti, datu un chjerchju di raghju unitariu, a tangenti d'un angulu α hè l'urdinata di u puntu d'intarsizioni trà a retta chì cunteni u latu libaru di l'angulu è a retta tangenti à a circumfarenza in u puntu di cuurdinati (1;0).
+   </p>
+   <p>
+    == Prubità ==
+   </p>
+   <p>
+    S'è ussirvemu a figura vidimu ch'è i trianguli OAB è OCD sò simili, è dunqua:
+   </p>
+   <p>
+    \quad\!\frac {AB}{OA}=\frac {DC}{OC};\quad\quad\frac{\tan x}{1}=\frac {DC}{OC}
+   </p>
+   <p>
+    esprissioni chì ghjustificheghja graficamenti a difinizioni trigunumetrica di a tangenti:
+   </p>
+   <p>
+    \tan x =\frac{\mathrm{sin}\, x}{\cos x}
+   </p>
+   <p>
+    A tangenti hè una funzioni periodica incù periodu \pi vali à dì:
+   </p>
+   <p>
+    \tan x=\tan(x+k\pi),\quad k\in\mathbb{Z}.
+   </p>
+   <p>
+    A dirivata prima di a tangenti hè:
+   </p>
+   <p>
+    \frac {\mathrm{di}}{\mathrm{di}x}\tan x=\frac {1}{\cos^2x}=1+\tan^2x=sec^2x
+   </p>
+   <p>
+    A funzioni primitiva di a tangenti hè:
+   </p>
+   <p>
+    \int_0^x\tan{t} \,\mathrm{di}t=-\ln{\left|\cos{x}\right|}
+   </p>
+   <p>
+    U sviluppu di Taylor di a funzioni tangenti à u settimu ordini hè
+   </p>
+   <p>
+    \tan x = x + \frac{x^3}{3} + \frac{2x^5}{15} + \frac{17x^7}{315} + o(x^8)
+   </p>
+   <p>
+    A tangenti hè una funzioni dispari, vali à dì:
+   </p>
+   <p>
+    \tan (-x)=-\tan x \;.
+   </p>
+   <p>
+    U reciprocu di a tangenti hè dittu cutangenti:
+   </p>
+   <p>
+    \cot x = \frac 1{\tan x}
+   </p>
+   <p>
+    A funzioni inversa di a tangenti hè l'arcutangenti.
+   </p>
+   <p>
+    A tavuledda siguenti esponi i principali valori nutevuli assunti da a funzioni tangenti:
+   </p>
+   <p>
+    A funzioni tan x ùn hè micca difinita par valori di  x = \frac{\pi}{2} + k \pi,\quad k \in \mathbb{Z}
+   </p>
+   <p>
+    == Giumitria analitica ==
+   </p>
+   <p>
+    \tan x = m = \frac {\mathrm{sin}\, x}{\cos x} = \frac {y}{x}
+   </p>
+   <p>
+    Pudemu ancu difiniscia a tangenti com'è u cuefficienti angulari d'una retta. In stu casu ripprisenta a tangenti trigunumetrica di l'angulu ch'è a retta stessa forma incù l'assu di i x. Par renda ci contu di a viridicità di st'affirmazioni, ricurdemu ch'è u cuefficienti angulari d'una retta chì passa par dui
+   </p>
+   <p>
+    punti, siini P = (x_0 , y_0) è Q = (x_1 , y_1), hè asattamenti \frac {y_1 - y_0}{x_1 - x_0}, chì equivali à u rapportu trà u sinu è u cusinu di l'angulu cumpresu trà a retta è l'assu di i x.
+   </p>
+   <p>
+    == Sinu è cusinu ==
+   </p>
+   <p>
+    Par ottena i valori di u sinu è di u cusinu di x cunniscendu ni a tangenti pudemu fà un simpliciu raghjunamentu. Innanzi tuttu pinsemu \tan x com'è u rapportu trà l'urdinata è l'ascissa d'un puntu P nantu à a circumfarenza cintrata in l'urighjina O di l'assi (u raghju hè ininfluenti apposta ch'è u valori di a tangenti hè univucamenti ditarminatu). Pudemu cunsidarà quisti ascissa è urdinata com'è i cateti di u triangulu rittangulu chì hà u raghju OP com'è iputenusa. Da stu puntu di vista u sinu di x hè u rapportu trà l'urdinata di P è l'iputenusa OP, mentri u cusinu di x hè u rapportu trà l'ascissa di P è l'iputenusa OP.
+   </p>
+   <p>
+    Applichendu u tiurema di Pitagora pudemu dì, datu:\tan x = \frac {a}{b}
+   </p>
+   <p>
+    ch'è:
+   </p>
+   <p>
+    \mathrm{sin}\, x = \frac {a}{\sqrt {a^2 + b^2}}
+   </p>
+   <p>
+    \cos x = \frac {b}{\sqrt {a^2 + b^2}}
+   </p>
+   <p>
+    == Da veda dinò ==
+   </p>
+   <p>
+    Arcutangenti
+   </p>
+   <p>
+    Funzioni trigunumetrichi
+   </p>
+   <p>
+    Cutangenti
+   </p>
+   <p>
+    Tangenti (giumitria)
+   </p>
+   <p>
+    Tangenti iperbolica
+   </p>
+   <p>
+    Tiurema di Nepero
+   </p>
+   <p>
+    Toru (giumitria)
+   </p>
+   <p>
+    Giumitria piana
+   </p>
+   <p>
+    Angulu rettu
+   </p>
+   <p>
+    Catetu
+   </p>
+   <p>
+    Mezaretta
+   </p>
+   <p>
+    Perimetru
+   </p>
+   <p>
+    Sigmentu
+   </p>
+   <p>
+    Triangulu isusceli
+   </p>
+   <p>
+    Triangulu equilateru
+   </p>
+   <p>
+    Tiurema di Pitagora
+   </p>
+   <p>
+    Iputenusa
+   </p>
+   <p>
+    Trigunumitria
+   </p>
+   <p>
+    Triangulu
+   </p>
+   <p>
+    Uttaedru
+   </p>
+   <p>
+    Trigunumitria
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia in talianu.
+   </p>
+  </body>
+ </text>
+</TEI>

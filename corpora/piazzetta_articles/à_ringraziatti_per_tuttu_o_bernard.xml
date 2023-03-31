@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     À ringraziatti per tuttu o Bernard
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-ringraziatti-per-tuttu-o-Bernard_a1877.html"/>
+     <date>
+      Thu, 12 Jun 2014 19:43:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    À ringraziatti per tuttu o Bernard
+   </head>
+   <div type="excerpt">
+    <p>
+     Evuluzione istituziunale : nò.&lt;br /&gt;Cuufficialità : micca.&lt;br /&gt;Arrêté Miot : nunda. &lt;br /&gt;In fine di contu, à chì hà ghjuvatu a visita di u ministru di l'internu, Bernard Cazeneuve ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Nisuna surpresa, Parigi ùn vole sente nunda di e primure di i Corsi. 
+Nant'à Twitter, scrive Patrick Vinciguerra : 
+Bernard Cazeneuve ne ferme aucune porte, elles n'ont jamais été ni ouvertes ni entrouvertes. Sur ce point au moins le gvt est constant. 
+Ùn ci hè nunda d'altru à dì. À chì ghjovanu tantu i voti di l'assemblea di Corsica? 
+È l'infurmazione a più interessante nant'à sta visita ministeriale a ci dà Corse-Matin. S'ampara chì u ministru di l'internu "a visité la maison en ruines de son arrière-grand-mère", in u paese di Cugnòculi Muntichji. 
+Hè una bella metafura. Andà à vede un paese in ruvina, nigà e dumande di i so abitanti, è vultassine in casa soia. Merci Bernard. 
+U ministru di l'internu hè dinù u susìa ufficiale di l'osceru di ghjustizia in Les trois frères.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

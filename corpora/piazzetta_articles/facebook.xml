@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Facebook
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Facebook_a2704.html"/>
+     <date>
+      Tue, 30 Jan 2018 12:08:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Facebook
+   </head>
+   <div type="content">
+    <p>
+     http://etudiant.lefigaro.fr/article/depression-et-anxiete-les-reseaux-sociaux-impactent-le-moral-des-jeunes_7d9f8364-3f9b-11e7-a469-62c36d07d43b/ 
+https://www.topsante.com/forme-bien-etre/bien-dans-ma-peau/etre-plus-heureux/facebook-ou-quand-le-bonheur-affiche-des-uns-fait-la-depression-des-autres-248211 
+https://www.francetvinfo.fr/internet/reseaux-sociaux/facebook/vivre-sans-facebook-rendrait-plus-heureux_1169825.html
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

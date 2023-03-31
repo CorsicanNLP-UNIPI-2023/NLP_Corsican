@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pover'à noi
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Pover-a-noi_a2521.html"/>
+     <date>
+      Mon, 30 Jan 2017 00:24:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pover'à noi
+   </head>
+   <div type="content">
+    <p>
+     https://www.youtube.com/watch?v=Y5wcFwrKtCo 
+région la plus pauvre de france 
+20,4 % sous le seuil de pauvrété (990 euros / mois, 6 points de + que moyenne natio - 55.000 pers)  4ème plus fort taux de chomage de france (10,5% de la pop active) 
+http://france3-regions.francetvinfo.fr/corse/haute-corse/precarite-energetique-15-000-menages-concernes-corse-1176739.html 
+https://www.francebleu.fr/infos/societe/les-differents-visages-de-la-precarite-en-corse-1479898677 
+http://www.corsenetinfos.corsica/Precarite-et-la-pauvrete-La-microregion-de-Balagne-est-la-plus-touchee-de-Corse_a25817.html
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

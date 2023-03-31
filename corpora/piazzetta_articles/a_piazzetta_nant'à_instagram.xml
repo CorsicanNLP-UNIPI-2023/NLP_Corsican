@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Piazzetta nant'à Instagram
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-Piazzetta-nant-a-Instagram_a1731.html"/>
+     <date>
+      Sun, 13 Apr 2014 14:11:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A Piazzetta nant'à Instagram
+   </head>
+   <div type="content">
+    <p>
+     Tuttu u mondu si n'impippa ma A Piazzetta hà dinù un contu Instagram avà. 
+Un ghjova à nunda, ma cumu ci piace à tutti di perde u nostru tempu nant'à e rete suciali, ci semu messi noi dinù. 
+Indirizzu : http://instagram.com/a_piazzetta
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

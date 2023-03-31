@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U cutitianu "Le Courrier Picard" esciutu in lingua picarda... è ind'è noi ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-cutitianu-Le-Courrier-Picard-esciutu-in-lingua-picarda-e-ind-e-noi_a2169.html"/>
+     <date>
+      Sat, 14 Mar 2015 12:23:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U cutitianu "Le Courrier Picard" esciutu in lingua picarda... è ind'è noi ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Tutti l'anni, stu giurnale esce un'edizione in a so lingua "regiunale". Ch'ella sia a Picardìa chì ci mostri l'esempiu vi stona ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ùn avete siguramente mai lettu Le Courrier Picard. Stu cutitianu esce in i dipartimenti di a Somme, l'Oise è l'Aisne, è hè stampatu à più di 60.000 esemplarii. 
+Dapoi u 2011, stu giurnale esce una volta à l'annu una versione in lingua picarda. Ùn sò ch'è quattru pagine una volta à l'annu, ma quantunque, vale più ch'è un longu discorsu :
+    </p>
+    <p>
+     U giurnale spiega chì cusì a lingua picarda "peut aussi se prêter à un traitement journalistique" (ancu assai !). 
+È serà un fiascu ? Mancu ! Spiega Le Figaro : "Et le moins que l'on puisse dire, c'est que l'opération est un succès, y compris pour les ventes, qui augmentent d'environ 5% ce jour là". 
+Purtantu, a lingua picarda ùn hè siguramente micca a lingua "regiunale" chì si porti u megliu in Francia. 
+Difficiule d'ùn fà u paragone cù a Corsica. In Corse-Matin truvemu ogni dumenica e cronache in lingua corsa di Julian Mattei è Diana Saliceti. Nanz'à elli c'eranu quelle di Pierre Ciabrini, di Ghjacumu Fusina o di Ghjiseppu Sicurani. In La Corse - Votre Hebdo c'era quella di Marcu Biancarelli. 
+Ma l'esempiu di u Courrier Picard puderà forse dà idee à certi. 
+Alè o Corse-Matin, un picculu sforzu ! Avà ti tocca à andà appena di più luntanu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

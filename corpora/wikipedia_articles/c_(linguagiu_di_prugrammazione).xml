@@ -1,0 +1,90 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     C (linguagiu di prugrammazione)
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/C%20%28linguagiu%20di%20prugrammazione%29"/>
+     <date>
+      2015-07-01T22:40:14Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    C (linguagiu di prugrammazione)
+   </head>
+   <p>
+    In informatica u C hè un linguagiu di prugrammazione.
+   </p>
+   <p>
+    Hè a lingua a più impiegata per parechji ragioni:
+   </p>
+   <p>
+    esista dapoi l'anni 1970
+   </p>
+   <p>
+    hè faciule di scrivè cumpilatore per C.
+   </p>
+   <p>
+    == Storia ==
+   </p>
+   <p>
+    A lingua C fu sviluppata da i laburatorii Bell in 1972.
+   </p>
+   <p>
+    == Hello World ==
+   </p>
+   <p>
+    include
+   </p>
+   <p>
+    main() {
+   </p>
+   <p>
+    printf("hello, world\n");
+   </p>
+   <p>
+    }
+   </p>
+   <p>
+    U listessu codice, siente a norma ISO :
+   </p>
+   <p>
+    include
+   </p>
+   <p>
+    int main(void) {
+   </p>
+   <p>
+    printf("hello, world\n");
+   </p>
+   <p>
+    return 0;
+   </p>
+   <p>
+    }
+   </p>
+   <p>
+    Informatica
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Inchiesta : e municipali
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Inchiesta-e-municipali_a1824.html"/>
+     <date>
+      Thu, 22 May 2014 00:31:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Inchiesta : e municipali
+   </head>
+   <div type="content">
+    <p>
+     Sébastien Tieri è Paul-François Torre ricevenu à Patrick Vinciguerra (RCFM), Fabrice Laurent (Corse-Matin) è Pierre Lanfranchi (AFP) per cummentà l'attualità pulitica è l'ultime elezzioni in Bastia, Aiacciu è Portivechju. 
+Da vede nant'à u situ di France 3 Corsica è Pluzz.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

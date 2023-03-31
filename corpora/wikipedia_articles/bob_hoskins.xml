@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bob Hoskins
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Bob%20Hoskins"/>
+     <date>
+      2018-06-06T10:06:38Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bob Hoskins
+   </head>
+   <p>
+    Robert William "Bob" Hoskins, Jr. hè un attore brittannicu.
+   </p>
+   <p>
+    Hoskins, Bob
+   </p>
+  </body>
+ </text>
+</TEI>

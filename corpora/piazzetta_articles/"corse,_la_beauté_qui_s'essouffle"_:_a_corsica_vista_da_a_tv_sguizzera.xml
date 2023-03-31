@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "Corse, la beauté qui s'essouffle" : A Corsica vista da a tv sguizzera
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Corse-la-beaute-qui-s-essouffle-A-Corsica-vista-da-a-tv-sguizzera_a2452.html"/>
+     <date>
+      Sun, 31 Jul 2016 19:50:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "Corse, la beauté qui s'essouffle" : A Corsica vista da a tv sguizzera
+   </head>
+   <div type="excerpt">
+    <p>
+     I giurnalisti di a televissione sguizzera RTS (Radio Tele Suisse) anu fattu una seria di sugetti nant'à i danni di u turisimu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U filmettu hè cortu, ma hè sempre interessante u sguardu di giurnalisti fresteri nant'à a Corsica. 
+Da vede : Ce tourisme qui provoque l'overdose chez les locaux 
+Si visita cusì e Cinque Terre in Italia, Barcelona, in Corsica... ma dinù in Berlinu è nant'à l'Everest. Eccu u filmettu cunsacratu à a Corsica :
+    </p>
+    <p>
+     Le tourisme de masse a des effets néfastes sur la #Corse. La gestion de déchets décriée par les écologistes #19h30 pic.twitter.com/vHQwWgvGoM
+— RTSinfo (@RTSinfo) 26 juillet 2016
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

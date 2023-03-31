@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vergogna à tè chì vendi...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Vergogna-a-te-chi-vendi_a1026.html"/>
+     <date>
+      Tue, 08 Feb 2011 22:49:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Vergogna à tè chì vendi...
+   </head>
+   <div type="excerpt">
+    <p>
+     "Scambia maglietta di Claude Papi contr'à quellu di l'Equipe de France"...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Eccu l'annunziu ch'ellu si pudia leghje in u settimanale Corse-Hebdo. 
+Adimettite chì u sìmbulu hè forte è hè siguramente u segnu di i nostri tempi. Sbarazzassi di u nostru passatu, di ciò chì face a nostra identità, di ciò ch'è no semu... per qualcosa di francese. 
+Si puderia avvicinà a simbòlica di stu gestu cun pienu d'altre cose : lingua, cultura, identità, manera d'esse, di pensà, di cantà, di manghjà... Senza parlà di quelli chì si vendenu case è terreni à fresteri. 
+Vergogna à tè chì vendi a terra hè una canzona di Canta u Populu Corsu chì hà 25 anni, ma hè più ch'è mai d'attualità. 
+D'accordu, semu in u duminiu di l'affettivu è di u simbòlicu, ùn hè ch'è un annunziu di Corse-Hebdo. Ma a so lettura face male, nò ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

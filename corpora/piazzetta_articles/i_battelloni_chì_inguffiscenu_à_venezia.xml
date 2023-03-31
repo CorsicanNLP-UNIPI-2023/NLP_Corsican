@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I battelloni chì inguffiscenu à Venezia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-battelloni-chi-inguffiscenu-a-Venezia_a2468.html"/>
+     <date>
+      Fri, 23 Sep 2016 09:57:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I battelloni chì inguffiscenu à Venezia
+   </head>
+   <div type="excerpt">
+    <p>
+     Un fotografu talianu vulia dinnunzià i battelli di crucera chì arruvinanu u paisaghju di Venezia. U merre di a cità hà pruibitu a mostra.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In Italia dinù ci hè u dibattitu trà difensori di l'ambiu è partigiani di u "iè ma capisci, ça va créer des emplois". Gianni Berengo Gardin hè un grande fotografu talianu chì hà vulsutu palisà u prublema di i battelloni chì scalanu in a più bella cità di u mondu. 
+Hà chjamatu a so mostra di ritratti in neru è biancu "Mostri a Venezia". Dicenu i difensori di l'ambiu chì i battelloni sarianu periculosi per a salute di persone è a stabilità di l'edifizii. 
+Da leghje dinù : Un navire de croisière à l'arrêt pollue autant qu'un million de voitures 
+Certi dicenu chì ste nave alte di più di sessante metri arruvinerebbinu u paisaghju è u panorama di a cità. L'altri rispondenu chì hè bè per l'ecunumia. À ognunu di fassi a so opinione. 
+Ma certe volte l'arte dirangia. À u merre di Venezia a mostra ùn li hè piaciuta. Era prevista in a so cità, ma l'hà pruibita. 
+Da leghje : Paquebots géants : une exposition censurée à Venise
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

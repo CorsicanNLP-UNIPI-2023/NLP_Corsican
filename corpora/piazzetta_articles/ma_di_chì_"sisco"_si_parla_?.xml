@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ma di chì "Sisco" si parla ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ma-di-chi-Sisco-si-parla_a2457.html"/>
+     <date>
+      Sun, 14 Aug 2016 19:10:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ma di chì "Sisco" si parla ?
+   </head>
+   <div type="excerpt">
+    <p>
+     In a categuria "hè megliu à circà di ridene in st'epica goffa", eccu cumu u situ di France Info situeghja à Siscu :
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Prufittemu dunque di l'occasione pè ammirà i bellissimi pagliaghji di Tralonca. 
+(mandatu da Fafanellu)
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

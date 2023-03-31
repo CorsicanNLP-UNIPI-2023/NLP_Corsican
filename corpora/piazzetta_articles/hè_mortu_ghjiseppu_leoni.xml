@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hè mortu Ghjiseppu Leoni
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/He-mortu-Ghjiseppu-Leoni_a2500.html"/>
+     <date>
+      Wed, 04 Jan 2017 00:35:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hè mortu Ghjiseppu Leoni
+   </head>
+   <div type="excerpt">
+    <p>
+     Anzianu presidente di l'Adecec, autore di libri nant'à a storia è militante di a lingua, si n'hè andatu Ghjiseppu Leoni.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè cascata a trista nutizia di a morte di Ghjiseppu Leoni, ci annunzia l'Adecec. 
+Insignante, militante di a lingua, anzianu presidente di l'associu, fù unu di i primi à scrive libri di vulgarizazione di a storia di a Corsica in l'anni 70, in corsu è in francese. 
+Scrive Pasquale Ottavi : « Si n'hè andatu à l'altru mondu Ghjiseppu Leoni, militante storicu di a lingua. Pianu pianu si licinzieghjanu quelli d'una volta, quelli chì ci dedenu a voglia di chjamacci sempre Corsi. Senza pratinsione o fume ma cù a primura di i soi è u solu orgogliu chjuccutu di difende a so dignità cutidiana. Individuale è cumuna. Ch'ellu riposi in pace ». 
+Ritrattu Adecec
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

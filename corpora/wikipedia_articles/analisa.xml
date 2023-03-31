@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Analisa
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Analisa"/>
+     <date>
+      2015-07-16T12:12:13Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Analisa
+   </head>
+   <p>
+    L'Analisa hè u ramu di a matematica chì cuntene u calculu differenziale è integrale. Hè basata nant'à u cuncettu di passaggiu à a limita. U calculu cu li infinitesimi, digià cunsideratu da i geometri ellenisti è da Archimede, fù riscupertu ind'è u 1600 da u talianu Bonaventura Cavalieri, ma i veri fondatori di l'Analisa muderna sò Newton è Leibniz. Ind'è u XVIII seculu fù applicata à a meccanica è a l'astronomia. Ind'è u XIX seculu, hè stata sviluppata prima da Cauchy, po da Weierstrass è infine da Dedekind, Jordan, Peano è l'altri.
+   </p>
+   <p>
+    L'Analisa cumprende principalmente i prucedimenti di l'integrazione, di a derivazione, di a determinazione di a derivata è di l'integrale di una funzione. I prublemi fundamentali da risolve ind'è l'ambiu di l'Analisa funu u calculu di l'area di una superficia qualsiasi è a determinazione di a vitezza istantanea per un qualunque motu. Mentre chì Archimede avia digià datu una risposta à u primu problemu, funu Leibniz è Newton i primi à determinà un metodu di calculu pè risolve u secondu problemu ghjunghjendu cusì à definisce a derivata.
+   </p>
+   <p>
+    A parolla Analisa hè utilizata, sempre in matematica, cù i significati : Analisa cumbinatoria, studiu di i diversi riggruppamenti (disposizioni, cumbinazioni, permutazioni) chì si podenu furmà cù un numaru finitu di uggetti. L'Analisa funziunale, hè un importante gineralizazione di l'Analisa Classica chì s'occupa di u studiu di e funzione. L'Analisa indeterminata o Analisa diofantea hè u studiu di l'equazione è di i sistemi à cuefficienti interi da u puntu di vista aritmeticu. L'Analisa numerica hè u studiu di i metodi pè ottene soluzione quantitative di problemi relativi principalmente à i calculatori elettronichi.
+   </p>
+   <p>
+    Matematica
+   </p>
+  </body>
+ </text>
+</TEI>

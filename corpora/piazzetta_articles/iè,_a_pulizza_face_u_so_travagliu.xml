@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Iè, a pulizza face u so travagliu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ie-a-pulizza-face-u-so-travagliu_a1849.html"/>
+     <date>
+      Sun, 01 Jun 2014 11:49:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Iè, a pulizza face u so travagliu
+   </head>
+   <div type="content">
+    <p>
+     È voi chì criticavate e "forze di l'ordine", i gendarmi è i pulizzeri. 
+Chì diciate torna ? 
+Ch'elli ùn facianu micca u so travagliu ?  Ch'elli ùn facenu nunda contr'à u trafficu di droga ?  Ch'ellu ùn si face mai nunda contr'à i permessi di custruisce illegali ?  Chì a pulizza ùn face nunda contr'à e maffie, i scrucconi, u grande banditisimu ?  Chì l'assassinii ùn sò mai sciolti ?  Chì a "guerra di e pulizze" ùn arrangia nunda ? 
+A risposta hè casca in Corse-Matin : 28 cuppulate sò incarcerate è dormenu à l'umbria dapoi eri. 
+"L'état de droit" hè di ritornu in Corsica.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

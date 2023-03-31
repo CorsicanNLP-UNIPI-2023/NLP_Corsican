@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     C.S.S. Hunley
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/C.S.S.%20Hunley"/>
+     <date>
+      2015-07-03T10:24:57Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    C.S.S. Hunley
+   </head>
+   <p>
+    A C.S.S. H. L. Hunley fubbe un battellu, un sottumarinu in a Guerra Civile Americana.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    C.S.S. Pioneer
+   </p>
+   <p>
+    U.S.S. Alligator (sottumarinu)
+   </p>
+   <p>
+    U.S.S. Intelligent Whale
+   </p>
+   <p>
+    Hunley
+   </p>
+  </body>
+ </text>
+</TEI>

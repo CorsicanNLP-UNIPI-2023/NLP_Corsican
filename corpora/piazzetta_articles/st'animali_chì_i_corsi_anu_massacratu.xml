@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     St'animali chì i Corsi anu massacratu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/St-animali-chi-i-Corsi-anu-massacratu_a1923.html"/>
+     <date>
+      Wed, 06 Aug 2014 00:12:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    St'animali chì i Corsi anu massacratu
+   </head>
+   <div type="content">
+    <p>
+     A scimietta "mago" 
+U "prolagus sardus" 
+U vechju marinu 
+U cervu
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

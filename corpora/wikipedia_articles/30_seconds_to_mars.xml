@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     30 Seconds to Mars
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/30%20Seconds%20to%20Mars"/>
+     <date>
+      2015-07-09T11:52:21Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    30 Seconds to Mars
+   </head>
+   <p>
+    30 Seconds to Mars hè un gruppu di rock americanu natu in u 1998.
+   </p>
+   <p>
+    I membri sò Jared Leto (voce è seconda chitarra), Shannon Leto (batteria) è Tomo Miličević (chitarra principale).
+   </p>
+   <p>
+    == Albumi ==
+   </p>
+   <p>
+    2002: 30 Seconds to Mars
+   </p>
+   <p>
+    2005: A Beautiful Lie
+   </p>
+   <p>
+    2009: This Is War
+   </p>
+   <p>
+    #
+   </p>
+   <p>
+    Musica
+   </p>
+  </body>
+ </text>
+</TEI>

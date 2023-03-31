@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Wilford Brimley
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Wilford%20Brimley"/>
+     <date>
+      2016-09-22T09:35:39Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Wilford Brimley
+   </head>
+   <p>
+    Anthony Wilford Brimley (Salt Lake City - Utah, 27 Settembre 1934) hè un attore americanu.
+   </p>
+   <p>
+    Brimley, Wilford
+   </p>
+  </body>
+ </text>
+</TEI>

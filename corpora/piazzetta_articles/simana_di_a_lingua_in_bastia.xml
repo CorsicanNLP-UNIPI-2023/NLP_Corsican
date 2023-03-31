@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Simana di a lingua in Bastia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Simana-di-a-lingua-in-Bastia_a1851.html"/>
+     <date>
+      Sun, 01 Jun 2014 14:38:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Simana di a lingua in Bastia
+   </head>
+   <div type="content">
+    <p>
+     A simana di a lingua corsa s'arricchisce è cresce ogni annu. Evenimenti sò organizati in parechji lochi di Corsica, da Vintisari à Ponte Novu, da u Ghjunsani à a Tavagna. Da vede nan'à u situ di a direzzione di a lingua corsa. 
+N'avemu parlatu per ciò chì tocca à Aiacciu, eccu in appicciu un prugramma in PDF in Bastia. 
+A simana si cumpierà cun dui belli cuncerti in piazza di u Mercà : 
+- Ghjovi Maì Pesce è Diana di l'Alba  - Venneri L'Abbrivu è I Chjami Aghjalesi 
+Ci hè peghju. 
+Simana_lingua_Bastia.pdf
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

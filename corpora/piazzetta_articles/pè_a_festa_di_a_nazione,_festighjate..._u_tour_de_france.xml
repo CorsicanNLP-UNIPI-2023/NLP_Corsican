@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pè a festa di a Nazione, festighjate... u Tour de France
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Pe-a-festa-di-a-Nazione-festighjate-u-Tour-de-France_a1461.html"/>
+     <date>
+      Fri, 07 Dec 2012 10:26:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pè a festa di a Nazione, festighjate... u Tour de France
+   </head>
+   <div type="excerpt">
+    <p>
+     A "Festa di a Nazione" hè diventata... a "Fête du Tour de France".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Appena da per tuttu ci sò feste pè l'ottu di dicembre. Hè u casu per esempiu : 
+- In Corti : Cunferenze, animazioni è veghja  - In Luri : cunferenza, vinu è serata corsa  - In Merusaglia : cunferenza, serata è cuncertu  - In San Fiurenzu  a ghjurnata serà à prufittu di u Téléthon  - In Conca hè dinù organizata una ricca ghjurnata  - Hè u casu dinù in L'Isula Rossa  - È ancu pè quelli chì sò in Parigi, ci serà una messa è una serata à a Casa Corsa d'Issy les Moulineaux 
+Ma a più bella serata serà in Bastia induv'ellu si festighjerà... La nuit du tour de France 
+Ùn hè micca una magagna. In certi lochi si festighjerà à Pasquale Paoli. In d'altri, à Bernard Hinault. 
+Cusì almenu, avete a scelta...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

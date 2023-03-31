@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chì beie Jean-Claude Van Damme ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Chi-beie-Jean-Claude-Van-Damme_a989.html"/>
+     <date>
+      Wed, 29 Dec 2010 13:12:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       A-PIAZZETTA-TV
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chì beie Jean-Claude Van Damme ?
+   </head>
+   <div type="excerpt">
+    <p>
+     U nostru amicu Ghjuvanclaudiu Van Damme s'hè lanciatu in una publicità per una bivenda. Induvinate ciò ch'ellu preferisce beie ?
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

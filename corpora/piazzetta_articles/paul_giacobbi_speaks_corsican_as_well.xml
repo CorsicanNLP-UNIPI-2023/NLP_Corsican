@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Paul Giacobbi speaks corsican as well
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Paul-Giacobbi-speaks-corsican-as-well_a1669.html"/>
+     <date>
+      Thu, 23 Jan 2014 11:36:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Paul Giacobbi speaks corsican as well
+   </head>
+   <div type="excerpt">
+    <p>
+     Di solitu, Paul Giacobbi scrive è cummenta l'attualità in inglese nant'à u so blog. Pè u situ Rue89, hà ancu parlatu corsu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Les députés s'essaient aux langues régionales par rue89  Paul Giacobbi hè internaziunale. Nant'à u so blog, li accade ancu di parlà in inglese di ciò chì si passa in India, è ci mostra ch'ellu ci capisce ancu in cricket. 
+U dibattitu à l'assemblea naziunale nant'à a ratificazione di a cartula di e lingue regiunali li hà datu l'occasione di risponde à Henri Guaino (oppostu à a ratificazione). 
+Ma a ministra di a cultura, Aurélie Filipetti hè stata chjara : 
+"Il ne s’agit nullement de donner un statut de co-officialité à d’autres langues que le français." U resucontu hè da leghje quì. 
+Ùn semu ancu à ghjunghjeci dunque... 
+Ma stu dibattitu hè dinù statu l'occasione pè i giurnalisti di Rue89 di dumandà à i deputati di parlà in e so "lingue regiunali". 
+U nostru presidente hè statu onestu è hà cunfessatu ch'ellu ùn parlava tantu bè u corsu. Ma ci l'hà pruvata. 
+Allora, aspettandu a ratificazione, forse un articulu in corsu da quì à pocu nant'à u so blog ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

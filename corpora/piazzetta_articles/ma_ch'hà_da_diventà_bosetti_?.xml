@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ma ch'hà da diventà Bosetti ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ma-ch-ha-da-diventa-Bosetti_a2225.html"/>
+     <date>
+      Fri, 29 May 2015 00:49:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ma ch'hà da diventà Bosetti ?
+   </head>
+   <div type="excerpt">
+    <p>
+     U ghjucadore nizzardu hà passatu una stagiunaccia. Poche volte titulare, poche rete marcate. Ma ch'hà da diventà u "rimpiazzente di u rimpiazzente" ? Simu inchieti. Ma avemu a risposta.
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     E bone risoluzioni ch'è vò ùn piglierete micca
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-bone-risoluzioni-ch-e-vo-un-piglierete-micca_a1238.html"/>
+     <date>
+      Tue, 03 Jan 2012 01:30:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    E bone risoluzioni ch'è vò ùn piglierete micca
+   </head>
+   <div type="excerpt">
+    <p>
+     Tutti l'anni di ghjennaghju riprincipia a cumedia di "les bonnes résolutions". Ùn vale a pena, ùn ci la ferete micca à tenele è di tutte e manere hà da esse a fine di u mondu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     1. Piantà a panza : Tutti l'anni ci cridite, tutti l'anni cumprate un survêt' pour faire du sport ma à capu di duie settimane, u vostru survêt' vi ghjova solu à fidighjà à Michel Drucker o L'Equipe du Dimanche nant'à u vostru canapé. Lasciate corre, ùn ferete nè muscu, nè yoga, nè footing. 
+2. Piantà a sigaretta : Per quelli chì fumanu, pudete sempre pruvà a cigarette electronique per avè l'aria appena di più baullu ma ùn ghjuverà à nunda. 
+3. Piantà di vutà per i listessi : Quantu volte avete dettu "hè l'ultima volta ch'à votu ste narpie !" Eppo... 
+4. Piantà di fà u musu cù i so culleghi di travagliu : Hè talmente megliu d'esse azezu... Eppo di tutte e manere, hè a crisa è da quì à pocu ùn ci serete più à u travagliu. 
+5. Piantà di fà u connu à u karaoké : Svegliatevi, ùn semu più in 1994. 
+6. Piantà di fà u criticone : Hè talmente più faciule d'ùn fà nunda è di criticà à l'altri... 
+7. Piantà di manghjà n'importa chè : Sushis cù u Nutella, pizze cù i knackis, salciccia cù i Pringles... Di tutte e manere, ci ferma menu d'un annu nanzu à a fine di u mondu. 
+8. Piantà di perde u vostru tempu nant'à Facebook : Hè vera, saria megliu di leghje un libru, di vede un filmu o di sorte fora. Ma di tutte e manere ùn avete nunda d'altru à fà... 
+9. Piantà di vutà per un "figliolu di" : Micca faciule, neh ? 
+10. Piantà di cumprà n'importa chè : Quandu volte vi site dettu : "perchè aghju cumpratu st'affare goffu chì ùn ghjova à nunda ?" o "ma perchè aghju cumpratu tutta sta rubaccia micca bona ch'o ùn manghjeraghju mai ?". Ebbeh serà peghju in 2012. 
+11. Piantà di mughjà contr'à i turisti l'estate : Mancu à pensalla ! 
+12. Piantà d'esse pessimistu : Hè a fine di u mondu, u disimpiegu, i prezzi chì collanu, Fukushima, a Grisa, u calindariu di i Mayas (è di l'Incà dinù), u riscaldamentu climàticu, u tsunamì, u "triple AAA", Mafiosa 4, l'elezzioni à vene, u petroliu, François Hollande, u PSG... basta ! Quessa a risoluzione, ci vuleria à tenela da veru !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

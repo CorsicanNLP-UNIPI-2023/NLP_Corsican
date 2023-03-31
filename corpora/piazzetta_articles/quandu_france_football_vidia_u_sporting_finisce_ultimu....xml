@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quandu France Football vidia u Sporting finisce ultimu...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quandu-France-Football-vidia-u-Sporting-finisce-ultimu_a2399.html"/>
+     <date>
+      Sun, 15 May 2016 10:40:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quandu France Football vidia u Sporting finisce ultimu...
+   </head>
+   <div type="excerpt">
+    <p>
+     Bastia finisce u campiunatu decesimu. È hè sempre un piacè di sorte i pronòstichi chì FF avia fattu in principiu di stagione.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Tutti l'anni d'agostu, i giurnalisti di France Football facenu i so pronòstichi nant'à u classamentu finale di a L1.  Tutti l'anni, vedenu u Sporting falà in L2.
+    </p>
+    <p>
+     Bon d'accordu, perdimu u GFCA. Ma u Gaz ùn hè mai statu ridiculu cumu certi a speravanu. 
+Speremu chì quist'annu chì vene, i nostri amichi di France Foot videranu torna u Sporting in L2.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

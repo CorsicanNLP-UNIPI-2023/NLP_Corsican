@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     O Big Alì, parlami corsu !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/O-Big-Ali-parlami-corsu-_a1526.html"/>
+     <date>
+      Thu, 28 Mar 2013 12:14:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    O Big Alì, parlami corsu !
+   </head>
+   <div type="excerpt">
+    <p>
+     U cullettivu Parlemu Corsu organizeghja una grande "festa rivindicativa" u 2 d'aprile in Corti. Ci scambierà di e manifestazioni sticchite d'azezi barbuti. Ci seranu tutti i gruppi di u Riacquistu è... Big Ali.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ma chì vene à fà u poveru Big Alì à mezu à I Chjami Aghjalesi, E Duie Patrizie, Canta u Populu Corsu, Tavagna, I Surghjenti, A Filetta è Diana di l'Alba ? 
+U cullettivu Parlemu Corsu organizeghja una grande festa marti u 2 d'aprile in Corti. Tutti i gruppi di u settanta ci seranu pè un cuncertu "Riacquistu revival", un gèneru di Woodstock nustrale di a cultura corsa. 
+Eppo a festa si cumpierà cù una serata animata da un DJ, un certu Big Alì. Nò ùn hè micca un pesciu d'aprile. Big Alì diventerà durante qualchì ora "Techju Alì" pè purtà u so sustegnu à una sucetà bislingua. 
+U cullettivu annunzia chì anch'ellu, parlerà corsu. 
+Perchè micca ? Un DJ americanu parlerà dunque di più corsu in una serata chè tutti i DJ corsi di a creazione durante tutta a so carriera. 
+Allora purtate tutte e vostre facciacce nant'à u dancefloor !
+    </p>
+    <p>
+     Nò, ùn hè micca un fake :
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

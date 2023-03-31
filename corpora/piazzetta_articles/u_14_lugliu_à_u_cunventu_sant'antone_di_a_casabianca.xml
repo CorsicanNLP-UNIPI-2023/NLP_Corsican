@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U 14 lugliu à u cunventu Sant'Antone di A Casabianca
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-14-lugliu-a-u-cunventu-Sant-Antone-di-A-Casabianca_a1910.html"/>
+     <date>
+      Fri, 11 Jul 2014 16:58:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U 14 lugliu à u cunventu Sant'Antone di A Casabianca
+   </head>
+   <div type="content">
+    <p>
+     S'ellu ci hè un evenimentu chì ùn hè micca cummemuratu in Corsica, hè bè u 14 lugliu. Quellu di Pasquale Paoli, micca l'altru. 
+A sapete, hè di lugliu 1755, dop'à un cunsulta di trè ghjorni à u cunventu Sant'Antone di A Casabianca (in a pieve d'Ampugnani), chì Pasquale Paoli hè elettu capigenerale di u Regnu di Corsica. 
+Quist'annu, sò parechji castagnicciaghji à vulè fà di stu ghjornu un mumentu di cummemurazione di a nostra storia. 
+Ci serà dunque u 14 lugliu à u cunventu Sant'Antone una messa cantata da i membri di u gruppu Madricale, celebrata da Prete Boccheciampe. 
+Era ora ch'ellu sia organizatu un evenimentu stu ghjornu custì !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

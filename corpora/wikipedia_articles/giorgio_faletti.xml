@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Giorgio Faletti
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Giorgio%20Faletti"/>
+     <date>
+      2015-07-01T19:44:44Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Giorgio Faletti
+   </head>
+   <p>
+    Giorgio Faletti (Asti, 25 nuvembre 1950 - Turinu, 4 lugliu 2014) hè unu scrivanu, comicu, attore è cantadore talianu.
+   </p>
+   <p>
+    Attore
+   </p>
+   <p>
+    Talianu
+   </p>
+  </body>
+ </text>
+</TEI>

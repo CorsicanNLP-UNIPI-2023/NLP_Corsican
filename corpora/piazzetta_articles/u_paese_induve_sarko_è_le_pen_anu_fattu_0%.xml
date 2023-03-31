@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U paese induve Sarko è Le Pen anu fattu 0%
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-paese-induve-Sarko-e-Le-Pen-anu-fattu-0_a1334.html"/>
+     <date>
+      Thu, 26 Apr 2012 00:07:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       PRESIDENZIALI-2012
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U paese induve Sarko è Le Pen anu fattu 0%
+   </head>
+   <div type="excerpt">
+    <p>
+     Esiste una cumuna di Corsica induve Sarkozy è Le Pen anu fattu 0% : L'Alzi, in a pieve di u Boziu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ci hè un locu di Corsica induve Jean-Pierre Pernaut ùn venerà mai. 
+Induve Didier Barlevien ùn cumprerà mai a so residenza segundaria. 
+Induve Nadine Morano è Brice Hortefeux ùn veneranu micca à fà campagna. 
+Stu paese si chjama L'Alzi, in Boziu. 
+Nant'à i 27 vutanti, nisunu hà lampatu un biglittinu pè un candidatu di diritta. 
+Hè una di e rare cumune induve a candidata FN hà fattu 0 votu (5 cumune nant'à 360 : A Munacìa d'Orezza, E Casevechje, A Parata è Currà), a sola induve Sarko ùn hà nisun sustenidore. 
+Serà l'anima di Sambucciu d'Àlandu chì hè sempre viva in Boziu ? 
+DSK, Robert Hue, è Laurent Fabius puderanu dumandà l'esiliu puliticu in paisucciu buzincu, casu mai Sarkozy sia elettu presidente di a Ripublica...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

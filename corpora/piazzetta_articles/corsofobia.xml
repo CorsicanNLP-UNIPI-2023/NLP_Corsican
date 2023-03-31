@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Corsofobia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Corsofobia_a1186.html"/>
+     <date>
+      Mon, 21 Nov 2011 01:05:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Corsofobia
+   </head>
+   <div type="excerpt">
+    <p>
+     2000 anni di cacciate anti corse. Eccu u best of.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     "Se venger est la première loi des corses, la seconde, vivre de rapines, la troisième, mentir, la quatrième, nier les dieux" (Sèneca) 
+"Pour parvenir à éteindre tout à fait une race aussi exécrable, le premier moyen étant de leur ôter la facilité des retraites que leur offre les maquis, nous avons pris la résolution de les faire brûler dans toute l'étendue de l'île" (Marbeuf) 
+"Il faut battre la Corse avec une verge de fer" (u generale Berthier dopu à a cunquista francese) 
+"Nous tuons au moins un Corse par jour" (Morand) 
+"La Corse nuit à l'image du football français" (u mustacciutu) 
+"La vérité qu'il faut dire, c'est que la Corse n'a jamais été et ne sera jamais française. Voilà cent ans que la France traîne à son pied ce boulet. Nous l'en voyons estropiée, meurtrie. Le Corse est naturellement mouchard et assassin..." (Victor Hugo) 
+"La solution au problème Corse, cinq minutes d'immersion totale" (Clémenceau) 
+"Moi vivant, il n'y aura plus jamais de clubs corses en L1" (torna u mustacciutu) 
+"Eiu parlu corsu, ma ùn l'aghju micca amparatu à i mo figlioli, ùn ghjova à nunda !" (parechji Corsi) 
+"Le corse ça sert à rien, ùn vogliu micca chì u mo figliolu seguiti i corsi di lingua è cultura corsa" (serà megliu à un cuntalli) 
+Chì i fresteri ùn ci teninu micca caru, avà n'avemu l'abitutine. Ma perchè tantu odiu di i Corsi per a so propia cultura, a so propia lingua ? Perchè tantu disprezzu per sè stessu ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

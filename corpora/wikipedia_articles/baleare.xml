@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Baleare
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Baleare"/>
+     <date>
+      2013-03-09T00:14:08Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Baleare
+   </head>
+   <p>
+    E Baleare (ancu i Baleari, l'ìsule Baleare, l'ìsule Baleari  o l'ìsuli Baleari) sò un gruppu d’ìsule chì face partita di a Spagna.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,132 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Omeumurfismu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Omeumurfismu"/>
+     <date>
+      2014-12-08T20:07:12Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Omeumurfismu
+   </head>
+   <p>
+    In matematica, è più pricisamenti in tupulugia, un omeumurfismu (da u grecu homoios = simili è morphe = forma, da ùn cunfonda micca incù omumurfismu) hè una funzioni particulari frà spazii tupulogichi chì mudiddizighja l'idea intuitiva di "difurmazioni senza strappi".
+   </p>
+   <p>
+    A nuzioni d'omeumurfismu hè monda impurtanti in tupulugia. Dui spazii tupulogichi X è Y culligati da un omeumurfismu sò ditti omeumorfi: da un puntu di vista tupulogicu, quisti sò praticamenti uguali. In particulari, ani listessi invarianti tupulogichi.
+   </p>
+   <p>
+    == Difinizioni ==
+   </p>
+   <p>
+    Un omeumurfismu frà dui spazii tupulogichi X è Y hè una funzioni cuntinua f:X\to Ychì hè ancu biunivoca è di a quali a inversa f^{-1}:Y\to X  hè anch'idda cuntinua.
+   </p>
+   <p>
+    Una difinizioni equivalenti hè a siguenti: un omeumurfismu hè una currispundenza biunivoca f:X\to Y frà spazii tupulogichi tali ch'è un suttuinsemu A di X hè apartu s'è è solu s'idduu hè a so imaghjini f(A) in Y. Brevamenti, hè una currispundenza biunivoca frà spazii tupulogichi chì induci una currispundenza biunivoca frà i so aparti.
+   </p>
+   <p>
+    S'iddu esisti un omeumurfismu trà X è Y, i dui spazii sò ditti omeumorfi. A rilazioni d'omeumurfismu frà spazii tupulogichi hè una rilazioni d'equivalenza.
+   </p>
+   <p>
+    == Asempii ==
+   </p>
+   <p>
+    === Intarvalli di a retta riali ===
+   </p>
+   <p>
+    Sighini a dui numari riali. A funzioni
+   </p>
+   <p>
+    f:[0,1] \to [a,b]
+   </p>
+   <p>
+    f:x \mapsto a + (b-a)x
+   </p>
+   <p>
+    hè un omeumurfismu. Infatti hè cuntinua, biunivoca, è a so inversa
+   </p>
+   <p>
+    f^{-1}:[a,b] \to [0,1]
+   </p>
+   <p>
+    f^{-1}:y\mapsto \frac{y-a}{b-a}
+   </p>
+   <p>
+    hè anch'idda cuntinua. Ogni intarvallu chjusu è limitatu [a,b] hè dunqua omeumorfu à l'intarvallu [0,1]. Da a prubità transitiva suvita quinci ch'è l'intarvalli chjusi è limitati sò tutti omeumorfi frà iddi.
+   </p>
+   <p>
+    Si virifichighja analugamenti ch'è l'intarvalli aparti (a,b) sò tutti omeumorfi frà iddi. È ancu: un intarvallu apartu hè omeumorfu à l'intreia retta riali
+   </p>
+   <p>
+    \R par via di a funzioni tangenti
+   </p>
+   <p>
+    f:(-\pi/2,\pi/2) \to \R
+   </p>
+   <p>
+    f:x \mapsto \tan x.
+   </p>
+   <p>
+    chì hè biunivoca, cuntinua è incù inversa cuntinua (a funzioni arcutangenti). A limitatezza ùn hè micca dunqua un invarianti tupulogicu: un spaziu limitatu com'è (0,1) pò essa omeumorfu à un spaziu illimitatu, com'è \R.
+   </p>
+   <p>
+    == Prubità ==
+   </p>
+   <p>
+    Dui spazii omeumorfi ani asattamenti listessi prubità tupulogichi (siparabilità, cunnissioni, simplicia cunnissioni, cumpattezza...). In u linguaghju di a tiuria di i catigurii, si dice ch'è un omeumurfismu hè un isumurfismu trà spazii tupulogichi.
+   </p>
+   <p>
+    ==Noti==
+   </p>
+   <p>
+    == Bibliugrafia ==
+   </p>
+   <p>
+    Edoardo Sernesi, Giumitria 2, Bollati Boringhieri, Turinu 2006, ISBN 88-339-5548-6.
+   </p>
+   <p>
+    ==Da vida dinò==
+   </p>
+   <p>
+    Omeumurfismu lucali
+   </p>
+   <p>
+    Isumurfismu
+   </p>
+   <p>
+    Omeumurfismu (tiuria di i grafi)
+   </p>
+   <p>
+    Tupulugia generali
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia in talianu.
+   </p>
+  </body>
+ </text>
+</TEI>

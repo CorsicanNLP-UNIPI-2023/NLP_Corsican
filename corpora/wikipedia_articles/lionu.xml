@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lionu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Lionu"/>
+     <date>
+      2015-07-07T20:51:01Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lionu
+   </head>
+   <p>
+    U lionu (o lione) (Panthera leo'') hè un mammiferu di a famiglia di i Felidae.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    puma
+   </p>
+   <p>
+    gattu
+   </p>
+   <p>
+    Felidae
+   </p>
+  </body>
+ </text>
+</TEI>

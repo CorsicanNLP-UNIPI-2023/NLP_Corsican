@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vitacura
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Vitacura"/>
+     <date>
+      2014-03-23T15:11:41Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Vitacura
+   </head>
+   <p>
+    Vitacura hé una cità di u Cile, incù 81.499 abitanti (2002).
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Vitacura
+   </p>
+   <p>
+    Cile
+   </p>
+  </body>
+ </text>
+</TEI>

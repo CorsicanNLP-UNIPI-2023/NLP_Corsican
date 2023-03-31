@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Peruginu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Peruginu"/>
+     <date>
+      2017-12-26T19:22:49Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Peruginu
+   </head>
+   <p>
+    Petru di Cristofanu Vannucci, notu cume u Peruginu o cume Petru Peruginu (Cità di a Pieve, 1448 circa - Funtignanu, ferraghju 1523), hè statu un pittore talianu.
+   </p>
+   <p>
+    Taliani celebri
+   </p>
+  </body>
+ </text>
+</TEI>

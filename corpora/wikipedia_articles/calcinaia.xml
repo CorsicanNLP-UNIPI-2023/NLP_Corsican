@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Calcinaia
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Calcinaia"/>
+     <date>
+      2016-09-21T14:30:50Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Calcinaia
+   </head>
+   <p>
+    Calcinaia hè una cumuna taliana di a pruvincia di Pisa.
+   </p>
+   <p>
+    == Paisoli ==
+   </p>
+   <p>
+    Fornacette, Montecchio, Oltrarno, Sardina.
+   </p>
+   <p>
+    == Cumune in cunfina ==
+   </p>
+   <p>
+    Bientina, Cascina, Pontedera, Santa Maria a Monte, Vicopisano.
+   </p>
+   <p>
+    Cumuna di a pruvincia di Pisa
+   </p>
+  </body>
+ </text>
+</TEI>

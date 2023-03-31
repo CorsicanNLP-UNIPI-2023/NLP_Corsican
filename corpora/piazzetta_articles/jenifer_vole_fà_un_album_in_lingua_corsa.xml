@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Jenifer vole fà un album in lingua corsa
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Jenifer-vole-fa-un-album-in-lingua-corsa_a996.html"/>
+     <date>
+      Wed, 05 Jan 2011 08:01:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Jenifer vole fà un album in lingua corsa
+   </head>
+   <div type="excerpt">
+    <p>
+     Hà dettu ch'ella vuleria un ghjornu fà un album in lingua corsa. Perchè micca ? Serà a sola manera di vede Compañero è L'Armata di l'ombra entre in u Top 50...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Serà l'album di Nolwenn Leroy chì hà datu l'idea à Jenifer ? L'anziana di a Star'ac vene d'esce un album in omaggiu à a cultura brittona. Parechje riprese di canzone tradiziunale di a so regione in francese è ancu in lingua brittona 
+Allora chì u so ultimu album ùn viaghja tantu, quellu di Nolwenn cunnosce un bellu successu. 
+Interrugata da Nice-Matin nant'à a pussibilità di fanne unu in corsu, Jenifer di Palneca (a so mamma hè Bartoli) risponde : "Je comprends le corse. J'aime toujours autant chanter sur mes vieux albums des Muvrini, Chjami, Canta u Populu Corsu, Petru Guelfucci..." 
+Digià, a zitella marca un puntu : ùn hà micca citatu à Patrick Fiori cum'è essendu un "chanteur corse". 
+"Sur scène, avec plaisir, mais pour un album entier, je manque encore un peu de bouteille pour rivaliser avec ces noms qui portent et honorent la langue corse. Un jour, sans doute… Je le souhaite de tout mon cœur" dice quella chì hà digià cantatu Catena cù I Chjami. 
+Cuntinuveghja : "Maintenant que j'ai téléchargé l'application d'A Piazzetta sur mon iPhone, je me campe de rise tous les jours !" 
+Bon và bè, st'ultima frasa ùn hè micca vera... Ma avà ch'ella hà lampatu i cani à a machja, aspettemu st'album. Perchè micca e riprese di qualchì canzona tradiziunale, cum'è a Nanna di u Cuscionu, A Ghjallinella, Ciucciarella, Alcùdina, I Mulatteri d'Ulmetu ? 
+O un "Best of the Riacquistu", cù Un Paisanu, Compañero, Populu Vivu, Quandi a terra move, Arietta, Le Chemin des Dames è Clandestinu ? 
+Ci la pò fà à cantà Principellu megliu ch'è Anna Rocchi ? Serà d'accordu Ghjuvanpaulu Poletti ? A CTC derà una suvvenzione ? L'Armata di l'ombra cantata da Jenifer, puderà entre à u Top 50 ? 
+O Jen', avà ch'è tù ti sì ingagiata, sì obligata di falla !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

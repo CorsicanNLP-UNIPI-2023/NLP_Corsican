@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sò nati i stamponi d'insulte corse
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/So-nati-i-stamponi-d-insulte-corse_a1996.html"/>
+     <date>
+      Thu, 13 Nov 2014 15:29:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sò nati i stamponi d'insulte corse
+   </head>
+   <div type="excerpt">
+    <p>
+     Sunniavate di mandà una lettera à u vostru merre cù un tamantu "faccia di culu" ? Pagà i vostri impositi cù un bellu "o gaulois" ? Scrive à u vostru patrone una bella lettera di demissione cù un "vai à fatti leghje" duppiatu d'un "o cughjò" ? Hè oramai pussibule.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Le Tampographe Sardon hè un artistu pariginu è cum'ella a dice u so nome, ellu face stamponi ("tampons"). 
+St'azezu hà cumminciatu per fà dissegni di stampa. Ma spiegava dui anni fà : "je voyais que mon travail de dessinateur de presse n'allait déboucher au mieux que sur des dessins pourris avec une carrière qui allait lentement décliner jusqu'à la déprime et l'alcoolisme vers 45 ans". 
+Allora s'hè messu à fà stamponi : "il y a un côté violent, c'est le jugement à l'emporte-pièce de la société" 
+Hà fattu parechji stamponi d'insulte : injures trotskistes, ci hè dinù un bellu "j'en ai rien à foutre" è altre simpatie in francese. 
+Ci sò dinù l'insulte marsegliese o quelle d'Argentina. 
+Ma vi pudete piglià ancu u bellu "fusillez-moi ça". Bon ci n'hè pienu cusì. 
+Sardon hè dinù cunnisciutu per i so "bons points" è avia fattu l'affissu di u festivale di a BD in Bastia in u 2013. 
+A scatula d'insulte è ghjesteme costa 60 €, chì sò state scelte da Vannina Bernard-Leoni è Laure Limongi. 
+È hè dinù l'occasione di turnà à revisà a nostra lista d'insulte corse ch'è no aviamu fattu trè anni fà, è pudete aghjustane d'altre in i cummenti. 
+http://letampographe.bigcartel.com/
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Andrew Jackson
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Andrew%20Jackson"/>
+     <date>
+      2016-08-11T16:28:11Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Andrew Jackson
+   </head>
+   <p>
+    'Andrew Jackson (15 Marzu 1767 – 8 Ghjugnu 1845) hè statu presidente di i Stati Uniti d'America da u 1829 à u 1837.
+   </p>
+   <p>
+    == Riferimenti ==
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Listinu di i presidenti americani
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Jackson
+   </p>
+  </body>
+ </text>
+</TEI>

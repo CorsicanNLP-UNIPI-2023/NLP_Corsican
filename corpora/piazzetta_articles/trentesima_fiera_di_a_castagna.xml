@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Trentesima fiera di a castagna
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Trentesima-fiera-di-a-castagna_a1458.html"/>
+     <date>
+      Wed, 05 Dec 2012 23:04:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       TRIBUNA-DI-I-LETTORI-AZEZI
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Trentesima fiera di a castagna
+   </head>
+   <div type="excerpt">
+    <p>
+     Per ùn sminticà ciò chì no semu…
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Segnu chì sta fiera face oramai parte di a tradizione corsa, hè stata creata una canzona à l’iniziativa di u so autore è offerta à a fiera (ùn era micca una cummanda). 
+Mentre chì fiuriscenu i « marchés de Noel », mudelu francese impostu à a sucità corsa, induva ghjente di quì è d’altrò vi vendenu prudutti industriali senza cunnoscenu mancu (alle volte) l’origine, esiste sempre uni pochi di lochi induva l’omu, u sapè fà, u sapè esse, a pruduzzione è a tradizione sò à u centru di un’animazione. 
+Isciuta da a leva di u settanta è di u riacquistu, nata quasgi à tempu à a riapertura di l’università, a fiera di a castagna hè di sicuru unu di quessi. Ella chì hà sempre avutu per scopu di mette in valore a vita paisana è e so perspetive di sviluppu è di prugressu. 
+Quandu l’omi pulitichi parlanu di « désertification de l’intérieur » senza agisce, certi resitanu travagliendu a so terra è pruducendu prudutti fiuri di a nostr’identità.  Quandu l’omi pulitichi parlanu di a lingua corsa cume « facteur de discrimination », a fiera ella apre e so porte à d’altri paesi è caggiuneghja cusì scambii cultrali, mittendu in vale l’apertura di u nostru populu.  Quandu u fatalisimu empie i discorsi (« au village on ne peut rien faire »), certi si battenu per prumove è valurizà ciò chì omu sà fà, per mantene à pena di ciò chì no simu (o ciò chì no  eramu). 
+Allora per fà vede à tutti ch’ellu esiste un’antru sviluppu per stù paese chì u tuttu turisimu, tutti in Bucugnà l’8 è u 9 di dicembre di u 2012.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

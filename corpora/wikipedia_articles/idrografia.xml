@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Idrografia
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Idrografia"/>
+     <date>
+      2019-07-01T20:49:00Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Idrografia
+   </head>
+   <p>
+    L'idrografia hè a studia di a morfologia di i fiumi.
+   </p>
+   <p>
+    ==Vede dinù==
+   </p>
+   <p>
+    Geografia litorale
+   </p>
+   <p>
+    Oceanografia
+   </p>
+   <p>
+    Giugrafia
+   </p>
+  </body>
+ </text>
+</TEI>

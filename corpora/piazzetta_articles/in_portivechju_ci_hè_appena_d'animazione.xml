@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     In Portivechju ci hè appena d'animazione
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/In-Portivechju-ci-he-appena-d-animazione_a1039.html"/>
+     <date>
+      Sat, 26 Feb 2011 13:09:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    In Portivechju ci hè appena d'animazione
+   </head>
+   <div type="excerpt">
+    <p>
+     A campagna di e cantunale ùn passiuneghjanu tantu. Serà forse perchè ùn ci sò più piazze nè frigò à prumette à l'elettori. Ma micca in Portivechju...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Finite e campagne infiarate di tandu ! Tempi fà sì chì a Corsica cunniscia a frebba eletturale. MRG contr'à RPR, piazze è posti prumessi à diritta è à manca, distribuzione di frigidaires è di telè in culore. 
+Più nunda di quessa, ùn ci hè più soldi ind'e casce ! Da per tuttu, a campagna hè bella tranquilla, ùn ci serà surprese maiò. 
+Da per tuttu... for'chè in Portivechju induve Jean-Christophe Angelini face fischjà l'orechje di Camille de Rocca Serra. RCFM è Corse-Matin organizavanu un dibattitu chì statu appena animatu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I had a dream
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-had-a-dream_a2365.html"/>
+     <date>
+      Wed, 06 Apr 2016 18:06:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I had a dream
+   </head>
+   <div type="excerpt">
+    <p>
+     È s’è tutti sti lochi, paesi o pieve, s’elli fussinu Paesi, belli indipindenti, cù a so muneta, a so armata, a so custituzione, u so innu, a so bandera ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A littura di a Settimana di st’etima (!), da u 1ma à u 7 d’aprile 2016, cù u cusì famosu Fradjighistan, chì ognunu cunnosce, ci hà datu l’idea di rifà appinuccia a carta di u mondu. 
+A Castagniccia : u Pulendistan  A Custera : u Tornavvignalistan  Aiacciu : u Montaseghistan  Bastia : u Cagnettistan  Calvi : u Semperfidelistan  Cervioni : u Santulisandristan  Corti : u Partitonistan (u Partitellistan : sò in discussione trà d’elli)  Ghisoni : u Mariejeanvinciguerristan  L’Isula : u Babbudiapatriastan (u Paolistan : quì dinò sò in discussione)  L’Oretu di Casinca : u Ghjuvanteramistan  L’Ortale : u Fusinistan  Lozzi : l’Acquavivistan  Nesce : l’Azezadinanettistan  Niolu : u Simeonistan  Orezza : l’Acquafarrignistan  Piubbeta : u Tinghjisumeristan  Portivechju : u Roccaserristan  Rusiu : u Rocchirockystan  San Fiurenzu : u Granuchjaghjistan  Sartè : u Bucchinistan (u Polettistan : quì dinò, gran cuntrastu)  Sermanu : u Feliciantonistan  Siscu : u Segaseghistan  Venacu : u Giacobbistan 
+S’è vo avete u tichju d’arricchì u listinu…  Po di pruponelu… à l’ONU !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

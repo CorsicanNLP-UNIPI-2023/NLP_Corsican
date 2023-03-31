@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I pastori fora
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-pastori-fora_a1412.html"/>
+     <date>
+      Thu, 20 Sep 2012 00:33:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I pastori fora
+   </head>
+   <div type="excerpt">
+    <p>
+     In Balagna, un agricultore hè messu fora da u so terrenu per fà un... parking pè i turisti. Nò, ùn hè micca una magagna.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In a grande seria "campemu in un paese di scemi è ne simu fieri" eccu a storia di u parking di Sant'Antuninu. 
+Sò l'agricultori di a FDSEA chì anu palisatu l'infurmazione. U 17 settembre, anu bluccatu a circulazione in Balagna pè prutestà contr'à a spatrunizazione d'un agricultore. 
+À a piazza di un terrenu di 14.000 m² chì un pastore sfrutta cù u so figliolu dapoi trent'anni, a merria di Sant'Antuninu ci vole mette un parking per pudè accoglie di più vitture l'estate. 
+U prefettu hà firmatu l'arrestu di spatrunizazione « Au nom de l’utilité publique », da leghje nant'à u situ di U Levante. 
+Segondu à U Ribombu ci saria ancu una cumbrìncula pè rende custruttìbili d'altri terreni di sta cumuna. 
+Ma sta trista storia ùn hè chè un esempiu di a pressione forte chì i terreni agrìculi incontranu di pettu à frebba immubiliare chì a Corsica cunnosce. 
+Mette fora un pastore è e so pecure, distruce un terrenu agrìculu per metteci un bellu parking incatramatu, cusì si passa in u nostru paese oghje. 
+Tuttu cuntinuveghja d'andà benissimu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

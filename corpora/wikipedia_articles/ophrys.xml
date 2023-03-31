@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ophrys
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Ophrys"/>
+     <date>
+      2014-03-23T14:44:26Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ophrys
+   </head>
+   <p>
+    About 40
+   </p>
+   <p>
+    Species:
+   </p>
+   <p>
+    Ophrys speculum
+   </p>
+   <p>
+    Ophrys
+   </p>
+  </body>
+ </text>
+</TEI>

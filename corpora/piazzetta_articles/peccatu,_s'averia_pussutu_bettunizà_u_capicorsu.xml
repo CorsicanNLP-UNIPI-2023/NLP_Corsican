@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Peccatu, s'averia pussutu bettunizà u Capicorsu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Peccatu-s-averia-pussutu-bettuniza-u-Capicorsu_a1744.html"/>
+     <date>
+      Wed, 23 Apr 2014 20:20:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Peccatu, s'averia pussutu bettunizà u Capicorsu
+   </head>
+   <div type="content">
+    <p>
+     U PLU di u Capicorsu hè statu annulatu da u tribunale amministrativu di Bastia. 
+U mutivi ritenuti ? U TA dice chì : 
+« en sextuplant la surface des zones constructibles, alors que l'accroissement démographique prévisible est inférieur à 60 % sur vingt ans, les auteurs du PLU ont méconnu le principe d'équilibre applicable aux communes soumises à la loi littoral et au schéma d'aménagement de la Corse ». 
+È dinù : 
+« le non respect de la loi littoral par dix des quatorze communes qui souhaitaient une extension de l'urbanisation sur certains zonages ». 
+Tuttu và bè. 
+Da vede nant'à ulevante.fr
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

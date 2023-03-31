@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mélenchon indipendentistu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Melenchon-indipendentistu_a1948.html"/>
+     <date>
+      Tue, 16 Sep 2014 10:17:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Mélenchon indipendentistu
+   </head>
+   <div type="content">
+    <p>
+     Certe volte, Jean-Luc Mélenchon ne face appena troppu. 
+Interrugatu nant'à RTL per sapè ciò ch'ellu vuteria à u referendum s'ellu era scuzzese, hà rispostu ch'ellu era indipendentistu : 
+"Evidemment !", ci raporta u Nouvel Obs. 
+Ah ? È in Francia ? A risposta l'avia preparata : 
+"En France, personne ne réclame ce type d'indépendance car nous sommes une République une et indivisible, unie par l'amour que se portent les patriotes entre eux". 
+Avete bè lettu : "unie par l'amour que se portent les patriotes entre eux." Cusì tenneru è cusì bravu, stu Jean-Luc. 
+Trà u Fronte è u Front de Gauche, manca pocu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

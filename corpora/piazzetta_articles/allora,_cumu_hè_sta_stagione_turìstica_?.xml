@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Allora, cumu hè sta stagione turìstica ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Allora-cumu-he-sta-stagione-turistica_a1145.html"/>
+     <date>
+      Fri, 05 Aug 2011 16:44:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Allora, cumu hè sta stagione turìstica ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Duvia esse a più grossa stagione di tutti i tempi dapoi a prestoria, è hè un fiascu maiò. Quandu si leghje à Corse-Matin, si capisce perchè...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     È voi, vi piaceria di batte a closcia durante 15 ghjorni campendu è durmendu in una 106 Kid ? 
+È s'è no circàvamu di sviluppà altre cose ch'è u turisimu ? Cù a crisa ch'ùn finisce più, saria forse ora di pensacci nanzu ch'ella sia troppu tardi.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

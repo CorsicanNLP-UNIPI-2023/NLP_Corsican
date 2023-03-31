@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Castelnuovo di Val di Cecina
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Castelnuovo%20di%20Val%20di%20Cecina"/>
+     <date>
+      2015-05-05T02:00:11Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Castelnuovo di Val di Cecina
+   </head>
+   <p>
+    Castelnuovo di Val di Cecina hè una cumuna taliana di a pruvincia di Pisa.
+   </p>
+   <p>
+    ==Cumune in cunfina==
+   </p>
+   <p>
+    Castelnuovo di Val di Cecina cunfina incù: Casole d'Elsa (SI),  Monterotondo Marittimo (GR), Montieri (GR), Pomarance, Radicondoli (SI).
+   </p>
+   <p>
+    Cumuna di a pruvincia di Pisa
+   </p>
+  </body>
+ </text>
+</TEI>

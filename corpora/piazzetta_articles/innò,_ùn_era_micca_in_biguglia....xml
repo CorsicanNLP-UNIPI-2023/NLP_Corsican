@@ -1,0 +1,85 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Innò, ùn era micca in Biguglia...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Inno-un-era-micca-in-Biguglia_a2043.html"/>
+     <date>
+      Sat, 29 Nov 2014 01:53:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Innò, ùn era micca in Biguglia...
+   </head>
+   <div type="excerpt">
+    <p>
+     Ùn ci vole micca sempre à fidassi à i ritratti ch'ellu si trova nant'à internet. Corse-Matin vene di fanne a pessima sperienza...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Micca sempre faciule di truvà i boni ritratti, ancu pè i giurnalisti. Sì u net pò esse una manera strasordinaria per truvà testimonii nant'à u terrenu (cum'è sta pagina di France 3 Corse cù e cuntribuzioni di l'internauti), pò esse dinù una trappula. 
+Esempiu cun sta fottò d'illustrazione d'un articulu di Corse-Matin nant'à u tempurale chì hà toccu a regione di Bastia, in l'edizione di u 29 nuvembre :
+    </p>
+    <p>
+     Per disgrazia, stu ritrattu ùn hè manc'appena statu pigliatu in Corsica, ma in u Var, è in u 2010, cumu u mostra st'articulu di Le Monde :
+    </p>
+    <p>
+     Serà cusì faciule di fassi intrappulà ? 
+Ci vole à crede, postu chì u listessu ritrattu si ritrova nant'à parechji siti d'infurmazione... algeriani, cum'è Algerie 360.
+    </p>
+    <p>
+     Sì i macchettisti di Corse-Matin leghjianu A Piazzetta, l'averianu sappiuta. Noi dinù avemu utilizatu stu ritrattu, ma in a legenda l'avemu detta ch'ellu si passava in u dipartimentu di u Var... 
+Allora perchè stu sbagliu ? U primu à lancià l'infurmazione chì l'affare si passa in a regione di Bastia si trova nant'à Twitter. Vene da u contu parodicu (hè a moda nant'à internet, cun l'americanu The Onion o u francese Le Gorafi) di... U Gorsmatin. 
+Cun stu Tweet :
+    </p>
+    <p>
+     INTEMPÉRIES - Sauveur Gandolfi-Scheit : "à Biguglia la situation est sous contrôle" pic.twitter.com/oKvbyWqrEs
+— U Gorsmatin (@U_Gorsmatin) 28 Novembre 2014
+    </p>
+    <p>
+     Ma nò, era bè quattru anni fà, à parechji chilòmetri di a Corsica... 
+Bon d'accordu ùn avemu nunda à dì chì pazzìe n'avemu scrittu ancu nant'à A Piazzetta. È ancu di grazia ch'è no avemu à Corse-Matin, ch'o sinnò ùn esistiamu micca. 
+Una ghjurnata difficiule è un "bouclage" in l'urgenza sò siguramente à l'orìgine di sta mancata. Ma attenzione o Corse-Matin ! Ùn ci vole micca sempre à crede U Gorsmatin...
+    </p>
+    <p>
+     Finalmente, Corse-Matin hà fattu una risposta in a so edizione di dumenica. Fair-play, hà ricunnisciutu i so torti :
+    </p>
+    <p>
+     St'articulu hè statu traduttu nant'à u situ Ampargu a lingua corsa.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

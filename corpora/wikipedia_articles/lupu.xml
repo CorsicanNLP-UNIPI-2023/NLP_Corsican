@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lupu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Lupu"/>
+     <date>
+      2015-05-08T20:03:07Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lupu
+   </head>
+   <p>
+    U lupu (o lubbu) hè ...
+   </p>
+   <p>
+    == Citazione ==
+   </p>
+   <p>
+    A fami faci escia u lubbu di a tana.
+   </p>
+   <p>
+    I lupi ùn facenu agnelli.
+   </p>
+  </body>
+ </text>
+</TEI>

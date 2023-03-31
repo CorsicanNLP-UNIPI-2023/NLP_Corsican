@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A carta di u telefunacciu chì ùn passa micca
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-carta-di-u-telefunacciu-chi-un-passa-micca_a2645.html"/>
+     <date>
+      Mon, 18 Sep 2017 09:02:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A carta di u telefunacciu chì ùn passa micca
+   </head>
+   <div type="excerpt">
+    <p>
+     L'Arcep (Autorité de régulation des communications électroniques et des postes) hà publicatu nant'à internet a vera carta di e rete di telefunini. Si pò vede a qualità di a cupertura cù una precisione di 50 metri.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'Arcep hè l'autorità di regulazione di telefunia. U scopu di sta carta hè di creà "un choc de transparence chez les opérateurs pour les obliger à augmenter leurs investissements dans la qualité du réseau". A qualità di a rete ùn hè micca sempre quella chì hè avanzata da l'operatori. 
+Ma sopr'à tuttu, avà ùn averete più a scusa di "u telefunu ùn passava micca in paese, ùn aghju pussutu chjamatti". 
+A carta : monreseaumobile.fr
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

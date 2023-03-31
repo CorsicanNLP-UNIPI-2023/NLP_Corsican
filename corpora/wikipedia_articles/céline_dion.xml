@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Céline Dion
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/C%C3%A9line%20Dion"/>
+     <date>
+      2017-11-11T14:11:07Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Céline Dion
+   </head>
+   <p>
+    Céline Marie Claudette Dion (* 30 di marzu 1968 in Montréal, Canadà) hè una cantante canadiana.
+   </p>
+   <p>
+    Céline Dion
+   </p>
+   <p>
+    Céline Dion
+   </p>
+  </body>
+ </text>
+</TEI>

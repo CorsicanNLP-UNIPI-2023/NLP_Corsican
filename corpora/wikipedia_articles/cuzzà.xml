@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cuzzà
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Cuzz%C3%A0"/>
+     <date>
+      2015-06-30T14:55:34Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cuzzà
+   </head>
+   <p>
+    Cuzzà hè una cumuna di u dipartimentu di a Corsica suttana.
+   </p>
+   <p>
+    == Giugrafia ==
+   </p>
+   <p>
+    == Storia ==
+   </p>
+   <p>
+    == Merri ==
+   </p>
+   <p>
+    == Rifarenzi ==
+   </p>
+   <p>
+    Ciccolini, Carulu, Piccula stori di Cuzzà - petite histoire de Cozzano, Accademia corsa
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    Cumuna di Corsica suttana
+   </p>
+   <p>
+    Cumuna di Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

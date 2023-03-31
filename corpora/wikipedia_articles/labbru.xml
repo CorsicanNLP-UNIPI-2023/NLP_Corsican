@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Labbru
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Labbru"/>
+     <date>
+      2015-07-09T10:01:38Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Labbru
+   </head>
+   <p>
+    == Citazioni ==
+   </p>
+   <p>
+    U labbru hè mintuvatu calchì volta in a cultura è in a litteratura corsa. Par asempiu in i sprissioni:
+   </p>
+   <p>
+    Hè quant'è à vulà fà sprucca senza labbri.
+   </p>
+   <p>
+    o in u pruverbiu: Un si pò dì "prruci" senza labbri.
+   </p>
+   <p>
+    ==Rifarenzi==
+   </p>
+   <p>
+    Ettori, Farrandu, Antulugia di i sprissioni corsi - Anthologie des expressions corses, Parighji: Rivages, 1984
+   </p>
+  </body>
+ </text>
+</TEI>

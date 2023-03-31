@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È avà, eccu i "gendarmi pedagògichi"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-ava-eccu-i-gendarmi-pedagogichi_a1118.html"/>
+     <date>
+      Sun, 19 Jun 2011 10:59:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È avà, eccu i "gendarmi pedagògichi"
+   </head>
+   <div type="excerpt">
+    <p>
+     Dopu à i "radars pédagogiques", eccu chì ghjùnghjenu nant'à e nostre strade i "gendarmi pedagògichi" in cartone.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Sarkozy l'avia prevenuta, a guerra contr'à l'insecurità stradale serà terribule. A lege s'hè rinfurzata contr'à quelli chì ùn rispettanu u codice di a strada è i punti nant'à u permessu saltanu di più in più in furia. Per quessa, u guvernu ùn manca d'idee. 
+Dopu à l'annunziu di Claude Guéant di a stallazione di " radars pédagogiques " nant'à e nostre strade, un altru prugettu serà forse messu in ballu : i falsi gendarmi in cartone, detti "gendarmes pédagogiques". 
+L'idea hè sèmplice : invece di mandà veri gendarmi pè cuntrullà a vitezza di e vitture nant'à a strada, si mettenu falsi gendarmi di taglia reale. Da luntanu, l'automobilisti ùn vedenu nunda è calanu a vitezza, pensendu ch'elli sò veri. 
+È quelli chì ghjunghjenu in faccia facenu i segni cù i so lumi pè prevene ch'elli ci sò i flicchi. Iè, nunda ch'è cun "l'appels de phares" si face calà a vitezza, senza fà spese supplementarie pè u Statu. In tempu di crisa è riduzzione di funziunarii, ci vulia à pensacci. 
+In Bastia i pulizzeri eranu chjamati "a pulizza gobba". Avà ci vulerà à dì "a pulizza gobba in cartone".
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

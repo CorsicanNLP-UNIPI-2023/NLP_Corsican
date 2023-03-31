@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Riabilitemu i pumataghji !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Riabilitemu-i-pumataghji-_a2455.html"/>
+     <date>
+      Mon, 08 Aug 2016 18:54:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Riabilitemu i pumataghji !
+   </head>
+   <div type="excerpt">
+    <p>
+     Ghjucati à a risa, ghjastimati, magagnati, i pumataghji ùn sò micca francamente tenuti caru. À sente à certi sarianu un vituperiu pè a Corsica (davant'à i scrucconi, i maffiosi è l'assassini). Ma à rifletteci bè, i turisti in saccadò sò forse i mal peghju (omancu elli ùn anu soldi per cumprassi una casa segundaria nant'à u liturale). Serà ghjunta l'ora di a riabilitazione naziunale ?
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

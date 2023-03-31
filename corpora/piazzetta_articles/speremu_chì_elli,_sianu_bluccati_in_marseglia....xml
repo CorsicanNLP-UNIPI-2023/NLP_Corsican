@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Speremu chì elli, sianu bluccati in Marseglia...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Speremu-chi-elli-sianu-bluccati-in-Marseglia_a1907.html"/>
+     <date>
+      Wed, 09 Jul 2014 16:49:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Speremu chì elli, sianu bluccati in Marseglia...
+   </head>
+   <div type="excerpt">
+    <p>
+     Una publicità per una discoteca di Purtichju (o piuttostu Portitch) vista in a stampa corsa. Ma perchè semu cundannati à abbuchjacci tuttu ciò chì a sucetà francese pruduce di peghju ?
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

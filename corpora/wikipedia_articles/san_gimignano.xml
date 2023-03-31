@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     San Gimignano
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/San%20Gimignano"/>
+     <date>
+      2014-03-23T14:56:02Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    San Gimignano
+   </head>
+   <p>
+    San Gimignano hè una cumuna toscana di a pruvincia di Siena.Teni 7.105 abitanti.
+   </p>
+   <p>
+    Cumuna di Toscana
+   </p>
+   <p>
+    == Ligami annantu à a Reta ==
+   </p>
+   <p>
+    Sangimignano.net
+   </p>
+  </body>
+ </text>
+</TEI>

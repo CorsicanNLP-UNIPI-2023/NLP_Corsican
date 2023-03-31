@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     L'applicazione iPhone ch'ellu ci vole à avè (o micca)
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/L-applicazione-iPhone-ch-ellu-ci-vole-a-ave-o-micca_a1109.html"/>
+     <date>
+      Mon, 08 Aug 2011 15:43:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    L'applicazione iPhone ch'ellu ci vole à avè (o micca)
+   </head>
+   <div type="content">
+    <p>
+     iTuristacci : vi dà in tempu reale u statu di a circulazione nant'à e strade, cun e caravane, i camping-cars è e vitture di turisti chì vanu à 20 à l'ora. Di tutte manere, avà semu lecchi. 
+U Shazam di e facce : utile assai quand'è vo scuntrate à qualchissia ch'è vo cunniscite ma ùn sapete più cumu si chjama. Ritrova u nome è a casata da per ellu. 
+Passu sott'à u tunnellu : l'applicazione chì face crede à u vostru currispundente chì a rete ùn passa più. Indispensèvule pè sbarazzassi di e croce. 
+iSborgna : vi rammenta ciò ch'è vo avete fattu a vigilia, induve site statu è ch'avete betu. 
+My résidence secondaire en Keurse : entrate una cumuna di Corsica è l'applicazione vi trova tutte e case è appartamenti in vèndita. Difesu à i Corsi, ben'intesa. 
+Corsi around me : lucalizeghja i Corsi chì fermanu in giru à voi. Spicciatevi, ci n'hè di menu in menu. 
+KiBeiu : 300 sosule di cocktails. Utile per cambià appena di a pastizzata tradiziunale. 
+Virtual Paghjella : Sceglite u versu, e parolle, e voce è l'applicazione vi lancia una paghjella da per ella. Utile per fà un'ambianza nustrale è cosy à u comptoir, ma senza Corsi. 
+Find a camping car : Vulite mette unepochi ci calci in un camping car di notte ? St'applicazione vi ne trova unu in un minutu. 
+iMittomanu : in serata, ùn truvate più nunda à dì per impressiunà i vostri amichi ? L'applicazione vi derà storie di mittò da cuntà (braccasgi, cazzuttate à 10 contr'à 1 ecc...) da cuntà à i vostri poveri amichi. 
+Bum ! : Sentite un pichju ind'a notte ? L'applicazione vi dice ciò chì hè statu plasticatu è induve hè saltatu. 
+Free Procuration : Simplifacatevi a vita per vutà è favvi una falsa precura. 
+Give me a piazza : L'applicazione vi dice à quale devite tuccà per truvavvi una piazza (attenzione, si tratta bè d'una piazza, micca d'un travagliu). 
+Induve sò ? : Quessa vi dà u nome ghjustu (in corsu) di u locu induve vi truvate. Nò, ùn site micca in « Erbalunga » ma in Erbalonga, in « Podj » ma à U Poghju, in « Piétra » ma in Petranegra, in « Borgaux » ma in U Borgu, in « Le Désert des Agriates » ma in L'Agriate, in « Cargèz » ma in Carghjese... eccetera.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

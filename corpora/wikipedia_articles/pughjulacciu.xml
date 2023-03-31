@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pughjulacciu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Pughjulacciu"/>
+     <date>
+      2015-07-07T11:21:00Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pughjulacciu
+   </head>
+   <p>
+    pughjulacciu, abitante di Oletta
+   </p>
+   <p>
+    pughjulacciu, abitante di Santa Marìa
+   </p>
+   <p>
+    pughjulacciu, abitante di Vènacu
+   </p>
+  </body>
+ </text>
+</TEI>

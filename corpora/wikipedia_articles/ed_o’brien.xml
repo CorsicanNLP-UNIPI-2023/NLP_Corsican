@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ed O’Brien
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Ed%20O%E2%80%99Brien"/>
+     <date>
+      2014-03-23T14:16:59Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ed O’Brien
+   </head>
+   <p>
+    Ed O'Brien hè un musicante britannicu. Hè u chitarristu ritmicu è cantadore à fondu di Radiohead.
+   </p>
+   <p>
+    O'Brien,Ed
+   </p>
+   <p>
+    O'Brien,Ed
+   </p>
+  </body>
+ </text>
+</TEI>

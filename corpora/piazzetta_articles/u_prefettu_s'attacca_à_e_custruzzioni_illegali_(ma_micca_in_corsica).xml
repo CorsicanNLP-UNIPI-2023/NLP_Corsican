@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U prefettu s'attacca à e custruzzioni illegali (ma micca in Corsica)
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-prefettu-s-attacca-a-e-custruzzioni-illegali-ma-micca-in-Corsica_a1968.html"/>
+     <date>
+      Tue, 30 Sep 2014 20:47:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U prefettu s'attacca à e custruzzioni illegali (ma micca in Corsica)
+   </head>
+   <div type="excerpt">
+    <p>
+     "Le Préfet veut en finir avec les constructions illégales"... peccatu, ùn si passa micca in Corsica, ma in u Var.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Stu bellu ritrattu puderia esse in Corse-Matin... ma nò, si tratta solu di Var-Matin. 
+Nant'à France-Bleu s'ampara chì : 
+"C'est un phénomène en pleine explosion dans le département du Var : de nombreuses constructions avec permis mais non respecté ou carrément sans permis" 
+Si tratta per esempiu d'un permessu per una casa di 350 m² chì à u finale face 3800 m². S'ampara dinù chì si custruisce spessu senza permessu. U prefettu minaccia di distruge e custruzzioni illegali. 
+Tè, saria bè sì in Corsica si facia omancu rispettà a lege liturale è l'occupazione di u spaziu nant'à e marine. 
+Ma forse, sunniemu troppu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

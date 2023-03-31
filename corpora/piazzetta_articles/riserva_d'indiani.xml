@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Riserva d'indiani
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Riserva-d-indiani_a2545.html"/>
+     <date>
+      Wed, 22 Feb 2017 01:41:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Riserva d'indiani
+   </head>
+   <div type="excerpt">
+    <p>
+     L'articulettu esciutu in Corse-Matin di u 21 di ferraghju hà fattu parlà assai nant'à e rete suciale. Ma à vede e reazzione, ci pudemu dumandà s'è no ùn semu micca noi chì c'inchjustremu in e riserve.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Intitulatu "réserve d'indiens", l'articulettu conta una storia trista diventata banale oghje ghjornu :
+    </p>
+    <p>
+     Dopu à esse statu spartutu nant'à Facebook è Twitter, sò state numerose e reazzione. À chì a si caccia contr'à a "colonisation de peuplement", à chì ne prufitta per dumandà una volta di più a cuufficialità, à chì s'annerba appressu à u Statu... Cum'è di solitu nant'à e rete suciale, ognunu hà a so opinione è u so azizume. 
+Allora d'accordu, ci sò i ghjunghjiticci è un Statu chì ùn ci aiuta micca (ci vulerà à aspettanne qualcosa ?). 
+Eppuru, sì i Corsi avianu trasmessu è amparatu a so lingua, s'elli a parlessinu tutti i ghjorni, in ogni locu (è micca solu pè a festa di nazione) allora forse ùn ne sariamu micca custì. 
+Certe volte ci hè da dumandassi s'è no ùn ci mettimu micca da per noi in e riserve d'indiani, senza avè bisognu di l'altri... 
+Ma forse, si ne impippanu appena di a so lingua. 
+(si pò dì quessa ?)
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

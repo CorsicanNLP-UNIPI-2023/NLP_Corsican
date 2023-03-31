@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Esse bislingu face prò à u cerbellu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Esse-bislingu-face-pro-a-u-cerbellu_a2634.html"/>
+     <date>
+      Sun, 10 Sep 2017 18:56:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Esse bislingu face prò à u cerbellu
+   </head>
+   <div type="excerpt">
+    <p>
+     Chì si passa in u cerbellu bislingu ? Era u sugettu di a cronaca di France Inter "Parlez-vous cerveau ?".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ùn si dicerà mai quantu u fattu d'esse bislingu da chjucu face prò à u cerbellu. 
+Era u sugettu di a cronaca di Lionel Naccache nant'à France Inter "Parlez-vous cerveau ?", chì tratta di e neuroscenze. È si pò stà à sente quì :
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

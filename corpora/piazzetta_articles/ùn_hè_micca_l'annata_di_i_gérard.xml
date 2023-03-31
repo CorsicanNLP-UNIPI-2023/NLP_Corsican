@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ùn hè micca l'annata di i Gérard
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-he-micca-l-annata-di-i-Gerard_a1478.html"/>
+     <date>
+      Wed, 09 Jan 2013 19:08:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ùn hè micca l'annata di i Gérard
+   </head>
+   <div type="excerpt">
+    <p>
+     Dopu à l’affare Gérard Depardieu, a pulemica Gérard Romiti.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Presidente di u cumitatu regiunale di pesca di Corsica è di u cumitatu naziunale di e pesche maritime (scusate dugià di u pocu), Gégé Romiti vene d’esse numinatu cavalieru di a Legione d’Onore. 
+Hà dettu ch’ellu era qualcosa chì ùn si ricusava micca. Ci vole à dì chì J.G Talamoni l’avia digià messu un bellu polpu sculiscente sottu à i pedi dichjarendu nant'à u so blog ch’ellu ùn pudia più esse in accordu cù ellu stessu s’ellu l’accettava. Seranu dunque cuntente tutte l’anchjuve, e ragnole, l’aligoste, e sardine di vede chì u riprisentente di 22 000 famiglie di piscadori riceve cù emuzione u frisgettu rossu à nome di tutti i pesci di u mare. 
+U disegnatore Jacques Tardi, ellu hà ricusatu cù a più grande forza per firmà un omu liberu, « u  ghjornu ch’omu ricunnoscerà i prigiuneri di guerra, i fucilati per l’esempiu, serà forse un altru affare », à nome di i suldati chì si sò fatti compie in u macellu di e duie guerre, quelli chì u pudere puliticu è militare francese sguassa di a memoria cullettiva. 
+Avemu in Corsica i rivultati è i resistanti ch’è no meritemu : Dopu u Premiu Goncourt accettatu da Jérôme Ferrari da una ghjuria chì hè in cumbricula cù e famose case d’edizione pariginie à colpi di rigali tremendi (cavalli di corsa, ghjuvelli…) è a greva di a fame di u Bobby Sands bastiacciu Jo Bonavita, pudemu puru esse fieri è cuntinuà à riceve i pattoni sciaccati da Valls è da u Cunsigliu Custituziunale. Ci vole à crede ch’ella ci piace.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

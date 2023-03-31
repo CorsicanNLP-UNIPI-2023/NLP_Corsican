@@ -1,0 +1,84 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bastia ùn cunnosce più i macciacci
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Bastia-un-cunnosce-piu-i-macciacci_a1294.html"/>
+     <date>
+      Tue, 13 Mar 2012 19:54:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bastia ùn cunnosce più i macciacci
+   </head>
+   <div type="excerpt">
+    <p>
+     Dapoi Hantz, u Sporting ùn perde più in i grandi mumenti. Face bizarru, ùn eramu micca abituati à cunnosce a vittoria...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Per a generazione di i menu di 40 anni, u Sporting hè a squadra chì perde sempre in e grandi occasioni, è tuttu ci purtava à pensà chì u scontru trà Lens è u Sporting saria una volta di più un macciacciu. 
+Prima chì Lens vulia a so rivincita nant'à l'andata in Furiani chì s'era mal passatu, à colpi di calci è di pugni. Gabriel Cichero hè statu suspesu ... per avè messu un calciu è rottu u mustacciu d'un dirigente bastiacciu. Jean-Louis Garcia l'intrenore di Lens parlava di rivìncita : "On ne peut pas oublier qu’un garçon comme Gabriel Cichero, que nous apprécions tous, a dû retourner dans son pays et résilier son contrat avec le Racing club de Lens parce qu’il a pris six mois de suspension suite aux incidents à Furiani.(...) C’est une rencontre que l’on a eu beaucoup de mal à digérer et qui a eu des conséquences très négatives sur les trois-quatre confrontations qui ont suivie. Ce sera dans un coin de notre tête et il y aura un sentiment de revanche." 
+I nurdisti vulianu a so vittoria cum'è mai è i sustenidori anu cantatu u so cantu à a gloria di Cichero, trà a so "Marseillaise lensoise " è Les Corons di Pierre Bachelet. 
+Dopu chì u stadiu Félix-Bollaert ùn riesce mai à i Corsi. U Sporting hè abituatu à e chjibe è l'ultima vittoria ricolla à 1978. 
+Infine chì à ogni volta chì u Sporting era in statu di francà un passu, à ogni macciu impurtante, i Bastiacci anu sempre fiascatu... Ma què, era nanzu à Hantz. 
+A seguita, a cunniscite. El-Azzouzi, Rothen, Maoulida, 3 rete è un stadiu sangue è oru silenziosu è mutu induv'elli si sentianu i 450 sustenidori turchini. Ma u megliu hè di sente i cummenti di Jean Pruneta  
+Allora, serà veramente finitu u tempu di i macciacci ?
+    </p>
+    <p>
+     J27 - RC Lens / SC Bastia - Frequenza Mora - L2... par SportingClubBastia
+    </p>
+    <p>
+     Un bellu paisaghju di u Nordu.
+    </p>
+    <p>
+     A lucalità di Loos-en-Gohelle, ma forse ci vole à prununzià Loose en Gaule. Un segnu ?
+    </p>
+    <p>
+     U famosu ottellu Carlton di Lille, locu apreziatu da DSK è u so amicu Dédé la Saumure
+    </p>
+    <p>
+     Sta sera era Felice Bollartu.
+    </p>
+    <p>
+     But à Bollaert !
+    </p>
+    <p>
+     Vittoria nant'à e terre di Roger Boli, Robbie Slater, Jean-Marc Adjovi-Boco, Eric Sikora...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

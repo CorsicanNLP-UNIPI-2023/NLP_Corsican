@@ -1,0 +1,510 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tiurema di Pitagora
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Tiurema%20di%20Pitagora"/>
+     <date>
+      2015-08-06T11:16:05Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tiurema di Pitagora
+   </head>
+   <p>
+    U tiurema di Pitagora (o Teurema di Pitagora) hè un tiurema di a giumitria euclidea chì stabilisci una rilazioni fundamintali trà i lati d'un triangulu rittangulu è com'è pò essa cunsidaratu dinò una virsioni limitata ad eddi di u Tiurema di Carnot.
+   </p>
+   <p>
+    == Urighjina ==
+   </p>
+   <p>
+    Ciò ch'è à l'ebbica muderna hè cunnisciutu com'è tiurema di Pitagora hè di solitu attribuitu di a filosofu è matematicu Pitagora. In rialità u so enunciatu (ma micca a so dimustrazioni) era ghjà cunnisciutu da i babilunesi, è era cunnisciutu ancu in China è sicuramenti in India com'eddi a dimostrani molti scritti frà i quali u Yuktibhasa. A dimustrazioni di u tiurema hè inveci incù ogni prubabilità ultiriori à Pitagora.
+   </p>
+   <p>
+    == Enunciatu ==
+   </p>
+   <p>
+    In ogni triangulu rittangulu u quatratu custruitu nantu à l'iputenusa hè sempri equivalenti à a somma di i quatrati custruiti annantu à i cateti.
+   </p>
+   <p>
+    oppuri:
+   </p>
+   <p>
+    In ogni triangulu rittangulu l' aria di u quatratu custruitu nantu à l'iputenusa hè sempri uguali à a somma di l' arii di i quatrati custruiti annantu à i cateti.
+   </p>
+   <p>
+    Datu un triangulu rittangulu di lati a, b è c, è imprudendu c par disignà a so iputenusa è a è b par i so cateti, u tiurema hè espressu da l'equazioni:
+   </p>
+   <p>
+    a^2 + b^2 = c^2\,
+   </p>
+   <p>
+    o, di manera altirnativa, risulvendu lu par c:
+   </p>
+   <p>
+    \sqrt{a^2 + b^2} = c.
+   </p>
+   <p>
+    Da induva si ricavani i cateti rispettivi :
+   </p>
+   <p>
+    \sqrt{c^2 - b^2} = a.
+   </p>
+   <p>
+    è
+   </p>
+   <p>
+    \sqrt{c^2 - a^2} = b.
+   </p>
+   <p>
+    S'è a terna {a,b,c} hè custituita da numari intieri tandu si chjama terna pitagorica.
+   </p>
+   <p>
+    Invirsamenti, ogni triangulu in u quali i trè lati virificheghjani sta prubità hè rittangulu: stu tiurema, incù a so dimustrazioni, apparisci in l'ultimu enunciatu di lElementi.
+   </p>
+   <p>
+    == Dimustrazioni ==
+   </p>
+   <p>
+    A dimustrazioni classica di u tiurema di Pitagora cumpletta u prima libru di l Elementi di Euclide, è ni custituisci u filu cunduttori. Essendu datu ch'eddu richiedi u postulatu di i paralleli, ùn vali micca in i giumitrii non-euclidei è in a giumitria neutrali. In u testu d'Euclide a dimustrazioni di u tiurema hè immediatamenti priciduta da a dimustrazioni di a custruibilità di i quatrati. L'esistenza stessa di i quatrati dipendi infatti da u postulatu di i paralleli è sparisci in i giumitrii non euclidei. St'aspettu di u prublemu hè in generali trascuratu in a didattica cuntimpuranea, chì tendi spessu à assuma com'è evidenti l'esistenza di i quatrati.
+   </p>
+   <p>
+    A dimustrazioni di u tiurema di Pitagora cunsisti in u fattu di riempia un stessu quatratu di latu uguali à a somma di i cateti prima incù quattru copii di u triangulu rittangulu più u quatratu custruitu nantu à l'iputenusa è dopu incù quattru copii di u triangulu rittangulu più i quatrati custruiti annantu à i cateti, com'è annantu à a figura.
+   </p>
+   <p>
+    Essendu u tiurema un di i più noti di a storia di a matematica, ni esistini multissimi dimustrazioni, in tutali parechji cintunara, opara di matematichi, astronumi, agenti di cambiu, par asempiu un prisidenti americanu James A. Garfield è Liunardu da Vinci. Par stu tiurema sò stati classificati da u scentificu americanu Elisha Scott Loomis 371 diffarenti dimustrazioni, chì sò stati publicati in u 1927 in u so libru The Pythagorean Proposition.
+   </p>
+   <p>
+    === Dimustrazioni di Abu'l-Wafa ===
+   </p>
+   <p>
+    A dimustrazioni attribuita à u matematicu è astronumu persianu Abu'l-Wafa versu a fini di u X seculu d.C. è riscuparta da l'agenti di cambiu Henry Perigal (truvata in u 1835-1840, publicata in 1872 è dopu in 1891) si basa nantu à a scumpusizioni di u quatratu custruitu nantu à u catetu maiò, in giaddu annantu à l'imaghjini: tagliendu lu infatti incù dui retti passanti par u so centru, una parpindiculari è una parallela à l'iputenusa, si pò ricumpona di manera à incurpurà l'altru quatratu, è furmendu u quatratu nantu à l'iputenusa, com'è in a figura. Stu prucidimentu hè liatu à u prublemu di a trisezioni di u quatratu.
+   </p>
+   <p>
+    === Dimustrazioni di Airy ===
+   </p>
+   <p>
+    Esisti ancu una dimustrazioni in forma puetica, di l'astronumu Sir George Airy, in inglesu:
+   </p>
+   <p>
+    "I am, as you can see, a2 + b2 − abWhen two triangles on me stand,Square of hypothenuse is plann'diBut if I stand on them insteadThe squares of both sides are read."
+   </p>
+   <p>
+    di a quali una traduzioni littarali hè
+   </p>
+   <p>
+    "Com'è pudeti veda, sò a2 + b2 − abQuandu ci sò dui trianguli sopra à mèhè rapprisintatu u quatratu di l'iputenusaMa s'è inveci stocu eiu sopra ad eddiSi leghjini i quatrati di i dui lati"
+   </p>
+   <p>
+    I versi si rifiriscini à a parti bianca: i primi dui trianguli sò quiddi rossi, i sicondi quiddi turchinu.
+   </p>
+   <p>
+    Tantu a dimustrazioni di Perigal ch'è quist'ultima sò intarissanti, chì sò sputicamenti giumetrichi, veni à dì ùn richiedini alcuna difinizioni d'uparazioni aritmetichi, ma solu cungruenzi d'arii è di sigmenti.
+   </p>
+   <p>
+    === Quatrati cuncentrichi di Pomi ===
+   </p>
+   <p>
+    Dimustrazioni giumetrica basata annantu à dui quatrati cuncentrichi, di lati rispittivamenti pari à l'iputenusa (c) è à a somma di i dui cateti (a+b).
+   </p>
+   <p>
+    Com'eddu si vedi annantu à a figura, tolti i 4 trianguli rittanguli (in giaddu d'aria (a*b)/2) à u quatratu più grandi, chì currispondi à l'aria (a+b)^2, s'otteni u quatratu più chjucu, rapprisintatu in biancu, chì equivali inveci à l'aria c^2.
+   </p>
+   <p>
+    Dunqua (a+b)^2 - 4*(a*b)/2 = c^2
+   </p>
+   <p>
+    d'induva risulvendu s'otteni : a^2+b^2=c^2
+   </p>
+   <p>
+    Sta dimustrazioni hà l'avantaghju d'avè una ripprisintazioni visuali simplicia è diretta, chì ùn richiedi micca u spustamentu è soprappusizioni di formi com'è l'altri dimustrazioni giumetrichi chì sò stati furmulati.
+   </p>
+   <p>
+    === Dimustrazioni di Garfield ===
+   </p>
+   <p>
+    Un'antra dimustrazioni giumetrica particularamenti significativa, chì in a so custruzzioni ùn cumparisci alcun' quatratu, fù truvata in u 1876 da Garfield, chì in seguitu divintò u vintesimu Prisidenti di i Stati Uniti d'America. Tandu in l'armata, Garfield cummintò u so risultatu: "Quissa hè calcosa annantu à a quali i dui rami di u parlamentu pudarani essa d'accordu".
+   </p>
+   <p>
+    A dimustrazioni hè a siguenti:
+   </p>
+   <p>
+    si cunsidareghja una copia di u triangulu rittangulu in quistioni, ghjirata di 90 gradi di manera à allinià i dui cateti diffarenti (in a figura accantu u rossu è u turchinu). Si uniscini dopu l'estremità di l'iputenusi, è s'otteni un trapeziu. Uguagliendu l'aria di u trapeziu à a somma di quiddi di i trè trianguli retti, si dimostra u tiurema.
+   </p>
+   <p>
+    In formuli, dittu a u catetu rossu, b u turchinu è c l'iputenusa, è ricurdendu a putenza di u binomiu
+   </p>
+   <p>
+    \frac {(a+b)^2} 2 = \frac  2 + \frac  2 + \frac {c^2} 2 \,\, \Rarr \,\, a^2 + b^2 = c^2
+   </p>
+   <p>
+    === Una apparenti dimustrazioni incù i numari cumplessi ===
+   </p>
+   <p>
+    Una (apparenti) dimustrazioni sputicamenti algebrica faci usu di i numari cumplessi è di a formula d'Euleru: siini a, b i cateti è c l'iputenusa. S'è i cateti sò alliniati annantu à l'assi, t'avemu
+   </p>
+   <p>
+    a+ib=ce^{i\theta}
+   </p>
+   <p>
+    Cunsidarendu tandu u cumplessu cunghjucatu di a+ib:
+   </p>
+   <p>
+    a-ib=ce^{-i\theta}
+   </p>
+   <p>
+    Multiplichendu trà eddi si otteni
+   </p>
+   <p>
+    a^2+b^2=c^2
+   </p>
+   <p>
+    In rialità si tratta sola d'una dimustrazioni apparenti, appostu ch'è u risultatu hè suppostu implicitamenti in l'usu di l'idantità e^{i\theta}e^{-i\theta} = 1 .
+   </p>
+   <p>
+    S'è infatti si sustituisci à l'espuninziali imaginariu a so difinizioni, l'idantità si rivela essa: (\cos\theta + i \sen\theta) (\cos\theta - i \sen\theta)= 1, veni à dì \cos^2\theta + \sen^2\theta = 1
+   </p>
+   <p>
+    è l'ultima idantità bedda cunnisciuta ùn hè altru ch'è una pussibuli furmulazioni di l'enunciatu di u tiurema di Pitagora.
+   </p>
+   <p>
+    (S'è inveci l'espuninziali imaginariu hè difinitu à traversu a somma di a so seria di Taylor, tandu u prublemu diventa quiddu di dimustrà a rilazioni a+ib=ce^{i\theta}, induva a, b è c sò i misuri di i cateti è l'iputenusa d'un triangulu rittangulu: prublemu chì a so suluzioni ùn hè micca più simplicia ch'è i dimustrazioni pricidenti di u tiurema di Pitagora).
+   </p>
+   <p>
+    === Incù i tiuremi di Euclide ===
+   </p>
+   <p>
+    Un'antra dimustrazioni improda u prima tiurema di Euclide. Si traccia l'altezza nantu à l'iputenusa, di lunghezza  h . Quidda spezza l'iputenusa in dui sigmenti, di lunghezza  p  è  q . U tiurema di Euclide furnisci i rilazioni
+   </p>
+   <p>
+    \frac ap = \frac ca, \ \frac bq = \frac cb,
+   </p>
+   <p>
+    da induva
+   </p>
+   <p>
+    a^2 = cp, \ b^2 = cq
+   </p>
+   <p>
+    è dunqua
+   </p>
+   <p>
+    a^2 + b^2 = c(p+q) = c^2.\,\!
+   </p>
+   <p>
+    === Incù i tiuremi di l'inchjerchju ===
+   </p>
+   <p>
+    Un'antra dimustrazioni pò essa ottinuta à traversu parechji tiuremi liati à a circumfarenza iscritta à un triangulu è par via di calchì simplicia passata algebrica.
+   </p>
+   <p>
+    Lemma 1: Tinendu contu di u tiurema di i tangenti si pò diducia da a figura pricidenti ch'è a distanza trà un vertici è u puntu di tangenza di un di i dui lati di u quali hè estremu incù l'inchjerchju hè uguali à a diffarenza trà u mezu perimetru è u latu oppostu a quiddu vertici. Infatti ogni latu hè cumpostu da dui di sti trè sigmenti, inoltri sti sigmenti sò uguali à dui à dui (quiddi aghjacenti, sempri par via di u tiurema di i tangenti) è a somma di tutti è sei hè uguali à u perimetru; par quissa a somma di tutti è trè sigmenti di lunghezza distinta hè uguali à u mezu perimetru è ognunu di quissi hè dunqua u mezu perimetru menu a somma di l'altri dui, è dunqua u latu oppostu à u vertici à u quali apparteni.
+   </p>
+   <p>
+    Lemma 2: In u casu particulari d'un triangulu rittangulu u raghju di a circumfarenza iscritta hè uguali à u sigmentu chì và da u vertici di l'angulu rettu à u puntu di tangenza incù l'inchjerchju. Quissa parchì, cunsidarendu u quadrilateru avendu com'è vertici u vertici di l'angulu rettu, i punti di tangenza annantu à i cateti è u incentru, si vidaria ch'eddu t'hà trè anguli retti(dunqua ancu u quartu) è veni à dì ch'eddu hè un rittangulu; ma ancu ch'eddu t'hà dui lati consecutivi cungruenti (un' antra volta par via di u tiurema di i tangenti), par quissa hè un rittangulu incù i diminsioni cungruenti, vali à dì un quatratu è dunqua par difinizioni ogni latu di soiu hè cungruenti à tutti l'altri. Quissa implicheghja u lemma chì ci vulia à dimustrà.
+   </p>
+   <p>
+    Lemma 3: Sii p u mezu perimetru, Ri u raghju di a circumfarenza inscritta è A l'aria di u triangulu in quistioni (micca nicissariamenti rittangulu, ma tali in a parti siguenti di a noscia dimustrazioni); s'hà a formula: A=Rip. Quissa si pò virificà cunsidarendu i trè trianguli avendu com'è altezza Ri è com'è basa è eddu rilativa un di i trè lati è custatendu ch'è A hè uguali à a somma di l'arii di quiddi trè trianguli; dunqua, chjamendu a, b è c i trè lati: A=Ria/2+Rib/2+Ric/2=Ri(a+b+c)/2=Rip.
+   </p>
+   <p>
+    Dimustrazioni algebrica: Siini a è b i cateti è c l'iputenusa di u nosciu triangulu rittangulu. Avemu dunqua:
+   </p>
+   <p>
+    ab/2=(p-c)p
+   </p>
+   <p>
+    ab/2=((a+b+c)/2)((a+b-c)/2) à stu puntu, usendu u pruduttu nutevuli "somma par diffarenza" si otteni:
+   </p>
+   <p>
+    ab/2=((a+b)^2-c^2)/4 avà, par via di "quatratu d'un binomiu" si otteni:
+   </p>
+   <p>
+    ab/2=(a^2+b^2+2ab-c^2)/4 simplifichendu i dinuminatori:
+   </p>
+   <p>
+    ab=(a^2+b^2+2ab-c^2)/2 prusegui:
+   </p>
+   <p>
+    ab=a^2/2+b^2/2+ab-c^2/2
+   </p>
+   <p>
+    0=a^2/2+b^2/2-c^2/2
+   </p>
+   <p>
+    c^2/2=a^2/2+b^2/2 è da quì, finalmenti:
+   </p>
+   <p>
+    c^2=a^2+b^2 chì currispondi par appuntu à l'enunciatu di u tiurema di pitagora.
+   </p>
+   <p>
+    == Inversu ==
+   </p>
+   <p>
+    Vali ancu l'inversu di u Tiurema di Pitagora (prupusizioni 48 di u prima libru di l' Elementi di Euclide):
+   </p>
+   <p>
+    "S'è in un triangulu di lati a, b è c vali a rilazioni a^2+b^2=c^2, tandu u triangulu hè rittangulu".
+   </p>
+   <p>
+    Dimustrazioni. Sii T un triangulu di lati a, b è c tali ch'è a^2+b^2=c^2. Si cunsidareghja un sicondu triangulu rittangulu T' chì t'hà i cateti pari à a è b (hè sempri pussibuli di custruiscia un triangulu rittangulu dati i dui cateti). Par via di u Tiurema di Pitagora (direttu) l'iputenusa di u triangulu T' sarà para a \sqrt{a^2 + b^2}, veni à dì sarà uguali à u latu c di u triangulu T. I dui trianguli T è T' sarani dunqua cungruenti par via di u terzu criteriu di cungruenza, avendu tutti è trè i lati uguali. Ma tandu ancu u triangulu T sarà rittangulu (CVD).
+   </p>
+   <p>
+    Un curullariu di u tiurema di Pitagora parmetti di ditarminà s'è un triangulu hè rittangulu, acutangulu o ottusangulu. Induva c currispondi à l'iputenusa, u latu più longu di i trè, è a + b &gt; c (altrimenti ùn avemu micca un triangulu), privalini i siguenti rilazioni:
+   </p>
+   <p>
+    s'è a^2+b^2=c^2, tandu u triangulu hè rittangulu
+   </p>
+   <p>
+    s'è a^2+b^2&gt;c^2, tandu u triangulu hè acutangulu
+   </p>
+   <p>
+    s'è a^2+b^2, tandu u triangulu hè ottusangulu
+   </p>
+   <p>
+    === Applicazioni pratichi di l'enunciatu inversu ===
+   </p>
+   <p>
+    L'enunciatu inversu furnisci ancu un sistemu moltu simpliciu par custruiscia un angulu rettu (o par cuntrullà a quadratura d'un angulu ghjà esistenti) in situazioni pratichi, com'è a tupugrafia o u agrimensura.
+   </p>
+   <p>
+    À titulu d'asempiu, incù una funi di lunghezza para à a somma d'una terna pitagorica dimu 12, somma di 5, 4 è 3, in una calchì unità di misura) saria sufficenti di dispona i dui purzioni minori di a corda (quiddi di misura 4 è 3) à un certu angulu frà eddi; s'è l'estremità di a funi, disposta infini in forma triangulari, si chjudini, si saparà ch'è l'angulu cumpresu frà i dui purzioni minori di a corda (à stu puntu i dui cateti) hè cirtamenti rettu.
+   </p>
+   <p>
+    == Generalisazioni ==
+   </p>
+   <p>
+    U tiurema di Pitagora pò essa generalizatu in parechji modi. Di solitu, una generalisazioni hè una rilazioni chì s'appiega à tutti i trianguli, è chì appiigata à i trianguli rittanguli, hè equivalenti à u tiurema di Pitagora.
+   </p>
+   <p>
+    === Tiurema di u cusinu ===
+   </p>
+   <p>
+    A più generalisazioni impurtanti di u tiurema di Pitagora hè forsi u tiurema di u cusinu, chì s'appiega à qualsiasi triangulu  (micca nicissariamenti rettu). In un triangulu incù vertici è anguli indicati com'è in a figura, privali l'ugualità:
+   </p>
+   <p>
+    \overline{AB}^2=\overline{AC}^2+\overline{BC}^2-2\overline{AC}\cdot\overline{BC}\cos\gamma.
+   </p>
+   <p>
+    In u casu in u quali \gamma sii rettu, vali \cos\gamma = 0  è dunqua l'enunciatu hè equivalenti à u tiurema di Pitagora. U terminu aghjuntivu pò essa intarpritatu com'è u pruduttu scalariu di i vettori CA è CB.
+   </p>
+   <p>
+    === Tiurema di i sini ===
+   </p>
+   <p>
+    U tiurema di i seni metti in rilazioni i lunghezzi di i lati d'un triangulu è i sini di l'anguli opposti. Sta rilazioni s'appiega ancu à qualsiasi triangulu è, in u casu in u quali quiddu saria rittangulu, pò essa cunsidarata equivalenti à u tiurema di Pitagora (bench'è di manera menu diretta ch'è rispettu à u tiurema di u cusinu).
+   </p>
+   <p>
+    U tiurema di i sini accerta ch'è in un triangulu qualunqua, incù i nutazioni com'è nantu à a figura, privalini i siguenti rilazioni:
+   </p>
+   <p>
+    \frac a{\sin\alpha}=\frac b{\sin\beta}=\frac c{\sin\gamma}=2R.
+   </p>
+   <p>
+    Elevendu à u quatratu:
+   </p>
+   <p>
+    c^2= a^2\frac {\sin^2\gamma}{\sin^2\alpha}, \quad b^2= a^2 \frac{\sin^2\beta}{\sin^2\alpha}.
+   </p>
+   <p>
+    Summendu i tarmini s'otteni:
+   </p>
+   <p>
+    c^2 + b^2 =a^2\frac {\sin^2\gamma + \sin^2\beta}{\sin^2\alpha}.
+   </p>
+   <p>
+    Quandu \alpha hè un angulu rettu, s'otteni \beta = \pi/2-\gamma  è dunqua
+   </p>
+   <p>
+    \frac {\sin^2\gamma + \sin^2\beta}{\sin^2\alpha} = \sin^2(\pi/2-\beta) + \sin^2\beta = \cos^2\beta + \sin^2\beta = 1.
+   </p>
+   <p>
+    Si otteni dunqua in stu casu u tiurema di Pitagora
+   </p>
+   <p>
+    c^2 + b^2 = a^2.
+   </p>
+   <p>
+    === Generalisazioni chì ùn faci micca usu di a trigunumitria ===
+   </p>
+   <p>
+    Hè pussibuli di stenda u tiurema di Pitagora à qualsiasi triangulu senza fà usu di funzioni trigunumetrichi com'è u sinu è u cusinu.
+   </p>
+   <p>
+    Datu un triangulu  ABC  com'è nantu à a figura, si tracciani dui sigmenti chì cullegani u vertici A incù dui punti  g è h cuntinuti in u sigmentu oppostu BC (oppuri in un so prulungamentu), di tali manera ch'è l'anguli AgB è AhC siini tremindù uguali à l'angulu \alpha di u vertici A. A figura mostra un casu in u quali l'angulu \alpha hè ottusu: s'eddu hè acutu, i dui punti g è h sò in ordini inversu (u prima a dritta è u sicondu a manca) è poni escia da u sigmentu BC.
+   </p>
+   <p>
+    Privali a siguenti rilazioni:
+   </p>
+   <p>
+    \overline {AB}^2 + \overline{AC}^2 = \overline {BC}\cdot (\overline{Bg} + \overline{hC}).
+   </p>
+   <p>
+    Quandu \alpha hè un angulu rettu, i punti g è h cuincidini è s'otteni u tiurema di Pitagora
+   </p>
+   <p>
+    \overline {AB}^2 + \overline{AC}^2 = \overline {BC}\cdot (\overline{Bg} + \overline{hC}) = \overline{BC}^2.
+   </p>
+   <p>
+    A rilazioni generali pò essa dimustrata sfruttendu a similitudina frà i trianguli ABC, gBA è hAC, chì/ch'è porta à i rilazioni
+   </p>
+   <p>
+    \frac{\overline{AB}}{\overline{BC}}=\frac{\overline{Bg}}{\overline{AB}},\quad \frac{\overline{AC}}{\overline{BC}}=\frac{\overline{hC}}{\overline{AC}}.
+   </p>
+   <p>
+    Si otteni cusì
+   </p>
+   <p>
+    \overline{AB}^2 = \overline{BC}\cdot \overline{Bg}, \quad \overline{AC}^2 = \overline{BC}\cdot \overline{hC}.
+   </p>
+   <p>
+    Summendu i dui uguaglianzi s'otteni a rilazioni iniziali.
+   </p>
+   <p>
+    == Lighjenda di Pitagora è di i chjappeddi ==
+   </p>
+   <p>
+    Una lighjenda conta ch'è Pitagora avaria furmulatu u so tiurema mentri stava aspittendu un'udienza da Policrate. Pusendu in un grandi salonu di u palazzu di Samo, Pitagora si missi à ussirvà i chjappeddi quatrati di u pavimentu, si pensa ch'è n'avaria vistu una rangata tuttu à fattu sopra à una diagunali, furmendu dui trianguli rittanguli uguali, ma in più d'essa dui trianguli rittanguli erani dinò isusceli, avendu i dui lati uguali. Pitagora imaginò un quatratu custruitu nantu à a diagunali di ruttura di a chjappedda, un quatratu avendu com'è lati i diagunali di i chjappeddi circustanti.
+   </p>
+   <p>
+    A dimustrazioni hè a siguenti:
+   </p>
+   <p>
+    l'aria d'ognuna di i chjappeddi aghjacenti à i cateti era di: 2 mezi chjappeddi (=1 chjappedda);
+   </p>
+   <p>
+    a somma di i dui arii era dunqua di: 4 mezi chjappeddi (=2 chjappeddi);
+   </p>
+   <p>
+    l'aria di u quatratu custruitu nantu à l'iputenusa (diagunali di a chjappedda) era di: 4 mezi chjappeddi.
+   </p>
+   <p>
+    == Altri figuri ==
+   </p>
+   <p>
+    U Tiurema di Pitagora cuntinueghja à valè quandu annantu à ogni latu d'un triangulu rittangulu si custruiscini figuri rigulari diffarenti da u quatratu, com'è u triangulu equilateru, u pentagunu rigulari è l'esagunu rigulari aldilà di u mezu chjerchju.
+   </p>
+   <p>
+    == Noti ==
+   </p>
+   <p>
+    == Bibliugrafia ==
+   </p>
+   <p>
+    Carl B. Boyer, Storia di a matematica, Mondadori, Milanu, 1990. ISBN 978-88-04-33431-6
+   </p>
+   <p>
+    Gino Loria, I scenzi asatti in l'antica Grecia, 2^ è, Milanu 1914
+   </p>
+   <p>
+    == Da veda dinò ==
+   </p>
+   <p>
+    Giumitria
+   </p>
+   <p>
+    Aritmugiumitria
+   </p>
+   <p>
+    Numaru
+   </p>
+   <p>
+    Radica quatrata
+   </p>
+   <p>
+    Trigunumitria
+   </p>
+   <p>
+    Iputenusa
+   </p>
+   <p>
+    Tiurema di u cusinu
+   </p>
+   <p>
+    Idantità di Parseval
+   </p>
+   <p>
+    Toru (giumitria)
+   </p>
+   <p>
+    Giumitria piana
+   </p>
+   <p>
+    Angulu rettu
+   </p>
+   <p>
+    Catetu
+   </p>
+   <p>
+    Mezaretta
+   </p>
+   <p>
+    Perimetru
+   </p>
+   <p>
+    Sigmentu
+   </p>
+   <p>
+    Triangulu isusceli
+   </p>
+   <p>
+    Triangulu equilateru
+   </p>
+   <p>
+    Tangenti
+   </p>
+   <p>
+    Triangulu
+   </p>
+   <p>
+    Uttaedru
+   </p>
+   <p>
+    == Liami esterni ==
+   </p>
+   <p>
+    54 dimustrazioni di u tiurema di Pitagora
+   </p>
+   <p>
+    parechji animazioni grafichi di diffarenti dimustrazioni di u tiurema di Pitagora
+   </p>
+   <p>
+    Animazioni di a dimustrazioni di Euclide
+   </p>
+   <p>
+    Giumitria di u triangulu
+   </p>
+   <p>
+    Giumitria euclidea
+   </p>
+   <p>
+    Pitagora
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia in talianu.
+   </p>
+  </body>
+ </text>
+</TEI>

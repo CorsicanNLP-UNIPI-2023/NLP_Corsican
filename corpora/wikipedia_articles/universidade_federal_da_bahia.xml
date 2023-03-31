@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Universidade Federal da Bahia
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Universidade%20Federal%20da%20Bahia"/>
+     <date>
+      2014-03-23T15:09:01Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Universidade Federal da Bahia
+   </head>
+   <p>
+    L'Universidade Federal da Bahia hè un' università brasiliana, situata in a cità di Salvador. Ci sò à l'incirca 27.549 stughjanti.
+   </p>
+   <p>
+    Fù fundata u 8 aprile di u 1946.
+   </p>
+   <p>
+    Università
+   </p>
+  </body>
+ </text>
+</TEI>

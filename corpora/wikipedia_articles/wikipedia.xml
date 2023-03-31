@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Wikipedia
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Wikipedia"/>
+     <date>
+      2019-07-17T11:30:18Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Wikipedia
+   </head>
+   <p>
+    A Wikipedia hè un'enciclupedìa lìbera nantu à Internet fundata da Jimmy Jimbo Wales, in u 2001.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    wiki
+   </p>
+   <p>
+    enciclupedìa
+   </p>
+   <p>
+    == Ligame ==
+   </p>
+   <p>
+    Leghje st'artìculu in a Wikipedia sassaresa
+   </p>
+   <p>
+    !
+   </p>
+   <p>
+    Informatica
+   </p>
+   <p>
+    Littiratura
+   </p>
+  </body>
+ </text>
+</TEI>

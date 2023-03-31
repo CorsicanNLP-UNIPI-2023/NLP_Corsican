@@ -1,0 +1,78 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Eri curria un fiume quindi...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Eri-curria-un-fiume-quindi_a2487.html"/>
+     <date>
+      Fri, 25 Nov 2016 12:01:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Eri curria un fiume quindi...
+   </head>
+   <div type="excerpt">
+    <p>
+     Ancu di grazia, u tempurale chì hà toccu a regione bastiaccia eri ùn hà fattu nisuna vittima. Ma sì e fiure di i ghjargali chì falavanu à rivoccu anu impressiunatu, ùn ci vole à scurdassi chì un ghjornu o l'altru, a natura ripiglia a suprana nant'à l'omu. À mezu à a piaghja tutta urbanizata, correnu sempre i fiumi.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Avete tutti vistu i filmetti amatori di u tempurale, da veru impressiunanti :
+    </p>
+    <p>
+     Un centre commercial inondé évacué en urgence à Furiani (Haute-Corse)https://t.co/HKEm0ZVsyN pic.twitter.com/Mkh9NPtJAS
+— franceinfo plus (@franceinfoplus) 25 novembre 2016
+    </p>
+    <p>
+     È si pò felicità i succorsi ch'ellu ùn sia accadutu nunda di veramente grave. Oghje si contanu solu disguasti materiali. 
+Ma ci vulerà à stunacci, una volta di più ? 
+Aviamu parlatu annu di a memoria di i lochi chì si perde, è di u fattu chì spessu a tupunimia c'insegna i lochi d'acqua induve saria statu megliu d'ùn custruisce micca. 
+Da leghje : Forse, ùn ci vulia micca à custruisce custì 
+Sò (per esempiu) i nomi cumposti à partesi da : canna, padula, isula, fanga, pozzu, fiume, lotu eccetera.
+    </p>
+    <p>
+     Ci vuleria à studià in detagliu a tupunimia di a piaghja di u circondu bastiacciu. À mezu à ste zone forse appena troppu custruite à certi lochi c'eranu in i tempi fiumi chì currianu. 
+Un'ochjata à l'anticu catastru ch'ellu si pò cunsultà in linea nant'à u situ di u CD2B ci dice chì à cantu à zona cummerciale tocca da a fiumara, c'era un fiume chjamatu San Pancraziu :
+    </p>
+    <p>
+     Oghje, hè u fiume chì hè annigatu à mezu à u cimentu (fiura Geoportail)
+    </p>
+    <p>
+     Nunda d'anormale ch'ellu ripigli un ghjornu a suprana...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

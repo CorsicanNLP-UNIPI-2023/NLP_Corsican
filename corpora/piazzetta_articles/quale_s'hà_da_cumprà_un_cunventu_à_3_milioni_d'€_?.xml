@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quale s'hà da cumprà un cunventu à 3 milioni d'€ ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quale-s-ha-da-cumpra-un-cunventu-a-3-milioni-d_a1252.html"/>
+     <date>
+      Mon, 23 Jan 2012 23:16:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quale s'hà da cumprà un cunventu à 3 milioni d'€ ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Cunventu di u XVesimu à vende. Munumentu classatu. Vicinu di u mare. Ideale pè residenza segundaria. Prezzu : 3.300.000 €.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In a seria "vendi a to terra è diventa riccu", eccu u cunventu di Siscu. L'annunziu si trova nant'à un situ internet. 
+L'annunziu hè chjaru : 
+" Cap Corse Couvent du XVème siècle Face à la mer Exclusivité ! Propriété d'exception dominant la mer, face à l'archipel TOSCAN sur près de 25 hectares *, comprenant plusieurs corps de bâtiments, dont : - Une tour du XIVème siècle inscrite aux monuments historiques, ayant abrité autrefois les moines du 'Saint nom de Marie' - Un couvent du XVIème siècle construit par les servites de Marie - Une chapelle privée - 4 appartements très bien rénovés diverses annexes, pour une superficie habitable d'environ 615 m². Possibilité héliport Bastia à 15 minutes, Aéroport à 35 kilomètres. " 
+Bisognu d'aghjustà qualcosa ? Una cosa hè certa : ùn serà micca un Corsu chì cumprerà. Ma kinahafà ? 
+A Corsica, u paese induve tuttu si vende, ancu i munumenti stòrichi. È induve tuttu u mondu si ne infutte.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

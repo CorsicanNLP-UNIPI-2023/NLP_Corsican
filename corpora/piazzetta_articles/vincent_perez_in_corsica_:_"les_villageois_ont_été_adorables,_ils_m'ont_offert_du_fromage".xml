@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vincent Perez in Corsica : "Les villageois ont été adorables, ils m'ont offert du fromage"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Vincent-Perez-in-Corsica-Les-villageois-ont-ete-adorables-ils-m-ont-offert-du-fromage_a1944.html"/>
+     <date>
+      Sat, 13 Sep 2014 15:13:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Vincent Perez in Corsica : "Les villageois ont été adorables, ils m'ont offert du fromage"
+   </head>
+   <div type="excerpt">
+    <p>
+     L'attore Vincent Perez era in Corsica per girà un telefilmu chì passerà nant'à France 3. In un intervista, parla di i "villageois" chì l'anu accoltu in Carghjese.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'intervista si trova nant'à u situ di Télé 7 jours, è hè appena surrealista : 
+Télé 7 Jours : Comment la population vous a- t-elle accueilli ?  Vincent Perez : Les villageois ont été adorables. Certains m’offraient des cadeaux dans la rue, du fromage, de la coppa... Leur générosité m’a bouleversé. Je suis rentré de Corse transformé. 
+Trasfurmatu in chè, ùn si sà micca. Forse in lonzu. 
+Carghjisani, chì vi serà pigliatu ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

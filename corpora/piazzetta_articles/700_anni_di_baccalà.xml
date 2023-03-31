@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     700 anni di baccalà
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/700-anni-di-baccala_a985.html"/>
+     <date>
+      Sun, 26 Dec 2010 02:58:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    700 anni di baccalà
+   </head>
+   <div type="content">
+    <p>
+     Tchernobyl, stadiu di Furiani, AMG 800, cunquista di a Corsica, bombe attòmiche in l'Argentella, centrale à u fiul di u terzu mondu... 
+A spressione "baccalà per Corsica" hà 700 anni. Eccu u best of di e più belle baccalate
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

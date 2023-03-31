@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Un tè cù Adolf Hitler
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-te-cu-Adolf-Hitler_a1579.html"/>
+     <date>
+      Sun, 02 Jun 2013 13:40:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Un tè cù Adolf Hitler
+   </head>
+   <div type="excerpt">
+    <p>
+     Una teiera in forma d'Adolf Hitler hà fattu nasce a pulemica à i Stati Uniti. U peghju, hè ch'ella ci hè veramente una sumiglia...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ma cumu si pò fà una teiera in forma d'Adolf Hitler ? A marca americana JC Penney hà riesciutu sta prova. 
+À principiu hè una semplice bullitoghja per scaldà l'acqua calda. Ma quandu a publicità pè a teiera s'affissa in carrughju, hè a panicca. 
+A nutizia si sparghje nant'à a e rete suciale. À chì hè stumagatu, à chì si ne ride. 
+Illusione d'ottica ? Azardu ? Designers neo-nazis ? Magagnoni ? Colpu publicitariu ? Puntu Godwin di l'annu ? In tutti i casi a teiera ùn si trova più. L'anu tutte vindute...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

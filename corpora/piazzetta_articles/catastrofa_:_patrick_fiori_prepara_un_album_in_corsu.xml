@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Catastrofa : Patrick Fiori prepara un album in corsu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Catastrofa-Patrick-Fiori-prepara-un-album-in-corsu_a1994.html"/>
+     <date>
+      Wed, 15 Oct 2014 17:56:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Catastrofa : Patrick Fiori prepara un album in corsu
+   </head>
+   <div type="excerpt">
+    <p>
+     Seremu casticati sin'à l'ultimu. U canterinu era interrugatu da u situ 20minutes è hà dettu chì : «J’ai un projet qui avance concernant l’île de Beauté».
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Patrick Fiori era interrugatu da l'internauti per un "chat" nant'à 20minutes.fr. 
+À a dumanda "Nolwenn Leroy a publié un album sur la Bretagne. Cela te tenterait d'en faire un sur la Corse ?" (a canterina hà esciutu un discu di canzone tradiziunale brittone, in francese è i brittone), u simpàticu Pat hà rispostu : 
+"J’ai un projet qui avance concernant l’île de beauté. Elle a tellement raison Nolwenn Leroy". 
+Bon, digià impiegà a spressione "île de Beauté" per parlà di a Corsica ci vole à piantà o Patrick. 
+Ma stu prugettu, chì serà ? 
+Una cumpilazione di successi corsi ? Chì serà a scelta di Pat ? "Tout va piano à Piana" è "Les fiancés de Sartène" ? Forse "Simu sbanditi", "L'Armata di l'Ombra" è "A Palatina" ? O i più grandi successi d'Hubert Tempête" ? 
+Aspettemu a seguita cun impazienza.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

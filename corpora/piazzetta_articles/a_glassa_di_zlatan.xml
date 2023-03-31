@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A glassa di Zlatan
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-glassa-di-Zlatan_a2194.html"/>
+     <date>
+      Wed, 15 Apr 2015 11:16:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A glassa di Zlatan
+   </head>
+   <div type="excerpt">
+    <p>
+     Ibrahimovic hè un grande ghjucadore (1 metru è 95). Ma cù i gistacci ch'ellu hà fattu l'ercerfalu durante a finale, addirizzati à u publicu bastiacciu è à Yannick Cahuzac ci hè da dumandassi s'ellu hè un grande campione.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     À chè si ricunnosce un grande campione ? À e so perfurmanze spurtive di siguru, ma dinù à a so attitutine. Zlatan Ibrahimovic hà fattu trimà e rete contr'à Bastia, ùn ci hè nunda à dì. Era più forte. 
+Ùn l'hà rillevata nimu, ma dop'à avè marcatu, invece di festighjà u so but, si gira versu a parte induv'elli c'era i sustenidori corsi è face un gestu di a manu per dì "è avà chjuditela". 
+L'aviate rimarcata ? Quelli eranu da u so cantu l'anu vista bè.
+    </p>
+    <p>
+     Ritenimu u pusitivu : serà chì Zlatan hà intesu u rimore fattu da i turchini, è ch'ellu hà biscatu. 
+Segondu tempu : u PSG hà assiguratu a so vittoria. Và bè a sapemu, Parigi è Bastia ùn sò micca in a listessa categuria. À ondeci contr'à ondeci, era digià difficiule. À dece contr'à ondeci è cun Squillaci in menu in difesa, era impussibule. 
+Zlatan si ne impippa, è ne prufitta per mandà "basgiucci" à Cahu. Quessa, ùn l'anu vista ch'è quelli chì eranu davanti a so tv.
+    </p>
+    <p>
+     "Shit country" avia dettu quellu. In fine di contu, Zlatan hè un bellu sìmbulu di stu paese.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

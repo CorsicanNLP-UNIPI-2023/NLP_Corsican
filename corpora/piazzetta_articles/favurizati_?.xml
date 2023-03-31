@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Favurizati ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Favurizati_a1405.html"/>
+     <date>
+      Sun, 26 Aug 2012 10:13:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Favurizati ?
+   </head>
+   <div type="excerpt">
+    <p>
+     D'appressu à Jean-Marc Furlan, l'intrenore di Troyes, i clubs corsi sarianu favurizati da l'arbitri.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Dopu à a chjiba contr'à Lyon (disfatta 4 à 1), Jean-Marc Furlan a si caccia cun l'arbitri di L1. Hè vera chì a Francia hè siguramente u peghju paese di l'arbitragiu. 
+Accade dunque spessu ch'elle ci sianu pulèmiche nant'à e decisioni di l'omi in neru. 
+Ma cacciassila cù i clubs corsi, hè più rara. Sopr'à tuttu chì Furlan hà ghjucatu in Bastia in l'anni 80. Da leghje nant'à Le 10 Sport . L'hà detta cun grande classa : 
+« C'est la réalité. Si tu es parmi les plus petits budgets et si tu n'es pas un club insulaire, t'es de la baise face aux institutions, et je choisis mes mots. ». 
+Ch'ellu ùn s'inchieti ! A so chjama hè stata intesa. 
+Pè l'ultima ghjurnata di L1 è di L2, i trè clubs corsi prufessiunali anu avutu un espulsu (sempre severu) : Ilan in Bastia (disfatta 3-2), Pierazzi à l'ACA (disfatta 3-0) è Bocognano à u GFCA (partita para 1-1). 
+Ti và cusì o Jean-Marc ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

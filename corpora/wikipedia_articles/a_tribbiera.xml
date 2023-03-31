@@ -1,0 +1,81 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Tribbiera
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/A%20Tribbiera"/>
+     <date>
+      2019-10-03T11:22:29Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A Tribbiera
+   </head>
+   <p>
+    A Tribbiera hè un cantu tradiziunale di Corsica.
+   </p>
+   <p>
+    ==A Tribbiera==
+   </p>
+   <p>
+    O tribbiate, li bon boii
+   </p>
+   <p>
+    È tribbiemu voi è noi
+   </p>
+   <p>
+    Chì lu granu tocca à noi
+   </p>
+   <p>
+    Ma la paglia tocca à voi.
+   </p>
+   <p>
+    Volta è gira è voga tondu
+   </p>
+   <p>
+    Chì lu tribbiu pigli fondu
+   </p>
+   <p>
+    Pigli fondu è pigli cima
+   </p>
+   <p>
+    Volta è gira cum'è prima.
+   </p>
+   <p>
+    O caspura, o caspura
+   </p>
+   <p>
+    Chì la paglia torni pula
+   </p>
+   <p>
+    Torni pula è torni granelle
+   </p>
+   <p>
+    Ne feremu pane è bastelle.
+   </p>
+   <p>
+    cantu tradiziunale di Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

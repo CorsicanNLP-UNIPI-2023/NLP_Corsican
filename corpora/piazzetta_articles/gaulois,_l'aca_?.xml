@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Gaulois, l'ACA ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Gaulois-l-ACA_a1465.html"/>
+     <date>
+      Sat, 08 Dec 2012 10:54:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Gaulois, l'ACA ?
+   </head>
+   <div type="content">
+    <p>
+     À rombu di sentesi trattati di "gaulois" da i sustenidori di u Sporting, l'ACA hà tenutu oghje nant'à u situ officiale è u so contu twitter à marcà u colpu pè a Festa di a Nazione. 
+Sò i ghjucadori Anthony Lippini è Damien Tiberi chì anu pigliatu a posa cù a testa di moru. 
+Jean-Baptiste Pierazzi hà messu ellu un messagiu nant'à u so contu Twitter (induv'ellu scrive a maiò parte di u tempu in lingua corsa). 
+Eccu chì ferà torna piacè à Frédéric Thiriez è à Pierre Ménès...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

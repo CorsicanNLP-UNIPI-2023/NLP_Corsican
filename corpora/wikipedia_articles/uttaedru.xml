@@ -1,0 +1,186 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Uttaedru
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Uttaedru"/>
+     <date>
+      2015-07-09T08:25:24Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Uttaedru
+   </head>
+   <p>
+    In giumitria solida, l' uttaedru hè un puliedru incù ottu facci triangulari. L'uttaedru rigulari hè un di i cinqui solidi platonichi, chì i so facci sò trianguli equilateri. Hà sei vertici è dodici spiculi.
+   </p>
+   <p>
+    == Aria è vulumu ==
+   </p>
+   <p>
+    L'aria  A  di superficia è u vulumu V di l'uttaedru rigulari di u quali spiculu hà una lunghezza a sò dati da:
+   </p>
+   <p>
+    A=2\sqrt{3}a^2 \approx 3.46410162a^2
+   </p>
+   <p>
+    V=\frac{1}{3} \sqrt{2}a^3 \approx 0.471404521a^3
+   </p>
+   <p>
+    U vulumu hè 4 volti quiddu d'un tetraedru rigulari incù spiculi di lunghezza a, mentri
+   </p>
+   <p>
+    l'aria di superficia hè u doppiu (apposta ch'edda hè furmata da 8 trianguli equilateri, quandu u tetraedru inveci n'hà 4)
+   </p>
+   <p>
+    L'angulu diedrali di l'uttaedru rigulari hè arc cos(-1/3), apprussimativamenti uguali à 109.47122°.
+   </p>
+   <p>
+    == Cuurdinati cartisiani ==
+   </p>
+   <p>
+    Un uttaedru rigulari in u spaziu euclidea \R^3 pò essa traslatu di manera à avè u centru in l'urighjina, è dopu à oppurtuni rutazioni è similitudina hà i 6 vertici in
+   </p>
+   <p>
+    (\pm 1,0,0),
+   </p>
+   <p>
+    (0,\pm 1, 0),
+   </p>
+   <p>
+    (0, 0, \pm 1).
+   </p>
+   <p>
+    ==A custruzzioni di Euclide==
+   </p>
+   <p>
+    In u libru XIII di i so Elementi, Euclide discrivi u metudu par iscriva un uttaedru rigulari in una sfera di diamitru datu. A custruzzioni discritta da Euclide hè a siguenti:
+   </p>
+   <p>
+    Sii AB (vedi Fig. 1) u diamitru di a sfera data; si trovi u so puntu mediu D è si tracci un mezuchjerchju di centru D è raghju DA. Si alza a parpindiculari da D, ditarminendu u puntu C nantu à a circumfarenza è infini si cunghjunghjini i punti AC è CB.
+   </p>
+   <p>
+    Si riplicheghji listessa custruzzioni annantu à i trè piani passendu par AB incù un angulu diedru di 90°, 180° è 270° rispettu à u pianu iniziali (Fig. 2). Si tracciani infini i cunghjunghjenti frà i punti CE, EF, FG è GC.
+   </p>
+   <p>
+    Hè chjaru ch'è i vertici A, C, E, F è G si trovani annantu à i mezicircumfarenzi custruiti nantu à u diamitru AB, è dunqua si trovani tutti nantu à a superficia di a sfera di listessu diamitru. Par custruzzioni i spiculi chì partini da i vertici A è B sò uguali trà eddi; ma ancu i spiculi CE, EF, FG è GC ani listessa lunghezza: infatti tutti i spiculi di l'uttaedru sò dinò l'iputenusa d'un triangulu rittangulu di u quali i cateti sò raghji di a sfera.
+   </p>
+   <p>
+    Par ciò chì riguarda u rapportu frà diamitru di a sfera spiculu di l'uttaedru iscrittu, par via di u tiurema di
+   </p>
+   <p>
+    Pitagora u quatratu custruitu nantu à u spiculu hè doppiu di u quatratu custruitu nantu à u raghju di a sfera; par via di cunsiquenza u quatratu custruitu nantu à u diamitru hè doppiu di u quatratu custruitu nantu à u spiculu.
+   </p>
+   <p>
+    == Puliedru duali ==
+   </p>
+   <p>
+    U puliedru duali di l'uttaedru rigulari hè u cubu.
+   </p>
+   <p>
+    == Simmitrii ==
+   </p>
+   <p>
+    L'uttaedru hà 24 simmitrii rutaziunali, veni à dì chì priservani l'uriintazioni di u spaziu, più altri 24 simmitrii chìùn a priservani micca. U gruppu di simmitria di l'uttaedru conta dunqua un tutali di 48 elementi.
+   </p>
+   <p>
+    U sottugruppu datu da i 24 rutazioni hè isumorfu à u gruppu S_4 di i parmutazioni di 4 elementi. Ci hè infatti asattamenti una rutazioni chì rializeghja ogni pussibuli parmutazioni di i 4 coppii di facci opposti.
+   </p>
+   <p>
+    U gruppu tutali di simmitria hè isumorfu à u pruduttu S_4\times\mathbb Z/_{2\mathbb Z} di S_4 incù un gruppu ciclicu incù 2 elementi.
+   </p>
+   <p>
+    == Impavimenti ==
+   </p>
+   <p>
+    L'uttaedru rigulari ùn inghjinireghja micca da solu un impavimentu di u spaziu, parchì i so anguli diedrali ùn sò micca divisori di 360°. Ni inghjinireghja una parò in cumbinazioni incù u tetraedru, com'è mustratu annantu à a figura.
+   </p>
+   <p>
+    == Da veda dinò ==
+   </p>
+   <p>
+    Solidu platonicu
+   </p>
+   <p>
+    Uttaedru truncatu
+   </p>
+   <p>
+    Uttaedru iperbolicu
+   </p>
+   <p>
+    Toru (giumitria)
+   </p>
+   <p>
+    Giumitria piana
+   </p>
+   <p>
+    Angulu rettu
+   </p>
+   <p>
+    Catetu
+   </p>
+   <p>
+    Mezaretta
+   </p>
+   <p>
+    Perimetru
+   </p>
+   <p>
+    Sigmentu
+   </p>
+   <p>
+    Triangulu isusceli
+   </p>
+   <p>
+    Triangulu equilateru
+   </p>
+   <p>
+    Tiurema di Pitagora
+   </p>
+   <p>
+    Iputenusa
+   </p>
+   <p>
+    Tangenti
+   </p>
+   <p>
+    Trigunumitria
+   </p>
+   <p>
+    Triangulu
+   </p>
+   <p>
+    Solidi platonichi
+   </p>
+   <p>
+    == Noti ==
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia in talianu.
+   </p>
+  </body>
+ </text>
+</TEI>

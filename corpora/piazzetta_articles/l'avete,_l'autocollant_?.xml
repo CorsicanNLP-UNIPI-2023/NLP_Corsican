@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     L'avete, l'autocollant ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/L-avete-l-autocollant_a1554.html"/>
+     <date>
+      Wed, 01 May 2013 13:19:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    L'avete, l'autocollant ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Si dice chì menu si cunnosce a so identità, più si mettenu appiccicatoghji nant'à a vittura.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ritrattu pigliatu in Basita. Ùn manca più chè l'appiccicatoghju di u ribellu è u "fier d'être corse". 
+O sinnò, pudete cumprà l'appiccicatoghju "Sò Corsu aghju l'autocollant" per aiutacci !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

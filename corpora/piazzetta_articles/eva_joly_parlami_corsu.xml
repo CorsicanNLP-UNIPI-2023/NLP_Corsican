@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Eva Joly parlami corsu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Eva-Joly-parlami-corsu_a1287.html"/>
+     <date>
+      Mon, 05 Mar 2012 23:05:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       PRESIDENZIALI-2012
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Eva Joly parlami corsu
+   </head>
+   <div type="excerpt">
+    <p>
+     À chì s'assumiglia u corsu parlatu cun l'accentu nurvegianu ? Dopu à u one man show agressivu republico-giacobino-CFR di Mélenchon, hè Eva Joly chì hè venuta in Corsica.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U stile è u discorsu cambianu : "laisser mourir une langue régionale, c'est criminel" hà dettu l'ecologista. Nanzu avia dettu trè parolle in corsu. 
+À Corse-Matin spiega ch'ella hè per un statutu d'autonomia, pè l'officializazione di a lingua corsa è per un statutu di residente. Ci scambia di ciò ch'è no aviamu intesu sin'avà. 
+Ma hè Mélenchon chì cuntinuveghja di fà dibattitu. U so passagiu in l'emissione Cuntrastu firmerà cum'è un grande mumentu d'azizume è d'odiu televisuale. S'hè vistu u mumentu quandu Jean-Vitus Albertini s'arrizzava per minallu... 
+E riazzioni sò parechje. Nant'à u so blog, Edmond Simeoni scrive chì : 
+Devant cette provocation de Melenchon, nous sommes partagés entre les interrogations, l’amusement et la révolte ; cependant, si en France, à gauche, au centre, à droite, il est encore des gouvernants pour faire, demain, les choix du refus, comme ceux de Mélenchon donc pour condamner le peuple corse à la disparition, ils doivent être sans illusion : la riposte sera déterminée, durable et à la mesure de cette ennième agression. 
+Ancu Vincent Carlotti, ex-PS, pare scandalizatu da l'attitutine di u candidatu di u Front de Gauche. Scrive nant'à u so situ : 
+je lui rappellerais que chez nous, c’est à dire en Corse, ce sont les bien français qui sont entrés en forçant la porte, et que, sans doute pris de la fièvre civilisatrice chère à Claude GUEANT, ils se sont empressés d’imposer aux insulaires langue et coutumes venus d’ailleurs. 
+À voi di favvi a vostra opinione !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     São Paulo (statu)
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/S%C3%A3o%20Paulo%20%28statu%29"/>
+     <date>
+      2014-03-23T15:01:57Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    São Paulo (statu)
+   </head>
+   <p>
+    São Paulo hè unu statu di u Brasile, tene come capilocu São Paulo è una superficia di 248.209,426 Km2. Tene 41.252.160 abitanti.
+   </p>
+   <p>
+    Stati di u Brasile
+   </p>
+  </body>
+ </text>
+</TEI>

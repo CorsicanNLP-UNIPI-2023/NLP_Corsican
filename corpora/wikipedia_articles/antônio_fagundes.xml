@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Antônio Fagundes
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Ant%C3%B4nio%20Fagundes"/>
+     <date>
+      2017-07-23T05:58:27Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Antônio Fagundes
+   </head>
+   <p>
+    Antônio da Silva Fagundes Filho (Rio de Janeiro, 18 d'aprile 1949) hè un attore brasilianu.
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    IMDB
+   </p>
+   <p>
+    Attore
+   </p>
+   <p>
+    Brasilianu
+   </p>
+  </body>
+ </text>
+</TEI>

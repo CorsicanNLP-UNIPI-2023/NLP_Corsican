@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ötzi, u ziu di a patria
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Otzi-u-ziu-di-a-patria_a1286.html"/>
+     <date>
+      Sat, 03 Mar 2012 12:06:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ötzi, u ziu di a patria
+   </head>
+   <div type="excerpt">
+    <p>
+     L'omu di a prestoria hè entratu in u panteonu di i grandi Corsi di a storia, cù a donna di Bunifaziu, Sambucucciu, Sampieru Corsu è Pasquale Paoli.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In a categuria "a sapiate ch'ellu hè Corsu ?" ci hè un nome novu. Dopu à Kadhafi è Jean-Louis Borloo, eccu dunque à Ötzi. 
+Sapete, Ötzi hè stu tippu di a prestoria mortu 5300 anni fà ch'elli anu trovu in u Tyrol appinuccia cutratu sott'à trè metri di neve, ma cunservatu bè. 
+Le Figaro  ci hà amparatu chì d'appressu à l'ultime anàlisi ADN u nostru hibernatus saria corsu. 
+Tutti i scentifichi ùn sò micca d'accordu cun quessa, ma quantunque, ci hè da dumandassi. Circhendu nant'à internet, si pò leghje chì : 
+Après des années de tâtonnements, les chercheurs sont unanimes : Ötzi a bien été tué par un tir de flèche, et achevé par un coup de massue porté à la tête. Âgé de 46 ans, un âge canonique pour l'époque, il avait été mêlé à un combat meurtrier, au cours duquel il aurait tué ou blessé quatre de ses assaillants, ainsi qu'en témoignent des traces de sang retrouvées sur sa hache et des entailles profondes sur ses paumes, identifiées comme autant de bles­sures «défensives». 
+Nisun dubbitu. Ötzi hè siguramente statu a prima vìttima di a guerra trà bande di trafficoni pè u cuntrollu di e machines à sous di l'Alpe. Chì tanti tuerie des Marroniers è Brise de mer...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

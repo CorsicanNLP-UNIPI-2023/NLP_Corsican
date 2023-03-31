@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Incredibile ! Hè ghjuntu l'inguernu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Incredibile--He-ghjuntu-l-inguernu_a1264.html"/>
+     <date>
+      Thu, 02 Feb 2012 09:42:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Incredibile ! Hè ghjuntu l'inguernu
+   </head>
+   <div type="excerpt">
+    <p>
+     Dapoi trè ghjorni, ùn si parla più chè di què.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     S'è vo vi n'erate scurdati, sappiate chì l'inguernu face u fretu, è quand'ellu face u fretu, ci hè a neve. 
+Incredibile nò ? 
+L'episodiu nivaghjolu chì ci vene da Siberia hè in bocca à tutti è alimenta tutte e cunversazioni. 
+Eccu u top 10 di e frase e più prununziate in Corsica st'ultime quarant'ottu ore : 
+Chì fretu ! Hè nivatu ? Quantu ci hè centìmetri ? Buh la neige oh ! Mets la photo sur Facebook ! Il passe chez toi le portable ? Quandu anu da vene EDF à rimette l'elettricità ? Dumane chjamu u forum di RCFM. Je te l'avais dit d'acheter le Cayenne pour passer Vizzavona... Ancu cù a vesta Millet si pò crepà di fretu ! J'aurais du prendre la North Face. Et le chasse-neige il passe quand ? Ci serà u macciu sàbbatu in Furiani ? Cumu si mettenu ste catene di m...  Almenu, cù a neve a ghjente parlanu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

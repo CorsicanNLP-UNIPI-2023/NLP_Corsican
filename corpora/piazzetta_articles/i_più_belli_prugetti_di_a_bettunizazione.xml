@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I più belli prugetti di a bettunizazione
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-piu-belli-prugetti-di-a-bettunizazione_a986.html"/>
+     <date>
+      Sun, 26 Dec 2010 17:50:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I più belli prugetti di a bettunizazione
+   </head>
+   <div type="excerpt">
+    <p>
+     In Corsica ùn avemu nè petroliu, nè idee, ma avemu u bettonu...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Bettunizazione, speculazione, custruzzione... n'avete assai intesu parlà in u 2010, serà peghju in u 2011. 
+E bétonneuses sò state grande forma è pudemu esse siguri ch'elle funziuneranu à pienu regime quist'annu chì vene. Eccu unepochi di i più belli prugetti chì anu fattu parlà. 
+Les Rivages de Calvi : prugettu purtatu da u merre Ange Santini è da una intrapresa di u Var, a Semexval. L'idea : un centu d'alloghji di lussu in u Pinetu di Calvi. « Des appartements sur le sable » dice a pubba... 
+Favona : un prugettu 175 appartamenti nant'à a cumuna di Conca. U liturale corsu avia riesciutu à evità a bettunizazione. Avà u sfragellu hè generalizatu, à colpi di residenze segundarie è d'appartamenti pè ricchi. 
+Rondinara : 2010 o u ritornu di i vechji prugetti chì durmianu dapoi 30 anni. U prugettu di Lefèvre di 54 alloghji in custruzzione hè statu arrestatu da u tribunale amministrativu... sin'à quandu ? 
+L'Anghjone : Hè duratu una bella stonda u chjam'è rispondi trà u gruppu Promeo è u cullettivu Salvemu L'Anghjone. Finalmente, Babbu Natale hà lasciatu unepochi di pacchetti a vigilia di Natale è s'ampara avà chì i bungalows ùn sò più à vende... 
+Serra di Ferru, Calcatoghju, Belvidè Campumoru... ste cumune allonganu a lista di quelle chì sò à più di 70% di residenze segundarie. 
+In Portivechju, Sartè, Ulmetu, Serra di Ferru, Poghju d'Oletta sò centinaie d'èttare di terre agrìcule chì sò rese custruttibile. 
+D'altri belli ritratti di u nostru liturale sò à vede nant'à u situ di l'associu bunifazincu ABCDE.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

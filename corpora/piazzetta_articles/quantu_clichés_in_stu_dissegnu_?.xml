@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quantu clichés in stu dissegnu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quantu-cliches-in-stu-dissegnu_a1757.html"/>
+     <date>
+      Sat, 26 Apr 2014 13:32:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quantu clichés in stu dissegnu ?
+   </head>
+   <div type="content">
+    <p>
+     U votu di l'assemblea di Corsica nant'à u statutu di residente hà discitatu u vechju fondu anti corsu. Ùn parleremu micca di i cummenti è messagi nant'à e rete suciali pieni di rabbia contr'à i Corsi. 
+In quant'à i clichés è lochi cummuni, hè un festivale. In stu dissegnu publicatu nant'à Le Télégramme, quantu ne cuntate ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

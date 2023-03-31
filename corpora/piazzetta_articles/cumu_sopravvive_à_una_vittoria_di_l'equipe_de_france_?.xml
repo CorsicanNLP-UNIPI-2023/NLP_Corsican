@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cumu sopravvive à una vittoria di l'Equipe de France ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cumu-sopravvive-a-una-vittoria-di-l-Equipe-de-France_a2448.html"/>
+     <date>
+      Fri, 08 Jul 2016 00:43:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cumu sopravvive à una vittoria di l'Equipe de France ?
+   </head>
+   <div type="content">
+    <p>
+     Semu cuntenti per i pulitichi 
+Era scritta ch'elli avianu da vince 
+Ci vole bè chì a Francia vinci qualcosa un ghjornu 
+Da quì à pocu, tuttu u mondu si ne serà scurdatu 
+http://www.courrierinternational.com/article/vu-dallemagne-euro-2016-laissons-ces-pauvres-francais-gagner?utm_campaign=Echobox&amp;utm_medium=Social&amp;utm_source=Facebook#link_time=1467889931
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

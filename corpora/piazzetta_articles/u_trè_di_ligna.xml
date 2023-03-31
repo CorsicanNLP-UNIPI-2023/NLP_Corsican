@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U trè di ligna
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-tre-di-ligna_a2750.html"/>
+     <date>
+      Wed, 14 Nov 2018 12:46:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U trè di ligna
+   </head>
+   <div type="excerpt">
+    <p>
+     Eccu e parolle di a puesia recitata da Jules Chiaramonti, arregistrata in u 1916.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Addiu lu Trè di ligna  Cù le so belle zitelle  Ci n'anderemu ind'è noi  Chì le ci avemu più belle  Ci aspettanu cun maniera  Le nostre madamicelle. 
+Quandu ghjunsimu culà  In portu à San Ghjuvanni  Fubbimu tutti spugliati  Ognunu cambiò di panni  Eppo leghjnu lu raportu  Ognunu pigliò trè anni. 
+Quandu ne ghjunse culà  In piazza di lu quartiere  Ch'io vibu tanti suldati  Mi n'aghju fattu un sallevu  Dicendumi ci n'hè tanti  Ci puderaghju stà anch'eiu. 
+La mane versu cinque ore  Ci sonanu lu caffè  Un suppulu d'acqua bullita  Tòrbida di sciccorè  Hè amaru cum'è lu fele  È zuccaru ùn ci n'hè. 
+Eppo vene lu sargente  Dicendu : "sticcami què"  Eppo vene lu capurale  Ci cumanda li curvè  La fatica si supporta  Lu peghju hè "l'amerdamentu". 
+Sò capace à cumandacci  Quattr'o cinque tutt'à tempu  È s'è vo ùn obedite  Parlanu di mette nentru  Ma si sà quant'ellu vale  Lu pane di le so case. 
+S'obedisce à un capurale  Ancu più ch'è à le so mamme  Sargenti cun capurale  Tutti à collu à li suldati. 
+Addiu lu "saccu à brossa"  Incù tutta l'ordinanza  Lu chitu senza rigrettu  Chì n'aghju avutu abbastanza  È lu "bleu" chì lu piglia  Ch'ellu appia più bella scianza.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

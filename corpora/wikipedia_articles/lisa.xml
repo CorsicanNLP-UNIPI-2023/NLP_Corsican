@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     LiSA
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/LiSA"/>
+     <date>
+      2019-10-11T02:13:54Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    LiSA
+   </head>
+   <p>
+    Risa Oribe (Gifu, 24 di ghjugnu 1987 - )hè un musicante Giapponese.
+   </p>
+   <p>
+    LiSA
+   </p>
+  </body>
+ </text>
+</TEI>

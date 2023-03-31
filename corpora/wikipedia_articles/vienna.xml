@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vienna
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Vienna"/>
+     <date>
+      2019-04-08T13:10:32Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Vienna
+   </head>
+   <p>
+    Vienna hè a capitale di l'Austria. Teni 1.631.082 abitanti.
+   </p>
+   <p>
+    Vienna
+   </p>
+   <p>
+    Austria
+   </p>
+  </body>
+ </text>
+</TEI>

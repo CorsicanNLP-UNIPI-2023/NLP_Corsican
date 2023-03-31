@@ -1,0 +1,75 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Utilità marginale
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Utilit%C3%A0%20marginale"/>
+     <date>
+      2019-02-03T17:22:27Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Utilità marginale
+   </head>
+   <p>
+    In economia, l'utilità marginale d'un avere o d'un serviziu hè l'utilità ch'un agente economicu piglia da a consomazione d'una quantità supplementare di 'ssu avere o serviziu.
+   </p>
+   <p>
+    Pè una funzione d'utilità U è quantità consumate X è Y di dui averi :
+   </p>
+   <p>
+    U : \begin{array}[t]{lcl}\mathbb R^{+} \times \mathbb R^{+} &amp;\rightarrow &amp;   \mathbb R^{+} \\
+   </p>
+   <p>
+    (X,Y) &amp; \mapsto    &amp; U(X,Y)
+   </p>
+   <p>
+    \end{array}
+   </p>
+   <p>
+    Definimu l'utilità marginale di a consumazione di u primu avere cù a derivata parziale raportu à X di a funzione d'utilità :
+   </p>
+   <p>
+    \ U_{X}'= \frac{\partial U}{\partial X}
+   </p>
+   <p>
+    Quessa utilità marginala diminuisce cù a quantità d'averi consumati. Pè esempiu, sè avemu digia dui stilo, l'utilità d'un stilo supplementare saria debula, cumparata à cio chi saria sè un avemiamu mancunu stilo.
+   </p>
+   <p>
+    == Da vedè dinò ==
+   </p>
+   <p>
+    Marginalisimu
+   </p>
+   <p>
+    Valore d'utilità
+   </p>
+   <p>
+    Economia
+   </p>
+   <p>
+    Nutzenfunktion#Grenznutzen
+   </p>
+  </body>
+ </text>
+</TEI>

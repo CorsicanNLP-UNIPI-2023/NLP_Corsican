@@ -1,0 +1,71 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Calmemuci ! Ùn hè micca una muvra corsa
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Calmemuci--Un-he-micca-una-muvra-corsa_a2435.html"/>
+     <date>
+      Fri, 17 Jun 2016 00:29:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Calmemuci ! Ùn hè micca una muvra corsa
+   </head>
+   <div type="excerpt">
+    <p>
+     Panicca nera nant'à e rete suciale corse : u selfie d'un americanu fieru d'avè tombu un "Corsican Ram" circuleghja dapoi eri. Insulte, minacce, è chjame publiche à a spedizione punitiva contr'à l'assassinu. Ma... u ritrattu ùn hè micca statu fattu in Corsica.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ellu, si chjama Nate Adams. Hè americanu è campione di motocross (cummencia male). Forse ùn vi dice nunda, ma u tippu hà più di 620.000 fans nant'à a so pagina Facebook. 
+Frà quessi, ci serà siguramente un Corsu, postu chì quand'ellu posta stu ritrattu d'una muvra tomba, l'infurmazione ghjunghje nant'à e pagine FB nustrale :
+    </p>
+    <p>
+     A seguita hè classica : insulte, minacce, chjame à a vindetta, invitazione à fassi piglià à pattoni è forse ch'ellu ci serà ancu una chjama à u forum di RCFM. 
+Ci vole à dì chì u so cummentu nant'à u so "Corsican Ram" tombu ùn lascia nisun dubbitu : u ritrattu hè siguramente statu pigliatu in a muntagna aschese o niulinca. 
+Ma nò. 
+U "Corsican ram" hè u nome d'una spezia di muvra introdutta in America una quarantina d'anni fà. 
+U situ allaboutexotics.com ci dice ch'ellu hè u cruciamentu trà a muvra è u "Barbados Blackbelly", è ch'ellu si trova à u Texas :
+    </p>
+    <p>
+     U simpaticu Nate Adams s'hè dunque solu pagatu una caccia à a muvra americana in qualchì locu persu di u Texas, è siguramente ch'ellu ùn sapia mancu chì a Corsica esistia nanzu di pigliassi tone d'insulte in MP è in cummenti. 
+Ma ùn hè mai venutu in Corsica (ciò chì ùn hè micca una ragione per tumbà un "Corsican Ram"). 
+U puntu pusitivu, hè chì i Corsi sò attaccati à e so muvre (infine, micca tutti postu ch'elli ci sò cacciadori corsi chì e tombanu...). 
+U negativu, hè chì e pecure, simu noi... è ci n'hè chì ci credenu sempre.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

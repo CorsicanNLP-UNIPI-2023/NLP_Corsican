@@ -1,0 +1,99 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bon ma allora, chì hè sta "Giustificazione" ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Bon-ma-allora-chi-he-sta-Giustificazione_a2318.html"/>
+     <date>
+      Tue, 22 Dec 2015 13:59:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bon ma allora, chì hè sta "Giustificazione" ?
+   </head>
+   <div type="excerpt">
+    <p>
+     S'hè parlatu assai di u "ghjuramentu" di l'esecutivu novu di l'assemblea di Corsica. Ma sapete ciò chì hè stu libru ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Avete vistu sta scena chì hè stata cummentata assai :
+    </p>
+    <p>
+     La mise en scène assez irréelle des élus nationalistes prêtant serment en corse sur l'ex. original du livre de 1758 pic.twitter.com/wDKHwWK0FW
+— Ariane Chemin (@ArianeChemin) 17 Décembre 2015
+    </p>
+    <p>
+     En Corse, le drôle de « serment du Jeu de paume » nationaliste https://t.co/jv98sjATt2 pic.twitter.com/2M6PYyaIJr
+— Le Monde (@lemondefr) 18 Décembre 2015
+    </p>
+    <p>
+     S'hè scrittu è intesu appena tuttu è n'importa ch'è, ancu ch'ellu saria statu un libru scrittu da... Pasquale Paoli. Hè dunque forse venutu u mumentu di sapè di ciò ch'ellu si tratta. 
+L'autore hè Don Gregorio Salvini, prete balaninu (natu in Nesce) chì hà fattu i so studii in Italia, cum'ellu era l'usu tandu. 
+Hà fattu parte di sti "preti revuluziunarii" chì anu sustenutu a rivolta di i Corsi contr'à Ghjenuva à u XVIIIu seculu. 
+Perchè i preti ? Perchè tandu eranu i soli à esse struiti è à avè fattu i studii.
+    </p>
+    <p>
+     Da leghje : Trois prêtres balanins au coeur de la révolution corse : Erasme Orticoni, Gregorio Salvini, Bonfigliuolo Guelfucci (Alain Piazzola, 2006) da Evelyne Luciani, Louis Belgodere è Dominique Taddei.
+    </p>
+    <p>
+     In u 1758, Don Gregoriu Salvini scrive dunque a so "Giustificazione della rivoluzione di Corsica" (u nome cumplettu hè : Giustificazione della rivoluzione di Corsica, e della ferma risoluzione presa da' Corsi, di non sottomettersi mai più al dominio di Genova). 
+U libru hè scrittu in talianu (o piuttostu in tuscanu per esse più precisu). Perchè chì tandu a lingua "alta", quella di u scrittu, di l'atti officiali, di i studii hè u talianu. 
+A lingua parlata da i Corsi hè u corsu, ma tandu ùn si scrivia micca. E duie lingue campavanu inseme, senza cuncurenza, è ci vulerà à aspettà torna appena per chì i Corsi piglinu cuscenza di a specificità di a so lingua (ma quessa hè un'altra storia).
+    </p>
+    <p>
+     U scopu di stu libru hè di cunvince di a leghitimità di a revuluzione corsa à a ghjente putente d’Europa. Custituisce unu di i trè pilastri filosòfichi di i ribelli di Corsica incù : 
+- U « Disinganno intorno alla Guerra di Corsica » di Giulio Matteo Natali (1736)  - E « Memorie Riguardanti il Re Teodoro » di Sebastianu Costa (1736)
+    </p>
+    <p>
+     L’argumenti seranu cuntrastati da un vescu genuvese : Pier Maria Giustiniani ma u discorsu di Salvini serà sustenutu da una terza persona, un corsu : Bonfigliuolo Guelfucci.
+    </p>
+    <p>
+     Don Gregoriu Salvini cerca di fà a dimustrazione di a tirannia di a pulitica di i Ghjenuvesi in Corsica, chì u so putere ùn hè micca leghjitimu è pessimu pè i Corsi. 
+Li rimpruvereghja dinù a so destruzzione di a nubiltà corsa. Per Salvini, a leghjitimità hè da u latu di u papa, di i sgiò, è micca da quellu di a rivolta di Sambucucciu chì hà permessu d'impiantà i Ghjenuvesi in l'isula (eh iè, hè cumplessa a storia !) 
+Salvini face dunque un ritrattu terribile di a Corsica à a so epica : "guvernu di lupi", currottu, crudele, induve i capimachja sò ignuranti, spluttazione culuniale... Face un listinu precisu di parechji abusi di u putere ghjenuvese. 
+Per ellu a rivuluzione hè dunque normale è ghjustificata, è entre in detagli in l'argumentazione.
+    </p>
+    <p>
+     Esiste un'edizione cummentata : Justification de la révolution de Corse : Combattue par les réflexions d'un Génois et défendue par les observations d'un Corse, scritta da Evelyne Luciani è esciuta in'è Albiana in u 2014. 
+Si pò cunsultà u libru nant'à Google Books
+    </p>
+    <p>
+     È st'edizione, tradutta da François Piazza esciuta ind'è Alain Piazzola in u 2010.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

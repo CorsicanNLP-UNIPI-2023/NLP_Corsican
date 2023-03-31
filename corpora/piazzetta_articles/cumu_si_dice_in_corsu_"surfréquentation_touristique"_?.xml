@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cumu si dice in corsu "surfréquentation touristique" ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cumu-si-dice-in-corsu-surfrequentation-touristique_a2610.html"/>
+     <date>
+      Wed, 19 Jul 2017 18:37:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       VIDEO
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cumu si dice in corsu "surfréquentation touristique" ?
+   </head>
+   <div type="excerpt">
+    <p>
+     L'estate, a Corsica hè tocca da a frequentazione turistica eccessiva è ùn hè micca senza cunsequenze nant'à l'ambiente.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Fonte : Corse-Matin, Settimana, Alta Frequenza.
+    </p>
+    <p>
+     S'è vo ùn riescite à vede stu filmettu, pruvate cun sta leia nant'à YouTube
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

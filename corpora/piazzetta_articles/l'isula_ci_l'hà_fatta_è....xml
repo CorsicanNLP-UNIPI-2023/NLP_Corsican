@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     L'Isula ci l'hà fatta è...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/L-Isula-ci-l-ha-fatta-e_a1668.html"/>
+     <date>
+      Thu, 23 Jan 2014 00:06:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    L'Isula ci l'hà fatta è...
+   </head>
+   <div type="excerpt">
+    <p>
+     Sta volta, ùn hè nè u Sporting, nè l'ACA chì v'anu fattu sunnià. Hè u FBIR, u picculu club di CFA2...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U Sporting ? Eliminatu senza gloria è senza core in Lens.  L'ACA ? Ridiculizatu in casa soia. 
+Ancu di grazia, ci sò dui picculi clubs chì si sò battuti cù e so trippe. Sò u CAB, u segondu club bastiacciu, chì campa in l'ombra di u Sporting. 
+È u FBIR, u picculu club balaninu chì hà riesciutu a prova di batte u tenente di a cuppa di Francia, u prestigiosu Bordeaux. In una partita piena di suspens, i balanini ci anu messu tuttu u so core è avà a Corsica sana i fideghja (da vede u filmettu di l'ultimu rigore in Mezavia). 
+Ma parechje rimarche ci venenu à mente : 
+- Hè dunque a prova ch'ellu si pò "vibrà" per un picculu club amatore, diventatu durante 90 minuti U club di tutti i Corsi.  - Hè dunque a prova chì à u publicu li piace à identificassi à ghjucadori nustrali (chè, Florent Menozzi ?) chè à ricchi futbalori certe volte appena pretensiunuti.  - Ci hè da dumandassi si certe volte, ùn hè megliu à stà luntanu di u futbol prufessiunale, cù i so soldi, i so stadii senza anima, u spiritacciu di i dirigenti di a LFP, è i so ghjucadori mercenari... 
+À st'ultime dumande, un sustenidore di l'Union Berlin, club alemanu à forte identità, risponde : 
+“Honnêtement, je préfère rester en deuxième division. La première division, c’est trop commercial. Rester en deuxième division, c’est préserver l’état d’esprit de l’Union.” 
+Certi ghjorni, ci hè da dumandassi in veru...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

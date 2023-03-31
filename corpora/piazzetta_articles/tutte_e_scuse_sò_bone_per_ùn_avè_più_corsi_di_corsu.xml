@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tutte e scuse sò bone per ùn avè più corsi di corsu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Tutte-e-scuse-so-bone-per-un-ave-piu-corsi-di-corsu_a1995.html"/>
+     <date>
+      Wed, 15 Oct 2014 20:22:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tutte e scuse sò bone per ùn avè più corsi di corsu
+   </head>
+   <div type="excerpt">
+    <p>
+     Un ritrattu d'un certificatu medicale (pigliatu in un stabilimentu di Balagna) per ùn fà più corsi di corsu circuleghja nant'à Facebook dapoi parechji ghjorni. Serà una allergia à a cultura corsa ? È si pone a quistione di u statutu sempre ozzionale di a lingua corsa...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ch'ella sia chjara, u prublema ùn vene micca da u duttore chì hà signatu sta dispensa (avemu cacciatu i nomi). 
+Ùn a sapete forse micca, ma u mese d'ottobre currisponde à u mumentu quandu i parenti sceglienu sì i so figlioli cuntinuveghjanu à seguità i corsi di corsu in scola di sesta, in cullegiu. I corsi sò obligatorii durante un mese è mezu. Dopu, quelli chì volenu arrestà devenu scrive una lettera à l'amministrazione di u stabilimentu. 
+Tandu hè un festivale. Ci sò quelli chì arrestanu perchè u so figliolu "n'a rien contre le corse mais ne peut plus suivre ses entraînements de foot" o perchè "de toutes façons le corse ça sert à rien". 
+L'insignante di corsu hè u solu à principià cun 25 o 30 elevi di settembre, è à ùn sapè micca quantu n'averà à a rientrata di e vacanze di nuvembre. 
+Stu ritrattu circuleghja nant'à Facebook (si passa à u cullegiudi Calvi) è hà pruvucatu assai reazzioni. Si tratta d'un elevu di quarta. 
+Hè normale di vulè avè di più tempu fora di a scola. Dumandate à un zitellu s'ellu vole avè menu ore di travagliu, ùn dicerà micca di nò. 
+U prublema, hè ch'ellu ùn ci hè ch'è u corsu chì hè ozzionale. L'insignanti di corsu sò i soli à abbuchjassi riflessioni è lettere di stu gèneru. Spessu umilianti (l'intrenamenti di futbol sò più impurtanti ch'è amparà a lingua è a storia di u so paese...) 
+Fintantu chì u corsu ùn serà obligatoriu, serà cusì. Certi sindicati è omi pulitichi ne sò opposti più ch'è mai, è sò belli accaniti (sapete, "c'est discriminatoire"). 
+Hà da durà torna assai sta cummedia ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Nathan Fillion
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Nathan%20Fillion"/>
+     <date>
+      2015-09-02T09:08:22Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Nathan Fillion
+   </head>
+   <p>
+    Nathan Fillion hè un attore canadianu
+   </p>
+   <p>
+    Fillion, Nathan
+   </p>
+   <p>
+    Canadianu
+   </p>
+  </body>
+ </text>
+</TEI>

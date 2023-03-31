@@ -1,0 +1,81 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     À quandu u "caffè suspesu" in Corsica ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-quandu-u-caffe-suspesu-in-Corsica_a2072.html"/>
+     <date>
+      Fri, 12 Dec 2014 23:24:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    À quandu u "caffè suspesu" in Corsica ?
+   </head>
+   <div type="excerpt">
+    <p>
+     U "caffè suspesu" hè un tradizione napulitana d'aiutu è di sulidarità. Quellu chì cummanda un caffè ne paga dui. Unu per ellu, l'altru per un cliente poveru chì ne ferà a dumanda. Esiste in un caffè aiaccinu. À quandu in altrò ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Avete forse vistu passà nant'à e rete suciale st'articuli chì parlanu di i "caffè suspesi". 
+Hè una tradizione chì ci vene da Napuli. L'idea di u "caffè sospeso" hè semplice. Per vene in aiutu à i più poveri, u cliente d'un bar dumanda à pagà un caffè in più (o puru parechji). 
+In u caffè, u patrone affissa u cuntore di "caffè suspesi" chì sò stati cummandati. Cusì, quellu chì ùn si pò pagà un caffè sà ch'ellu ne pò benefizià in stu stabilimentu. 
+L'idea hè piaciuta è hè stata aduttata in parechji paesi d'Auropa. In Francia ùn ci anu micca aspettatu è si face in Marseglia. 
+In Sardegna sò nate d'altre iniziative sulidarie di robba "suspesa" : pane, oliu, o pizze... 
+Dopu hè un'affare di cummunicazione. Basta à falla sapè. In Marseglia un situ ricensa i stabilimenti chì participeghjanu à st'operazione. 
+Allora perchè micca in Corsica ? Cù u disimpiegu chì cresce è cun 25.000 persone chì campanu sott'à u livellu di puvertà, a miseria ùn si piatta più. Un tempu era vergugnosa è ùn si vidia micca, avà basta à apre l'ochji per vedela in giru à voi. 
+Ferma à sapè sì i Corsi saperanu lascià a so fiertà da cantu per chì u sistema di u caffè suspesu viaghji in casa nostra. 
+Ma noi chì semu i più forti per parlà di "sulidarità corsa" è chì ci piace tantu à campà in u mitu di i Corsi chì si tenenu caru, a ci pruvemu ?
+    </p>
+    <p>
+     Hè faciule à mette in piazza, un tavulone cù u numeru di caffè suspesi pagati da i clienti :
+    </p>
+    <p>
+     Si pò fà dinù per d'altri affari. Quì in Sardegna :
+    </p>
+    <p>
+     Bon, difatti ci hè omancu un stabilimentu chì hà messu in ballu st'operazione in Corsica, hè u Bistrot du Cours in Aiacciu. 
+Forse i nostri lettori ne cunnoscenu d'altri ?
+    </p>
+    <p>
+     Ritrattu : pagina Facebook di u Bistrot du Cours
+    </p>
+    <p>
+     St'articulu hè statu traduttu nant'à u situ Ampargu a lingua corsa.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

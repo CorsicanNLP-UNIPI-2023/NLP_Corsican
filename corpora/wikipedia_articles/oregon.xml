@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Oregon
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Oregon"/>
+     <date>
+      2014-03-23T14:45:20Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Oregon
+   </head>
+   <p>
+    U statu di l’ Oregon  hé unu statu federale di i Stati Uniti.
+   </p>
+   <p>
+    Hà una superficia di 255.026 km² è una populazione di 3.747.455 abitanti.
+   </p>
+   <p>
+    Cunfina à u nordu incù u statu di Washington, à punente incù l’uceanu Pacificu à livente incù l’Idaho è à u meziornu incù a California è u Nevada.
+   </p>
+   <p>
+    A capitale hè Salem (151.913 abitanti), a cità più pupulata hè Portland (550.396 abitanti).
+   </p>
+   <p>
+    Altre cità impurtante sò Eugene (149.004 abitanti), Gresham (99.721 abitanti) è Hillsboro (91.436 abitanti).
+   </p>
+   <p>
+    Oregon
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Baracucca
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Baracucca"/>
+     <date>
+      2015-07-02T18:15:12Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Baracucca
+   </head>
+   <p>
+    A baracucca hè una pianta.
+   </p>
+   <p>
+    ==Da vede dinù==
+   </p>
+   <p>
+    Amandulu
+   </p>
+   <p>
+    Amarascu
+   </p>
+   <p>
+    Listincu
+   </p>
+   <p>
+    Flora
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     [diaporama] Ponte Leccia City
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/diaporama-Ponte-Leccia-City_a1603.html"/>
+     <date>
+      Thu, 11 Jul 2013 12:53:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    [diaporama] Ponte Leccia City
+   </head>
+   <div type="content">
+    <p>
+     Ponte Leccia hè a cità a più americana di Corsica. Perchè ? Ùn si sà. Quand’ellu si traversa u paese, omu hà l’impressione d’esse in u Texas o in u Novu Messicu. È ùn avemu sempre micca spiegazione scentifica à quessa. (Ritratti di Léa Eouzan). 
+Per vede u diaporama ci vole à andà quì.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

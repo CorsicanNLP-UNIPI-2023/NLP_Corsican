@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Calvé (Caen) : "on connait le contexte ici"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Calve-Caen-on-connait-le-contexte-ici_a2084.html"/>
+     <date>
+      Tue, 16 Dec 2014 20:57:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Calvé (Caen) : "on connait le contexte ici"
+   </head>
+   <div type="content">
+    <p>
+     U ritornu di "le contexte corse", a seguita : 
+Interrugatu dop'à a vittoria di Bastia in cuppa di a lega contr'à Caen, u ghjucadore Jean Calvé hà trovu una bona scusa : "on connait le contexte ici, c'est toujours particulier". 
+Per infurmazione, sta sera "le contexte" s'assumigliava à què :
+    </p>
+    <p>
+     Appena di più di 3000 spettatori d'appressu à u resu contu di a LFP. 
+Un penalty micca fischjatu per Bastia, un'altru fischjatu da l'arbitru centrale, prima d'esse annullatu da u quintu arbitru. 
+"Le contexte"...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

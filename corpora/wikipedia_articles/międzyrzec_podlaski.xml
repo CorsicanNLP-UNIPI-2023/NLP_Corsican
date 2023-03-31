@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Międzyrzec Podlaski
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Mi%C4%99dzyrzec%20Podlaski"/>
+     <date>
+      2019-04-18T13:16:42Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Międzyrzec Podlaski
+   </head>
+   <p>
+    Międzyrzec Podlaski hè una cità di a Polonia orientale. Hè situata in u sudestu di a Polonia, trà Biała Podlaska è Lublin, annantu u fiume Krzna.
+   </p>
+   <p>
+    Polonia
+   </p>
+  </body>
+ </text>
+</TEI>

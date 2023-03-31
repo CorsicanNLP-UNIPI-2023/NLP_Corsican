@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Etimologia
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Etimologia"/>
+     <date>
+      2018-08-16T16:15:44Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Etimologia
+   </head>
+   <p>
+    L'etimologia hè a scienza chì hà per oggettu u studiu di l'origine di e parole di e diffarente lingue.
+   </p>
+   <p>
+    Linguistica
+   </p>
+  </body>
+ </text>
+</TEI>

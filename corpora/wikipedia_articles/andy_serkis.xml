@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Andy Serkis
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Andy%20Serkis"/>
+     <date>
+      2016-09-10T09:15:19Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Andy Serkis
+   </head>
+   <p>
+    Andrew Clement "Andy"  Serkis hè un attore brittannicu.
+   </p>
+   <p>
+    Serkis, Andy
+   </p>
+  </body>
+ </text>
+</TEI>

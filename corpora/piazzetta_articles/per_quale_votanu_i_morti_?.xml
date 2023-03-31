@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Per quale votanu i morti ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Per-quale-votanu-i-morti_a1340.html"/>
+     <date>
+      Sun, 06 May 2012 15:22:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       PRESIDENZIALI-2012
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Per quale votanu i morti ?
+   </head>
+   <div type="excerpt">
+    <p>
+     In Portivechju, dui morti averianu vutatu ci dice Corse-Matin.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A nutizia vene da u situ di Corse-Matin : 
+Les assesseurs de François Hollande ont contesté ce matin deux signatures sur la liste d'émargement au bureau centralisateur No 1 présidé par le maire Georges Mela. Ils ont relevé deux paraphes en face de deux personnes décédées. Ceci est contesté par les responsables du bureau et les assesseurs de Nicolas Sarkozy, mais les socialistes entendent bien faire figurer cette réclamation au procès verbal. 
+Piombu ! E chjame à a mubilizazione di François Hollande è di Nicolas Sarkozy anu francatu e porte di u cimiteriu. I morti sò à manca o à diritta ? Eccu una bona dumanda...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "Les supporters du SC Bastia font systématiquement preuve d'un comportement violent..."
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Les-supporters-du-SC-Bastia-font-systematiquement-preuve-d-un-comportement-violent_a1938.html"/>
+     <date>
+      Wed, 10 Sep 2014 11:43:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "Les supporters du SC Bastia font systématiquement preuve d'un comportement violent..."
+   </head>
+   <div type="excerpt">
+    <p>
+     L'hà scritta u ministru Cazeneuve (sapete, quellu chì hè corsu).
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè statu publicatu nant'à Legifrance l'arrestu chì pruibisce à i sustnidori di Lens di vene in Furiani. 
+Hè signatu da Bernard Cazeneuv, è hè scrittu cusì : 
+Considérant que les relations entre les supporters du SC Bastia et du RC Lens sont empreintes d'animosité depuis de très nombreuses années, ainsi qu'en témoigne le caractère récurrent des troubles graves à l'ordre public constatés à l'occasion de matchs impliquant ces deux équipes ; que par ailleurs, lors des matchs organisés à Furiani, les supporters du SC Bastia font systématiquement preuve d'un comportement violent, quelle que soit l'équipe adverse ; 
+Ùn manca più ch'è a storia di u "chromosome de la violence". 
+Amichi viulenti, bona ghjurnata à tutti.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

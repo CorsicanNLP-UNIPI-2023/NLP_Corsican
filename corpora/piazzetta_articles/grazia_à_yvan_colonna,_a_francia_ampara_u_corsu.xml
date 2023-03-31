@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Grazia à Yvan Colonna, a Francia ampara u corsu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Grazia-a-Yvan-Colonna-a-Francia-ampara-u-corsu_a1108.html"/>
+     <date>
+      Tue, 31 May 2011 11:59:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Grazia à Yvan Colonna, a Francia ampara u corsu
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè a prima volta chì a lingua corsa si trova in tutti i media francesi.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Mai i giurnalisti francesi ùn s'eranu interessati cusì à a lingua corsa. Mai a nostra lingua ùn s'era ritruvata in e prime pagine di i più grandi media francesi. 
+Iè, ùn hè micca impussibule chì ancu Jean-Pierre Pernaut essi lettu a lettera d'Yvan Colonna à Petru Alessandri. 
+A versione originale si pò leghje quì è si face appena di traduzzione (u dizziunariu in linea di l'ADECEC Infcor hà battutu u so record di vìsite). 
+Megliu : si discorre ancu di a qualità di a traduzzione officiale, fatta da u ghjudice Emmanuelli ! Nant'à u blog di u prucessu Colonna di Le Monde si pò leghje chì certi preferiscenu a versione di Sébastien Tieri di u situ di France 3 Corse : 
+La traduction du journaliste S Tieri de FR3 Corsica me paraît bien meilleure que celle du magistrat M Emmanuelli, qui est fautive sur certains points 
+Qualchissia d'altru : 
+La traduction faite par la juge est de mauvaise qualité et (plus grave) contient des erreurs, des contre sens 
+È di siguru, cum'è sempre quand'ellu si parla di lingua corsa, certi ùn si ponu impedisce di fà a lezzione di u sempiternu "què ùn si dice micca cusì è ci vole à dì cusì..." : 
+Le corse d’Ivan Colonna est parfois de mauvaise qualité et utilise souvent des gallicismes. Mais c’est en général un corse très valable. Je n’en prendrai que deux : balancia n’existe pas en langue corse. On emploiera le terme de « spia ». Fà a spia signifie faire la balance. Certaines tournures grammaticales sont directement des francicismes.  
+Quessa, ci mancava ! 
+A lingua corsa avanza, ma forse micca a liberazione d'Yvan Colonna...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

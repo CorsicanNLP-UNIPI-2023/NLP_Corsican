@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quandu s'incontranu pop inglese è messa corsa
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quandu-s-incontranu-pop-inglese-e-messa-corsa_a2671.html"/>
+     <date>
+      Thu, 09 Nov 2017 14:33:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quandu s'incontranu pop inglese è messa corsa
+   </head>
+   <div type="excerpt">
+    <p>
+     Tippi chì stanu à sente canti corsi ùn ponu esse gattivi gattivi. Nant’à u retale avemu infattatu un gruppu pop inglese chì hà messu un "sample" (vene à dì un pizzucciu arregistratu, un estrattu) di un cantu corsu à u principiu di una di e so canzone.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In a canzona Warbeth di The Magnetic North u gruppu di Simon Tong, l’anzianu ghitaristu di The Verve hà utilizatu una manata di segonde di u Tantum ergo  arregistratu da L'Ensemble Organum di Marcel Pérès è E Voce di u Cumune di nuvembre 1993.
+    </p>
+    <p>
+     U manuscrittu di stu Tantum ergo era statu publicatu in u 1649 in Ghjenuva, avia appartenutu à u cunventu d'Alzipratu ed hè statu ritruvatu à a Bibliuteca Pruvinciale Franciscana di Bastia. Eccu a versione integrale di stu cantu :
+    </p>
+    <p>
+     A li sciacca, nè ? Eccu avale una versione più recente, quella di u gruppu A Cumpagnia in u so discu in cuncertu. Claudiu Bellagamba è Jérôme Casalonga cantavanu digià nant'à a prima versione, incù J.-E. Langiani, J.-P. Lanfranchi è Jackie Micaelli, frà d'altri.
+    </p>
+    <p>
+     I musicanti di The Magnetic North anu participatu appinuccia à sparte u soft power corsu ma soprattuttu ci anu datu l'occasione di ramintà un magnificu cantu allora da ringrazalli è pè viaghjà appena ver di u Nord, un'altra canzona ricacciata di u so discu Orkney, un omagiu di sale è di ventu à l'arcipelagu Scuzzese di l'isule Orkney (Orcades in francese) cusì luntanu ma cusi vicinu da noi.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

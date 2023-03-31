@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Un centru cummerciale plasticatu... da un cignale
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-centru-cummerciale-plasticatu-da-un-cignale_a1053.html"/>
+     <date>
+      Thu, 10 Mar 2011 02:11:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Un centru cummerciale plasticatu... da un cignale
+   </head>
+   <div type="excerpt">
+    <p>
+     L'affare ùn si passa micca in Corsica, ma in Meurthe-et-Moselle. Un cignale arrabbiatu hà messu a panicca in un centru cummerciale nanzu di distrughje u salottu d'un piluccheru. Interpellatu, l'animale hè statu tombu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Precisemu ch'ella ùn hè micca una magagna (andate à vede l'articulu nant'à u situ di TF1). 
+Semu in Frouard, a simpàtica banlieue di Nancy. Un animalottu di 60 chilò hè spuntatu eri in u centru cummerciale per mette appena di panicca. 
+D'appressu à i testimonii, u cignale hà cumminciatu cù u magazinu di prufumi Marionnaud (pè ride appena). Dopu per scallassi s'hè affaccatu in u supermercatu Leclerc, à u rayon frutti è legumi. In piena forma, hà finitu per stripà u salottu d'un piluccheru. Custì, hè statu un veru macellu : 
+"Le sanglier s'est senti piégé: il a massacré le salon de coiffure, il a arraché les lavabos, on a même dû couper le courant, puisqu'il y avait des sèche-cheveux en marche", hà spiegatu un testimone spaventatu davant'à u scempiu. 
+Ci hè vulsutu l'intervenzione di e forze di l'ordine per piantà u cignale arrabbiatu. L'animale hè statu tombu. 
+Cumu spiegà stu gestu ? Militante altermundialistu anti-cunsumazione ? Gestu addisperatu d'un militante pro-Kadhafi ? O anti-cacciadore ? Vuluntà di seguità a mossa di e rivuluzione arabe ? Aspettemu sempre e cunclusioni di l'inchiesta. 
+Sì ancu i cignali cummencianu anch'elli à mette a panicca è à vulè fà a rivuluzione, semu male. Unu và bè, ma hè quand'ellu ci n'hè parechji ch'elli ci sò i prublemi. È imaginate si a cuntagione tocca a Corsica... Ancu di grazia chì i cignali ùn vanu micca nant'à Facebook.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

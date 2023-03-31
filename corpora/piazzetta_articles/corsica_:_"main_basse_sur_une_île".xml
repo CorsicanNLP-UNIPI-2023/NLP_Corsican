@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Corsica : "main basse sur une île"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Corsica-main-basse-sur-une-ile_a1609.html"/>
+     <date>
+      Wed, 07 Aug 2013 16:57:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Corsica : "main basse sur une île"
+   </head>
+   <div type="excerpt">
+    <p>
+     Eccu un filmettu fattu da l'associu U Levante. Perchè certe volte e fiure valenu più chè un longu discorsu...
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

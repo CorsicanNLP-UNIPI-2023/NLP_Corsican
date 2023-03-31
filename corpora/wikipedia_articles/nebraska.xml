@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Nebraska
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Nebraska"/>
+     <date>
+      2014-03-23T14:42:26Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Nebraska
+   </head>
+   <p>
+    U Nebraska hè un statu di i Stati Uniti d'America. Tene 1.711.263 abitanti. A capitale hè Lincoln.
+   </p>
+   <p>
+    Stati di i SUA
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sicipedia
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Sicipedia"/>
+     <date>
+      2019-02-19T12:12:45Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sicipedia
+   </head>
+   <p>
+    A Sicipedia hè a virsioni di Wikipedia in lingua siciliana. Hè stata criata d'uttrovi 2004. Com'è tutti l'altri Wikipedia in tutti l'altri lingui si tratta d'un'enciclupedìa lìbara è gratisi. Ugnunu chi voli pò participà è cuntribuiscia incù lu so sapere. U nome Sicipedia veni di i parulli "sicilianu" è "Wikipedia".
+   </p>
+   <p>
+    Attualmenti, a Sicipedia teni più di 26.000 artìculi (ferraghju 2019).
+   </p>
+   <p>
+    Wikipedia
+   </p>
+  </body>
+ </text>
+</TEI>

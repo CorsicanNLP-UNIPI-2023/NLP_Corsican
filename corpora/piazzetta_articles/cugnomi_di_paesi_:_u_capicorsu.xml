@@ -1,0 +1,85 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cugnomi di paesi : u Capicorsu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cugnomi-di-paesi-u-Capicorsu_a1974.html"/>
+     <date>
+      Sun, 05 Oct 2014 18:05:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cugnomi di paesi : u Capicorsu
+   </head>
+   <div type="excerpt">
+    <p>
+     À ogni paese, u so cugnome scherzosu. Quandu sò stati dati, da quale è perchè ùn si sà. Ma sò a prova chì dapoi sempre, i Corsi anu purtatu un sguardu scherzosu nant'à elli.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Barbaghju : Barbaghjacci stoghjabarba. Ghjocu di parolle cun l'elementu "barba" di barbaghjacci ; stughjà = asciuvà, da e parti di Bastia è u Nebbiu. À sapè sì "stughjassi a barba" vole dì qualcosa, esse bruttu o pulitu ? Ùn si sà. 
+Barrettali : Barrettalesi ghjurafalsi, scornaboi 
+Bastia : Bastiacci spachjaborse. Bastia, cum'è in tutti i lochi di cummerciu avia a riputazione di fà spende tutti i so soldi à i paisani chì ci scalavanu. Vede u dettu "S'è tù vai in Bastia senza esse spugliatu, o Gregori hè mortu o Campana hè malatu" (ùn si sà ciò ch'elli vindianu questi). 
+Brandu : Brandinchi latroni 
+Cagnanu : Cagnanesi gambicorti 
+Canari : Canaresi spezzacristi. Vole dì "gattivi cristiani", chì rompenu e croci, forse dopu à qualchì battaglia di prucessione... 
+Centuri : Cinturesi granitulai = manghjadori di granìtule, "coquillages". 
+Petracurbara : Curbaresi tagliamuchji = taglià i muchji per manghjà ? Deve esse segnu di miseria. 
+Erbalonga : Erbalunghesi arruba uva 
+Ersa : Ersinchi scapazerri. Vale à dì ch'elli taglianu u capu di i zerri (un pesciu) per e so sòsule. 
+Ferringule : Ferringulesi pignulai 
+Luri : Luresi mulinai 
+Lota : Lutinchi legaboi (per ùn fassili arrubbà ?) 
+Meria : Meriacci scapatopi 
+Mursiglia : Mursigliesi sbarazzini. I sbarrazzini eranu i tragulini ma dopu a parolla hà pigliatu u sensu di sgaiuffu. 
+Nonza : Nunzinchi gransignurini 
+Patrimoniu : Patrimuninchi arrubaboi 
+Pinu : Pinesi traditori 
+Ruglianu : Ruglianacci americani 
+San Fiurenzu : Sanfiurenzinchi granuchjai, perchè stanu nù e regione paludose induve ci sò e granochje. 
+Siscu : Sischesi sega sega 
+Tuminu : Tuminacci mezi Turchi 
+Ugliastru : Ugliastrinchi cipullai 
+Òlcani : Ulchinesi arrubaselle 
+È qualchì spressione pruveribii o spressioni : 
+"Capicorsu è Bunifaziu per la guerra nun sò boni." 
+Spellà a puce cum'è Capicursini : in u sensu di minuti, ràncichi  Gnoccari Capicursini (=baulli) 
+Eccu per i cugnomi di i paesi di Capicorsu. Amichi capicursini, ùn v'inchietate, ci ne serà per tutti i paesi. 
+Ne manca ? Ne cunniscite d'altri ? Aspettemu i vostri cummenti.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

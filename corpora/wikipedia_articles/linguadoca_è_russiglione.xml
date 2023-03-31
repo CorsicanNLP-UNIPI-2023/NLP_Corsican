@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Linguadoca è Russiglione
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Linguadoca%20%C3%A8%20Russiglione"/>
+     <date>
+      2014-03-23T14:33:05Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Linguadoca è Russiglione
+   </head>
+   <p>
+    U Linguadoca è Russiglione hè una regione francese.
+   </p>
+   <p>
+    Regione francese
+   </p>
+  </body>
+ </text>
+</TEI>

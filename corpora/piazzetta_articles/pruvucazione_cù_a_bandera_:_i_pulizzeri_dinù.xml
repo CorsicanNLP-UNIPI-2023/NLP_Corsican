@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pruvucazione cù a bandera : i pulizzeri dinù
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Pruvucazione-cu-a-bandera-i-pulizzeri-dinu_a2032.html"/>
+     <date>
+      Thu, 20 Nov 2014 11:56:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pruvucazione cù a bandera : i pulizzeri dinù
+   </head>
+   <div type="excerpt">
+    <p>
+     A bandera corsa in una manifestazione di pulizzeri pò esse cunsiderata cum'è una pruvucazione ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè un articulu di Corse-Matin di u 20 nuvembre. Ci hè stata una manifestazione di pulizzeri in Parigi. Una delegazione hè partuta da Corsica è i flicchi anu manifestatu cù a testa di moru. 
+Ùn sapemu micca s'elli si sò fatti minà da i CRS. 
+Christian Estrosi, a cummissione disciplinaria di a LFP, unepochi di giurnalisti, Christophe Barbier è l'associu France-Corse devenu riflette in stu mumentu per sapè s'elli sò pruvucatori o micca.
+    </p>
+    <p>
+     St'articulu hè statu traduttu nant'à u situ Ampargu a lingua corsa.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

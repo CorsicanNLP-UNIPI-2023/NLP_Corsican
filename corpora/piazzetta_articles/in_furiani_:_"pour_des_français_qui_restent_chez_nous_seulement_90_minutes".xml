@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     In Furiani : "Pour des Français qui restent chez nous seulement 90 minutes"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/In-Furiani-Pour-des-Francais-qui-restent-chez-nous-seulement-90-minutes_a2206.html"/>
+     <date>
+      Sun, 03 May 2015 13:30:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    In Furiani : "Pour des Français qui restent chez nous seulement 90 minutes"
+   </head>
+   <div type="content">
+    <p>
+     Pè riceve à Saint-Etienne sabbatu sera in Furiani, ci sò stati cinque minuti di silenziu in ricordu di u 5 di maghju da veru cummuventi quandu e squadre sò entrate nant'à u terrenu. 
+Tutta a settimana, s'hè parlatu dinù assai di l'interdizzione di spiazzamentu di i sustenidori di St-Etienne in Furiani, allora ch'ella ùn ci hè nimicizia trà e duie tifoserie, è ancu appena di rispettu. Per certi, Bastia è l'ASSE sò l'ultimi bastioni d'un "futbol pupulare" è passiunatu luntanu da u "futbol business" ch'ellu vole impone a LFP cù i so amichi novi di u Qatar. 
+Allora a tribuna Petrignani hà preparatu un striscione induv'ellu si pudia leghje : 
+"Contre les interdictions de déplacement. Pour des Français qui restent chez nous seulement 90 minutes". 
+Una cuntribuzione à u dibattitu nant'à u statutu di residente ? L'associu France-Corse doesn't approve this message.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     GFCA bandere
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/GFCA-bandere_a2019.html"/>
+     <date>
+      Fri, 07 Nov 2014 11:13:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    GFCA bandere
+   </head>
+   <div type="content">
+    <p>
+     http://www.gfca-foot.com/v1/wp-content/gallery/l2-13e-jee-gfca-chateauroux/L2-13-jee-GFCA-Chateauroux-1-0-058.JPG 
+http://www.gfca-foot.com/v1/wp-content/gallery/l2-13e-jee-gfca-chateauroux/L2-13-jee-GFCA-Chateauroux-1-0-073.JPG 
+http://www.gfca-foot.com/v1/wp-content/gallery/l2-13e-jee-gfca-chateauroux/L2-13-jee-GFCA-Chateauroux-1-0-075.JPG 
+http://www.gfca-foot.com/v1/ligue-2-gfcachateauroux-les-photos-152115
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

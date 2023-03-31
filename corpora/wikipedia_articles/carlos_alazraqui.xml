@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Carlos Alazraqui
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Carlos%20Alazraqui"/>
+     <date>
+      2017-04-01T01:14:01Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Carlos Alazraqui
+   </head>
+   <p>
+    Carlos Jaime Alazraqui hè un attore americanu.
+   </p>
+   <p>
+    Alazraqui, Carlos
+   </p>
+  </body>
+ </text>
+</TEI>

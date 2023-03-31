@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Peter O'Toole
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Peter%20O%27Toole"/>
+     <date>
+      2015-07-01T19:43:27Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Peter O'Toole
+   </head>
+   <p>
+    Peter O'Toole (Connemara, 2 d'agostu 1932 - Londra, 14 di dicembre 2013) hè statu un attore irlandese.
+   </p>
+  </body>
+ </text>
+</TEI>

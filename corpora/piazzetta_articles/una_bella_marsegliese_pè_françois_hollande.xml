@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Una bella Marsegliese pè François Hollande
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Una-bella-Marsegliese-pe-Francois-Hollande_a2382.html"/>
+     <date>
+      Mon, 18 Apr 2016 23:48:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Una bella Marsegliese pè François Hollande
+   </head>
+   <div type="excerpt">
+    <p>
+     Pè u so viaghju in Egittu, u presidente Hollande hè statu accoltu cù una bella Marsegliese. Trà quelli chì sunavanu falsu è quelli chì ùn avianu accurdatu i so strumenti, u risultatu hè propiu interessante. A prova ch'ellu ci hè ancu più divastatore ch'è di fischjà l'innu francese.
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

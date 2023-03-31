@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ludovico Ariosto
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Ludovico%20Ariosto"/>
+     <date>
+      2018-05-06T19:21:14Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ludovico Ariosto
+   </head>
+   <p>
+    Ludovico Ariosto (Reggio Emilia, 8 di settembre 1474 - Ferrara, 6 di lugliu 1533) hè statu unu scrittore, poeta è drammaturgu talianu.
+   </p>
+   <p>
+    ==Opere==
+   </p>
+   <p>
+    Orlando Furioso (1516-1532)
+   </p>
+   <p>
+    Satire
+   </p>
+   <p>
+    La cassaria
+   </p>
+   <p>
+    I suppositi
+   </p>
+   <p>
+    Il negromante
+   </p>
+   <p>
+    La lena
+   </p>
+   <p>
+    Scrivanu
+   </p>
+  </body>
+ </text>
+</TEI>

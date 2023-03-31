@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Murasaki Shikibu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Murasaki%20Shikibu"/>
+     <date>
+      2018-05-08T19:28:39Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Murasaki Shikibu
+   </head>
+   <p>
+    Murasaki Shikibu, nata in u 976 à Heiankyo è morta in u 1014 à Heiankyo, hè stata una scrivana è puetessa giappunese.
+   </p>
+   <p>
+    ==Opere==
+   </p>
+   <p>
+    Genji Monogatari (1008)
+   </p>
+   <p>
+    Murasaki Shikibu nikki (1010)
+   </p>
+   <p>
+    Murasaki Shikibu syu (1014)
+   </p>
+   <p>
+    Murasaki Shikibu
+   </p>
+  </body>
+ </text>
+</TEI>

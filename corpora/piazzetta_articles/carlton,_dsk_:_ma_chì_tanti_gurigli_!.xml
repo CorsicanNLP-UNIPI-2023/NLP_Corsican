@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Carlton, DSK : ma chì tanti gurigli !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Carlton-DSK-ma-chi-tanti-gurigli-_a2153.html"/>
+     <date>
+      Mon, 16 Feb 2015 00:32:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Carlton, DSK : ma chì tanti gurigli !
+   </head>
+   <div type="content">
+    <p>
+     À u prucessu dettu di u Carlton, in Lille, quella donna chjamata « Jade » hà dichjaratu chì DSK l’avia smuntata pigliendula à pasci pecura… Chì nimu mai l’avia fattu male cusì. Ch’ella era una forma di raportu ch’ella ùn averia mai accittatu è ch’ellu l’avia imposta senza dumandalli nulla. Tandu hà rispostu ellu : hè vera chì aghju una « sessualità un suppulu roza ». 
+Or chjudemu l’ochji è ricurdemuci a canzona « Le gorille », immurtalizata da Georges Brassens. Femu contu avà chì i persunagi si ritrovinu tutti à u prucessu di u Carlton. Ebbeh, centu per unu chì u ghjudice è a vichjetta vinerianu à testimunià pè e fragate salvatiche di l’anzianu direttore di u FMI. 
+Ma micca solu questi ! 
+Quantu ella l’era fritta ancu à ellu tandu, a cunteria ancu, cù u tremulu in bocca...  U gurigliu !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

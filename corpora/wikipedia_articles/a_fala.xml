@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Fala
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/A%20Fala"/>
+     <date>
+      2015-07-09T14:04:55Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A Fala
+   </head>
+   <p>
+    A lingua fala (o semplicemente a Fala) hè una lingua romanza chì hè parlata in e cumune di San Martín de Trevejo, Eljas è Valverde del Fresno in a detta Valle de Jálama in u norduveste di a provincia di Cáceres in Spagna, vicinu à a fruntiera di u Purtugallu. In tutte 'sse cumune ci hè un dialettu propiu. Ci sò frà 6.000 è 10.500 locutori di a Fala, frà i quali 4.500 è 5.500 vìvenu in l'aghja di diffusione.
+   </p>
+   <p>
+    Incù lu portughese è lu galizzianu, a lingua fala face parte di un pìcculu sottugruppu ind'u iberurumanzu, chjamatu galizianu-portughese.
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Ethnologue report for the Fala
+   </p>
+   <p>
+    Fala
+   </p>
+  </body>
+ </text>
+</TEI>

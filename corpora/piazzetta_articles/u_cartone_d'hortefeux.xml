@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U cartone d'Hortefeux
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-cartone-d-Hortefeux_a1014.html"/>
+     <date>
+      Mon, 24 Jan 2011 00:18:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U cartone d'Hortefeux
+   </head>
+   <div type="excerpt">
+    <p>
+     Avete vistu à Brice Hortefeux fà a so lezzione nant'à TF1 cù i sciffri di l'insecurità ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Quand'ellu ci vole à pigliacci per baulli, l'omi pulitichi e trovanu tutte... A settimana scorsa hè cù un cartone chì u ministru di l'internu hè spuntatu à u JT di TF1. A so frasa « Je suis venu ce soir avec un graphique... » risicheghja di firmà in a storia di e calamità televisuale di u regnu di Sarkozy. 
+Tutta sta messa in scena per circà di facci crede chì l'insecurità hè calata quandu Sarkozy hè ghjuntu à u putere, allora chì l'agressioni è l'attacche à e personi sò in pienu sviluppu. 
+U peghju hè chì l'ultimu chì era ghjuntu in un'emissione à a telè cù un cartone era... u Commandant Sylvestre durante a Guerra di u Golfu... arricurdatevi ! 
+Allora cum'è no semu scrianzati, l'avemu fattu dì pienu d'altre cose, à Briziu. 
+À voi di truvanne d'altre...
+    </p>
+    <p>
+     Per quelli chì s'arricordanu di sta pubba maiò di l'anni 80... è di a so parudia di Les Nuls.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "Seven Nation Army" versione battellu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Seven-Nation-Army-versione-battellu_a1798.html"/>
+     <date>
+      Mon, 12 May 2014 19:40:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "Seven Nation Army" versione battellu
+   </head>
+   <div type="content">
+    <p>
+     Vi faticanu i rimori di battelli, cù e so musiche quand'elli entrenu o sortenu di u portu ? Vi stancanu quandu i capitani si lancianu in u chjam'è rispondi infernale di corne è di trumbette ? 
+Allora, vi piacerà stu battellu di crucera chì entre in portu à u sonu di Seven Nation Army di The White Stripes. 
+U nome di u battellu hè MSC Magnifica è era a so manera di marcà u colpu pè e festività di l'anniversariu di u portu d'Hamburgu in Alemagna. 
+Ùn si sà si u capitanu era briacu. 
+À quandu un battellu entrendu in un portu corsu à u sonu di L'Armata di l'ombra ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

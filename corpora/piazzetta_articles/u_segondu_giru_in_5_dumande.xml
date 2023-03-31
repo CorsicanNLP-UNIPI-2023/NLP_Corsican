@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U segondu giru in 5 dumande
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-segondu-giru-in-5-dumande_a1367.html"/>
+     <date>
+      Tue, 12 Jun 2012 15:31:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U segondu giru in 5 dumande
+   </head>
+   <div type="content">
+    <p>
+     Dumanda n°1 : A manca vole veramente fà perde à Camille de Rocca Serra in a segonda circuscrizzione di Corsica Suttana ? 
+Dumanda n°2 : Induve Frédéric Hantz hà da fà a so più bella elezzione ? 
+Dumanda n°3 :
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Circate a bandera corsa
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Circate-a-bandera-corsa_a1627.html"/>
+     <date>
+      Fri, 04 Oct 2013 12:25:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Circate a bandera corsa
+   </head>
+   <div type="excerpt">
+    <p>
+     Valia a pena di muntacci a sega nant'à "la Corse, premier morceau de France libéré" è di a visita presidenziale chì duvia "réparer un oubli douloureusement ressenti". In Bastia, ùn ci hè nisuna bandera corsa.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè a storia d'una visita presidenziale presentata cum'è "storica". U presidente di a ripublica duvia vene pè "riparà" un fattu sfassatu da a storia : a Corsica hè stata a prima à liberassi da l'occupazione taliana è alemana, 70 anni fà : 
+Scrive cusì u Huffington Post : 
+"Fait souvent négligé par les livres d'Histoire qui retiennent les débarquements de Normandie et de Provence, postérieurs de plusieurs mois, la Corse a été le premier territoire métropolitain libéré par l'action combinée de la Résistance et des Forces françaises libres venues d'Afrique du Nord. 
+Aujourd'hui encore, cet oubli est douloureusement ressenti en Corse, tout particulièrement par les anciens combattants. Le réparer sera le "sens" de la visite du chef de l'Etat." 
+"Le réparer" dunque. Casca male, in Bastia si sò scurdati di mette e bandere corse, ci dice u situ di France 3 Corse. 
+Cummencia male.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

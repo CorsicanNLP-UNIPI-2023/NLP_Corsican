@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Santa Lucia di Mercuriu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Santa%20Lucia%20di%20Mercuriu"/>
+     <date>
+      2015-06-30T17:15:29Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Santa Lucia di Mercuriu
+   </head>
+   <p>
+    Santa Lucìa di Mercoriu  hè una cumuna di u dipartimentu di a Corsica suprana.
+   </p>
+   <p>
+    == Geografia ==
+   </p>
+   <p>
+    == Storia ==
+   </p>
+   <p>
+    == Merri ==
+   </p>
+   <p>
+    == Referenze ==
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Cumuna di Corsica suprana
+   </p>
+   <p>
+    Cumuna di Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

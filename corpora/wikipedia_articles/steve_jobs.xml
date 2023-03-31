@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Steve Jobs
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Steve%20Jobs"/>
+     <date>
+      2016-01-02T10:38:42Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Steve Jobs
+   </head>
+   <p>
+    Steven Paul "Steve" Jobs hè statu un impresariu, inventore, spicializatu in informatica americanu.
+   </p>
+   <p>
+    Era natu u 24 ferraghju 1955 in San Francisco, California è hè mortu in a so casa in Palo Alto, California, l'5 d'ottobre 2011.
+   </p>
+   <p>
+    Jobs, Steve
+   </p>
+   <p>
+    Jobs, Steve
+   </p>
+  </body>
+ </text>
+</TEI>

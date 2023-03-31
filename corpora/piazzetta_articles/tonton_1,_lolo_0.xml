@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tonton 1, Lolo 0
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Tonton-1-Lolo-0_a2010.html"/>
+     <date>
+      Tue, 28 Oct 2014 12:28:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tonton 1, Lolo 0
+   </head>
+   <div type="excerpt">
+    <p>
+     Tuttu u mondu u pensava mortu, Tonton Simon hè di ritornu. Femu u puntu nant'à a situazione in Aiacciu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'ultima elezzione municipale in Bastia avia attiratu tutti i sguardi è ùn avemu guasi micca parlatu di l'elezzione aiaccina. Casca bè, l'Aiaccini anu da turnà à vutà. 
+281 voti di differenza : Sia 1,18%. Hè u scartu ch'ellu ci hè statu trà Laurent Marcangeli è Simon Renucci à u segondu giru. S'hè parlatu prestu di false precure è di froda. Ma i sguardi si sò purtati dinù nant'à a lista naziunalista. Ùn ci hè statu accordu trà a lista di Renucci è quella di José Filippi è sò stati accusati d'avè fattu u ghjocu di a lista di diritta. 
+Aiacciu, capitale di a froda ? Durante anni è anni si parlava di Bastia cum'è "a capitale mundiale di a froda". L'Aiaccini averanu pigliatu ancu quessa à Bastia ? Di maghju scorsu Libération parlava di "procurations fantômes". 1.780 precure à u primu giru, 2.380 à u segondu. Ci n'era statu 973 à u segondu giru in u 1995, 1.357 in u 2008... 
+"Manœuvres frauduleuses" : In fine di cantu, i Renucci anu fattu annulà u risultatu. U tribunale amministrativu di Bastia ùn hà micca appreziatu tutte ste precure. Hà rillevatu :  - "une série de procurations avaient été rédigées de la même main"  - per d'altre : "la signature différait manifestement de celle figurant sur la liste d'émargement du premier tour"  - o allora "les informations relatives à l'identité et à l'adresse de la personne donnant procuration étaient grossièrement contradictoires ou inexactes"  - per ciò chì hè di e signature : "la signature apposée lors du second tour était significativement différente de celle apposée au premier tour"  Cunclusione : "une manœuvre systématiquement organisée dans l'établissement des procurations", è si turnerà à vutà. 
+Ma u tribunale ùn trova culpèvule : Messu in causa, Marcangeli a si franca : "impossible, en l'état de l'instruction, de déterminer quels étaient les auteurs des manœuvres et leur bénéficiaire". 
+È avà ? Si turnerà in i trè mesi à vene, a data ùn hè ancu scelta. Marcangeli hà demissiunatu è hè digià in pista per una campagna nova.  Ma a manca ùn hè unita. François Casasoprana s'hè dichjaratu candidatu. 
+È i naziunalisti ?  Marcangeli l'avia attaccati, Femu a Corsica hà fattu una cunferenza di stampa pè rispondeli. 
+Ma l'anu fatta senza Corsica Libera, chì di u colpu hà fattu una cunferenza per dì ch'elli parterianu à l'elezzione... 
+Dicenu dinù ch'elli ùn volenu sente parlà d'unione cù a diritta : "la droite certainement pas, puisque c'est celle qui nous combat et qui refuse toutes avancées de statut pour la Corse. Da leghje nant'à Corsica Infurmazione 
+Per a tontonista Maria Giudicelli, "les leçons ont été tirées" : "au regard des conditions très difficiles dans lesquelles se sont déroulées les négociations, nous n'aurions aucune peine aujourd'hui à réaliser ce rassemblement". 
+Ma per avà, a manca hè divisa è i naziunalisti dinù. Tuttu què cù e territuriali di u 2015 chìanu da vene subbitu dopu. Marcangeli ellu hà persu à Marcel Francisci chì hà da chì fà cù i so prublemi di ghjustizia. 
+A campagna hà da esse longa...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

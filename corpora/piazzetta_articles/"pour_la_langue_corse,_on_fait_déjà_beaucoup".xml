@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "Pour la langue corse, on fait déjà beaucoup"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Pour-la-langue-corse-on-fait-deja-beaucoup_a1626.html"/>
+     <date>
+      Fri, 04 Oct 2013 10:38:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "Pour la langue corse, on fait déjà beaucoup"
+   </head>
+   <div type="excerpt">
+    <p>
+     Eccu, François Hollande hà digià chjosu una porta in Corse-Matin. Pè a lingua corsa "on fait déjà beaucoup" è pè di statutu di residente ùn ne vole sente parlà.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'intervista sana a pudete leghje in l'edizione di Corse-Matin. 
+Nant'à e pruposte di a cummissione Chaubon, ancu si u presidente ùn chjode micca tuttu : 
+«Je demanderai au gouvernement de recevoir les élus de l'assemblée de Corse, pour poursuivre la réflexion sur la meilleure façon de tenir compte des spécificités de l'île». 
+Tene à precisà chì di tutte e manere, a Ripublica hè quella chì passa è vince : 
+«Mon engagement, c'est de respecter les élus et leur travail (…) Mais mon obligation, c'est de rester dans le cadre de la République». 
+Per a lingua corsa e cose sò intese : 
+«S'agissant de la langue corse, on fait déjà beaucoup». Semu felici d'amparalla, tuttu và bè dunque. 
+Pè u statutu di residente, ùn ci pensate mancu : 
+«Faire des règles d'accès à la propriété différentes entre les citoyens serait contraire au principe d'égalité et aurait pour effet de fermer le marché immobilier au détriment de tous» 
+Circulate, ùn ci hè più nunda da vede.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

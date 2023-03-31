@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hiram Maxim
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Hiram%20Maxim"/>
+     <date>
+      2014-08-08T00:24:53Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hiram Maxim
+   </head>
+   <p>
+    Hiram Stevens Maxim (1840-1916) fubbi un invintore americanu-britànnicu.
+   </p>
+   <p>
+    Maxim
+   </p>
+   <p>
+    Maxim
+   </p>
+  </body>
+ </text>
+</TEI>

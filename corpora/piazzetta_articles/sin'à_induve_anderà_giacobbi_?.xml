@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sin'à induve anderà Giacobbi ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Sin-a-induve-andera-Giacobbi_a1078.html"/>
+     <date>
+      Sun, 10 Apr 2011 23:47:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sin'à induve anderà Giacobbi ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Paul Giacobbi hè favurèvule à un statutu di "residente corsu" è l'hà ricunnisciuta nant'à France 3 : a Corsica ùn appartene più à i Corsi... Per Nicolas Alfonsi, stu statutu di residente serà plasticatu da u Conseil Constitutionnel.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Paul Giacobbi avia digià cappiatu a bomba a settimana passata nant'à u statutu di residente corsu per pruvà d'impedisce a spatrunizazione di a terra corsa (da leghje in Corse-Matin di u 6 d'aprile). 
+Sapemu chì in certi lochi di u liturale, a grande magiorità di i pruprietarii ùn sò micca Corsi. 
+À cuntrastu, Paul Giacobbi hà cuntinuvatu in sta via. À a dumanda di Joseph-Guy Poletti "vous partagez l'idée suivant laquelle la Corse ne sera plus aux Corses ?", hà rispostu : "Ah oui. C'est statistique, malheureusement..." (da vede nant'à u situ di France3) 
+Nicolas Alfonsi ellu dorme tranquillu. L'hà detta à 24 Ore, u statutu di residente ùn li face paura : « Tout le monde fait semblant d’y croire mais tout le monde sait que le statut serait pulvérisé par le Conseil Constitutionnel... » 
+Allora, quale hà da vince ? Chì mette in stu statutu di residente ? Philippe Gildas è Christian Clavier dinù ponu esse cunsiderati cum'è "residenti corsi" ? È cumu evità ch'ellu sia plasticatu da u Conseil Constitutionnel ? U dibattitu cuntinuveghja...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

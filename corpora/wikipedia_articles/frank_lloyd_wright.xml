@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Frank Lloyd Wright
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Frank%20Lloyd%20Wright"/>
+     <date>
+      2018-09-06T15:39:29Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Frank Lloyd Wright
+   </head>
+   <p>
+    Frank Lloyd Wright (natu in Richland Center, Wisconsin l’8 ghjugnu 1867- mortu in Phoenix u 9 aprili, 1959) hè statu un architettu americanu.
+   </p>
+   <p>
+    Frank Lloyd Wright
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Un cumpradore nant'à dui ùn hè micca Corsu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-cumpradore-nant-a-dui-un-he-micca-Corsu_a1317.html"/>
+     <date>
+      Sun, 08 Apr 2012 16:53:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Un cumpradore nant'à dui ùn hè micca Corsu
+   </head>
+   <div type="excerpt">
+    <p>
+     Vulete un alloghju novu in Corsica ? Avete una prubabilità nant'à duie di cumprà. È ancu...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     « Quale hè chì compra l’alloghji novi in Corsica ? Una pressione massiccia di l’esteru ». 
+Innò, ùn hè micca una fòrmula nant’à un affissu naziunalistu. Nò, cusì hè intitulatu un studiu ecunòmicu ricente nant’à u blog corse-economie.eu. 
+S’ampara dunque chì 44% di l’alloghji novi in Corsica sò stati compri da acquistadori furesteri è chì a metà di quelli acquisti cuncernanu e famose residenze sigundarie, «record » francese indiscutèvule, luntanu davanti à a PACA è u Languedoc (avemu i «record » ch’è no pudemu)… 
+In più di quessa u studiu palesa chì ci sò ancu sucetà chì compranu alloghji à buzeffu. Vale à di chì, contu fattu, sò più di 60% di l’alloghji chì sò a pruprietà di cumpradori o sucetà di  l’esteru. 
+È ùn si parla mancu di l’alloghju anzianu chì i sciffri per avà ùn sò cunnisciuti… 
+Più d’un pruprietariu nant’à dui ùn sarebbe dunque micca corsu. 
+Bisognu d'aghjustà qualcosa ? Ah iè, s’ampara dinù chì i rivenuti di i Corsi si sò sprufundati
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

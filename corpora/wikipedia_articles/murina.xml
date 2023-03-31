@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Murina
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Murina"/>
+     <date>
+      2015-07-02T14:59:07Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Murina
+   </head>
+   <p>
+    Murina hè un nome chì s'improda à spessu per designà una capra nera (Santucci &amp; Franceschi 2009). U nome "murina" vene da "moru", chì si riferisce à una persona incù a pelle è u carnatu bruni. In 'ssu cuntestu, un sinonimu di Murina hè Curbina.
+   </p>
+   <p>
+    ==Referenze==
+   </p>
+   <p>
+    Santucci, P &amp; Franceschi, P., Culorazione è nomi di e capre (in francese), Cah. Techn. Inra, 2009, 66, pagine 33-40
+   </p>
+   <p>
+    Mammalia
+   </p>
+  </body>
+ </text>
+</TEI>

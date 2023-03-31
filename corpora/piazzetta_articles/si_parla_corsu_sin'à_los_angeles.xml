@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Si parla corsu sin'à Los Angeles
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Si-parla-corsu-sin-a-Los-Angeles_a2504.html"/>
+     <date>
+      Thu, 12 Jan 2017 08:17:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Si parla corsu sin'à Los Angeles
+   </head>
+   <div type="excerpt">
+    <p>
+     U situ Compru In Corsu hà trovu u cummerciu u più luntanu di Corsica induv'ellu si parla corsu. Si trova in Califurnia, in a cità di Los Angeles. Scusate, in a cità di L'Ànghjuli.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Imaginate : site in Los Angeles, v'annuiate, site in depressione è vi manca u vostru paese ? Nunda di più semplice. Direzzione Melrose Avenue ind'è "Napoleon and Josephine", l'osteria tenuta da Cédric Savelli è a so cumpagna. 
+L'annuariu Compru in Corsu hà fattu a so inchiesta :
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

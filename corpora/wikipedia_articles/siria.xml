@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Siria
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Siria"/>
+     <date>
+      2017-01-03T23:05:28Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Siria
+   </head>
+   <p>
+    A Repubblica Araba di Siria, oppuru a Siria, hè un paese di u mezoriente, vastu di , cun  abitanti. A so capitale hè Damascu.
+   </p>
+   <p>
+    Sparte fruntiere à nordu cun a Turchia, à este cun l'Iraq, à sudu cun a Giordania, à punente cun Israele, u  Libanu è u Mare Terraniu . A Siria hè una repubblica presidenziale. A lingua ufficiale hè l'arabu.
+   </p>
+  </body>
+ </text>
+</TEI>

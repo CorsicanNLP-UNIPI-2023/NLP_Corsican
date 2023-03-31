@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Muriel de la Fuente
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Muriel%20de%20la%20Fuente"/>
+     <date>
+      2014-03-23T14:41:36Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Muriel de la Fuente
+   </head>
+   <p>
+    hè una cumuna spagnola di a pruvincia di Soria, in a cumunità autonoma di Castiglia è León.
+   </p>
+   <p>
+    Pruvincia di Soria
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Georges Mela : "l'effettu Streisand" cuntinuveghja
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Georges-Mela-l-effettu-Streisand-cuntinuveghja_a1856.html"/>
+     <date>
+      Wed, 04 Jun 2014 00:37:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Georges Mela : "l'effettu Streisand" cuntinuveghja
+   </head>
+   <div type="content">
+    <p>
+     Dapoi chì u Cullettivu Lege Liturale hà fattu sapè chì u merre di Portivechju hà purtatu lagnanza contr'à parechji difensori di l'ambiu, s'hè spartuta assai nant'à e rete suciali a video di Canal+ chì ùn li era micca piaciuta. 
+Si cuntava circa 2300 viste luni matina, ci n'era à 3500 marti matina, 4300 marti sera... 2000 viste in cusì pocu tempu, ci vole à falla ! 
+Georges Mela vene di fà a cunniscenza cù "l'effettu Streisand". 
+Ma oghje, s'amparava nant'à u situ Alcudina ch'ellu ùn hà micca purtatu lagnanza contr'à i difensori di l'ambiu, ma contr'à Canal+. 
+Eccu a videò.
+    </p>
+    <p>
+     Da leghje dinù : Ci lascerà un pezzu di machja Georges Mela ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

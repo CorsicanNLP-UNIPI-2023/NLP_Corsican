@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ridley Scott
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Ridley%20Scott"/>
+     <date>
+      2015-08-04T09:17:32Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ridley Scott
+   </head>
+   <p>
+    Ridley Scott hè un realizadore britannicu.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Alien
+   </p>
+   <p>
+    Scott, Ridley
+   </p>
+   <p>
+    Scott, Ridley
+   </p>
+  </body>
+ </text>
+</TEI>

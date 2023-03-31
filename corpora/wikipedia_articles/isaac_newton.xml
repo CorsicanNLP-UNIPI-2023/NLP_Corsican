@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Isaac Newton
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Isaac%20Newton"/>
+     <date>
+      2014-03-23T14:26:39Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Isaac Newton
+   </head>
+   <p>
+    Sir Isaac Newton (* 4 di ghjennaghju 1643; † 31 di marzu 1727) fubbe un fìsicu, matemàticu, astrònumu, filòsofu di a natura, alchimistu è teologu inglese. Hè suvente cunsideratu cum'è unu di e più impurtante persone in a storia di a scienza.
+   </p>
+   <p>
+    Commons
+   </p>
+   <p>
+    Newton
+   </p>
+  </body>
+ </text>
+</TEI>

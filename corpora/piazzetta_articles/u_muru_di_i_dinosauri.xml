@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U muru di i dinosauri
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-muru-di-i-dinosauri_a1570.html"/>
+     <date>
+      Fri, 17 May 2013 11:30:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U muru di i dinosauri
+   </head>
+   <div type="content">
+    <p>
+     Cunniscite forse La grande gallerie de l'évolution à u Museum d'histoire naturelle di Parigi. 
+In Corsica noi avemu a Grande galleria di a non-evuluzione, si passa in Aiacciu à a CTC.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

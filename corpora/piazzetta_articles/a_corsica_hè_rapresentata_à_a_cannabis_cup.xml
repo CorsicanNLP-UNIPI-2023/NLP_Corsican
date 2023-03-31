@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Corsica hè rapresentata à a Cannabis Cup
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-Corsica-he-rapresentata-a-a-Cannabis-Cup_a1225.html"/>
+     <date>
+      Sun, 04 Dec 2011 22:50:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A Corsica hè rapresentata à a Cannabis Cup
+   </head>
+   <div type="excerpt">
+    <p>
+     Cunniscite a Cannabis Cup ? Hè una cumpetizione chì si passa in Amsterdam induve si festighjeghja u tizzone. In Corsica dinù, face una stonda ch'ellu si pianta di più canapu ch'è granu...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In Corsica semu forti pè truvà feste è fiere pè tuttu : fiera di u casgiu, di a castagna, di u vinu, di u legnu, di u mele, di u ficu... L'Olandesi n'anu inventatu una chì puderia avè a so piazza in Corsica : a fiera di u tizzone. 
+Ind'è noi ci aviamu digià à "festijoint", ma custì hè ancu più grossu. A Cannabis Cup esiste dapoi 1988 è cum"è à a Santa di u Niolu, ci sò parechji stands di pruduttori chì presentanu i so prudutti. Ci hè una ghjuria chì i tasta tutti (o piuttostu chì i fuma tutti) è chì dà una ricumpensa à a più bona erba. 
+U successu hè tale chì u guvernu olandese vole avà interdisce à i fresteri di vene. Da sente nant'à u situ di France Info : A Amsterdam, le succès de la Cannabis Cup. I strangeri i più numerosi à andacci sò d'altronde i... francesi. 
+È di siguru, cum'è pè tutte e cunnerie, vulite ch'ellu ùn ci sia micca Corsi ? Oghje, ogni paese (o guasi) hà u so cutlivatore di canapu. Face un pezzu ch'ellu si pianta di più cannabis ch'è di granu. Di lugliu scorsu era in Castagniccia chì un "agricultore" s'hè fattu chjappà... in traccia d'annacquà e so lenze (da leghje in Corse-Matin : Castagniccia : un cultivateur de cannabis pris la main dans l'arrosoir). 
+Hè cusì, oghje l'ortu di babbone è a lenza di minnana ghjovanu pè l'amatori di tizzoni. È forse sti cultivatori seranu in "Tempi Fà", da quì à 50 anni...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

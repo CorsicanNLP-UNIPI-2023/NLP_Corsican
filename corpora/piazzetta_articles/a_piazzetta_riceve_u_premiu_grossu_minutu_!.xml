@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Piazzetta riceve u premiu Grossu Minutu !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-Piazzetta-riceve-u-premiu-Grossu-Minutu-_a1611.html"/>
+     <date>
+      Fri, 16 Aug 2013 13:07:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       GIURNALE
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A Piazzetta riceve u premiu Grossu Minutu !
+   </head>
+   <div type="excerpt">
+    <p>
+     Tutti l'anni, l'associu Grossu Minutu ricumpensa quelli chì si sò distinti cù u so sensu di a risa è di u so "spiritu minutincu". Quist'annu, hè cascata nant'à noi !
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Bon i cummentatori abituali di stu situ è i sempiterni azezi ci diceranu ch'è no ci muntemu torna a sega, ma quantunque ci vulia à dilla : quist'annu hè accadutu un picculu miraculu. 
+A Piazzetta hà vintu qualcosa è simu fieri chì l'Associu Grossu Minutu ci appia onoratu, ellu chì cerca di fà campà u spiritu è u sensu di u scherzu di Grossu Minutu. 
+L'associu Grossu Minutu hà dunque invitatu A Piazzetta quist'annu in u paese di I Prelli d'Alisgiani pè rimette i so truffei : un'opera in legnu di l'attellu Paoli di Nucariu, un inciacca fasgiole è un pulendaghju fatti da Pantaléon Alessandri (casca bè chì semu di razza pisticcina). 
+Forse chì di vene à a seguita d'una lista di i laureati cusì prestigiosi ci derà a forza di cuntinuvà torna appena. Perchè chì di circà à fà ride di sti tempi in un paese d'azezi cum'è u nostru, ùn hè micca sempre faciule... 
+Eppò hè megliu chè di riceve un calciu in quellu locu, nò ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

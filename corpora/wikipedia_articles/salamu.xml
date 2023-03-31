@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Salamu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Salamu"/>
+     <date>
+      2019-10-03T11:16:02Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Salamu
+   </head>
+   <p>
+    U Salamu hè una spicialità di a gastrunumia corsa.
+   </p>
+   <p>
+    == Priparazioni ==
+   </p>
+   <p>
+    ==Citazioni==
+   </p>
+   <p>
+    Accadi chì u salamu fussi mintuvata in a cultura corsa. Par asempiu in a ghjastema:
+   </p>
+   <p>
+    Ch'iddi t'appiccani cum'un salamu appesu !
+   </p>
+   <p>
+    ==Rifarenzi==
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    Gastrunumia corsa
+   </p>
+  </body>
+ </text>
+</TEI>

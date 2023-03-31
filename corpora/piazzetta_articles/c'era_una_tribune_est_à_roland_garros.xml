@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     C'era una Tribune Est à Roland Garros
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/C-era-una-Tribune-Est-a-Roland-Garros_a1842.html"/>
+     <date>
+      Wed, 28 May 2014 00:40:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    C'era una Tribune Est à Roland Garros
+   </head>
+   <div type="excerpt">
+    <p>
+     Ma nisun ogettu hè statu lampatu nant'à u terrenu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Lionel Chamoulaud chì cummentava per France Télévisions ùn hà micca capitu tuttu ciò si passava. 
+Parechji "Uniti !" è "Tutti inseme" sò partuti eri in e tribune di u court 7. Bandere corse, sciarpe turchine, mughji... Roland Garros avia una piccula sumiglia cù Furiani eri. Eranu parechji l'ultras di Lokoli per sustenelu in a so partita contr'à l'americanu Johnson. 
+Eccu cum'è un giurnalistu d'Eurosport discrive l'ambianza : 
+"Drapeaux corses, couleurs du SC Bastia et ambiance de foot : le match du jeune Français Laurent Lokoli contre Steve Johnson a eu lieu dans un environnement rare pour un premier tour de Roland-Garros. 
+Le jeune qualifié français Laurent Lokoli aime sa Corse. Sa Corse le lui rend bien. Sur le court numéro 7, qui accueillait mardi soir son premier match dans un grand tableau de Grand Chelem contre l’Américain Steve Johnson, le spectacle était aussi dans les tribunes, comme très rarement à Roland-Garros. Lokoli serait-il passé à deux balles de match d’une perf sans le soutien massif, bruyant et bon enfant d’un kop d’une soixantaine de supporters tout droit sortis du stade Armand-Cesari ? Personne ne le sait. Et évidemment peu importe. L’essentiel est que tous ces gens se soient déjà offert un paquet de souvenirs pour plus tard et qu’ils aient envie de recommencer mercredi. Concentré comme un moine durant l’essentiel du match, il a su faire monter le son aux moments chauds pour communier avec un virage dédié à sa cause, drapé des couleurs du SC Bastia. Un geste de la main vers le haut. Un doigt qui tapote la tempe après quelques points-clefs. Lokoli sait déjà y faire pour entretenir la flamme." 
+(...) 
+"Corse - Etats-Unis est un match de Coupe Davis qui n’aura probablement jamais lieu," (NDLR : QUESSA ÙN NE SAI NUNDA !) "mais c’est un peu dans ce type d’ambiance que ce premier tour du huitième de tableau de Nadal s’est déroulé. Tutti Insémé (tous ensemble), Vinceremu (nous gagnerons) : le coin corse n’aura jamais cessé plus de deux minutes de faire savoir où ses préférences l’orientaient. En face, cinq Américains ont relevé le défi. Cela a donné quelques scènes cocasses. Pas vraiment une battle. Même quand Johnson a fini par refaire son retard, le clan US a su rester à sa place." 
+Precisione : nisun àrbitru o ghjudice ùn hè statu minatu durante a partita.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

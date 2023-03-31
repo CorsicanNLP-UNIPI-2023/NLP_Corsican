@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U gestu di Tony Chapron à i sustenidori di u GFCA
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-gestu-di-Tony-Chapron-a-i-sustenidori-di-u-GFCA_a1507.html"/>
+     <date>
+      Tue, 05 Mar 2013 20:35:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U gestu di Tony Chapron à i sustenidori di u GFCA
+   </head>
+   <div type="excerpt">
+    <p>
+     L'arbitru Tony Chapron hà fattu un ditu à i sustenidori di u Gazélec. Ùn ci vole micca à cuntà nant'à u futbol per avvicinà i populi quist'annu...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     kitd.html5loader("flash_kplayer_6c0fc063063s");
+L'Equipe hà publicatu una video di e camerà di surveglianza di Mezavia nanzu à a partita GFCA - Monaco chì s'era finita in baruffa.. 
+Dopu à sta partita, Frédéric Thiriez purtava u so sustegnu à Tony Chapron. In un cummunicatu, parlava di «des faits intolérables (...), insupportables pour l’image du football français»  è si dice chì u Gazélec risica una grossa sanzione. 
+I dirigenti anu accusatu l'arbitru francese d'avelli pruvucati durante tutta a partita. A videò mostra bè chì Tony Chapron face un ditu à a tribuna di i sustenidori di u Gaz. 
+U futbol francese si porta veramente bè.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

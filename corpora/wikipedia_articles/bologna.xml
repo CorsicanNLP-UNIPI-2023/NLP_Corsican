@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bologna
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Bologna"/>
+     <date>
+      2014-03-23T14:05:01Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bologna
+   </head>
+   <p>
+    Bologna hè una cumuna è una cità taliana, capilocu di a regione Emilia è Romagna è di a pruvincia omonima.
+   </p>
+   <p>
+    Raghjunghje i 375.985 abitanti. Hè un centru universitariu, industriale, culturale è scientificu di i più impurtanti di u paese.
+   </p>
+   <p>
+    Cumuna d'Italia
+   </p>
+  </body>
+ </text>
+</TEI>

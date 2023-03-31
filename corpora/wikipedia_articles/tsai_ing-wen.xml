@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tsai Ing-wen
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Tsai%20Ing-wen"/>
+     <date>
+      2016-10-04T04:37:02Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tsai Ing-wen
+   </head>
+   <p>
+    Tsai Ing-wen (31 aostu 1956) hè u presidente di a Taiwan.
+   </p>
+   <p>
+    Puliticante
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Keanu Reeves
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Keanu%20Reeves"/>
+     <date>
+      2015-07-01T19:17:47Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Keanu Reeves
+   </head>
+   <p>
+    Keanu Charles Reeves (natu u 2 settembre 1964) hè un attore canadianu.
+   </p>
+   <p>
+    Reeves, Keanu
+   </p>
+   <p>
+    Reeves, Keanu
+   </p>
+  </body>
+ </text>
+</TEI>

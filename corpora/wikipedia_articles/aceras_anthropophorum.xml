@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Aceras anthropophorum
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Aceras%20anthropophorum"/>
+     <date>
+      2015-07-02T17:05:47Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Aceras anthropophorum
+   </head>
+   <p>
+    Aceras anthropophorum
+   </p>
+   <p>
+    Aceras anthropophorum hè una pianta di Corsica.
+   </p>
+   <p>
+    Flora di Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

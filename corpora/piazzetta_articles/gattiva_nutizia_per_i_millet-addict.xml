@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Gattiva nutizia per i Millet-addict
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Gattiva-nutizia-per-i-Millet-addict_a1032.html"/>
+     <date>
+      Wed, 16 Feb 2011 11:55:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Gattiva nutizia per i Millet-addict
+   </head>
+   <div type="excerpt">
+    <p>
+     Millet hè siguramente a marca chì hà u più successu ind'è i fashion-nustrali in stu mumentu... è ind'è a gendermeria dinù.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Chì sdiliccia ! N'aviamu parlatu qualchì mese fà, hè a grossa moda di a marca francese Millet (spezialista di i vestiti di muntagna). 
+Muntagnoli appasiunati di Paglia Orba, bobò urbani, machjaghjoli jet-settori, veri cacciadori è fashion rurali, tutti plebisciteghjanu a marca savoiarda. 
+Ma ci n'hè d'altri chì sò diventati amatori di Millet. Surpresa ! Si tratta di i gendarmi. Da quì à pocu a marca hà da veste l'inseme di i bleus. 
+Dopu à Meindl chì hà rimpiazzatu e tradiziunale Rangers, eccu chì ferà un novu puntu cumunu trà l'armata francese è l'armate di l'ombra di i sbacconi.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

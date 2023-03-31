@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Isulottu di i Porri
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Isulottu%20di%20i%20Porri"/>
+     <date>
+      2019-10-03T11:14:48Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Isulottu di i Porri
+   </head>
+   <p>
+    L' Isulottu di i Porri hè un isulottu di Corsica chì faci partita di l'Isuli Sanguinari.
+   </p>
+   <p>
+    == Rifarenzi ==
+   </p>
+   <p>
+    Vucabulariu aiaccinu di a pesca, Matina latina
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    Isulotti di Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

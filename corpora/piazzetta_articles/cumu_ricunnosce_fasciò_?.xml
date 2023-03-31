@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cumu ricunnosce fasciò ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cumu-ricunnosce-fascio_a2373.html"/>
+     <date>
+      Fri, 08 Apr 2016 12:09:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cumu ricunnosce fasciò ?
+   </head>
+   <div type="content">
+    <p>
+     Bobos
+Bobos  Variante "écolo-bobo-socialo" (è in Corsica "natio-bobo")
+    </p>
+    <p>
+     Gauchiasse
+    </p>
+    <p>
+     Bien-pensants
+    </p>
+    <p>
+     Journalope
+    </p>
+    <p>
+     Droit de l'hommiste
+    </p>
+    <p>
+     U gomplot judéo-maçonnique
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

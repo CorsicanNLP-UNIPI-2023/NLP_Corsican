@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Scozzia : tutti contr'à u "yes"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Scozzia-tutti-contr-a-u-yes_a1946.html"/>
+     <date>
+      Mon, 15 Sep 2014 09:58:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Scozzia : tutti contr'à u "yes"
+   </head>
+   <div type="excerpt">
+    <p>
+     Chì hè u puntu cummunu trà u FMI, Susan Boyle è Paul Giacobbi ? Sò tutti contr'à l'indipendenza di a Scozzia.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U referendum nant'à l'indipendenza di a Scozzia face nasce un'incredibile campagna mediatica à prò di u "no". 
+Passemu nant'à a campagna di i pippoli chì sò contr'à l'indipendenza, Paul McCartney, David Bowie è Susan Boyle in testa. 
+Passemu nant'à a campagna di David Cameron, chì pesa di tutte e so forze per sustene u "no". U primu ministru brittànicu hà cunvucatu i grandi patroni per dilli di fà campagna contr'à l'indipendenza. Hè cusì chì e banche, e grande intraprese cum'è Marks &amp; Spencer, quelle di i telecom è di l'energia anu minacciatu di crèscita di i prezzi in casu di vittoria di u "yes". 
+Ancu più forte, sta settimana hè u mondu di a finanza chì s'hè discitatu. U FMI s'hè dichjaratu "inchietu" sì i scuzzesi decitenu di cappià à Londra. Una vittoria di u "iè" faria nasce "reazzioni negative nant'à i mercati"... 
+Postu ch'è no ci semu, i mercati ùn anu ch'è da decide da per elli di a sorte di a Scozzia. 
+Barack Obama hà s'hè permessu di dì chì i Scuzzessi avianu piuttostu interessu à vutà di nò. 
+Infine, un altru sustegnu internaziunale hè ghjuntu eri à Cuntrastu. Nant'à France 3, Paul Giacobbi hà dettu ch'ellu ùn era micca à favore di l'indipendenza. 
+Sì, cun tuttu què, u "nò" ùn vince micca...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

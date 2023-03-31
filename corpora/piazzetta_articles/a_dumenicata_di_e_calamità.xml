@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A dumenicata di e calamità
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-dumenicata-di-e-calamita_a1123.html"/>
+     <date>
+      Fri, 24 Jun 2011 18:13:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A dumenicata di e calamità
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè un veru "week-end neru" pè a Corsica. Venenu in Bastia Frédéric Mitterrand, l'animatore Cauet è unepochi di scurnachjoni di ciò chì si face di peghju in musica.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'averanu fatta à posta pè metteci u murale à zeru ? 
+Digià chì tutti l'anni sta calamità di a "NRJ Corsica Party" arrega a so banda di scumpienti musicali, tindenza R'n'B francese. Vale à dì ciò chì si face di peghju dapoi chì a vita esiste nant'à sta terra. 
+Ma in più di quessa, quist'annu ci vulerà dinù à abuchjassi à l'animatore Cauet, sìmbulu di a Francia vulgare di l'annate Sarkozy. À cantu, Guy Lux è Danielle Gilbert parenu premii Nobel di leteratura. 
+È in più di tuttu stu vòmitu di sottu cultura francese, ci vole ancu à suppurtà à Frédéric Mitterrand, chì vene infine à u museu di Bastia dopu à avè ricusatu duie volte. Sapete, hè stu ministru di a cultura chì hà dettu di manera brava ch'ellu ùn avia nunda à futte di e lingue regiunali. Interrugatu da un Brittonu, hà rispostu : "Je ne vais pas prendre d'initiative, mais je vais écouter ce qu'on va me dire". 
+In d'altri termini, rivene à dì : "entratemi in culu". 
+Ch'ella passi prestu sta dumenicata nera...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

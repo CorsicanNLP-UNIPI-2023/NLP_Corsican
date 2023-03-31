@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È Portivechju diventò "Portovèque"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-Portivechju-divento-Portoveque_a1489.html"/>
+     <date>
+      Tue, 29 Jan 2013 00:57:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È Portivechju diventò "Portovèque"
+   </head>
+   <div type="excerpt">
+    <p>
+     Eccu, sta volta ci semu in veru. Nant'à u situ officiale di u Tour de France, l'anzianu paese di Portivechju hè diventatu "Portovèque".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Sin'avà, facia ride. Face una stonda chì nant'à A Piazzetta ci ne ridimu di i nomi di lochi struppiati. 
+Quand'elli sò i fresteri chì a dicenu, si pò capisce è si ponu scusà. 
+Quand'elli sò quelli chì campanu quì, ci hè da inchietassi. 
+Quand'elli sò l'eletti di i lochi, ci hè da pienghje. 
+È quandu l'infurmazione hè ripigliata da u situ officiale di u Tour de France, si capisce chè no ùn semu chè à u principiu di qualcosa ch'hà da esse veramente penibule. 
+Hè dunque guasi officiale chì Portivechju si chjama avà Portovèque (Camille de Rocca Serra approve this message ?) è ciò chì fù a Corsica si chjama avà La Keurse. 
+Ma siate cuntenti, ghjunghje u Tour de France cù a so caravana publicitaria, a vittura Cochonou, u leone di u Crédit Lyonnais è u so diàvule chì salta chì si techja d'EPO. 
+Enjoy !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

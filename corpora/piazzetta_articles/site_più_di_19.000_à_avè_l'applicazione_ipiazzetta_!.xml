@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Site più di 19.000 à avè l'applicazione iPiazzetta !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Site-piu-di-19-000-a-ave-l-applicazione-iPiazzetta-_a724.html"/>
+     <date>
+      Thu, 17 Jan 2013 18:29:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       GIURNALE
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Site più di 19.000 à avè l'applicazione iPiazzetta !
+   </head>
+   <div type="content">
+    <p>
+     Eccu, site più di 19.000 à avè caricatu l'applicazione di A Piazzetta nant'à l'AppStore ! 
+L'applicazione viaghja per iPhone è iPad, ma dinù Android è WP7. 
+Hè a prima applicazione d'un media corsu. 
+Sò state sviluppate da una intrapresa corsa, DuoApps !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

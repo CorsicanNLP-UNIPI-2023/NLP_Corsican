@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A manca, quantu divisioni ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-manca-quantu-divisioni_a2039.html"/>
+     <date>
+      Tue, 25 Nov 2014 09:48:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A manca, quantu divisioni ?
+   </head>
+   <div type="content">
+    <p>
+     U presidente  Giacobbi 
+I prugressisti  Orsucci, Luccioni, de Gentili, Luciani, Ghionga, Antoine Orsini 
+L'ultra-chjosi  Zuccarelli, Alfonsi, Aline Castellani, Alessandrini 
+I tattisti ?  Tatti 
+U Fronte  Maria Giudicelli 
+Renuccisti 
+Bartoli
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

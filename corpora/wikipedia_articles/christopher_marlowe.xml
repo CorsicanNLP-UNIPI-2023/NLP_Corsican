@@ -1,0 +1,78 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Christopher Marlowe
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Christopher%20Marlowe"/>
+     <date>
+      2019-10-15T03:53:02Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Christopher Marlowe
+   </head>
+   <p>
+    Dramaturgu in lingua inglese.
+   </p>
+   <p>
+    Christopher Marlowe era natu à Ospringe u 26 di fevraghju di u 1564 è hè mortu à Londra u 30 di maghju di u 1593.
+   </p>
+   <p>
+    == Opere principali ==
+   </p>
+   <p>
+    Opere di teatru
+   </p>
+   <p>
+    Dido, Queen of Carthage
+   </p>
+   <p>
+    Tamburlaine, part 1
+   </p>
+   <p>
+    Tamburlaine part 2
+   </p>
+   <p>
+    The Jew of Malta
+   </p>
+   <p>
+    Doctor Faustus
+   </p>
+   <p>
+    Edward II
+   </p>
+   <p>
+    The Massacre at Paris
+   </p>
+   <p>
+    Hero and Leander
+   </p>
+   <p>
+    Pharsalia
+   </p>
+   <p>
+    Amores'' d'Ovidiu
+   </p>
+  </body>
+ </text>
+</TEI>

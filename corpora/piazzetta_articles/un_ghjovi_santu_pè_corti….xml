@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Un Ghjovi Santu pè Corti…
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-Ghjovi-Santu-pe-Corti_a2180.html"/>
+     <date>
+      Thu, 02 Apr 2015 12:26:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Un Ghjovi Santu pè Corti…
+   </head>
+   <div type="content">
+    <p>
+     Hè ghjovi ! E feste di Pasqua cummencianu. A mane à bon’ora i Curtinesi s’attaccanu à a priparizione di u ripastu “santu”, ste sòsule cunnisciute da l’anziani è chì sò tradiziunale. 
+8 ore :  
+Mammò face a pasta di e frittelle di zucca . Pè quessa li ci vole : 
+- a farina (1 kilo)  - un pane crosciu  - u levitu di pane  - una zucca cotta  - appena d’acqua vita  - acqua è sale 
+Mischia tuttu, batte a pasta è a lascia ripusà. Dop’avelle fritte, una volta ch’elle sò calde e passa pianu pianu ind’è u zuccheru. 
+11 ore è mezu :  
+Hè guasi l’ora di manghjà ; i tavulini di a cità s’empienu di casgiette di fritelle (fatte in casa o compre), si sente l’odore di ceci cotti ind’è tutte e cucine chì Mammò pripara a suppa di paste è ceci. 
+Cumu face ? Mette i ceci cotti cù e paste fresche. Lampa una scatula di cunserva di pumata è un pocu di rosumarinu nantu senza scurdassi d’appena d’agliu, di sale è di peveru. 
+Eppo lascia coce un’ore è mezu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

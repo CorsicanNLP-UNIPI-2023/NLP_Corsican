@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     New Brunswick
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/New%20Brunswick"/>
+     <date>
+      2016-11-04T09:30:47Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    New Brunswick
+   </head>
+   <p>
+    U New Brunswick hè una pruvincia di u Canadà, hà una superficia di 72.908 km² è tene una populazzione di 751.171 abitanti (2011).
+   </p>
+   <p>
+    A capitale hè Fredericton (56,224 abitanti).
+   </p>
+   <p>
+    Pruvincia di u Canadà
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pè Luc Chatel a Corsica ùn hè più francese
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Pe-Luc-Chatel-a-Corsica-un-he-piu-francese_a1128.html"/>
+     <date>
+      Sat, 02 Jul 2011 10:50:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pè Luc Chatel a Corsica ùn hè più francese
+   </head>
+   <div type="excerpt">
+    <p>
+     L'educazione ùn hè micca una priurità di u guvernu, è si vede. À l'esame di storia è geografia di u brevettu, a Corsica hè rapresentata fendu parte di l'Italia...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Seranu visiunarii à u ministeru di l'Educazione Naziunale ? O solu incumpetenti ? 
+Dopu à l'affari di froda à un BTS, di l'affare di l'agregazione di storia è di i sugetti di u baccu in matematiche nant'à internet, eccu quellu di a cacata di u brevettu. Pè a prova di storia è geografia, a Corsica hè rapresentata fendu parte di l'Italia. 
+Ci vole à dì chì sta prova hè appena n'importa chè : i disegni di i paesi sò mal presentati, senza rispettà e scale, senza legende, è l'Italia cuntinentale hè in grassu. Difficiule per u zitellu di terza di capisce qualcosa. 
+Eccu a prova chì ancu à u capu di u Statu u lascia corre è l'apprussimazione sò di regula. Stu guvernu hà veramente una visione strana di a cultura è di l'educazione... 
+È à u prussimu baccu, a Corsica serà indipendente ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

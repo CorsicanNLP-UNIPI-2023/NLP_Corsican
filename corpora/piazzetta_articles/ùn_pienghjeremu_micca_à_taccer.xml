@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ùn pienghjeremu micca à Taccer
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-pienghjeremu-micca-a-Taccer_a1534.html"/>
+     <date>
+      Tue, 09 Apr 2013 17:03:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ùn pienghjeremu micca à Taccer
+   </head>
+   <div type="excerpt">
+    <p>
+     Si n'hè andata Margaret Thatcher. In Corsica, a cunniscimu sopr'à tuttu cum’è quella donna altiera capizzone di u guvernu britannicu chì ùn vulia sente parlà di prigiuneri pulitichi irlandesi.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ma ùn era aspra è severa solu contr’à l’IRA. In u so paese, parechji gruppi l’anu avuta dura incù MT : disimpiegati, minori, sindicati, sucialisti, invece chì altri a salutanu cum’è quella chì hà propiu salvatu a Granbritannia è l’hà rialzata à u so livellu di putenza internaziunale. 
+In tutti i casi, i dece anni ch’ella fubbe Primu Ministru sò stati un'epica di manifestazioni assai cunturbati, sia in un modu puliticu o culturale (basta à rammintassi tutti l’artisti è e canzone in zerga contr’à a Signora di ferru ; per esempiu, l’illustru gruppu di heavy metal Iron Maiden s’hè battizatu cusi per burlà si di ella). 
+Oghje sempre, a ghjente si scatenanu nant’à e rete suciali dopu à a so morte. Ancu u puverettu di Joey Barton a si caccia appressu à Maggie. 
+Allora avà a pudemu di : Maggie Thatcher era un sceffu, è un sceffu di quelli maiò. È di siguru, piacia è piace sempre à quelli chì li piacenu i sceffarelli è à esse cummandati. 
+In sti tempi di crisi d’ogni modu, hè spessu piacevule di circà si un mudellu puliticu efficiente. Quellu di Maggie, pè dilla semplice, era quellu di u liberalisimu à buzeffu, ghjustu à puntu sta visione di u mondu chì da tanti capatoghji à i guverni occidentali oghjinchi. 
+E in Corsica ? Ci garba à noi altri di parlà di populu, di nazione, di sucetà, ecc. Ci serebbe statu un dibattitu incù Maggie, chì un ghjornu fece quella famosa cunfessione : « A sucetà ùn esiste micca, ci sò solu omi è donne, individui ». 
+D’appressu à voi, chì si puderà ritene di u Taccerisimu ? Averebbe viaghjatu ind’è noi ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

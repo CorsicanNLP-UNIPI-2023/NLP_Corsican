@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bastia - OM u 9 agostu, derby aiaccinu u 15 agostu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Bastia-OM-u-9-agostu-derby-aiaccinu-u-15-agostu_a1847.html"/>
+     <date>
+      Fri, 30 May 2014 15:36:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bastia - OM u 9 agostu, derby aiaccinu u 15 agostu
+   </head>
+   <div type="content">
+    <p>
+     Hè esciutu u calindariu 2013-14 di a LFP. Eccu i primi scontri di L1 : 
+Bastia - OM u 9 agostu  PSG - Bastia u 16 agostu  Bastia - Toulouse u 23 agostu  Bordeaux - Bastia u 30 agostu 
+Cummencia forte pè a squadra bastiaccia. A seguita quì. 
+In L2, l'ACA cummincerà a so stagione in Arles, u GFCA riceverà à Valenciennes. 
+Derby aiaccinu u 15 agostu in Mezavia, ritornu u 23 ghjennaghju in Timizzolu. A seguita di a L2 quì.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

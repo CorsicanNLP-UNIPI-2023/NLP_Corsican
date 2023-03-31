@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     British Columbia
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/British%20Columbia"/>
+     <date>
+      2016-11-04T08:27:59Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    British Columbia
+   </head>
+   <p>
+    A British Columbia hè una pruvincia federale di u Canadà. Hà una superficia di 944.735 km² è tene una populazzione di 4.220.000 abitanti.
+   </p>
+   <p>
+    A capitale hè Victoria (74.100 abitanti); a cità più populata hè Vancouver (545.671 abitanti).
+   </p>
+   <p>
+    Pruvincia di u Canadà
+   </p>
+  </body>
+ </text>
+</TEI>

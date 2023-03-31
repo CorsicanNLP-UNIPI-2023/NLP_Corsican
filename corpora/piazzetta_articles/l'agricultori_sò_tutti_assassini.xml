@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     L'agricultori sò tutti assassini
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/L-agricultori-so-tutti-assassini_a1170.html"/>
+     <date>
+      Tue, 20 Sep 2011 23:37:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    L'agricultori sò tutti assassini
+   </head>
+   <div type="excerpt">
+    <p>
+     Un prefettu assassinatu ? Un elettu tombu ? Cumminciate pè accusà l'agricultori. Sapete, a famosa "piste agricole"...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'agricultori corsi averanu facce d'assassini à stu puntu ? 
+V'arricurdate di a famosa "piste agricole" cumplettamente falsa di l'inchiesta di Marion dopu à l'assassiniu d'Erignac ? 340 persone arrestate, 42 interpellazioni... pè nunda. Matteu Finidori face 18 mesi di prigiò... pè nunda. 
+Durante parechji mesi, s'hè pensatu ch'elli eranu l'agricultori corsi, gattivi è barbuti, amatori di suvvenzioni pè u so 4x4, chì avianu tombu u prefettu. 
+A testa di turcu ideale pè pulizzeri, ghjudici è giurnalisti parigini. Un corsu paisanu è trafficone, hè sempre un piacè pè alimentà i "clichés" nant'à a Corsica. 
+12 anni dopu, l'infernali rurali corsi sò di ritornu, sta volta in l'omicidiu di Dominique Domarchi. Si parla torna d'una pista agrìcula. Ahè, sempre i listessi... 
+A pulizza cummunichegha subbitu : si tratta di u "milieu agricole", cun eliccòtteru è grandi rinforzi pulizzeri. 
+Ma l'affare hà fattu pshiiit. Tutte e persone sò state liberate, for'di una, ma per un affare chì ùn hà nunda à chì vede. 
+Allora amichi agricultori, lasciate cascà. Vindite i vostri terreni, fate i bungalows, custruite, speculate, vindite a droga, fate casinò, buatte di notte è bars à tapas. Serà menu risicatu ch'è di campà di l'agricultura...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

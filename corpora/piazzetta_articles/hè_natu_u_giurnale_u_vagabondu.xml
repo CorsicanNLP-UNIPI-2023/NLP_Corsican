@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hè natu u giurnale U Vagabondu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/He-natu-u-giurnale-U-Vagabondu_a1008.html"/>
+     <date>
+      Sun, 16 Jan 2011 19:02:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hè natu u giurnale U Vagabondu
+   </head>
+   <div type="excerpt">
+    <p>
+     Sin'avà faciamu i macchi, A Piazzetta era "u solu" giurnale gràtisi in lingua corsa. Ci hè dinù U Vagabondu...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ùn hè micca tutti i ghjorni ch'ellu nasce un giurnale in lingua corsa è ci vole à salutà l'iniziativa. 
+L'associu studientinu Ghjuventù Vagabonda hà lanciatu u soiu, si chjama U Vagabondu. 
+Hè un misincu, stampatu à 5000 esemplarii è hè datu di rigalu. A squadra chì si n'occupa sò tutti studienti è u scopu hè di prumove è difende a lingua è a cultura corsa. 
+U nùmeru 1 hè esciutu di dicembre, quellu di ghjennaghju vene da quì à pocu. 
+Allora felicitemuli è ch'ellu campi 100 anni U Vagabondu ! 
+L'associu hà u so contu twitter è so pagina Facebook. 
+Tenite forte !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     My Thuy
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/My%20Thuy"/>
+     <date>
+      2015-07-06T13:01:33Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    My Thuy
+   </head>
+   <p>
+    hè una cumuna vietnama di a pruvincia di Quang Binh, in a cumunità autonoma di Bac Trung Bo, Vietnam.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Pruvincia di Quang Binh
+   </p>
+   <p>
+    Đồng Hới
+   </p>
+   <p>
+    Pruvincia di Quang Binh
+   </p>
+   <p>
+    Vietnam
+   </p>
+  </body>
+ </text>
+</TEI>

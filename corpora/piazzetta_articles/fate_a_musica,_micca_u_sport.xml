@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Fate a musica, micca u sport
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Fate-a-musica-micca-u-sport_a1569.html"/>
+     <date>
+      Fri, 17 May 2013 10:11:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Fate a musica, micca u sport
+   </head>
+   <div type="excerpt">
+    <p>
+     Pè seduce una donna, hè megliu à esse musicante chè spurtivu. Hè stata dimustrata di manera scentifica.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè a crisa pè i spurtivi techji di muscu in vesta Millet. A ci hà detta u situ di Ouest-France 
+Un circadore brittonu hà dimustratu chì e zitelle preferianu dà u so nùmeru di telleffunu à un omu cù una ghitarra chè à un omu cù un saccu di sport. 
+U so studiu era semplice : un omu andava à parlà à zitelle in carrughju. À quandu avia una ghitarra, à quandu un saccu di sport, à quandu ùn avia nunda. 
+Nant'à 300 donne, 31% anu datu u so numeru quand'ellu avia a ghitarra. 14% quand'ellu era "neutru". Solu 9% anu accettatu di dà u so teleffunu quand'ellu avia u saccu di sport. 
+Spurtivi, avete dunque 91% di liccia di pigliassi un rastellu. Vale a pena di fà u footing tutte e sere è di piglià l'abbunamentu "à la salle" ! 
+Un altru studiu di listessu tippu ci dice dinù chì musica ci vole à cunnosce. Un annu, avia pruvatu duie canzone cù e zitelle, una di Francis Cabrel, una di Vincent Delerm. A cunclusione hè ch'ellu hè megliu di sunnà "Je l'aime à mourir" (58% di bon risultati) chè "L'heure du thé" di Delerm (72% di rastelli, quantunque...). 
+Per infurmazione, "L'heure du thé" hè què, è ùn hè micca una magagna. 
+Disgraziatamente, studiu ùn parla micca di e canzone d'Hubert Tempête.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

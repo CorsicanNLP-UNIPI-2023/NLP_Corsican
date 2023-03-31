@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Evviva à Barbier !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Evviva-a-Barbier-_a1457.html"/>
+     <date>
+      Tue, 04 Dec 2012 22:23:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Evviva à Barbier !
+   </head>
+   <div type="excerpt">
+    <p>
+     Christophe Barbier ùn ci tene sempre micca caru, ma hè bon segnu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Barbier ùn ci pò pate è a face sapè quand'ellu pò. 
+L'ultima volta hè stata in un edituriale in L'Express di u 21 nuvembre è nant'à iTélé u 16 nuvembre. 
+Hà fattu reagisce à Jean-Guy Talamoni nant'à u so blog è à Edmond Simeoni nant'à u soiu. 
+Bon ùn dice nunda d'orìginale : "il vaut désarmer la Corse, il faut dire aux Corse :'rendez vos armes". Trippa si l'arme chì tombanu in Corsica ùn sò micca quelle di i cacciadori, ma quelle di l'ammazzadori prufessiunali. Nò, l'assassini di a maffia ùn dichjaranu micca e so pistole in prefettura. 
+Nunda d'orìginale dinù quand'ellu parla di a famosa "omertà" (parolla chì d'altronde ùn hè micca corsa è ch'ùn esiste micca in corsu) : "il faut poursuivre tous ceux qui refusent de témoigner et dont on sait qu'ils savent quelque chose, qui ont vu quelque chose. Il faut combattre l'omertà en disant que ne pas témoigner témoigner c'est déjà avoir un pied dans le crime". Per quesa li rimandemu à u testu di Pierre-Laurent Santelli. 
+Di siguru chì u Statu è a pulizza sanu tuttu di ciò ch'ellu si passa ind'è i malfattori è ch'ellu ùn vole metteci i mezi pè sbarazzassi di i maffiosi. 
+Ma u nostru amicu Barbier cunclude cù sta frasa : "la violence est dans les gènes, elle est culturelle" è in L'Express parla di "défaut génétique de la Corse". 
+Felicitazione à ellu ! Vince u premiu Poniatowski 2012. U ministru di l'internu chì avia mandatu l'armata in Aleria in 1975 avia dettu chì i Corsi anu un "chromosome particulier de la violence". 
+Ramintemu chì stu grande analistu francese ci avia un ghjornu prumessu un tristu destinu, dicendu chì "un jour, Corses et continentaux unis et enfin réunis, riront ensemble de subtiles plaisanteries, dans un Bienvenue chez les Chtis à la sauce corse". 
+In fine di contu, tantu chì tippi cum'è Barbier stuperanu u so odiu culunialistu nant'à noi, serà bon segnu. U ghjornu induv'ellu ci tenerà caru, serà chè no seremu morti. 
+U prublema ùn hè micca Barbier, ma tutti i funziunarii in l'amministrazioni mandati in Corsica chì pensanu cum'è ellu è chì sò quì in missione per ammazzacci.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

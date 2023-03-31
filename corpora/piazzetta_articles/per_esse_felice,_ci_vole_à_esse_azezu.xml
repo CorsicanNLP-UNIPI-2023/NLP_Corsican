@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Per esse felice, ci vole à esse azezu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Per-esse-felice-ci-vole-a-esse-azezu_a1037.html"/>
+     <date>
+      Fri, 25 Feb 2011 16:03:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Per esse felice, ci vole à esse azezu
+   </head>
+   <div type="excerpt">
+    <p>
+     Bona nutizia per l'azezi di Corsica : una inchiesta dimostra chì furzassi à surride tutti i ghjorni hè periculosu per a salute.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Per a vostra salute, fate u musu ! Hè ciò ch'ellu dice The New York Times ripigliendu un studiu scentificu di l'Academy of Management Journal. 
+Hè dimustratu chì furzassi à surride, furzassi d'esse bravu hè gattivu è ancu periculosu. Si facenu sforzi tremendi (cum'è un attore di sinemà) chì facenu perde a cuncentrazione, è dunque a pruduttività. 
+Peghju : un'altra inchiesta, alemana sta volta, avia dimustratu chì i mistieri induve ci vole à surride assai (cummercianti, otesse di l'aria...) sò sottumessi assai à prublemi di core, di stress, di depressione. 
+A so cunclusione (tenitevi bè !) hè chì u surrisu furzatu dumanda troppu sforzi muscularii è accresce u rìtimu di u core. 
+Bon, ind'è noi micca troppu rìsichi ch'elli ci sianu depressione è accidenti cardiachi per via d'eccessu di simpatia, ma ùn sà mai. 
+L'articulu sanu nant'à Slate.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

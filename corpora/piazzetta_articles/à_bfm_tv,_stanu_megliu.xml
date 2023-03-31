@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     À BFM TV, stanu megliu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-BFM-TV-stanu-megliu_a1885.html"/>
+     <date>
+      Tue, 17 Jun 2014 00:07:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    À BFM TV, stanu megliu
+   </head>
+   <div type="content">
+    <p>
+     Ci n'hè unu chì s'hà da fà mette fora da BFM. 
+« Il n’y a pas eu de fuite des sujets de philosophie avant le début des épreuves, a affirmé Michael Schumacher », si pudia leghje luni matina nant'à i screni di a catena d'infurmazione. 
+Và bè chì Schumi vene di sorte da u comà, ma hè forse appena à bon'ora per truvassi un mistieru à l'Educazione Naziunale...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

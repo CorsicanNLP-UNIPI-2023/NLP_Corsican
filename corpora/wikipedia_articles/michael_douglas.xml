@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Michael Douglas
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Michael%20Douglas"/>
+     <date>
+      2015-07-01T13:09:41Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Michael Douglas
+   </head>
+   <p>
+    Michael Douglas hè un attore americanu.
+   </p>
+   <p>
+    Douglas, Michael
+   </p>
+   <p>
+    Douglas, Michael
+   </p>
+  </body>
+ </text>
+</TEI>

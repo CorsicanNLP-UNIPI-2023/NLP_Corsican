@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "L'image de la Corse"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/L-image-de-la-Corse_a1426.html"/>
+     <date>
+      Tue, 23 Oct 2012 15:16:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "L'image de la Corse"
+   </head>
+   <div type="excerpt">
+    <p>
+     Cinque minuti d'una piccula baruffa in u derby facenu parlà di più chè 500 morti in vint'anni.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     I picculi incidenti di u derby anu un meritu : i Francesi sò cuntenti di vede chì i Corsi ùn sò micca cum'è elli è ch'elli sò sempre salvatichi è viulenti. Avemu rassiguratu à Pierre Menès è à Jean-Pierre Chevènvement. Ùn ci hè chè da leghje st'articulu : Ajaccio-Bastia : le scandale du foot corse. 
+Cinque minuti d'una micro-baruffa trà trenta persone (nant'à 11.000), dui fumìgeni è una bomba agrìcula anu rilanciatu un vechju dibbattitu : "quelle image on va donner de la Corse ?" 
+Purtantu, in termine di "fiura chè no demu" di u nostru paese, ci hè forse peghju : 
+Un paese induve i "voyous" sò rispettati è mai inchietati. Un paese induve i malfattori riescenu sempre a so reinserzione prufessiunale dop'à a prigiò. Un paese induve certi eletti sò più o menu ligati à i malfattori... è cuntinuveghjanu à esse eletti. Un paese induve u soldu hè rè è induve ci vole à mustrà a so riescita à colpi di grossi 4x4. Un paese chì abanduneghja i so zitelli : a giuventù corsa hè quella chì hà u più di giovani micca inseriti, senza diplomu è senza travagliu. Un paese induve a sola perspettiva ecunomica hè quella di u turìsimu, di l'immubiliare, di vende i so terreni. Un paese abbandunatu à i speculatori è à i scrucconi. Un paese induve l'obesità di i 5-7 anni hè a più forte di Francia. Un paese chì si taglia di e so radighe, di a so lingua, di a so cultura. Un paese chì hà vistu più di 500 assassinii in vint'anni. Un paese fatalistu : "iè ma chì voli fà, contr'à i voyous ùn si pò fà nunda". Un paese chì diventa goffu, cù un paisaghju imbruttatu à colpi di cantieri, di lotissements, di residenze orrìbile è di zone cummerciale chì crescenu in ogni locu.  È averiamu da inchietacci per una bomba agrìcola durante un macciacciu di futbol? 
+Piuttostu chè d'inchietassi di "l'image qu'on donne aux Français", saria ora d'inchietassi di a fiura di stu paese chè no demu à i nostri figlioli.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

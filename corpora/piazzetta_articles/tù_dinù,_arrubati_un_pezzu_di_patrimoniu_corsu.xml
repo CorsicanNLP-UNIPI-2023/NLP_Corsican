@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tù dinù, arrubati un pezzu di patrimoniu corsu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Tu-dinu-arrubati-un-pezzu-di-patrimoniu-corsu_a1344.html"/>
+     <date>
+      Sun, 20 May 2012 18:25:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tù dinù, arrubati un pezzu di patrimoniu corsu
+   </head>
+   <div type="excerpt">
+    <p>
+     Puderia esse una magagna, ma nò. A statua di San Petru in cima di u San Petrone hè stata arrubata.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U monte San Petrone hè appena a muntagna sacra di l'abitanti di a Castagniccia, ch'elli sianu pagani o cristiani. A muntagna hà ancu a so pagina di fans nant'à Facebook. In cima si pò vede unu di i più belli panorama nant'à e muntagne di Corsica, da u Cintu à l'Alcùdina. 
+Ma ùn sò i bàrbari chì mancanu, ch'elli sianu Corsi o fresteri. 
+Ci sò dunque intelligentoni chì ùn anu micca esitatu à cummette un sacrilegiu, peghju chè l'affare Limelette : si sò arrubati a piccula statua di San Petru chì era in cima. Era stata fatta una trentina d'anni fà da artigiani di A Rocca Suprana, paisolu di Merusaglia. 
+Simbòlicu di i tempi d'oghje, l'affare si passa di cummenti. 
+Allora postu chì e parolle di cumunu, di patrimoniu, di memoria ùn volenu più dì nunda, ancu voi, arrubatevi puru un pezzu di patrimoniu corsu. Pigliatevi una stàntara di Filitosa o di Cucuruzzu, un pezzu di chjesa pisana di a Canònica o di San Mighele di Muratu, u guadru di u museu Fesch è vendite tuttu nant'à eBay. 
+O mettiteli in giardinu, ça fait bien à coté de la piscine pour la soirée barbeuk avec les voisins. 
+S'induvinanu e discussioni : "Dis-donc, il est chouette ton nain d'jardin sculpté ! Tu l'as trouvé où ? A Eurobazar ?"
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

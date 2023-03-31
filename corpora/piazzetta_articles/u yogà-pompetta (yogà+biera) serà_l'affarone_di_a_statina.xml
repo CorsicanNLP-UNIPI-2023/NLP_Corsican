@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U yogà-pompetta (yogà+biera) serà l'affarone di a statina
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U%C2%A0yoga-pompetta%C2%A0-yoga-biera-%C2%A0sera-l-affarone-di-a-statina_a2404.html"/>
+     <date>
+      Mon, 23 May 2016 09:41:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U yogà-pompetta (yogà+biera) serà l'affarone di a statina
+   </head>
+   <div type="content">
+    <p>
+     Vi piace a biera ma dinù u yogà ? U yogabiera  hè fattu per voi :
+    </p>
+    <p>
+     Di fatti, si pò oramai addunisce l'aspirazione à a serenità è a passione di e briachine. Sta moda di a ginnàstica à u contuaru chì si praticheghja digià in certe brasserie alemane o mericane hà da scalà in Corsica cù i turisti. Hè megliu à priparassi. 
+A pràtica di u yogabiera, l'avete capita, permette d'apre i so « chakra  » (i so centri spirituali, i punti di conghjunzione di l'energia) ancu più in furia ch'è u yogà tradiziunale. 
+Si pò, per esempiu, mantene e positure di u cobrà o di u lotu cù una bieruccia in equilibriu nant'à a chjocca, o aduprà una buttiglia cum'è pesu o contrapesu pè stinzà o sviluppà i musculi. 
+Ma u più interessante hè di sicuru di pruvà u veru yogà-pompetta : mantene a positura di u Cane-capu-in-ghjò o di a Cigogna  è beie à surpatoni.
+    </p>
+    <p>
+     Dopu àuna duzina di biere, tuttu u mondu a dice, i chakra si spalancanu : u cerbellu cinnuleghja, u billicu si dilata è u sangue bullicineghja. Tuttu và bè. 
+Vulete chì Stella Maria a patrona di u caffè diventessi u vostru gurù è vi guidi ver di u Nirvanà ? Basta à dumandà. 
+O Stè, pè piacè, dammi una antra biera ch'aghju da pruvà a pusitura di u Corbu o quella di l'Angulu Maiò.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

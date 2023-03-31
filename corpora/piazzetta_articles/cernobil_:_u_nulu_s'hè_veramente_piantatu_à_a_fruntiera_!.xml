@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cernobil : u nulu s'hè veramente piantatu à a fruntiera !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cernobil-u-nulu-s-he-veramente-piantatu-a-a-fruntiera-_a1162.html"/>
+     <date>
+      Thu, 08 Sep 2011 00:00:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cernobil : u nulu s'hè veramente piantatu à a fruntiera !
+   </head>
+   <div type="excerpt">
+    <p>
+     A ghjustizia l'hà detta : u nulu radioattivu di Cernobil hè statu senza cunsequenza nant'à a nostra salute.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     25 anni dopu, e bugie cuntinuveghjanu. A corte d'appellu di Parigi hà datu u so ghjudicamentu : ùn si pò fà a leia trà u nulu di Cernobil è e malatie di a tirròida. 
+Dunque, quelli chì anu avutu prublemi di tirròida in Corsica, 117% di cunsultazioni in più (d'appressu à u duttore Fauconnier) sò tutti mittomani è bugiardoni. 
+Ma rassicuratevi ! U statu ùn averà à pagà e vìttime. In tempu di crisa è di dèbbite, hè una bona nutizia.  L'autorità sanitarie sò sempre cusì cumpetenti è u Statu ci prutege. 
+D'altronde, femuli puru cunfidenza. Sì un nulu radioattivu turnerà à vene, s'arresterà torna à a fruntiera. 
+Chì piacè di campà in a quinta putenza mundiale quantunque...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

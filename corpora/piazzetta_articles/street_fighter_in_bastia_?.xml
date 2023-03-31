@@ -1,0 +1,69 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Street fighter in Bastia ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Street-fighter-in-Bastia_a1691.html"/>
+     <date>
+      Mon, 17 Mar 2014 12:20:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MUNICIPALI-2014
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Street fighter in Bastia ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè ora ch'ella compii a campagna a più brutta di st'ultimi anni in Bastia. Sarianu ancu fallati i sciambuloni d'appressu à Corse-Matin.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Serà a campagna a più brutta di st'ultimi trent'anni in Bastia ? Ci hè da dumandassi, tantu si parla di tuttu, fora di i prugrammi di i candidati. 
+Da u cantu di u PRG/PC si ghjoca di manera abbastanza offensiva. Toccu dicembre si cumminciava cù "les Bastiais ne veulent pas de cagoules à la mairie". 
+Ci hè statu l'oramai celebre "le simeonisme s'incarne dans les idées de la collaboration avec l'Italie mussolinienne" in a cunferenza legendaria u 3 di marzu chì hà inghjenatu più di 2000 tweets. 
+È si cuntinuveghja cù un stratosfericu "les Bastiais doivent écarter le risque d'une dérive séparatiste". 
+I Zuccarelli anu dunque sceltu a strategia di u peghju. Intrattene a paura di i naziunalisti pare esse u so solu argumentu. 
+Ma forse ùn hè a bona strategia. Perchè turnà à sorte argumenti degni di a CFR di l'anni 80, allora chì in Aiacciu è in Portivechju certi naziunalisti è a manca sò inseme ? Perchè cuntinuvà d'azzizzà invece di circà a pace ? Per sta volta, anu decisu d'accende u focu, è trippa per ciò chì accaderà. 
+Ma ci vole à crede chì à manca, ùn piace micca à tutti. Nant'à u so contu Twitter, Emmanuelle de Gentili risponde à ogni attacca nova di Zuccarelli. Quandu Jean-Jean scrive : 
+"Je suis confiant dans la sagesse des Bastiais et dans leur capacité à dire NON au #nationalisme de Gilles Simeoni" 
+Ella risponde  : 
+"J'ai confiance dans la sagesse des Bastiais à ne pas tomber dans le piège grossier de la résurrection de la #CFR #Consternation " 
+Ma forse, nant'à a lista di Jean Z dinù, a strategia ùn piace à tutti. In a so edizione di u 15 marzu, Corse-Matin parla d'una baruffa à a so permanenza trà ghjente di a so lista (vede sottu). 
+Elli dicenu di nò è assigureghjanu ch'ellu ùn s'hè passatu nunda è chì l'ambianza hè bunissima. 
+Pocu impreme ciò ch'ellu s'hè passatu, hè ora ch'ella compii sta brutta campagna bastiaccia...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

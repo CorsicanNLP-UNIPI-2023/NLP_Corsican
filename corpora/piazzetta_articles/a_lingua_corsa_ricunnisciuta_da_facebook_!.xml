@@ -1,0 +1,72 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A lingua corsa ricunnisciuta da Facebook !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-lingua-corsa-ricunnisciuta-da-Facebook-_a2047.html"/>
+     <date>
+      Mon, 01 Dec 2014 23:34:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A lingua corsa ricunnisciuta da Facebook !
+   </head>
+   <div type="excerpt">
+    <p>
+     Utilizà Facebook in lingua corsa, serà da quì à pocu pussibule. Mark Zuckerberg hè d'accordu è hà apertu u spaziu di traduzzione in corsu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U messagiu hè statu publicatu nant'à a pagina officiale di a squadra di traduzzione di u gigante di l'internet :
+    </p>
+    <p>
+     U corsu hè dunque a 125esima lingua ricunnisciuta da u situ chì conta circa una miliarda è mezu d'utilizatori. 
+Ma nanzu di pudè cliccà, likà, chjachjarà è fidighjà videò di ghjatti in lingua corsa nant'à Facebook, ci vulerà à lanciassi in un travagliu di traduzzione maiò. 
+Perchè sì Facebook hè statu d'accordu per apre u spaziu di traduzzione  in lingua corsa, u travagliu ferma à fà. 
+C'era una dumanda forte (a pagina FB in corsu hà più di 6000 fans), è hè a Fundazione di l'Università chì hà fattu e prime dimarchje. Ci hè vulsutu à cuntattà è cunvince l'intrapresa americana è principià a traduzzione. 
+I più azezi diceranu ch'ellu ùn ghjova à nunda. Ma almenu ricunnisceranu chì a sìmbolica hè forte : un gigante di l'internet, una di e più grande marche mundiale ricunnosce a lingua corsa. 
+Ma u più duru ferma à fà. Hè un travagliu cullaburativu, tuttu ognunu pò participà. Alè, avà tocc'à voi ! 
+Per principià a traduzzione, ci vole à andà quì.
+    </p>
+    <p>
+     Publicatu u 01/12/2014 à 8h22  Messu à ghjornu u 01/12/2014 à 23h34
+    </p>
+    <p>
+     St'articulu hè statu traduttu nant'à u situ Ampargu a lingua corsa.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

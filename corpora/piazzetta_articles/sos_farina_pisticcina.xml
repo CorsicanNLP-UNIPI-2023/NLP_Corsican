@@ -1,0 +1,77 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     SOS farina pisticcina
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/SOS-farina-pisticcina_a2065.html"/>
+     <date>
+      Wed, 10 Dec 2014 12:04:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    SOS farina pisticcina
+   </head>
+   <div type="excerpt">
+    <p>
+     Eccu, ci simu. Per via di u cynips, di e malatie, di l'abandonu di i castagneti, ùn si trova guasi più nè farina, nè castagne.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Sì i primi risultati di a guerra contr'à u cynips sò pusitivi, ci vulerà u tempu à u castagnetu corsu pè rimettesi in statu. 
+In tantu, hè a guerra pè truvà appena di farina pisticcina. À a fiera di Bucugnà ci hè statu u spachju è toccu u sabbatu dopu meziornu era impussibule di buscanne un chilò. 
+"La Fiera di a Castagna s’achève sans châtaignes" ci dice CNI. 
+In certi lochi u chilò di farina vi custerà 20€. Ci n'hè menu cara, ma tandu serà d'Ardèche. In quant'à e castagne, no comment. 
+Ùn ci hè più un palmu di nettu...
+    </p>
+    <p>
+     Quì non più, e castagne ùn sò micca corse. Ma attenti chì u cynips hà trovu a strada di l'Ardèche.
+    </p>
+    <p>
+     Ah ! Quì pare ch'ellu ci sia appena di farina pisticcina corsa. Infine !
+    </p>
+    <p>
+     Ebbeh nò.
+    </p>
+    <p>
+     Bon ben quist'annu pruveremu pulenda, frittelle è brìlluli francesi. 
+Megliu ch'è nunda...
+    </p>
+    <p>
+     Per sapenne di più, andate nant'à Salvemu i castagni è pudete fà un donu à a lotta contr'à u cynips.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

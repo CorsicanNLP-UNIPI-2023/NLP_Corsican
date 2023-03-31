@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Miss Venezuela hè siriana... è corsa
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Miss-Venezuela-he-siriana-e-corsa_a2280.html"/>
+     <date>
+      Tue, 13 Oct 2015 08:40:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Miss Venezuela hè siriana... è corsa
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè stata eletta l'ottu d'ottobre scorsu. Si chjama Marina Habach Santucci. Iè, Santucci, cum'è i Santucci di Corsica.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Bon và bè, per avà ùn ci hè manera di sapè di chì paese hè. Ma quantunque, cù una miss venezueliana d'orìgine siriana chì si chjama Santucci, pudemu esse fieri. Jean-François Baccarelli è i so fratelli di lotta invece, anu di chè inchietassi. 
+In più, ùn hè mancu una burla. L'Orient - Le Jour ci ampara ch'ella hà 19 anni è ch'ella face i studii per esse dentista à l'università di San Diego. 
+U situ web ci dice dinù chì Marina Habach Santucci "parle très bien l'arabe". Ma ùn vale a pena di fà u musu, per una volta chì una patriotta vince qualcosa... 
+Tandu, "refugees welcome", o nò ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

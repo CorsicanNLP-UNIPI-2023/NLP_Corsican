@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Statut de résident-bashing, episodiu 1
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Statut-de-resident-bashing-episodiu-1_a1759.html"/>
+     <date>
+      Sat, 26 Apr 2014 19:16:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Statut de résident-bashing, episodiu 1
+   </head>
+   <div type="content">
+    <p>
+     Yves Thréard, direttore agiuntu di u Figaro hà avutu a gattiva idea di filmassi per fà i so edituriali. 
+Hà reagitu prestu, toccu u lindumane di u votu di l'assemblea di Corsica mettia in linea una video. È quand'ellu principia cù "ah la Keurse !" si capisce chì u statutu di residente ùn l'hè micca piaciutu. 
+Nunda di strasordinariu, sempre listessi argumenti intesi dapoi quarant'anni : 
+"Est-ce que c'est tolérable dans une république une et indivisible comme la France ? (...) n'est-ce pas là introduire une discrimination contraire à nos valeurs républicaines ?" 
+Cusì previsibile. 
+Avà tocca à Chevènement, Barbier, Zemmour, Macé-Scaron di fà sente u so odiu. Site pronti ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

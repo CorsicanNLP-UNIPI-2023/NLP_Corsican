@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Corsica, u paese induve i centri cummerciali sò i rè
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-Corsica-u-paese-induve-i-centri-cummerciali-so-i-re_a2696.html"/>
+     <date>
+      Thu, 11 Jan 2018 17:21:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       VIDEO
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A Corsica, u paese induve i centri cummerciali sò i rè
+   </head>
+   <div type="excerpt">
+    <p>
+     VIDEO : S'hè parlatu assai di centri cummerciali durante a campagna di l'ultime territuriale.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Un filmettu fattu da PFC.
+    </p>
+    <p>
+     S'ellu ùn viaghja u filmettu, u pudete vede nant'à YouTube
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

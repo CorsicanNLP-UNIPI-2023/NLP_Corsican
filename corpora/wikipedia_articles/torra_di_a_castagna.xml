@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Torra di a Castagna
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Torra%20di%20a%20Castagna"/>
+     <date>
+      2019-10-03T11:13:04Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Torra di a Castagna
+   </head>
+   <p>
+    A torra di a Castagna hè una torra di Corsica.
+   </p>
+   <p>
+    == Rifarenzi ==
+   </p>
+   <p>
+    Caporossi, Orsu Ghjuvanni, Cronica di a Corsica
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    Torre di Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

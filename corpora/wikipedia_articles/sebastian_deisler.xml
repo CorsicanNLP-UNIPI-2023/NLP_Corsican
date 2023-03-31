@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sebastian Deisler
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Sebastian%20Deisler"/>
+     <date>
+      2015-07-07T21:54:21Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sebastian Deisler
+   </head>
+   <p>
+    Sebastian Deisler (natu in u 1980) hè un exi ghjucadore di pallò tedescu.
+   </p>
+   <p>
+    Deisler
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A prima fiera di a pulenda à l'hypermercatu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-prima-fiera-di-a-pulenda-a-l-hypermercatu_a2497.html"/>
+     <date>
+      Thu, 15 Dec 2016 10:23:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A prima fiera di a pulenda à l'hypermercatu
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè nata a prima fiera di a pulenda di l'hypermercatu è pò trimà a fiera di Bucugnà ! Un lettore ci manda sti ritratti pigliati in u circondu bastiacciu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Tuttu ognunu cunnosce a fiera di castagna di Bucugnà organizata dapoi più di trenta anni è successu tremendu. U merre Achille Martinetti ci spiega ch'elli ci sò 30.000 persone in trè ghjorni. 
+Ma a sucetà di cunsumu ricupereghja tuttu. Avà hè ancu organizata una settimana di a pulenda in un hypermercatu di u circondu di Bastia. 
+Un lettore ci hà mandatu sti ritratti :
+    </p>
+    <p>
+     Iè iè, si trova pulenda in scatulette. Bon ùn avemu micca pruvatu, ma perchè micca ? 
+Aspettendu u primu "Pulenda 30" chì vi porta in casa a vostra pulenda in menu di trenta minuti (cun ove, brocciu, figatellu o ketchup s'ella vi garba), vi preghemu una bona pulenda di Natale è Capu d'annu à tutti.
+    </p>
+    <p>
+     Ma l'infurmazione pessima hè chì per avà farina pisticcina ci n'hè sempre pocu. Carine Franchi di u Groupement Régional des Producteurs et Transformateurs de Châtaignes et Marrons de Corse spiega à Corse-Matin chì a battaglia contr'à u cynips ùn hè ancu à vince. Ci sò state 110 tone di farina AOC in u 2010... è 39 tone in u 2015. 
+Ùn ci semu ancu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

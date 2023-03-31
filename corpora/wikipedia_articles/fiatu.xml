@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Fiatu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Fiatu"/>
+     <date>
+      2015-07-01T23:06:10Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Fiatu
+   </head>
+   <p>
+    ==Citazioni==
+   </p>
+   <p>
+    Accadi chì u fiatu fussi mintuvata in a cultura corsa. Par asempiu in a ghjastema:
+   </p>
+   <p>
+    Ch'è tù lampi l'ultimu fiatu !
+   </p>
+   <p>
+    ==Rifarenzi==
+   </p>
+  </body>
+ </text>
+</TEI>

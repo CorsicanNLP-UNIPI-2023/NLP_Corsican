@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     In 2012, Bastia hà da vince a cuppa di Francia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/In-2012-Bastia-ha-da-vince-a-cuppa-di-Francia_a1020.html"/>
+     <date>
+      Sat, 29 Jan 2011 17:22:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    In 2012, Bastia hà da vince a cuppa di Francia
+   </head>
+   <div type="excerpt">
+    <p>
+     Ùn ride micca, hè una teuria seria, quella di "tutti i 10 anni Bastia ghjunghje in finale di a cuppa".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè cusì dapoi 40 anni è pudemu affirmala di manera assai seria : 2012 ùn serà micca solu l'annata di a fine di u mondu (segondu l'Inca è u filmacciu). Pigliate puru e vostre piazze per a finale à u Stade de France, tutti i 10 anni (à pocu pressu) u Sporting face un colpu in cuppa di Francia. 
+Dimustrazione : 
+1972 : Inaugurazione di u Parc des Princes è prima finale per Bastia contr'à l'OM. Per a prima volta sò centinaie di bandere corse à sfilà nant'à i Champs Elysées ma malgradu un but di Franceschetti u Sporting perde 2 à 1. 
+1981 : Prima finale per François Mitterrand presidente novu di a Francia. Contr'à Saint-Etienne a Marseillaise hè fischjata ma à l'epica tuttu u mondu si ne impippa. Marcialis è Roger Milla facenu schjattà u Parcu è a Corsica cunnosce parechji ghjorni di scimità... è in Aiacciu dinù. 
+1992 : Di siguru chì Bastia avia da batte l'OM di Papin è Tapie... http://www.dailymotion.com/video/x5dk3j_1992-furiani-thierry-roland_news 
+2002 : Tut 
+2012 : A cuppa hè nostra !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

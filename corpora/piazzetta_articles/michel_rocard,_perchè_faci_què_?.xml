@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Michel Rocard, perchè faci què ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Michel-Rocard-perche-faci-que_a1918.html"/>
+     <date>
+      Thu, 31 Jul 2014 11:29:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Michel Rocard, perchè faci què ?
+   </head>
+   <div type="content">
+    <p>
+     Michel Rocard hè forse l'omu puliticu francese chì hà capitu u megliu a Corsica. Siguramente di più ch'è certi omi pulitichi corsi. 
+Hè quellu chì hà dettu chì : "La naissance de la France se réalise par la conquête militaire d'au moins cinq cultures - j'appelle culture la coïncidence entre une langue et un art de prier. Je veux parler de la Bretagne, de l'Occitanie, de l'Alsace, d'une partie de la Flandre, de la Corse, et puis de notre petit bout du Pays basque." L'avia detta à un imbasciadore americanu. 
+Arricurdatevi a so chjama in u 2000, Corse : Jacobins, ne tuez pas la paix !. 
+Arricurdatevi u so discorsu nant'à a Corsica à l'assemblea naziunale in tantu ch'è primu ministru. 
+D'accordu o Mighè, ti tenimu caru è sarebbe ora chì u guvernu sucialistu s'inspiressi di u to travagliu. 
+Ma hè una ragione per mette un t-shirt cusì ?
+    </p>
+    <p>
+     (Ritrattu Corse-Matin di u 30 lugliu 2014)
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Enrico Macias "en Corse si Marine Le Pen est élue"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Enrico-Macias-en-Corse-si-Marine-Le-Pen-est-elue_a2465.html"/>
+     <date>
+      Tue, 20 Sep 2016 19:32:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Enrico Macias "en Corse si Marine Le Pen est élue"
+   </head>
+   <div type="excerpt">
+    <p>
+     L'averemu tutte. Enrico Macias hà dichjaratu ch'ellu si n'anderà in esiliu "en Suisse, en Corse ou en Israël si Marine Le Pen est élue". Per noi serà dunque a doppia pena.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U canterinu francese era l'invitatu di a televisione sguizzera. À a dumanda "chì fate sì Marine Le Pen hè eletta" risponde "Je prendrai l'avion le lendemain."
+    </p>
+    <p>
+     Enrico Macias s'exilera "en Suisse, en Corse ou en Israël" si @MLP_officiel est élue @RTSinfo pic.twitter.com/ohLvwjvLGL
+— Darius Rochebin (@DariusRochebin) 20 septembre 2016
+    </p>
+    <p>
+     È noi dunque, ci abbuchjeremu i dui. I Corsi, l'eterni curnuti di a storia...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

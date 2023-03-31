@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Di ghjugnu in Corsica, si face sempre u ski
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Di-ghjugnu-in-Corsica-si-face-sempre-u-ski_a1898.html"/>
+     <date>
+      Tue, 24 Jun 2014 12:37:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Di ghjugnu in Corsica, si face sempre u ski
+   </head>
+   <div type="content">
+    <p>
+     A sapiate ch'ellu si face u ski in Corsica, ancu l'estate ? 
+Per l'amatori sappiate ch'ellu ci vole à cullà in Ascu, in a valle di Trimbulacciu, sott'à a Bocca Pampanosa. Custì puderete favvi una bella sculisciata (è forse pigliavvi una bella strambacata) sott'à u sguardu di Monte Cintu. 
+Ci hè sempre appena di neve, è ùn hè ancu à compie. 
+Di più infurmazioni nant'à u situ Les conditions de la montagne corse.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

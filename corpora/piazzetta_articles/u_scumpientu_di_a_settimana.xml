@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U scumpientu di a settimana
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-scumpientu-di-a-settimana_a1965.html"/>
+     <date>
+      Sat, 27 Sep 2014 12:32:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U scumpientu di a settimana
+   </head>
+   <div type="excerpt">
+    <p>
+     Quale ùn s'hè mai dettu "ma ch'avemu fattu pè merità què" davant'à u tsunamì di cunnerie chì invadisce a Corsica appena di più ogni ghjornu ? Sta settimana, u nostru grande winner hè un situ marcante chì ci prupone sta maglietta "fier d'être corse". In u grande classamentu di e peghju cunnerie, difficiule di fà megliu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Nò, ùn hè micca una magagna. Iè, esiste. Iè, hè pussibule. 
+A publicità ci dice "Vente privée rerservée aux Corses" (perchè micca tandu "vente privée destinée à la réserve de Corses" ?") 
+Ci manda versu un situ chì ci prupone dunque stu t-shirt "fier d'être corse" cù sta frasa : 
+"Ce t-shirt correspond t-il à votre façon de penser ? Si oui vous êtes un vrai Corse !" No comment. 
+Basterà per oghje, ci n'hè abbastanza cusì.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

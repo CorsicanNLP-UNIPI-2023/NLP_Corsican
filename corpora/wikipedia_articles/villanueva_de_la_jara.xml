@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Villanueva de la Jara
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Villanueva%20de%20la%20Jara"/>
+     <date>
+      2014-03-23T15:11:16Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Villanueva de la Jara
+   </head>
+   <p>
+    Villanueva de la Jara hè una cumuna spagnola di a pruvincia di Cuenca, in a cumunità autonoma di Castiglia-La Mancha.
+   </p>
+   <p>
+    Giugrafia
+   </p>
+   <p>
+    Spagna
+   </p>
+  </body>
+ </text>
+</TEI>

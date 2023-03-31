@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Walt Disney
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Walt%20Disney"/>
+     <date>
+      2015-07-07T22:44:25Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Walt Disney
+   </head>
+   <p>
+    Walter Elias "Walt" Disney (1901-1966) hè un cineastu americanu.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Bambi
+   </p>
+   <p>
+    Pinochju
+   </p>
+   <p>
+    Dumbo
+   </p>
+   <p>
+    The Fox and the Hound
+   </p>
+   <p>
+    Liv and Maddie (Sitcom annantu à Disney Channel)
+   </p>
+   <p>
+    Disney, Walt
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,79 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bob Dylan in Tavagna
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Bob-Dylan-in-Tavagna_a2247.html"/>
+     <date>
+      Mon, 10 Aug 2015 14:16:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bob Dylan in Tavagna
+   </head>
+   <div type="content">
+    <p>
+     In u 1962 Bob Dylan (cugnumatu Bobbu di Lanu in Vallerustie) cantava Don't think twice, it's all right ("chè t'ùn ci pensi piùne, tuttu và bè") una canzona d'amore amara : « l'aghju datu u mio core, ma ella vulia a mio anima... » si lagnava Bobbu assai dillusu.
+    </p>
+    <p>
+     Don't Think Twice It's Alright [Bob Dylan 1962] from Dan Pick on Vimeo.
+    </p>
+    <p>
+     Dopu à Bobbu, centinaie di cantadori anu cantatu issa canzona. Ci hè a versione country cù a ghitarra chì face « bum cicca bum » di Johnny Cash :
+    </p>
+    <p>
+     L'interpretazione « doo wop » ridicula di i Four Seasons (ci hè Bugs Bunny techju di gasu ilarante chì face a segonda) :
+    </p>
+    <p>
+     A ripresa bluesy di Eric Clapton (cù a ghitarra chì sagnozza) :
+    </p>
+    <p>
+     O quella grassotta di u Rè Elvis techju di hamburgers :
+    </p>
+    <p>
+     Ci sò dinù quelle sobrie è fidele di Brian Ferry (Roxy Music) u dandy d'onore :
+    </p>
+    <p>
+     O quella di a Madunnuccia Joan Baez :
+    </p>
+    <p>
+     In u 2009, forse a sapete, Ghjacumu Fusina hà adattatu u testu in corsu è, di una canzona di staccanza piena di fele, hà fattu un innu buccòlicu à a Tavagna (u locu) accunciatu è cantatu da Tavagna (u gruppu). A canzona si chjama « Sò di tè ». Ghjè un bellu travagliu : armunie vucale suttile, rìtimu legeru, cù in supplemente, l'armònica volùbile di Nico Wayne Toussaint.
+    </p>
+    <p>
+     D'accordu ci ne serà sempre pè magagnà :  - Quale hè chì canta què ? Guy Béart ?  - E to corne Guy Béart... Guy Béart ùn n'hè mancu tavanincu, o sciuccò !!!
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

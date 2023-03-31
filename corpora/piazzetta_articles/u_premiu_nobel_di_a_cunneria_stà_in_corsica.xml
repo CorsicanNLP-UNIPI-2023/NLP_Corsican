@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U premiu Nobel di a cunneria stà in Corsica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-premiu-Nobel-di-a-cunneria-sta-in-Corsica_a2662.html"/>
+     <date>
+      Fri, 06 Oct 2017 11:10:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U premiu Nobel di a cunneria stà in Corsica
+   </head>
+   <div type="excerpt">
+    <p>
+     Sei fiamminghi ("flamants roses") sò stati pigliati à fucilate in a riserva di Chjurlinu. A cunnerizazione di a Corsica cuntinuveghja di fà i prugressi maiò.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U cunsigliu dipartimentale di Corsica suprana hà purtatu lagnanza. Sò sei l'acelloni emblematichi chì sò stati pigliati à fucilate intornu à u stagnu di Chjurlinu, in a riserva naturale. 
+U piacè di "faire un carton" hè sempre quellu. 
+Semu dunque felici d'amparà chì u premiu Nobel di a cunneria campa in Corsica è ch'ellu hà un fucile. 
+Ritratti : Cunsigliu dipartimentale 2B.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

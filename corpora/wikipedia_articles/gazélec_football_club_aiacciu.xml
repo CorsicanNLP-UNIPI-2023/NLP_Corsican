@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Gazélec Football Club Aiacciu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Gaz%C3%A9lec%20Football%20Club%20Aiacciu"/>
+     <date>
+      2019-09-19T04:49:56Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Gazélec Football Club Aiacciu
+   </head>
+   <p>
+    U Gazélec Football Club Aiacciu hè un club corsu di pallò.
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    Situ ufficiale
+   </p>
+   <p>
+    Pallò
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,126 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     HTML
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/HTML"/>
+     <date>
+      2014-02-17T15:12:17Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    HTML
+   </head>
+   <p>
+    U HTML (HyperText Markup Language) hè un linguagiu di prugrammazione pè i siti web. Impiega balisgie pè discrive a pagina, è permette l'usu di l'hypertestu. Hè spessu impiegatu cu astri linguagi :
+   </p>
+   <p>
+    u JavaScript
+   </p>
+   <p>
+    u CSS, chì discrive u stilu graficu di a pagina (lasciendu u HTML discrive a cuntenutu)
+   </p>
+   <p>
+    == L'evoluzione di u linguagiu ==
+   </p>
+   <p>
+    U HTML hè "natu" in u 1991, quandu Tim Berners-Lee, chì travaglia à u CERN, annuncia nant'à USENET a nascita di u World Wide Web.
+   </p>
+   <p>
+    Durante l'anni 1990, a struttura di l'HTML dipendia sopratuttu di u navigatore web impiegatu. Specificazione è norme, c'eranu pocu è micca. È eranu torna i navigatori chì inventavanu nove balisgie. Pè esempiu, fù NCSA Mosaic chì criò a balisgia , chì permette di mette imagine in una pagina web.
+   </p>
+   <p>
+    In 1995 fù fundatu u World Wide Web Consortium (W3C), chì principiò u travagliu di nurmalisazione. U 18 dicembre 1996 fù publicata a specificazione HTML 4.0. Hè sempre, oghje, quella chì hè la più impiegata. Ne esistanu dui versione :
+   </p>
+   <p>
+    A variente stritta (strict HTML), chì sclude l'elementi detti di "prisentazione", lasciati à u CSS
+   </p>
+   <p>
+    A variente di transizione (transitional HTML), più soffice
+   </p>
+   <p>
+    In l'anni 2000, u sviluppu di u HTML cume applicazione di u SGML hè ufficialmente abandunatu a prò di u XHTML.
+   </p>
+   <p>
+    == U HTML ==
+   </p>
+   <p>
+    === A sintassa ===
+   </p>
+   <p>
+    A sintassa di u HTML hè basata nant'u cuncettu di balisgia. Quèi ci n'hè un esempiu :
+   </p>
+   <p>
+    Esempiu HTML
+   </p>
+   <p>
+    Quessa hè un hyperligamu.
+   </p>
+   <p>
+    Quessa hè un paragrafu hyperligamu un ci n'hè
+   </p>
+   <p>
+    apre u ligamu
+   </p>
+   <p>
+    u chjode
+   </p>
+   <p>
+    Esempiu HTML hè u testu di u titulu, contenutu in  (chi dice : «ciò chì hè à mezu à sta balisgia hè u titulu di a pagina)
+   </p>
+   <p>
+    hè u ligamu hypertext.
+   </p>
+   <p>
+    hè u principiu di u paragrafu. In a sintassa muderna di lu HTML, ci vuleria ancu à chjude u paragrafu cù un
+   </p>
+   <p>
+    &amp;#38;egrave; hè u caratteru è
+   </p>
+   <p>
+    === Struttura ===
+   </p>
+   <p>
+    === Elementi HTML ===
+   </p>
+   <p>
+    === Attributi ===
+   </p>
+   <p>
+    === Caratteri ===
+   </p>
+   <p>
+    == Interoperabilità ==
+   </p>
+   <p>
+    U HTML hè statu svilupattu pè avè a più grande interoperabilità pussibule, ma ùn hè micca sempre u casu, postu chì in fine di contu, a cumpatibilità dipende di u navigatore.
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    A specificazione HTML 4.0 in inglese
+   </p>
+  </body>
+ </text>
+</TEI>

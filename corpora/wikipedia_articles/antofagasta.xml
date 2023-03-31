@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Antofagasta
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Antofagasta"/>
+     <date>
+      2016-08-23T22:37:37Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Antofagasta
+   </head>
+   <p>
+    Antofagasta hé una cità di u Cile, incù 380.695 abitanti (2012).
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Antofagasta
+   </p>
+   <p>
+    Cile
+   </p>
+  </body>
+ </text>
+</TEI>

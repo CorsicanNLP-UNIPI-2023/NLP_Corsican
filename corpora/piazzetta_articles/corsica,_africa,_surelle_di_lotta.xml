@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Corsica, Africa, surelle di lotta
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Corsica-Africa-surelle-di-lotta_a1074.html"/>
+     <date>
+      Fri, 01 Apr 2011 00:54:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Corsica, Africa, surelle di lotta
+   </head>
+   <div type="excerpt">
+    <p>
+     Cumu imbulighjà kitsch, anni 80 è musicaccia corsa ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Nò, ùn hè micca un pesciu d'aprile. 
+Pensavate avè intesu u peghju in termine di musica corsa ? Pensavate chì A Piazzetta esagerava quand'è no parlavamu di traduce in corsu u peghju di l'anni 80, cum'è Emile &amp; Image è i Forbans ? 
+Stu sonniu, u gruppu Antigone l'hà realizatu cù a so ripresa di u successu di l'anni 80 di Rose Laurens, Africa. 
+Ci vulia à pensacci, hè vera chì "Africa" rima cun "Corsica". Ma micca solu per a canzona. Si puderia parlà di l'infrastrutture, i stadii, i risultati eletturali di certe cantunali (Marcel Francisci face megliu ch'è Omar Bongo è Robert Mugabe), o stu cumplessu di culunizati chì ci face sempre pensà chì tuttu ciò chì vene d'in altrò hè sempre megliu ch'è ciò chì hè di quì. 
+Felicitazioni dunque à stu gruppu corsu ch'è no speremu vede prestu. À quandu e riprese di e canzone di Sabrina, di La Compagnie Créole, di Bananarama o di e Spice Girls in lingua nustrale ? Aspettemu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Maastricht
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Maastricht"/>
+     <date>
+      2019-08-04T19:56:04Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Maastricht
+   </head>
+   <p>
+    Maastricht hè una città di i Paesi Bassi è hè u capilocu di à pruvincia di Limburgu.
+   </p>
+   <p>
+    Paesi Bassi
+   </p>
+  </body>
+ </text>
+</TEI>

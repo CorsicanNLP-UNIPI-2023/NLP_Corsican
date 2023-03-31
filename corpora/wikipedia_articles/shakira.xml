@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Shakira
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Shakira"/>
+     <date>
+      2015-07-07T21:59:33Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Shakira
+   </head>
+   <p>
+    Shakira hè una cantante, produttrice, musicante è ballerina columbiana d'urigine libanese da a parte di u so babbu, nata u 2 di fevraghju 1977 in Barranquilla, Colombia.
+   </p>
+   <p>
+    Shakira
+   </p>
+   <p>
+    Shakira
+   </p>
+  </body>
+ </text>
+</TEI>

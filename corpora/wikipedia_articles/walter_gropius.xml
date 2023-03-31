@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Walter Gropius
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Walter%20Gropius"/>
+     <date>
+      2015-07-09T09:00:32Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Walter Gropius
+   </head>
+   <p>
+    Walter Adolph Gropius (natu in Berlinu, Germania u 18 di maghju 1883- mortu in Boston u 5 di lugliu, 1969) hè statu un architettu alemanu.
+   </p>
+   <p>
+    Walter Adolph Gropius
+   </p>
+  </body>
+ </text>
+</TEI>

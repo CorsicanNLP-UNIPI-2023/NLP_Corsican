@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tutti fratelli, tutti tichjoni
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Tutti-fratelli-tutti-tichjoni_a1630.html"/>
+     <date>
+      Fri, 11 Oct 2013 10:18:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tutti fratelli, tutti tichjoni
+   </head>
+   <div type="excerpt">
+    <p>
+     U patrone di McDo l'hà detta à France Info : "le département de France dans lequel il y a le plus d'obèses est la Corse. Et en Corse, il n'y pas de McDo"
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In Corsica ùn ci hè micca McDo, ma simu techji quantunque. Interrugatu da France Info nant'à a leia trà a crescita di l'obesità è a catena americana di fast food, Jean-Pierre Petit, presidente di McDonald's France hà dettu chì : 
+"le département de France dans lequel il y a le plus d'obèses est la Corse. Et en Corse, il n'y pas de McDo". 
+A redazzione di France Info hà circatu à sapenne di più nant'à quessa in a so cronaca "Le vrai du faux". Cunclusione : Falsu ! A dicenu elli : 
+"La dernière étude de l'Insee sur l'obésité en 2007 fait apparaître la Corse parmi les régions les moins touchées par le phénomène. La spécialiste de l'obésité à l'Inserm Marie-Aline Charles ainsi qu'Arnaud Basdevant, professeur de nutrition à l'université Paris VI, n'ont pas connaissance d'un record d'obésité en Corse. " 
+Invece, ciò chì hè vera, hè chì a Corsica face parte di e regione in testa pè l'obesità di i zitelli, ci dicia un'inchiesta di l'AFPA in u 2008 (è dapoi ?) : 
+"Son taux est le plus fort de France : 22,2 % des enfants de 5 à 7 ans, selon les chiffres donnés par l’Association Française de Pédiatrie Ambulatoire (AFPA), la moyenne nationale étant de 14,4 %" 
+In e cause di l'obesità ùn si ritrova micca McDo, ma a puvertà ci dice France Info : 
+"La précarité sociale, les bas revenus sont des facteurs déterminants de l'obésité. Avec peu d'argent, les achats alimentaires se portent souvent sur des produits trop riches en calories." 
+Et qui on est ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Prima à i toi, dopu à l'altri s'è tù poi
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Prima-a-i-toi-dopu-a-l-altri-s-e-tu-poi_a1409.html"/>
+     <date>
+      Sun, 16 Sep 2012 16:31:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Prima à i toi, dopu à l'altri s'è tù poi
+   </head>
+   <div type="excerpt">
+    <p>
+     In Cervioni, u cunsigliere generale Pierre-Louis Nicolai hà inauguratu u carrughju... Pierre-Louis Nicolai.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In francese si dice "on n'est jamais si bien servi que par soi même". 
+In corsu ci hè un pruverbiu chì dice "prima à i toi, dopu à l'altri s'è tù poi". 
+È cumu in Cervioni e tradizioni si rispettanu, u cunsigliere generale attuale di u Campuloru è anzianu merre Pierre-Louis Nicolai e mette in applicazione. 
+Hè cusì chì u 14 di lugliu passatu, l'anziana Traversa hè stata battizata "Traversa Pierre-Louis Nicolai", in presenza d'ellu stessu di siguru. 
+Dà u so nome à un carrughju allora ch'omu hè sempre vivu, Vladimir Poutine a sunnieghja ma ùn hà ancu riesciutu à falla. 
+Solu Mobutu avia riesciutu sta prova in Kinshasa. 
+Quand'è no vi dimu chì in Corsica simu più forti chè l'altri !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

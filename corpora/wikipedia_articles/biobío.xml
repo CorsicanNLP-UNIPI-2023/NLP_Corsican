@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Biobío
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Biob%C3%ADo"/>
+     <date>
+      2014-03-23T14:04:41Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Biobío
+   </head>
+   <p>
+    Incù 380 chilometri, u Biobío hè un fiume di u Provincia di Concepción, Cile.
+   </p>
+   <p>
+    == Bibliografia ==
+   </p>
+   <p>
+    Niemeyer, Hans; Cereceda, Pilar (1983). Geografía de Chile — Tomo VIII: Hidrografía. 1º edición, Santiago de Chile: Instituto Geográfico Militar. {es}
+   </p>
+   <p>
+    == Vede ancu ==
+   </p>
+   <p>
+    Gran Concepción
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Cuenca del río Biobío {es}
+   </p>
+   <p>
+    Fiumi di Cile
+   </p>
+  </body>
+ </text>
+</TEI>

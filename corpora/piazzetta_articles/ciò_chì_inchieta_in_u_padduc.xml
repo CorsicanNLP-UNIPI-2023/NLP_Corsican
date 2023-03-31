@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ciò chì inchieta in u Padduc
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cio-chi-inchieta-in-u-Padduc_a2268.html"/>
+     <date>
+      Thu, 01 Oct 2015 14:50:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ciò chì inchieta in u Padduc
+   </head>
+   <div type="content">
+    <p>
+     1. A custruzzione di "auberges du pêcheur"
+C'era a canzona di Francis Cabrel "La cabanne du pêcheur", avà ci hè a "l'auberge du pêcheur du padduc". U rìsicu : vede trasfurmà casette di piscadori in paillotes. 
+Da leghje : PADDUC et « auberges du pêcheur » : danger ! 
+U perìculu ci hè. È cum'ellu dice Vrancis in a canzona : "Viens faire toi-même le mélange des couleurs  Sur les murs de la cabane du pêcheur". 
+Attenti à l'impiastri.
+    </p>
+    <p>
+     2. SOS ESA : ch'anu da diventà sti "espaces stratégiques agricoles" ?
+Hè un puntellu di u Padduc : l'ESA, o "espaces stratégiques agricoles", duverianu impedisce (in teuria) d'esse custruiti. Ma l'associ di difesa di l'ambiu dicenu chì u contu ùn ci hè.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

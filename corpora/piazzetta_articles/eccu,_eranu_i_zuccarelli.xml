@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Eccu, eranu i Zuccarelli
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Eccu-eranu-i-Zuccarelli_a1698.html"/>
+     <date>
+      Thu, 17 Apr 2014 20:35:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MUNICIPALI-2014
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Eccu, eranu i Zuccarelli
+   </head>
+   <div type="excerpt">
+    <p>
+     Cum'ellu a dicia Jim Morrison, "This is the end, my friend".
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

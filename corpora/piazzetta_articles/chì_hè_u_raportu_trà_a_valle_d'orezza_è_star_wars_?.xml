@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chì hè u raportu trà a valle d'Orezza è Star Wars ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Chi-he-u-raportu-tra-a-valle-d-Orezza-e-Star-Wars_a2664.html"/>
+     <date>
+      Thu, 12 Oct 2017 11:51:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       VIDEO
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chì hè u raportu trà a valle d'Orezza è Star Wars ?
+   </head>
+   <div type="excerpt">
+    <p>
+     A sapiate ? Trà a Guerra di e Stelle è a valle orezzinca, ci hè una leia (nunda à chì vede cù a principessa).
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U muntagiu di u filmettu hè statu fattu da PFC.
+    </p>
+    <p>
+     Ùn marchja micca ? Eccu u filmettu nant'à YouTube :
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

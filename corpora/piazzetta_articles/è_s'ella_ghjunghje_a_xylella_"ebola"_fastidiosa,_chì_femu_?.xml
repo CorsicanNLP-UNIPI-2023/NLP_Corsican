@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È s'ella ghjunghje a xylella "ebola" fastidiosa, chì femu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-s-ella-ghjunghje-a-xylella-ebola-fastidiosa-chi-femu_a1942.html"/>
+     <date>
+      Fri, 12 Sep 2014 23:04:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È s'ella ghjunghje a xylella "ebola" fastidiosa, chì femu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     A "xylella fastidiosa" s'hè digià stirpata l'alivi di u meziornu di l'Italia. S'ella sbarca in Corsica, serà un sterminiu per l'agricultori. È chì face u Statu ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Avemu parlatu un mese fà di a "xylella fastidiosa", sta battèria chì hà arruvinatu l'alivi di a regione taliana di e Puglie. 
+Per fà semplice, s'ella ghjunghje questa quì in Corsica, serà un sterminiu. Ma un sterminiu maiò, di quelli "massacre à la tronçonneuse". Ùn esiste nisun trattamentu per "l'ebola di e piante". In Italia anu brusgiatu l'arburi infettati. 
+Saria una catastrofa per l'ambiu, per l'ecosistemi, per i pruduttori d'oliu d'aliva. A battèria di a xylella fastidiosa s'attacca dinù à tutti l'arburi fruttìferi, à l'allori, è à e vigne. 
+Allora chì fà ? 
+Per avà ci vuleria à cuntrullà e piante è l'arburi chì ghjunghjenu in Corsica. Si face digià, ma si sà ch'elli ùn sò ch'è 5% i vegetali cuntrullati. 
+Un cullettivu s'hè furmatu chì prevene di a catastrofa ch'ella saria sì st'affaracciu venia ind'è noi. Rammintemu ch'ellu hè cusì chì u cynipsacciu chì si sterpa tutti i castagni di Corsica è u pinzachju rossu chì si manghja tutte e palme di Corsica sò stati intrudutti in l'isula. 
+S'ella ghjunghje a "fastidiosa", più nunda a puderà parà è ùn ci firmeranu più ch'è l'ochji per pienghje, è dì una volta di più chì "Corsica ùn averà mai bè". 
+RCFM si pone a dumanda : "la vraie question est : quand arrivera-t-elle ?" Da sente quì. 
+Ùn hè ancu troppu tardi. Basteria per avà à multiplicà i cuntrolli, pruibisce l'introduzzione di vegetali (iè ci vuleria ancu à fà un "statutu di residente" per e piante...) è fà sapè à l'opinione publica ch'ellu ùn ci vole à fà vene piante da fora (hè cusì ch'elli sò ghjunti cynips è pinzachju rossu di e palme). 
+Ma oghje, i servizii di u statu sì cuntentenu di dì chì tuttu và bè è chì a situazione hè sott'à cuntrollu. 
+Sin'avà, tuttu và bè.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

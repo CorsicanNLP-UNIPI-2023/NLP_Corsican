@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I zinzì dinù sò minacciati
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-zinzi-dinu-so-minacciati_a1315.html"/>
+     <date>
+      Thu, 05 Apr 2012 11:54:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I zinzì dinù sò minacciati
+   </head>
+   <div type="excerpt">
+    <p>
+     Dopu à l'altore, dopu à e muvre, eccu chì i zinzì sò minacciati. À colpi d'oursinades è di braconnage, ùn ci n'hè più in Capicorsu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Un ghjornu ci vulerà forse à capisce chì e risorse naturale ùn sò micca infinite. 
+Corse-Matin dice chì Au Cap Corse, les oursins sont en voie de disparition (edizione di u 2 d'aprile). 
+Colpa à a moda di l'oursinades, ma sopr'à tuttu à a pesca salvàtica è u braconnage. Ci vole à crede chì a vèndita di zinzì à i risturanti deve pagà abbastanza bè... 
+Semu in traccia di perde l'altore (leghje : Les gypaètes de Corse menacés d’extinction à brève échéance), e muvre ùn si portanu tantu bè (ùn sò tranquille in muntagna, trà a frequentazione è u braccunasgiu), avà tocca à i zinzì di Capicorsu. 
+Ci deve piace di distruge u nostru ambiu naturale.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

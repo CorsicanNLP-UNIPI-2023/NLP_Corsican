@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Inventa una cunneria nant'à a Corsica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Inventa-una-cunneria-nant-a-a-Corsica_a1585.html"/>
+     <date>
+      Sat, 15 Jun 2013 00:04:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Inventa una cunneria nant'à a Corsica
+   </head>
+   <div type="excerpt">
+    <p>
+     "La violence est enracinée dans la culture corse" hà dettu quellu. In u cuncorsu di cunnerie, Alex Alessandrini ci l'hà fatta à fà megliu : "le bilinguisme mène à l'indépendance".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cù e so cacciate, Manuel Valls hà rilanciatu u cuncorsu di cunnerie nant'à a Corsica. Avia fattu assai forte cù a so cacciata nant'à a viulenza arradicata in a cultura corsa, fendu cusì piacè à millaie di beaufs. 
+L'omi pulitichi corsi dinù sò capaci di sorte pienu di cacciate. Cusì hè stata quella d'Alex Alessandrini in Corse-Matin. Ci spiega perchè ci vole à sustene à Jean Zuccarelli pè e municipali in Bastia. Ciò chì face dì à François Tatti chì : "Le PRG veut organiser une succession familiale". 
+Normale, per quellu chì hà lasciatu a so merria à u so figliolu. 
+Ma frasa di a settimana ci vole à circalla in a so analisa di u votu nant'à a cuufficialità : "le bilinguisme conduirait inévitablement à l'indépendance". 
+Per qualchissia chì parla benissimu u corsu, ci hè da dumandassi perchè ùn hà ancu pigliatu a so carta à Corsica Libera. 
+È gira è gira, è ne vultemu à i vechji discorsi d'opposizione à a lingua corsa. Si pensava chì ste vechjerie d'un altru seculu eranu finite. Chì infine i Corsi avianu capitu chì cunnosce duie lingue era una ricchezza è un'apertura. Chì salvà una lingua minacciata era un duvere. Ma nò. 
+In Corsica st'ultimi mesi regna un'ambianza di "Retour vers le futur" è di "Jurassik Park". 
+Allora, avà chì serà a prussima tappa à francà ? "La langue corse conduit au séparatisme" ? O "la violence mène à la langue corse" ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

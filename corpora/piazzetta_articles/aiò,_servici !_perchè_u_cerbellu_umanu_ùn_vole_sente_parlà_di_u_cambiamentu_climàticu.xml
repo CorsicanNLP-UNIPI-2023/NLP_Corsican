@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Aiò, servici ! Perchè u cerbellu umanu ùn vole sente parlà di u cambiamentu climàticu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Aio-servici%C2%A0-Perche-u-cerbellu-umanu-un-vole-sente-parla-di-u-cambiamentu-climaticu_a2312.html"/>
+     <date>
+      Wed, 16 Dec 2015 22:07:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Aiò, servici ! Perchè u cerbellu umanu ùn vole sente parlà di u cambiamentu climàticu
+   </head>
+   <div type="excerpt">
+    <p>
+     A Cop21 hè compia è noi in Corsica pensemu sempre ch'ellu si tratta d'una coppa purcina di u XXI esimu seculu invintata in Parigi da qualchì lonzu pinzutu. D'eculugia, si ne parla pocu è micca.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hà dettu unu : durante seculi è seculi, noi altri umani avemu cridutu ciò ch'ùn esistia micca ed avale ricusemu di crede ciò chì esiste.  
+Cumu serà ? Si pò parlà di cose fatàstiche, di murtulaghji, di mazzeri, di Paradisu, d'Infernu, d'ànghjuli, o puru d'eletti onesti o di u SCB in finale di l'Europa League... ma giremu u capu quandu si parla u riscaldamentu climàticu. 
+Perchè una tale cecàghjine vuluntaria quand'ellu s'agisce di què ? Perchè u cerbellu umanu sarebbe fattu cusì, ci dicenu i sapientoni : u cerbellu ùn vole sente parlà nè di u futuru nè di sacrifizi. In più, in quella storia di clima chì si sregula ùn avemu mancu un gattivu nemicu à l'usu Dark Vador, The joker o A Gloscia Maiò (Canioni ? Jean-Jean ?) à cumbatte. 
+Serà vera quessa ? Manc'appena. 
+U futuru hè digià quì : evenimenti climàtichi (fiumare, inalzamentu di l'acqua...) strani è stremi, disòrdine ecològicu (Xylella...) ci n'hè ogni ghjornu. 
+Sacrifiziu ? U sacrifiziu serà pocu : rinuncià à u cunsumerisimu sfrenatu ? À fruzà l'energia ? À fà ghjunghje porri è pomi da l'altra parte di u mondu ? 
+È u gattivissimu nemicu l'avemu di siguru : noi stessi ! Ah ah... 
+Aiò, servici !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

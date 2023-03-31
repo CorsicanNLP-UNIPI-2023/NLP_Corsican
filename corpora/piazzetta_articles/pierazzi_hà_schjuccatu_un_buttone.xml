@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pierazzi hà schjuccatu un buttone
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Pierazzi-ha-schjuccatu-un-buttone_a1852.html"/>
+     <date>
+      Sun, 01 Jun 2014 15:03:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pierazzi hà schjuccatu un buttone
+   </head>
+   <div type="content">
+    <p>
+     Dapoi ch'ellu ùn hè più aiaccinu, avemu appena persu di vista à Jean-Baptiste Pierazzi. 
+Pensate ch'ellu s'annoia, quallà à San José in Califurnia ? 
+In tutti i casi hà schjuccatu un bellu but (in VO anu dettu un "magical strike") contr'à u FC Dallas di stu scruccone di JR è hà permessu à a so squadre di vince. 
+À quandu e bandere corse in e tribune di i stadii americani ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

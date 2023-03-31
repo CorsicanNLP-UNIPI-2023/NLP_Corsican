@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U populu di u caddie
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-populu-di-u-caddie_a2558.html"/>
+     <date>
+      Thu, 09 Mar 2017 13:11:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ULTIMI
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U populu di u caddie
+   </head>
+   <div type="content">
+    <p>
+     - aiacciu  - la rocade  - 1a regione 
+http://www.carrefouruncombatpourlaliberte.fr/latrium-centre-commercial-corse-auchan/ 
+http://ecomnews.fr/article/7609/Ajaccio-hypermarche-auchan-55-000-m2-commerciaux-sortent-terre 
+http://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/024000445/0002.pdf
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

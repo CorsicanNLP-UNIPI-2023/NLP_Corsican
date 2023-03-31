@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Dougie Payne
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Dougie%20Payne"/>
+     <date>
+      2014-03-23T14:16:20Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Dougie Payne
+   </head>
+   <p>
+    Dougie Payne hè u bassista di u gruppu di rock scuzzese Travis.
+   </p>
+   <p>
+    Payne, Dougie
+   </p>
+   <p>
+    Payne, Dougie
+   </p>
+  </body>
+ </text>
+</TEI>

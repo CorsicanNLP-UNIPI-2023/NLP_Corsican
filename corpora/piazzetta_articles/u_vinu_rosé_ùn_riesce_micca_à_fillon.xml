@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U vinu rosé ùn riesce micca à Fillon
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-vinu-rose-un-riesce-micca-a-Fillon_a1563.html"/>
+     <date>
+      Fri, 10 May 2013 11:37:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U vinu rosé ùn riesce micca à Fillon
+   </head>
+   <div type="excerpt">
+    <p>
+     In u 2007 in spiazzamentu in Corsica, u primu ministru François Fillon cappia una bomba : «je suis à la tête d’un État qui est en situation de faillite». Sei anni dopu, mette sta frasa in colpu à l'agricultori corsi chì l'anu fattu beie.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Sta frasa avia fattu parlà assai. Semu di settembre 2007 è François Fillon cappia durante un viaghju in Corsica chì : 
+" Je suis à la tête d'un Etat qui est en situation de faillite sur le plan financier, je suis à la tête d'un Etat qui est depuis quinze ans en déficit chronique, je suis à la tête d'un Etat qui n'a jamais voté un budget en équilibre depuis vingt-cinq ans. Ça ne peut pas durer. " 
+In u ducumentariu di Franz-Olivier Giesbert Nicolas Sarkozy, secrets d'une présidence chì hè passatu nant'à France 3 avemu infine a risposta di u perchè di sta frasa. 
+U culpèvule hè... u vinu : 
+" On a bu un peu de rosé " hà dettu. È dopu chì stu ghjornu c'eranu dinù 
+" les syndicats agricoles qui demandaient de l'argent... " 
+Cappià e cunnerie è mette tuttu in colpu à l'amichi chì u facenu beie, a scusa hè vechja cum'è u mondu ! Ma a Francia ùn hè veramente in traccia di fà paglietta ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

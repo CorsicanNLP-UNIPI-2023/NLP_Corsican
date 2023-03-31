@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Gérard Darmon vole ripiglià a lotta
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Gerard-Darmon-vole-ripiglia-a-lotta_a2031.html"/>
+     <date>
+      Wed, 19 Nov 2014 22:00:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Gérard Darmon vole ripiglià a lotta
+   </head>
+   <div type="excerpt">
+    <p>
+     In un'intervista à Télé Poche, l'attore porta u so sustegnu à a lotta armata è dice u so amore pè e bombe.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'interviste di i pippoli nant'à a Corsica sò sempre quelle. 
+À u "j'adore les Corses, ils sont authentiques" di l'anni novanta succede u "j'adore les Corses, ils font tout péter". 
+L'intervista si trova in Télé Poche è hè u situ Première chì ne tratta : 
+Hè ellu chì a dice, in Corsica : "les maisons n’explosent pas gratuitement (…) Il y a eu plusieurs avertissements en amont." 
+Stu spezialistu di u Fronte ùn esiteghja micca à purtà u so sustegnu à a lotta armata : 
+"C’est ce qui fait que les Corses ont préservé la beauté de leur littoral. Ils ont fait la nique à tous ces porcs de promoteurs qui voulaient les défigurer. (…) Non seulement je peux comprendre, mais ça me fait jubiler". 
+Bon, hè forse appena di più cumplicata ch'è quessa o Gérard. Si vede ch'ellu face un pezzu ch'ellu ùn hà più vistu u statu di u liturale corsu. Ma hè bravu quantunque.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

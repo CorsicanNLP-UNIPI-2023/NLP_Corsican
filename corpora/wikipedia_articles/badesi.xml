@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Badesi
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Badesi"/>
+     <date>
+      2019-03-14T00:35:22Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Badesi
+   </head>
+   <p>
+    Badési hè una cumuna di 1.853 abitanti di la pruvincia di Sassari. Lu centru poghja annant'a un coddu da undi fighjula la piana suttustanti è tuttu lu golfu di l'Asinara fin'à la Corsica.
+   </p>
+   <p>
+    Cumuna di Sardegna
+   </p>
+  </body>
+ </text>
+</TEI>

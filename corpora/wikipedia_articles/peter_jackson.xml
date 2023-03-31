@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Peter Jackson
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Peter%20Jackson"/>
+     <date>
+      2015-07-01T23:37:35Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Peter Jackson
+   </head>
+   <p>
+    Peter Jackson hè un realizadore neozelandese.
+   </p>
+   <p>
+    Jackson, Peter
+   </p>
+   <p>
+    Jackson, Peter
+   </p>
+  </body>
+ </text>
+</TEI>

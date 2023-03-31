@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U nostru bingo di a festa di a musica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-nostru-bingo-di-a-festa-di-a-musica_a2440.html"/>
+     <date>
+      Wed, 21 Jun 2017 11:46:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U nostru bingo di a festa di a musica
+   </head>
+   <div type="excerpt">
+    <p>
+     L'estate chì ghjunghje, hè dinù l'infernu di a festa di a musica. S'è vo surtite, avete à pocu pressu 100% di liccia di truvà què. Curagiu.
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

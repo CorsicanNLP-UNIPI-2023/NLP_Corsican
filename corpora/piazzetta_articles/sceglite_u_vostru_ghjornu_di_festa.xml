@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sceglite u vostru ghjornu di festa
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Sceglite-u-vostru-ghjornu-di-festa_a1245.html"/>
+     <date>
+      Wed, 18 Jan 2012 10:36:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sceglite u vostru ghjornu di festa
+   </head>
+   <div type="excerpt">
+    <p>
+     Eva Joly prupone di sceglie u so ghjornu di festa. I ghjudei puderanu ùn andà micca à travaglià pè Kippour è i musulmani pè l'Aid el Kebir. È i Corsi ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè l'ultima pruposta d'Eva Joly : chì ognunu scegli u so "jour férié" in funzione di a so religione. 
+Perchè micca ? Tandu, chì puderiamu sceglie noi ? Eccu qualchì pruposta : 
+27 ferraghju : (1967) A Corsica batte a Francia 2 à 0 in Marseglia, per un macciu amichèvule  8 maghju :  (1769) Ponte Novu. Ma ci hè megliu cum'è ghjornu di festa, nò ?  13 ghjungnu : (1981) Bastia vince a cuppa di Francia. Dapoi, più nisun club corsu hà vintu qualcosa...  25 ghjungnu : (1995) Apertura di l'Amensia in Bunifaziu. Cummencia di manera officiale a burdelizazione di a Corsica. U principiu di a fine.  15 lugliu : (1755) Pasquale Paoli hè elettu capigenerale di a Nazione Corsa. A cunsulta dura trè ghjorni, da u 13 à u 15. Ma a data di u 14 hè digià pigliata.  12 settembre (-2578) Apertura di u primu cumplessu immubiliare in Cucuruzzu.  10 ottobre : (1768) A vittoria di U Borgu. Paoli mette a concia à e truppe francese. De Ludre capituleghja è Marbeuf scappa. Ma a seguita, a cunniscite.  17 nuvembre : (1993) Francia 1, Bulgaria 2. Emil Kostadinova manda l'équipe de France in infernu è diventa un diu in Corsica.  18 nuvembre : (1755) Hè aduttata in Corti a custituzione di Pasquale Paoli. Prima custituzione muderna, averà da inspirà a custituzione americana, 30 anni dopu.  8 dicembre : Ghjornu di a Cuncezzione. A Cunsulta di ghjennaghju 1735 mette a Corsica sott'à a prutezzione di a Vergine. 
+À voi di truvanne d'altre !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

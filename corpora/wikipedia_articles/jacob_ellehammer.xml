@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Jacob Ellehammer
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Jacob%20Ellehammer"/>
+     <date>
+      2015-07-06T09:03:42Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Jacob Ellehammer
+   </head>
+   <p>
+    Jacob Ellehammer (nome veru Jacob Hansen) - Bakkebølle, 14 giugnu 1871, 20 maghju 1946 - hè statu un inventore danese famosu per esse unu di i pionieri di l'Aeronautica.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Richard Jordan Gatling
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Richard%20Jordan%20Gatling"/>
+     <date>
+      2014-08-08T00:36:55Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Richard Jordan Gatling
+   </head>
+   <p>
+    Richard Jordan Gatling (1818-1903) fù un inventore americanu.
+   </p>
+   <p>
+    Gatling
+   </p>
+  </body>
+ </text>
+</TEI>

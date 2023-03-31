@@ -1,0 +1,69 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Thiriez brusgiatu in Merusaglia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Thiriez-brusgiatu-in-Merusaglia_a2226.html"/>
+     <date>
+      Sat, 30 May 2015 23:01:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Thiriez brusgiatu in Merusaglia
+   </head>
+   <div type="excerpt">
+    <p>
+     Era sabbatu sera a nuvesima edizione di i Fochi Paoli, in Merusaglia. È à a fine, Thiriez hè brusgiatu anch'ellu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Frédéric Thiriez averà da finisce in l'incuscente cullettivu corsu cun Mussolini è Morand, in a famiglia di i mullizzoni di quelli maiò ?
+    </p>
+    <p>
+     Ci vole à crede. Sabbatu sera c'era a festa di I Fochi Paoli, in Merusaglia. Hè una bella stonda di memoria è di spartera paisana : canti, paghjelle è chjami è rispondi.
+    </p>
+    <p>
+     A festa si finisce cù un mumentu di spartera in giru à un "fucarè". Cunniscimu i fochi di San Ghjuvà, in certi paesi si facianu dinù per Natale o per San Petru è San Pà. Si chjamavanu "falori" in Castagniccia, "fucheracci" in Boziu. 
+In Bastia si brusgiava una mariunetta, chjamata "Tumasginu". In Portivechju ci hè quella di "Ludareddu". Simbulizavanu i malanni di u passatu ch'ellu si facia piccià, è u principiu d'un ciculu novu. 
+Pè I Fochi Paoli quist'annu, anu tenutu à fà brusgià à... Thiriez. 
+Trè punti in menu pè Merusaglia.
+    </p>
+    <p>
+     Ritratti : Murielle Damerval
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

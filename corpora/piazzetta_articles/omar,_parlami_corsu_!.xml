@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Omar, parlami corsu !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Omar-parlami-corsu-_a1223.html"/>
+     <date>
+      Wed, 30 Nov 2011 22:40:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       A-PIAZZETTA-TV
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Omar, parlami corsu !
+   </head>
+   <div type="excerpt">
+    <p>
+     L'altru eri, Omar (quellu d'Omar è Fred) hà parlatu corsu in u SAV des émissions...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     D'accordu, ùn hà nisuna impurtanza. Ma avà sapemu chì Omar sà dì "và bè" è "à dopu".
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

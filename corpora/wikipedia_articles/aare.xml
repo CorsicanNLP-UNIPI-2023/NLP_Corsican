@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Aare
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Aare"/>
+     <date>
+      2015-07-09T15:20:43Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Aare
+   </head>
+   <p>
+    L'Aare o l'Aar hè un fiume in a Svìzzera. Hè longu 288 km (secondu antri riferimenti ancu 295 km). In u passatu l'Aare hè statu un impurtante fiume di tràficu.
+   </p>
+  </body>
+ </text>
+</TEI>

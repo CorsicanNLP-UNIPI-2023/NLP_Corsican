@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ci vole à salvà e capre corse (è ùn hè micca una magagna)
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ci-vole-a-salva-e-capre-corse-e-un-he-micca-una-magagna_a1711.html"/>
+     <date>
+      Sat, 19 Apr 2014 16:04:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ci vole à salvà e capre corse (è ùn hè micca una magagna)
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè longa a lista di e nostre "cose da salvà". A tradizione pasturalina dinù hè in perìculu, è a razza di a capra corsa dinù.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In a nostra "todo list" di "cose-corse-da-salvà-chì-à-mumenti-hè-a-fine", truvemu : a lingua, i nomi di lochi, i paesi, e tradizioni, u liturale, ciò chì ferma di u populu, i castagni, l'ape, e paghjelle è ancu i migliacci (iè, avete rimarcatu ch'ellu ùn ci hè più furmagliu innù i migliacci ?). 
+D'altronde tuttu què, si pò cunsiderà chì in Portivechju, hè finita. 
+S'aghjusta dunque à a nostra lista a razza di a capra corsa. I sciffri sò questi quì : 
+In u 1990, c'eranu 150.000 capre, oghje 30.000 Ogni annu, circa 15 giovani pastori volenu stallassi, ma ùn ci la facenu per parechje ragioni Paradossu : a Corsica manca di latte, è hè obligata d'impurtà 2 milioni di litri ogni annu  Serà pussibule d'imaginà una Corsica senza pastori, cù a so piaghja strasviluppata è un internu viotu ? 
+Perchè dimmula franca, oghje, u sviluppu di l'internu, a sopravvivenza di i paesi, u mantene di l'attività agrìcule è pasturaline, u travagliu di a terra, si ne parla pocu è so pochi à primurassine. 
+Forse, in l'azzione cuncrete ch'ellu si pò fà, si pò sustene l'AFC Umani chì prupone un prugramma per circà di mantene a razza di e caprette corse, cù una pepiniera in Altiani. Andate à vede nant'à u so situ. 
+In sta pepiniera e capre sò allevate, curate, è purtate à giovani pastori chì s'installanu, ci dice l'AFC. 
+Allora d'accordu, ci saria pienu d'altre cose à fà, è pudemu cuntinuvà à lagnacci. Ma forse, si pò principià cusì.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

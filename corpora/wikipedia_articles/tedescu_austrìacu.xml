@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tedescu austrìacu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Tedescu%20austr%C3%ACacu"/>
+     <date>
+      2014-03-23T15:02:56Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tedescu austrìacu
+   </head>
+   <p>
+    U tedescu austrìacu (Österreichisches Deutsch) hè a varietà di a lingua tedesca chi hè usata in Austria. L'austrìachi dìcenu, per esempiu, der Paradeiser pè die Tomate ("a pumata").
+   </p>
+   <p>
+    Austrìacu
+   </p>
+  </body>
+ </text>
+</TEI>

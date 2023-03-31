@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Si dice "Marcàngeli" o "Marcangèli" ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/marcangeli/"/>
+     <date>
+      Tue, 03 Feb 2015 11:24:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CUMU-SI-DICE
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Si dice "Marcàngeli" o "Marcangèli" ?
+   </head>
+   <div type="excerpt">
+    <p>
+     L'elezzione aiaccine ùn seranu micca state passiunante è di l'avisu di parechji a campagna hè stata brutta. Ma averà avutu un mèritu, quellu di dumandassi cumu si prununzia "Marcangeli".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Laurent Marcangeli, à chì u chjama "Marcangèli" (cù l'incalcu nant'à u "e"), à chì u chjama "Marcàngeli" (cù l'incalcu nant'à u sonu "an"). 
+Di fatti, ci vole à sapè chì a maiò parte di e casate anu pè orìgine un locu, o un nome. E casate sò state stabilite da u statu civile, à u XVIIIu seculu. 
+Spessu dunque venenu da un nome. Da Petru venenu i Pietri. Da Antone venenu l'Antoni. Da Michele i Micheli, da Paulu Antone i Paolantoni ecc... 
+Per avà hè semplice nò ? 
+A lingua di u scrittu essendu u talianu, e casate sò scritte in talianu : "Casasoprana" è micca "Casasuprana". 
+U nome "Anghjulu" hà datu a casata "Angeli" (cù l'incalcu nant'à "an").  Cun stu nome si trova dinù "Michelangeli". 
+È i discendenti di Marcu Anghjulu (Marco + Angelo) anu datu a forma "Marcangeli", cù l'incalcu nant'à u sonu "an", dunque. 
+Di regula saria cusì. Ma l'usu di a lingua s'hè persu, è l'incalcu s'hè spiazzatu. Pare più faciule di fallu cascà nantu à a nanzultima sillaba : prununzià "Marcangèli" vene megliu à certi ch'è "Marcàngeli". 
+Hè chjara ? 
+Tè, d'altronde ne parla ancu Petru Mari in Masai.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

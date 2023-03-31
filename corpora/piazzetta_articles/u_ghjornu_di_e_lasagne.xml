@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U ghjornu di e lasagne
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-ghjornu-di-e-lasagne_a2691.html"/>
+     <date>
+      Sat, 06 Jan 2018 00:07:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       VIDEO
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U ghjornu di e lasagne
+   </head>
+   <div type="excerpt">
+    <p>
+     Pasqua Pifania, in francese "l'épiphanie", hè u ghjornu induve ci vole à manghjà e lasagne in Corsica. Ma perchè ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Muntagiu : PFC
+    </p>
+    <p>
+     Sì u filmettu ùn s'affissa, u pudete vede nant'à YouTube :
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

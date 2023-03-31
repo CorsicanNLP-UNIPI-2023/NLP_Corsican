@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Una prucessione di vacche in Sardegna
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Una-prucessione-di-vacche-in-Sardegna_a2511.html"/>
+     <date>
+      Thu, 19 Jan 2017 23:19:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Una prucessione di vacche in Sardegna
+   </head>
+   <div type="excerpt">
+    <p>
+     In Sardegna dinù hè falata a neve. In a regione di a Barbargia, eccu una prucessione di vacche chì fughjenu u nivaghjone per turnà in casa. Seranu di più disciplinate ch'è e nostre ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Iè, hè bella a neve è avemu tutti fattu belli ritratti per sparteli nant'à e rete suciale... Ma u nivaghjone hè sinònimu di straziu per tutti quelli chì anu l'animali. 
+In Sardegna, sta prucessione di vacche di Barbagia chì si ne tornanu in casa pare guasi surrealista.
+    </p>
+    <p>
+     Surgente : pagina Facebook Laura Laccabadora
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U ballò per e narpie
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-ballo-per-e-narpie_a2189.html"/>
+     <date>
+      Fri, 10 Apr 2015 14:15:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U ballò per e narpie
+   </head>
+   <div type="excerpt">
+    <p>
+     Ùn ci capite un'acca inde u foot ma primurosu d'integravvi, avite decisu di mischjavvi à u slanciu pupulare. Vi spieghemu à l'alesta per ch'è vo ùn passite per un catinu
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     - Site per Bastia
+    </p>
+    <p>
+     - "Football" vole dì "pede" è "ballò". Vole dì ch'ellu ci si ghjoca cù i pedi è un ballò
+    </p>
+    <p>
+     - Forchè u purtiere : ellu, pò chjappà u ballò di mani. Ellu, Thierry Henry è Maradona. Si ricunnosce chì porta i guanti.
+    </p>
+    <p>
+     - Ci sò duie squadre di 11 ghjucadori signuna : 10 ghjucadori chì ghjocanu cù i pedi + 1 purtiere.
+    </p>
+    <p>
+     - Ci vole à mette u ballò in a gabbia di a squadra di l'altri.
+    </p>
+    <p>
+     Attenti : à a pàusa, si cambia di campu.
+    </p>
+    <p>
+     - A regula di u foraghjocu (hors-jeu). Tutti dicenu ch'ella hè cumplicata ma infatti hè fàciule.
+    </p>
+    <p>
+     Bon avemu da fà più sèmplice : s'ella hè l'altra squadra chì marca, mughjate ch'ellu ci hè foraghjocu, s'ella hè Bastia, mai.
+    </p>
+    <p>
+     - Ùn ci hè micca parità. 
+- Sì à a fine di i 90 minuti ci hè ugualità, si mettenu 30 minuti in più di prulungazioni. 
+- Sì à a fine di e prulungazioni ci hè ugualità, ci sò i penaltys. 
+- Sì à a fine di i penaltys ci hè ugualità, u primu chì manca hà persu. 
+- I circate nantu à u terrenu ? Lasciate cascà. Ùn pratècanu più u foot : Maradona (a so manu di diu li ghjova per minà a moglia), Pelé (vende sandwichs è viagra), Platini (cicciutu è vindutu à i qataris), Zidane (micca cicciutu ma vindutu à i qataris), Beckam (manicchinu per slips), Ronaldo (cicciutu è micca u listessu ch'è Cristiano Ronaldo), Cantona (ma sempre azezu), Claude Papi († in u 1983), Olive è Tom (ùn esistenu micca in veru). 
+- In casu di disfatta : lagnàtevi. L'àrbitru hè vindutu, u macciu era arrangiatu, sò ricchi, a Lega hè anti corsa. (In più hè vera). À truvacci da quì à 12 anni. 
+- In casu di vittoria : site cuntentu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Dujardin in sborgna nera in Portivechju
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Dujardin-in-sborgna-nera-in-Portivechju_a1584.html"/>
+     <date>
+      Fri, 14 Jun 2013 22:08:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Dujardin in sborgna nera in Portivechju
+   </head>
+   <div type="excerpt">
+    <p>
+     L'attore Jean Dujardin hè statu cundannatu per avè cunduttu a so vittura à tappu. Dopu à l'affare di u giardinu di Clavier, Camille de Rocca Serra hà dettu chì sta volta ùn c'era per nunda.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'infurmazione vene da u situ di Corse-Matin : Jean Dujardin s'hè fattu arrestà in buchja nera in u 2012. 
+L'attore hè statu cundannatu à una suspensione di permessu di trè mesi da u tribunale d'Aiacciu. 
+A prova chì Portovek (anzianu Portivechju) diventa veramente the place to be di i nostri amichi pippoli in brama di mare, di sole è di sborgna. 
+Dop'à l'affare di u giardinu di Christian Clavier, Camille de Rocca Serra hà dettu chì sta volta, ùn c'era per nunda. 
+È Corse-Matin ùn preciseghja micca si Dujardin hà una residenza segundaria in Corsica o micca. 
+Welcome to pleasure !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

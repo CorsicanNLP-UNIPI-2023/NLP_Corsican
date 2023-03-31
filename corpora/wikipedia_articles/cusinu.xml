@@ -1,0 +1,291 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cusinu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Cusinu"/>
+     <date>
+      2014-11-21T15:15:15Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cusinu
+   </head>
+   <p>
+    In matematica, in particulari in trigunumitria, datu un triangulu rittangulu, u cusinu di unu di i dui anguli interni aghjacenti à l'iputenusa hè difinitu com'è u rapportu trà i lunghezzi di u catetu aghjacenti à l'angulu è di l'iputenusa.
+   </p>
+   <p>
+    Di manera generali, u cusinu d'un angulu \alpha, aspressu in gradi o radianti, hè una quantità chì dipendi solu da \alpha, custruita usendu a circumfarenza unitaria.
+   </p>
+   <p>
+    Difiniscendu com'è \cos(x) u valori di u cusinu in l'angulu x, s'otteni a funzioni cusinu, una funzioni trigunumetrica di fundamintali impurtanza in l'analisa matematica.
+   </p>
+   <p>
+    == Difinizioni ==
+   </p>
+   <p>
+    In u triangulu rossu nantu à a figura, u cusinu di x hè datu da:
+   </p>
+   <p>
+    \cos{x} = \overline{OC}
+   </p>
+   <p>
+    Più in generali, si difinisci u cusinu pigliendu una circumfarenza di raghju unitariu è una mezaretta chì esci da l'urighjina chì forma un angulu x incù l'assu di l'ascissi com'è nantu à a figura. U cusinu di l'angulu x hè difinitu cusì com'è u valori di a
+   </p>
+   <p>
+    cuurdinata x di u puntu d'intarsizioni trà a mezaretta è a circumfarenza (nantu à a figura, hè a lunghezza di u sigmentu OC).
+   </p>
+   <p>
+    A tavuledda siguenti esponni i principali valori nutevuli assunti da a funzioni cusinu:
+   </p>
+   <p>
+    Esisti un'antra difinizioni di cusinu in rilazioni à i rutazioni: u cusinu d'un angulu x hè u cumpunenti longu l'assu di l'ascissi di u virsori i, virsori di l'assu x, ghjiratu di x.
+   </p>
+   <p>
+    == Funzioni cusinu ==
+   </p>
+   <p>
+    A funzioni cusinu hè difinita assucendu à x u cusinu di l'angulu x (rapprisintatu in radianti), è hè indicata incù f(x) = \cos{x} . Apposta ch'è x è x + 2k\pi difiniscini u stessu angulu par qualsiasi k intreiu, a funzioni cusinu hè una funzioni piriodica di periodu 2\pi (induva 2\pi hè l'angulu ghjiru). A curva di u graficu di sta funzioni hè dinuminata cusinusoidi. L'insemu di variabilità di a funzioni cusinu hè [-1,1], veni à dì applichendu 'ssa funzioni à qualunqua numaru riali s'otteni sempri un numaru riali cumpresu trà -1 è 1, estremi inclusi.
+   </p>
+   <p>
+    == Cusinu è sinu ==
+   </p>
+   <p>
+    Trà sinu è cusinu esisti a rilazioni fundamintali, ditta equazioni fundamintali di a trigunumitria, o unità guniumetrica:
+   </p>
+   <p>
+    \sin^{2}{x} + \cos^{2}{x} = 1,
+   </p>
+   <p>
+    chì hè cunsiquenza di u tiurema di Pitagora.
+   </p>
+   <p>
+    == Prubità analitichi di u cusinu ==
+   </p>
+   <p>
+    A dirivata di a funzioni cusinu hè l'oppostu di a funzioni sinu. T'avemu dunqua:
+   </p>
+   <p>
+    (\cos x)^{\prime}=-\sin x.
+   </p>
+   <p>
+    Quissa pò essa dimustrata applichendu una formula di prustaferesi par calculà a limita di u rapportu incrimintali di u cusinu:
+   </p>
+   <p>
+    \frac{\cos(x+h)-\cos x}{h} = \frac{-2 \sin \frac{2x+h}{2}\sin \frac{h}{2}}{h} = -\frac{\sin \frac{h}{2}}{\frac{h}{2}}\sin\left(x+\frac{h}{2}\right) \underset{h \rightarrow 0}{\longrightarrow} -\sin x.
+   </p>
+   <p>
+    A dirivata siconda di u cusinu hè a funzioni stessa cambiata di segnu:
+   </p>
+   <p>
+    (\cos x)^{\prime \prime} = -\cos x,
+   </p>
+   <p>
+    par via di cunsiquenza, a funzioni cusinu com'è a funzioni sinu) risolvi l'equazioni diffarinziali
+   </p>
+   <p>
+    y^{\prime\prime}+y=0,
+   </p>
+   <p>
+    chì discrivi u motu d'un uscillatori armonicu ideali libaru.
+   </p>
+   <p>
+    A funzioni cusinu hè una funzioni à dirivati equilimitati (s'hà infatti |y^{(k)}| \le 1 per ogni k), ed hè par via di cunsiquenza analitica; a so espansioni in seria di Taylor hè:
+   </p>
+   <p>
+    \cos x = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \frac{x^6}{6!} + \cdots   = \sum_{n=0}^\infty \frac{(-1)^nx^{2n}}{(2n)!}
+   </p>
+   <p>
+    par ogni x riali.
+   </p>
+   <p>
+    In analisa matematica 'ss'ugualità hè à spessu usata par difiniscia u cusinu. Listessa seria difinisci u cusinu com'è funzioni olumorfa annantu à tuttu u pianu cumplessu.
+   </p>
+   <p>
+    == Equazioni fundamintali rilativi à u cusinu ==
+   </p>
+   <p>
+    Vali a siguenti formula d'addizioni (è suttrazzioni) d'archi:
+   </p>
+   <p>
+    \cos(x\pm y) = \cos x\cos y \mp \sin x\sin y,
+   </p>
+   <p>
+    è in particulari a formula di duplicazioni
+   </p>
+   <p>
+    \cos{(2x)} = \cos^2x - \sin^2x = 1 - 2\sin^2x = 2\cos^2x - 1.
+   </p>
+   <p>
+    I siguenti sò i furmuli di prustaferesi rilativi à u cusinu:
+   </p>
+   <p>
+    \cos{x} + \cos{y} = 2\cos{\frac{x+y}{2}}\cos{\frac{x-y}{2}},
+   </p>
+   <p>
+    \cos{x} - \cos{y} = -2\sin{\frac{x+y}{2}}\sin{\frac{x-y}{2}}.
+   </p>
+   <p>
+    Vali ancu a catena di disugualità:
+   </p>
+   <p>
+    0
+   </p>
+   <p>
+    Si cunsidareghja a circumfarenza unitaria, è sii 0 , com'è nantu à a figura.
+   </p>
+   <p>
+    Si tracci a mezaretta chì esci da l'urighjina chì forma un angulu x (antiurariu) rispettu à u mezassu pusitivu di l'ascissi. Tandu i cuurdinati di u puntu d'intarsizioni P di a mezaretta incù a circumfarenza sò (\cos x, \sin x). Si traccia u sigmentu chì unisci P à u puntu A=(1,0). Sii inoltri T u puntu d'intarsizioni trà a mezaretta è a retta d'ascissa 1 (assu di i tangenti). T hà cuurdinati (1, \tan x).
+   </p>
+   <p>
+    Si nota ch'è u triangulu POA hè strittamenti rinchjusu in u sittori circulari POA, u quali hè rinchjusu strittamenti in u triangulu TOA. Vali tandu a disugualità di i rispittivi arii (si ricorda ch'è x hè l'angulu, aspressu in radianti):
+   </p>
+   <p>
+    0
+   </p>
+   <p>
+    veni à dì
+   </p>
+   <p>
+    0
+   </p>
+   <p>
+    Da a prima parti di a disugualità si ricava ch'è  0 , mentri cunsidarendu a siconda, dividendu veni à dì par \sin x (ciò chì hè pussibuli parchì  \sin x &gt; 0 ), s'utteni:
+   </p>
+   <p>
+    1
+   </p>
+   <p>
+    veni à dì
+   </p>
+   <p>
+    \sin x \cos x
+   </p>
+   <p>
+    induva à a fini s'hè multiplicatu par \sin x è par \cos x, ciò chì priserva u versu di a disugualità parchì sò tremindù pusitivi. Ricapitulendu i risultati,
+   </p>
+   <p>
+    0
+   </p>
+   <p>
+    Q.E.D..
+   </p>
+   <p>
+    }}
+   </p>
+   <p>
+    Esisti ancu una'idantità trigunumetrica chì metti in rilazioni a funzioni cusinu à a funzioni tangenti:
+   </p>
+   <p>
+    \cos{x} = \frac{1-\tau^2}{1+\tau^2} \quad \text{ incù }\quad \tau = \tan\frac{x}{2}
+   </p>
+   <p>
+    .
+   </p>
+   <p>
+    st'idantità si svela di fundamintali impurtanza in a risuluzioni d'equazioni guniumetrichi in a quali a scunnisciuta figura com'è argumentu sii d'un sinu sii d'un cusinu (o di funzioni dirivati da quiddi). Esisti, infatti, un'idantità analoga par ciò chì riguarda u sinu, ciò chì parmetti a risuluzioni di l'equazioni incù a scunnisciuta \tau. Di listessa manera, si pò sfruttà sta rilazioni par u calculu di i primitivi di funzioni guniumetrichi.
+   </p>
+   <p>
+    == Difinizioni currilati ==
+   </p>
+   <p>
+    U reciprocu di u cusinu (difinitu induva u cusinu hè diffarenti da zeru) hè a secanti:
+   </p>
+   <p>
+    :\sec x =\frac 1{\cos x}.
+   </p>
+   <p>
+    A funzioni cusinu hè iniettiva nantu à l'intarvallu [0,\pi] è hà dunqua una inversa, chjamata arcucusinu (indicatu incù \arccos o incù \cos^{-1} chì ripiglia a nutazioni di a funzioni inversa).
+   </p>
+   <p>
+    == Urighjina di u nomu ==
+   </p>
+   <p>
+    U terminu cusinu stà par "cumplimintariu di u sinu". Infatti, par anguli trà 0 è \pi/2, u cusinu d'un angulu hè u sinu di l'angulu cumplimintariu, veni à dì :\cos{x} = \sin\left(\frac{\pi}{2} \pm x\right).
+   </p>
+   <p>
+    sta rilazioni, chì si ricava da i furmuli di somma d'archi, hè valida par ogni  x ; eppuri a nuzioni giumetrica d'angulu cumplimintariu s'applicheghja solu l'anguli pusitivi, è dunqua cumpresi trà 0 è  \pi/2 .
+   </p>
+   <p>
+    == Noti ==
+   </p>
+   <p>
+    == Da veda dinò ==
+   </p>
+   <p>
+    Sinu
+   </p>
+   <p>
+    Leghji di u cusinu
+   </p>
+   <p>
+    Cusinusoidi
+   </p>
+   <p>
+    Funzioni trigunumetrica
+   </p>
+   <p>
+    Tangenti (matematica)
+   </p>
+   <p>
+    Arcucusinu
+   </p>
+   <p>
+    Circumfarenza guniumetrica
+   </p>
+   <p>
+    Formula di Eulero
+   </p>
+   <p>
+    Formuli di duplicazioni
+   </p>
+   <p>
+    Formuli di bisizzioni
+   </p>
+   <p>
+    Formuli di prustaferesi
+   </p>
+   <p>
+    Formuli di Werner
+   </p>
+   <p>
+    Funzioni piriodica
+   </p>
+   <p>
+    Funzioni altirnata
+   </p>
+   <p>
+    Cusinu iperbolicu
+   </p>
+   <p>
+    Trigunumitria
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia in talianu.
+   </p>
+  </body>
+ </text>
+</TEI>

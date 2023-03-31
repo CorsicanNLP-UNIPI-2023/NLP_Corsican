@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ùn sanu veramente più chì fà ind'è Adidas
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-sanu-veramente-piu-chi-fa-ind-e-Adidas_a1896.html"/>
+     <date>
+      Mon, 23 Jun 2014 18:10:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ùn sanu veramente più chì fà ind'è Adidas
+   </head>
+   <div type="content">
+    <p>
+     V'arricurdate siguramente di sta pubba Adidas di u 2006 cù tutte e stelle di u futbol (infine, cun quelle sott'à cuntrattu cù a marca alemana tandu) : Zidane, Beckham, Kakà, Robben, Nesta, Riquelme, Kahn... è ancu Beckenbauer è Platini. 
+Ancu Alex-Alex hà firmatu un cuntrattu cù "la marque aux trois bandes" ? 
+Bon d'accordu, u ritrattu hè ricacciatu d'una video di u 2008 di Bakchich nant'à i ligami trà Kadhafi è a Corsica. 
+Ma forse, Adidas hà signatu da veru cù u presidente di u PRG di Corsica Suprana.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

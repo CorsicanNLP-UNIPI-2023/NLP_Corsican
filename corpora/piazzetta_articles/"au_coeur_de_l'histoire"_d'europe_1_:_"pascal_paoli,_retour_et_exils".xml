@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "Au coeur de l'histoire" d'Europe 1 : "Pascal Paoli, retour et exils"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Au-coeur-de-l-histoire-d-Europe-1-Pascal-Paoli-retour-et-exils_a2514.html"/>
+     <date>
+      Tue, 24 Jan 2017 12:05:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "Au coeur de l'histoire" d'Europe 1 : "Pascal Paoli, retour et exils"
+   </head>
+   <div type="excerpt">
+    <p>
+     L'emissione nant'à a storia di Franck Ferrand hè stata cunsacrata à Pasquale Paoli. Da stà à sente per cambiassi appena l'idee.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Per vede u situ di l'emissione, ci vole à andà quì. 
+Per stà à sente u podcast, hè quì sottu :
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

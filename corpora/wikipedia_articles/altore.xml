@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Altore
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Altore"/>
+     <date>
+      2013-03-08T22:08:57Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Altore
+   </head>
+   <p>
+    l'Altore: a spezia Accipiter gentilis
+   </p>
+   <p>
+    l'Altore: a sottuspezia Accipiter gentilis arrigonii
+   </p>
+   <p>
+    l'Altore barbutu: a spezia Gypaetus barbatus
+   </p>
+  </body>
+ </text>
+</TEI>

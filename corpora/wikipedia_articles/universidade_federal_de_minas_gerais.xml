@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Universidade Federal de Minas Gerais
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Universidade%20Federal%20de%20Minas%20Gerais"/>
+     <date>
+      2014-03-23T15:09:02Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Universidade Federal de Minas Gerais
+   </head>
+   <p>
+    L'Universidade Federal de Minas Gerais hè un' università brasiliana, situata in a cità di Belo Horizonte. Ci sò à l'incirca 49.254 stughjanti.
+   </p>
+   <p>
+    Fù fundata u 7 settembre di u 1927.
+   </p>
+   <p>
+    Università
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Elezzioni : u grande ritornu di e liste ingunfiate
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Elezzioni-u-grande-ritornu-di-e-liste-ingunfiate_a1664.html"/>
+     <date>
+      Tue, 07 Jan 2014 10:14:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MUNICIPALI-2014
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Elezzioni : u grande ritornu di e liste ingunfiate
+   </head>
+   <div type="excerpt">
+    <p>
+     Più di 30% di novi scritti nant'à e liste eletturale in Portivechju, induve avemu francatu i 10.000 elettori pè 11.000 abitanti.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     È voi chì pensavate chì e nostre vechje tradizione si perdianu. Pensate ! 
+Torna appena è in Portivechju c'eranu di più elettori chè d'abitanti. U situ Alcudina ci dice chì : 
+"A ce jour, ce sont 10 008 électeurs qui sont inscrits à Porto-Vecchio pour une population de 11 309 habitants" 
+Più di 1500 novi scritti nant'à e liste, ci dice Alta Frequenza. Sariamu passati cusì da 7425 à più di 10.000 elettori. 
+Bastia dinù cunnosce una bella crescita cù 2800 novi scritti ci dice Corsica Infurmazione. 
+Messi in causa : i residenti aurupeani, chì ponu vutà pè un'elezzione municipale, scritti di manera massiccia da i capi d'impresa chì l'impieganu. Di chè pisà per avè i mercati attribuiti da e municipalità (più di 500 in Portivechju, quantunque...) 
+Uvrieri strangeri, poveri, pagati pocu è pigliati à calci in culu da i so patroni, è in più di quesa, ubligati di vutà... Eccu a realità. 
+Ma di siguru, ùn hè chè una voce chì corre. Sò e gattive lingue chì dicenu cusì. È e pressioni ùn esistenu micca in Corsica, tuttu u mondu a sà.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

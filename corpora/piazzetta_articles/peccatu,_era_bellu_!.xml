@@ -1,0 +1,92 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Peccatu, era bellu !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Peccatu-era-bellu-_a2007.html"/>
+     <date>
+      Sat, 25 Oct 2014 23:37:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Peccatu, era bellu !
+   </head>
+   <div type="excerpt">
+    <p>
+     Bastia ùn hà micca riesciutu à vince contr'à Monaco. Ma u spetàculu era in e tribune. A risposta à l'interdizzione di a bandera corsa era magnifica : un mare fattu di biancu è di moru.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ciò chì ci hè di bè cù i Corsi, hè chì più si pichja nantu, più si sentenu uniti. L'affare di l'interdizzione di a bandera da u prefettu di Nizza, u Leca-bashing, è l'interdizzione di u delegatu di ACA - Valenciennes anu riesciutu à mette abbastanza bè à zerga à tutti. 
+S'aspettava una risposta pè a partita Bastia - Monaco di sabbatu sera in Furiani... è hè stata tremenda. 
+Hè semplice, ùn s'hè mai vistu tante bandere corse in u listessu locu à u listessu mumentu. Nè per una manifestazione, nè per una partita di ballò. Quantu ci n'era ? 5.000 ? 8.000 ? 10.000 ? 
+U risultatu era impressiunante, basta à vede e fiure. 
+Bon quessa hè fatta, si pò pensà chì u prefettu Adolphe è a LFP averanu capitu. 
+Ma avà fermanu tante inghjustizie in Corsica è ci hè bisognu di battesi torna. D'altre battaglie nant'à d'altri terreni ci aspettanu. Ci la feremu ?
+    </p>
+    <p>
+     Ancu i giurnalisti avianu e so bandere in tribuna di stampa.
+    </p>
+    <p>
+     I sustenidori di Monaco dinù...
+    </p>
+    <p>
+     La saison de Bastia risque d'être longue et compliquée mais niveau ambiance on sait toujours faire via @degentili pic.twitter.com/5XQnk9WR6U
+— Matteu Maestracci (@MMaestracci) 25 Octobre 2014
+    </p>
+    <p>
+     Un job d'avenir : marchand de bandere. #SCBASM @LFPfr pic.twitter.com/jWuLEKU4dA
+— AAlbertini (@AAlbertini1) 25 Octobre 2014
+    </p>
+    <p>
+     Bastia-Monaco: le tifo d'avant-match en 360° et... par SportingClubBastia
+    </p>
+    <p>
+     Un #Furiani des grands soirs contre Monaco ! Forza #Bastia più che mai ! #SCBASM pic.twitter.com/9QJFOaCbXS
+— Actu SC Bastia (@SpirituTurchinu) 25 Octobre 2014
+    </p>
+    <p>
+     Iè iè, tutti i "turchini" avianu a so bandera. Ancu questi quì :
+La police aussi #bandera #testamora pic.twitter.com/qgZx2FN2Rm
+— I Kongoni (@IKongoni) 25 Octobre 2014
+    </p>
+    <p>
+     Bon, on s'en doutait mais Furiani est bouillant. Des drapeaux corses partout. Partout. Partout. Partout. pic.twitter.com/DVrz2qE1yt
+— Mathieu Faure (@matfaure) 25 Octobre 2014
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

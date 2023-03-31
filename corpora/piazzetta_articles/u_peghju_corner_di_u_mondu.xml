@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U peghju corner di u mondu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-peghju-corner-di-u-mondu_a1726.html"/>
+     <date>
+      Thu, 17 Apr 2014 14:05:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U peghju corner di u mondu
+   </head>
+   <div type="content">
+    <p>
+     Nò, ùn si passa micca in Furiani, ma in Ungheria, in un scontru di cuppa trà Debrecen à Diosgyor (finitu 4-2). 
+Bon d'accordu ùn avemu nunda à dì, noi dinù n'avemu vistu pochi macciacci è corner mancati...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

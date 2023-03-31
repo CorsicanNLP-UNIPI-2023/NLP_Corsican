@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Corsi, chì squadra suppurtate à a cuppa di u mondu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Corsi-chi-squadra-suppurtate-a-a-cuppa-di-u-mondu_a1872.html"/>
+     <date>
+      Tue, 10 Jun 2014 13:49:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Corsi, chì squadra suppurtate à a cuppa di u mondu ?
+   </head>
+   <div type="content">
+    <p>
+     I Taliani sustenenu l'Italia. L'Uruguaiani l'Uruguay. I Spagnoli a Spagna. Ma i Corsi ? 
+Seranu per a Francia ? Contr'à a Francia ? Per nimu ? Per un'altra squadra in particulare ? 
+Hè a dumanda ch'ellu s'hè postu un giurnalistu di So Foot è hà lanciatu una chjama nant'à Twitter. 
+Hà precizatu : Dans la même veine, pourquoi ne supportez vous pas l'Equipe de France ?  
+Per fà e vostre risposte, andate quì 
+Aspettemu i risultati cun impazienza !
+    </p>
+    <p>
+     A tous les Corses de ma TL, pour un sérieux sondage IFOP / @sofoot : Qui supportez vous à la Coupe du Monde ? Merci de répondre / RT.
+— Thomas Andrei (@Thomas_Andrei) 9 Juin 2014
+    </p>
+    <p>
+     Dans la même veine, pourquoi ne supportez vous pas l'Equipe de France ? #LastTweet #MaisQuiSupportentLesCorsesALaCoupeDuMonde?
+— Thomas Andrei (@Thomas_Andrei) 9 Juin 2014
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

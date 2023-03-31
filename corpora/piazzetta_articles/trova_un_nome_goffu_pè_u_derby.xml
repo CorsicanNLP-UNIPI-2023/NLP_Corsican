@@ -1,0 +1,72 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Trova un nome goffu pè u derby
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Trova-un-nome-goffu-pe-u-derby_a1425.html"/>
+     <date>
+      Fri, 19 Oct 2012 22:20:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Trova un nome goffu pè u derby
+   </head>
+   <div type="excerpt">
+    <p>
+     I media francesi anu inventatu u nome di "classico" pè PSG-OM. Peghju, anu inventatu dopu "l'olympico" pè Olympique de Marseille - Olympique Lyonnais". À quandu u "Keursico" ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     À l'orìgine "El Clásico" hè u nome di a partita chì vede opponesi e duie grande squadre spagnole, u Barça è u Real di Madrid. Dapoi più di cinquant'anni, hè a partita di l'annu in Spagna. 
+In Francia, dapoi pocu i media (L'Equipe è Canal + in particulare) anu decisu di chjamà "le classico" a partita trà u PSG è l'OM. Purtantu a rivalità futbulistica trà ste duie squadre hè recente (principiu di l'anni 90 solu). 
+U scopu hè di rende attrattivu un campiunatu micca veramente spettaculare è chì interessa di menu in menu mondu. Allora "le classico" face vende. Hè nata cusì una tradizione di dà nomi goffi à parechji macci senza interessu : 
+L'Equipe hà chjamatu "L'Olympico" a partita trà i dui Olympiques (Marseglia è Liò). 
+Lorient-Nancy hè diventatu "Le Synthético", chì ste duie squadre ghjocanu nant'à terreni sintètichi. 
+E partite trà Valenciennes, Lens è Lille diventanu "Nordico" o "Chtico". 
+Pè i Brittoni di Brest, Lorient è Rennes si dicerà u "Breizhico" o "Celtico". Pè Nantes è Bordeaux si parla di "Atlantico". 
+Si pò parlà dinù di "Merdico" pè 90% di e partite di L1 trà e squadre di Sochaux, Evian Thonon Gaillard, Troyes, Reims, Nancy, Lorient... 
+Hè dunque stranu chì nimu parli ancu di "Corsico" o piuttostu di "Keursiko" pè u derby corsu. Femu a scumessa chì sta dumenicata si ne parlerà à Téléfoot o nant'à L'Equipe ? 
+È in Corsica ? 
+ACA-GFCA puderà diventà u "Bonapartico" o u "Ococo". 
+Pè u prussimu CAB-SCB si parlerà di "Zuccarellico". 
+Quandu Siscu ghjucherà contr'à Luri, serà u "Rancicò". 
+Vintisari vs Ghisunaccia serà u "Fiumorbico" o u "Salvaticò". 
+È Antisanti - Niolu u "Cazzuttatico" o "Calcièpugnico". 
+À voi di truvanne d'altri !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

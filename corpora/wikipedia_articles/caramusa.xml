@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Caramusa
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Caramusa"/>
+     <date>
+      2015-07-01T22:46:19Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Caramusa
+   </head>
+   <p>
+    A caramusa hè un strumentu musicale tradiziunale corsu, à ventu, tipu cornemuse.
+   </p>
+   <p>
+    Strumenti musicali di Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

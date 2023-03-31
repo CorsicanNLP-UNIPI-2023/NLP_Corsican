@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Gdynia
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Gdynia"/>
+     <date>
+      2015-07-27T04:38:08Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Gdynia
+   </head>
+   <p>
+    Gdynia hè una cumuna di a Pulonia. Ci sò 247 821 abitanti (2014)
+   </p>
+   <p>
+    == Dimugrafia ==
+   </p>
+   <p>
+    Polonia
+   </p>
+  </body>
+ </text>
+</TEI>

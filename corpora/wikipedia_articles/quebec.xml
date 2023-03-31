@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quebec
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Quebec"/>
+     <date>
+      2017-11-10T23:46:35Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quebec
+   </head>
+   <p>
+    U Quebec hè una pruvincia di u Canadà,  hà una superficia di 1.542.056 km² è tene una populazzione di 7.903.001 abitanti (2011).
+   </p>
+   <p>
+    A capitale hè Quebec è a cità più grande hè Montréal.
+   </p>
+   <p>
+    In u Quebec, a lingua più parlata hè u francese.
+   </p>
+   <p>
+    U primu ministru hè Philippe Couillard (PLQ).
+   </p>
+   <p>
+    Pruvincia di u Canadà
+   </p>
+  </body>
+ </text>
+</TEI>

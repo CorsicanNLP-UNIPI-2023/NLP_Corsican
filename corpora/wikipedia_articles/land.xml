@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Land
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Land"/>
+     <date>
+      2019-07-01T20:49:15Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Land
+   </head>
+   <p>
+    Una divisione territuriale è amministrativa di a Germania: Land (Germania)
+   </p>
+   <p>
+    Una divisione territuriale è amministrativa di l'Austria: Land (Austria)
+   </p>
+   <p>
+    Land
+   </p>
+  </body>
+ </text>
+</TEI>

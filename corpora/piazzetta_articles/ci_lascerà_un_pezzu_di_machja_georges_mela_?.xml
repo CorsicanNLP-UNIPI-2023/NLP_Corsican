@@ -1,0 +1,70 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ci lascerà un pezzu di machja Georges Mela ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ci-lascera-un-pezzu-di-machja-Georges-Mela_a1853.html"/>
+     <date>
+      Mon, 02 Jun 2014 19:39:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ci lascerà un pezzu di machja Georges Mela ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Georges Mela ùn hà micca appreziatu u riportu di Canal+ (sapete, quellu di a so famosa frasa "on ne peut pas transmettre que du maquis") è hà attaccatu in difamazione dui difensori di l'ambiu. A bettunizazione ùn hè sempre micca "anti-constitutionnelle".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Georges Mela vole fà tace l'associ di difesa di l'ambiu ? 
+Hè a dumanda ch'ellu si pone u Cullettivu pè a lege liturale in una cunferenza di stampa. 
+Ciò chì ùn hè micca piaciutu à u merre di Purtivechju Portovèque hè un riportu fattu per l'emissione Dimanche+ intitulatu : "Bétonnage en Corse : pourquoi l'état laisse faire", di ferraghju 2013. 
+Stu riportu hè firmatu famosu per via d'una bellissima frasa di Georges Mela chì dice : "C'est bien lorsqu'on parle de développement durable, de préservation des sites pour les générations futures et compagnie, on se fait plaisir, c'est superbe ! Mais à un moment donné, on ne peut pas transmettre que du maquis !" Cusì hè natu Georges de la machja. 
+Georges Mela ùn hà micca appreziatu u mumentu induve Vincente Cucchi, presidente di l'associu ABCDE dice : « Quand on a des relations, on arrive à faire ce qu’on veut, où on veut ». Ùn era micca destinatu à u sgiò Mela, ma ellu l'hà pigliata per ellu. Un altru militante ecologistu hè messu in causa è cunvucatu à u tribunale in Parigi. 
+U Cullettivu pè a Lege Liturale si dumanda : "Est-ce une opération de communication, pour faire un exemple, pour intimider les membres des associations et tenter de les faire taire ?" 
+Ci hè da dumandassi... 
+In tantu, in Portovèque cuntinuveghja di corre u cimentu è Camille de Rocca Serra hè statu numinatu... à l'urbanisimu.. Tuttu và bè.
+    </p>
+    <p>
+     D'appressu à i giurnalisti di Canal+, Georges Mela si face custruisce una casa nant'à un terrenu chì ùn era micca custruttibile.
+    </p>
+    <p>
+     È cum'è no simu bravi, eccu a video di l'emissione s'è vo a vulete vede :
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

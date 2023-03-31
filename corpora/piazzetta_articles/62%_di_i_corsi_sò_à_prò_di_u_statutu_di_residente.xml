@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     62% di i Corsi sò à prò di u statutu di residente
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/62-di-i-Corsi-so-a-pro-di-u-statutu-di-residente_a1861.html"/>
+     <date>
+      Wed, 04 Jun 2014 00:55:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    62% di i Corsi sò à prò di u statutu di residente
+   </head>
+   <div type="content">
+    <p>
+     Hè u risultatu d'un sundagiu publicatu in u mensile Paroles de Corse. 
+62% di i Corsi interrugati dicenu ch'elli sò per u statutu di residente. 
+È chì dicenu i cuntinentali ? Ch'ellu hè discriminatoriu ? Nò ! Unu nant'à dui hè à prò di u statutu. 
+È chì dice u Statu ? Ah beh nò. Ellu, si n'impippa è ùn vole sente nunda. 
+To be continued...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

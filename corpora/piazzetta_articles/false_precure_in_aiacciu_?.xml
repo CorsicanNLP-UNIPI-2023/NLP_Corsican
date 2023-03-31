@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     False precure in Aiacciu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/False-precure-in-Aiacciu_a1808.html"/>
+     <date>
+      Fri, 16 May 2014 10:09:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    False precure in Aiacciu ?
+   </head>
+   <div type="content">
+    <p>
+     "Ajaccio, capitale de la fraude ?" hè u tìtulu di u numeru di maghju di Corsica. 
+Simon Renucci cuntesta u risultatu di l'ultima elezzione municipale. Ci vole à dì chì e precure sò in pienu sviluppu : 
+In u 2001 ci sò state 897 precure.  In u 2008, 1757 precure  È in u 2014, 2420 precure... 
+Trà u primu è u segondu giru, ci sò state 640 precure in più, 300 caricate nant'à internet. D'appressu à u giurnale, 350 sò dubbitose. 
+Ci saria ancu statu ghjente surprese d'amparà... ch'elle anu vutatu. 
+Simon Renucci parla di "violence faite aux Corses qui n'est pas moins condamnable que la violence physique". 
+Avà tocca à a ghjustizia di decide.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

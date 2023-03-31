@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Liberemu u nostru liturale !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Liberemu-u-nostru-liturale-_a1157.html"/>
+     <date>
+      Fri, 02 Sep 2011 12:29:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Liberemu u nostru liturale !
+   </head>
+   <div type="excerpt">
+    <p>
+     Giurnalisti di France 3 minati, pagliotte illegale, parkings di Portivechju è di a Marana à 20 €... i Corsi ùn dicenu nunda, u Statu lascia fà. È l'altri si techjanu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Aviamu digià parlatu di u bor'di mare privatizatu (vede l'articulu è u filmu di France 2 in Cala di Figu), eccu avà u ritornu di e pagliotte. 
+L'affare si passa in Coti Chjavari, induve una squadra di giurnalisti di France 3 facia un filmatu nant'à l'occupazione illegale di u liturale da e famose pagliotte (leghje nant'à Corse-Matin). A videò hè in linea nant'à u situ di France 3 Corse. 
+Si parla di u mare di u golfu d'Aiacciu, ma si puderia parlà dinù di i parkings à 15 o 20 € in Portivechju è à a Marana. 
+12 anni dopu à l'affaire des paillotes, nunda hà cambiatu. Certi cuntinuveghju d'empiesi a panza è e stacche, i Corsi ùn dicenu nunda, è u Statu lascia fà. 
+Cuntinuvemu cusì ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

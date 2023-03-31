@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Aconcagua
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Aconcagua"/>
+     <date>
+      2013-03-09T02:51:03Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Aconcagua
+   </head>
+   <p>
+    L'Aconcagua hè un monte in Argentina. Incù 6.958 metri (secondu antri riferimenti ancu 6.962 metri), hè u monte u più altu di e dùie Amèriche.
+   </p>
+  </body>
+ </text>
+</TEI>

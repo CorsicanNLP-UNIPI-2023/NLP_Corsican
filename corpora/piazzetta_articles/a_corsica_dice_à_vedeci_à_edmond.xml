@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Corsica dice à vedeci à Edmond
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-Corsica-dice-a-vedeci-a-Edmond_a2756.html"/>
+     <date>
+      Sun, 16 Dec 2018 17:26:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A Corsica dice à vedeci à Edmond
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè un librone di a storia di a Corsica recente chì si chjode. Edmondu Simeoni hà marcatu a vita pulitica corsa di st'ultimi cinquanta anni.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cumu riassume in qualchì filaru a vita chì fù quella d'Edmond Simeoni ? Da u 1960 cun l'affare di e prove nuclearie in l'Argentella à a pulluzione di e fanghe rosse in u 1973, fù unu di i primi à avè datu una voce pè discità a Corsica addurmintata di l'anni sessanta. 
+L'occupazione di a Cave Depeille in u 1975 è l'evenimenti chì sò accaduti dopu sò cunsiderati cum'è a nascita di u naziunalisimu mudernu. Chì saria stata a Corsica senza Aleria ? Ùn si pò sapè, ma hè certa chì u visu di a Corsica ùn saria statu u listessu.
+    </p>
+    <p>
+     Mai fiaccu, Edmondu hà cunsacratu a so vita à u militantisimu, cù u so lottu di speranze è di fede, di sbaglii è di cuntradizzione. Dicia sempre chì avà u solcu era apertu è ch'ellu ci tocca à suminà.
+    </p>
+    <p>
+     Edmondu Simeoni cuntava sempre chì a so indiatura hè nata cù a presa di cuscenza d'un'isula sottu sviluppata, povera, prumessa à a speculazione di i grandi gruppi finanziarii, cù una lingua è una cultura muribonde, cù un populu vergugnosu di ciò ch'ellu hè. 
+A so analisa era piena di lucidità. È si pò dì ch'ellu era antivistu, postu chì stu custatu vale sempre, quarant'anni dopu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

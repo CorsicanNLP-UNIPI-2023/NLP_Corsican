@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "Vuleria parlà corsu, ma ùn ci la facciu micca"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Vuleria-parla-corsu-ma-un-ci-la-facciu-micca_a2632.html"/>
+     <date>
+      Thu, 07 Sep 2017 15:44:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "Vuleria parlà corsu, ma ùn ci la facciu micca"
+   </head>
+   <div type="content">
+    <p>
+     - Quand'è tù sì cun ghjente ch'è tù sai ch'elli parlanu corsu, perchè tù ùn parli micca corsu cun elli ?  - Anch’elli ùn parlanu micca corsu ! È s’e mi mettu in una cunversazione in corsu è ch’eiu mi sbagliu, anu dà piantà da parlà corsu subbitu, è passemu à u francese. Ùn sò tantu eiu chì si vergogna ch’elli ! 
+- Ti vergogni di sbagliatti ?  - Cio chì face chì a situazione diventa pisiva, hè piuttostu di vede quelli chì parlanu ( in corsu ) cambia di Lingua per i sbagli di l'altri. Dunque, Passu direttamente a u Francese, cusì nimu si sente male. 
+- Ùn supportanu micca di parlà cun qualchissia chì hà un livellu più debbule pensi ?  - Hè vera chì ci sò dinù quelli chì ùn volenu micca parlà cù i principianti. Ma mi pare chì ghjè piutosttu un’affare di cunversazone light quandu 2 persone ùn anu listessu livellu.  Une cunversazione light Ghjè quella chì ùn ti permette micca di sprime tuttu cio chè tu ai in mente è eiu n'aghju piene. 
+- ti manca o ti piaceria di parlà corsu più spessu ?  - Ùn mi manca micca postu ch'un hè a mo lingua materna, ma mi piacerebbe di parlà la più spessu, iè.  Mi pare ch'in ogni Lingua, u to cerbellu si face un Cambiu di modu , u switch cerbellacciu chì cambia la to manera di vede Le cose, d'una lingua a l altra 
+- Chì ci vuleria à cambià ind'è i cursofuni per ch'è tù possa parlà più spessu corsu cun elli ?  - ch'elli parlanu senza scuragiassi s'e ùn capiscemu micca o micca tuttu. Cum'e dice u dettu " apprendre c'est répéter "
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

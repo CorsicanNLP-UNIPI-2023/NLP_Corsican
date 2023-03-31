@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "Couché" di Battì, 40 anni dopu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Couche-di-Batti-40-anni-dopu_a2656.html"/>
+     <date>
+      Fri, 29 Sep 2017 08:50:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "Couché" di Battì, 40 anni dopu
+   </head>
+   <div type="excerpt">
+    <p>
+     L'evenimenti in Catalogna anu ispiratu à Battì. U disignadore hà adattatu u so famosu "couché !" publicatu in l'anni settanta.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U dissegnu hè statu publicatu nant'à a so pagina Facebook
+    </p>
+    <p>
+     Eccu u dissegnu originale, chì hè statu publicatu in l'anni settanta. Hè statu adopratu da A Riscossa chì n'avia fattu affissi.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

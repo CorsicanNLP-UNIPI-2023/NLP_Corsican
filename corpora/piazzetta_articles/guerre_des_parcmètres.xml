@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Guerre des parcmètres
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Guerre-des-parcmetres_a2518.html"/>
+     <date>
+      Fri, 27 Jan 2017 10:21:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Guerre des parcmètres
+   </head>
+   <div type="content">
+    <p>
+     https://twitter.com/rinnovuN/status/819827183468380160 
+https://twitter.com/MassimuPoli/status/819112461861318659 
+http://www.corsematin.com/article/article/bastia-les-pv-electroniques-debarquent-en-centre-ville.2122938.html
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

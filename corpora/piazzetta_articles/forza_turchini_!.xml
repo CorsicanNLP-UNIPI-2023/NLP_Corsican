@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Forza turchini !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Forza-turchini-_a1024.html"/>
+     <date>
+      Sun, 06 Feb 2011 22:19:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Forza turchini !
+   </head>
+   <div type="excerpt">
+    <p>
+     L'ora serebbi di più à a "pulizzizazione" di a sucetà, piuttostu ch'è à a pulitizazione...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Avete tutti vistu ciò chì s'hè passatu in Tunisia. Avete tutti vistu chì a Francia hè prupostu u so "sapè fà in u mantenimentu di l'ordine" (da vede a videò di a cacciata di MAM. D'altronde, sò decine di casce di granate è lacrymò chì duvianu esse mandate in Tunisia da a Francia. 
+Hè vera chì à e "forces de l'ordre" francese li garbanu e lacrimògeni è volenu faccine prufittà, ancu s'è vo site un franchouillard piuttostu bravu è tranquillu chì manifesteghja per difende una cumunità di cumune di Francia prufonda... Ùn ci hè ch'è da vede sta videò tremenda chì si passa di cummentu. 
+Di tutte e manere oghje pudete fà tuttu ciò ch'è vo vulete, o guasi, s'è vo site in bleu. Milioni di manifestanti contr'à a riforma di e ritirate ? Nunda si passa. 
+Unepochi di CRS si mettenu in greva di a fame è Brice Hortefeux ellu stessu si mette à u garde à vous. 
+Iè, hè a moda di purtà l'uniforma. D'altronde, stu sonniu u puderete realizà... iè, voi chì site giovanu è chì avete difficultà à truvà un travagliu : ognunu puderà fà parte di a "réserve civile" di a pulizza naziunale, creata in u 2003 pè i pulizzeri à a ritirata. Cun pussibilità di sciaccà i PV è di purtà un'arma... Nò ùn hè micca una magagna. 
+Più ch'è mai, l'avvene serà turchinu. È cusì sia !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

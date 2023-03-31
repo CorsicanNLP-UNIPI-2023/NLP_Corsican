@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Contr'à u Tour de France in Corsica !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Contr-a-u-Tour-de-France-in-Corsica-_a1133.html"/>
+     <date>
+      Mon, 11 Jul 2011 11:47:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       10-RAGIONI-DI
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Contr'à u Tour de France in Corsica !
+   </head>
+   <div type="excerpt">
+    <p>
+     Tutti l'anni si ne parla, certi l'aspettanu cun impazienza... Ma eccu perchè ùn ci vole micca chì u Tour de France passi in Corsica.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     1. Ci hè abbastanza drugati cusì in Corsica, ùn vale a pena di fanne vene torna in più. 
+2. Nentr'à "tour de France", ci hè "de France". 
+3. Perchè Miguel Indurain, Claudio Chiappucci, Greg Lemond è Abdujaparov ùn ci sò più. 
+4. Perchè avemu da abbuchjacci dinù à u diàvule chì seguita i ciclisti. 
+5. Perchè avemu da abbuchjacci dinù a pilliccia di u Crédit Lyonnais è tutte e vitturacce publicitarie di a caravana di u Tour. 
+6. Perchè ci hè abbastanza panicca cusì nant'à e strade corse l'estate. 
+7. Perchè ùn puderemu più circà di fà perde Richard Virenque o Laurent Fignon. 
+8. Perchè e vitture di France Télévision cunducenu tutti cum'è valisgie... 
+9. Perchè era megliu di i tempi di Gérard Fanion (vede a videò) 
+10. Perchè Gérard Holtz.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

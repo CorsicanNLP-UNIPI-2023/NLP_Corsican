@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U messagiu di Djibril Cissé
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-messagiu-di-Djibril-Cisse_a1679.html"/>
+     <date>
+      Wed, 12 Feb 2014 13:31:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U messagiu di Djibril Cissé
+   </head>
+   <div type="excerpt">
+    <p>
+     Djibril Cissé hà marcatu u so primu but di l'annu è rigalatu a so prima vittoria fora di casa à u Sporting di a stagione. È averà dinù mandatu un messagiu per l'elezzione municipale in Bastia ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     "U Djib" serà nant'à a lista di Gilles Simeoni ? 
+Bon d'accordu, u so "courage Gilles Micka" s'addirzzava à Gilles Cioni è à Mickaël Landreau, tramindui feriti in Marseglia. 
+Ma ci hè da dumandassi s'ellu ùn ci hè dinù un messagiu subliminale per l'elezzione municipale à vene in Bastia...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

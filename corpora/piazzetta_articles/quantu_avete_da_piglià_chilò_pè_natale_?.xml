@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quantu avete da piglià chilò pè Natale ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quantu-avete-da-piglia-chilo-pe-Natale_a973.html"/>
+     <date>
+      Sat, 18 Dec 2010 16:16:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quantu avete da piglià chilò pè Natale ?
+   </head>
+   <div type="excerpt">
+    <p>
+     U peghju durante e feste ùn hè micca u ripastu di famiglia cù a vostra socera, i rigali goffi è l'orrore di e cummissioni di Natale, ma a panza ch'è vo avete da piglià in pocu tempu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Eccu di ritornu u tempu di a panza di Natale. Ùn vale a pena di fà quellu chì ùn hè micca cuncernatu, serete tutti tocchi. Almenu d'esse culpitu da una gastrò assassina. 
+Viderete, si ferà u contu principiu di ghjennaghju, quandu venerà u tempu di e prumesse di l'annu novu, di e bone risuluzioni, sopr'à tuttu quella di "nò ma capisci, sta volta mi mettu veramente à u sport". 
+Ùn v'inchietate, semu tutti passati pè custì. 
+Natale hè dunque u tempu di i ripasti in famiglia, di i vesperini chì ùn finiscenu più à colpi di bûches de Noël, di l'apperitivi chì a si stinzanu cun l'amichi in vacanze, di e visite ind'è i parenti chì vi forzanu à piglià quellu Mon Chéri chì vi stumaca, di tiramisù tracarchi, di salmone, di foie gras, d'òstrice, di mayonnaise, di champagnacciu, di pulendate, di figatellate, di pastizzate... 
+È tuttu st'imbuleghju di zùccheru, di grassu è d'alcool finiscerà direttamente in a vostra panza di Natale, cullezzione 2010/2011. 
+Allora, quantu chilò ? Dui, trè, cinque, dece ? Ci la ferete à fughje a tratichjina di Natale ? 
+Bon curagiu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

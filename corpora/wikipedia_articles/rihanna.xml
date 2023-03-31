@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Rihanna
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Rihanna"/>
+     <date>
+      2016-08-17T09:58:51Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Rihanna
+   </head>
+   <p>
+    Robyn Rihanna Fenty hè un'attrice è cantadora barbadian. Ci hè divintata famosa in totu sa di lu munnu, quannu lu sò terzu Fotoalbum musicale, Good Girl Gone Bad, vinni libbiratu.
+   </p>
+  </body>
+ </text>
+</TEI>

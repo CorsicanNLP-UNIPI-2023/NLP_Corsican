@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Anu inventatu u "bar à siesta"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Anu-inventatu-u-bar-a-siesta_a1175.html"/>
+     <date>
+      Thu, 29 Sep 2011 00:01:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Anu inventatu u "bar à siesta"
+   </head>
+   <div type="excerpt">
+    <p>
+     C'era u bar à acqua, u bar senza alcool, u bar à insalata... eccu u bar à siesta.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     I Parigini ùn sanu più cosa inventà. Hè a crisa, ma pè truvà e cunnerie sò sempre i più forti. 
+Cunnisciamu u bar à acqua, u bar senza alcool, u bar à yaourt (nò ùn hè micca una magagna : andate à vede quì), u bar à insalate... 
+In Corsica avemu sopr'à tuttu i bars à facciacce, i bars à antipatichi è i bars à "azeze cù a frange". 
+Eccu chì avà hè natu u "bar à sieste" : si chjama ZZZ...ZEN è si trova 29 passage Choiseul, in u segondu arrondissement. 
+Imaginate, site à l'apperitivu. E turnate cascanu, l'ambianza colla. Vulete scambià di locu, ma ùn sapete chì fà. Esitate trà u bar à a moda cù a musicaccia lattinò, quellu cù un djnacciu lounge è u bar à tapas chì serve a vinaccia. Ma d'un colpu avete l'illuminazione, vi dite "tè, ci femu una sunnata avà ?" è andate à ripusavvi in u bar à siesta. 
+12€ pè un quartu d'ora. Face caru a turnata è à stu prezzu avete interessu à addrumintavvi in furia. 
+È u peghju, è chì quellu chì hà trovu l'idea hà da finisce più riccu ch'è voi...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

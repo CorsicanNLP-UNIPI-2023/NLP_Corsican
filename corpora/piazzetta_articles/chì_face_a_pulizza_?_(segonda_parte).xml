@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chì face a pulizza ? (segonda parte)
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Chi-face-a-pulizza-segonda-parte_a1437.html"/>
+     <date>
+      Fri, 09 Nov 2012 18:39:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chì face a pulizza ? (segonda parte)
+   </head>
+   <div type="content">
+    <p>
+     C'eramu dumandati qualchì ghjornu fà ciò ch'ella facia a pulizza pè circà di fà piantà l'assassinii chì arruvineghjanu a nostra isula. 
+Corse-Matin ci hà datu una prima risposta in un articulu : Ajaccio: la police s'entraîne pour gérer les matches de foot . Bon, perchè micca, hè vera chì i hooligans corsi sò più periculosi chè e bande maffiose chì si sterpanu dapoi mesi è mesi. 
+Un'altru elementu di risposta ci hè datu nant'à Twitter, cù stu ritrattu messu in linea da un certu Corsican Parano. Ci mostra una cumpagnia di CRS in traccia di ghjucà à carte. 
+Avete capitu avà perchè a pulizza dumanda di più rinforzi in Corsica ? I corci ci vole à capilli, ùn sò micca abbastanza numerosi per fassi un turneu di belote...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

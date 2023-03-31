@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "En majorité d'origine non corse..."
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/En-majorite-d-origine-non-corse_a1753.html"/>
+     <date>
+      Fri, 25 Apr 2014 14:27:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "En majorité d'origine non corse..."
+   </head>
+   <div type="content">
+    <p>
+     I media ùn anu finitu di cummentà u votu di u statutu di residente. 
+Le Parisien face cusì a so presentazione di a Corsica : 
+"Environ 310 000 personnes, en majorité d'origine non corse, vivent dans l'île où s'installent chaque année 4 à 5 000 nouveaux venus." 
+S'ellu a dice U Pariginu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

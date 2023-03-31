@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Joseph Haydn
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Joseph%20Haydn"/>
+     <date>
+      2015-07-06T09:25:26Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Joseph Haydn
+   </head>
+   <p>
+    Franz Joseph Haydn natu à Rohau u 31 di marzu di u 1732 è mortu à Vienna u 31 maghju 1809, hè statu unu di i più impurtanti musicanti di u periodu classicu.
+   </p>
+   <p>
+    == Opere principali ==
+   </p>
+   <p>
+    108 sinfunie
+   </p>
+   <p>
+    52 sonate për pianoforte
+   </p>
+   <p>
+    24 opere liriche
+   </p>
+   <p>
+    14 messe
+   </p>
+   <p>
+    6 oratori
+   </p>
+   <p>
+    Haydn, Franz Joseph
+   </p>
+  </body>
+ </text>
+</TEI>

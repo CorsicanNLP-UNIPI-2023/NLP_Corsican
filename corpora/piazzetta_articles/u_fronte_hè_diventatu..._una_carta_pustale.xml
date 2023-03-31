@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U fronte hè diventatu... una carta pustale
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-fronte-he-diventatu-una-carta-pustale_a2595.html"/>
+     <date>
+      Tue, 30 May 2017 14:07:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U fronte hè diventatu... una carta pustale
+   </head>
+   <div type="excerpt">
+    <p>
+     Ci hè sempre un mumentu induve a sucetà di cunsumazione si manghja tuttu. Ancu i motti pulitichi. Quantu seranu i turisti à mandà carte pustale "IFF" ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A mercantilizazione di u mondu tocca à tuttu. A religione è a pulitica ùn a si francanu. D'una manera o da l'altra, tuttu un ghjornu, diventa un pruduttu di cunsumazione. 
+A fiura di Che Guevara hè diventata una marca di sigarette è di bivenda. U rivuluziunariu si ritrova in appiccicatoghju nant'à i 4x4, in poster in discoteche. 
+Hè dunque di manera naturale chì e fiure di u muvimentu naziunalistu si ritrovinu cummercializate, cum'è ste carte pustale d'una cunferenza di stampa di u fronte o di un bumbagiu "IFF".
+    </p>
+    <p>
+     Ritrattu mandatu da Maì L. 
+Serà chì l'idee anu vintu da veru ? O ch'elle ùn anu più sensu ? Ch'elle ùn sò più suvversive ? Ch'elle appartenenu à u passatu ? Ch'ellu ùn ci hè più risicu ? 
+Ognunu averà u so parè.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

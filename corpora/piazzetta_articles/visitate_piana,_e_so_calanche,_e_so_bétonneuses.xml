@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Visitate Piana, e so calanche, e so bétonneuses
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Visitate-Piana-e-so-calanche-e-so-betonneuses_a1386.html"/>
+     <date>
+      Fri, 27 Jul 2012 11:59:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Visitate Piana, e so calanche, e so bétonneuses
+   </head>
+   <div type="excerpt">
+    <p>
+     E Calanche di Piana sò scritte à u patrimoniu mundiale di l'UNESCO. A merria attuale ella hà scrittu 600 nove residenze in u so PLU.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ind'i tempi antichi, a Corsica era bella, salvatica è u so liturale prutettu. Era ciò chì facia di st'isula una maravaglia. Mais ça, c'était avant. 
+Una volta di più, hè l'associu U Levante chì ci prevene. U plan local d'urbanisme permette a custruzzione di... 70 èttare in u settore d'Arone, sia 600 residenze nove allora chì a cumuna conta circa 400 abitanti. 
+In ciò chì Corse-Matin chjama una "réponse cinglante" (sic) a merria di Piana cerca di difendesi ma ùn nega micca u più impurtante. Sò 70 èttare di lochi salvatichi chì videranu cresce villà orrìbili pè ricconi cun piscina è garage pour le quad et le jet-ski. 
+Ma u paese di Piana hà un omu eccezziunale chì difende a natura. In u libru d'Hélène Constanty Razzia sur la Corse, l'anzianu merre (durante 38 anni) è attuale primu agiuntu incaricatu di l'urbanisimu Nicolas Alfonsi si presenta cum'è u più grande ecologistu di Corsica. 
+À ascultallu, hè grazia à u so travagliu à u Conservatoire du littoral chì a Corsica hè sempre (appinuccia) priservata. 
+Ancu di grazia. Chì saria statu sì l'omu era statu passiunatu di bettonu... 600 residenze solu in a so cumuna, u puderiamu ancu ringrazià d'ùn avenne previstu di più ! 
+"Ùn eritemu micca di a terra di i nostri antichi, a pigliemu in prestitu à i nostri figlioli" avia dettu Saint-Exupéry. 
+In Corsica, a vindemu u più caru pussibule, arruvinemu u paisaghju, ci mettimu lotissements goffi è senza anima distruttori d'identità è à i nostri figlioli li mettimu un bellu calciu in culu. 
+È chì n'ai da fà di a terra, o Saint-Exupéry !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

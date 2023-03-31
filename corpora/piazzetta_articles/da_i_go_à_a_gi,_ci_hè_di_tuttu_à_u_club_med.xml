@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Da i GO à a GI, ci hè di tuttu à u Club Med
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Da-i-GO-a-a-GI-ci-he-di-tuttu-a-u-Club-Med_a1588.html"/>
+     <date>
+      Mon, 17 Jun 2013 12:31:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Da i GO à a GI, ci hè di tuttu à u Club Med
+   </head>
+   <div type="excerpt">
+    <p>
+     Nanzu, à u Club Med c'eranu i GO (gentils organisateurs). Avà, ci hè ancu a GI (Ghjuventù Indipendentista).
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ma c'era ancu di più gendarmi chè turisti. 
+Nanzu, c'era i GO, gentils organisateurs o "ambassadeurs de l'esprit Club Med". A GI ella hà vulsutu dinunzià stu famosu spiritu Club Med. 
+U Club Med di Sant'Ambrosgiu hè statu occupatu sta dumenica da una cinquantina di militanti di a Ghjuventù Indipendentista. 
+U scopu : dinunzià un esempiu di mal-turìsimu, pessimu pè a Corsica. Per elli u Club Med funziuneghja in "circuitu chjosu" è u mudellu à ùn seguità micca in materia di sviluppu. L'impiegati corsi sò pochi : 20% solu d'appressu à France 3. 
+U gestiunariu di u club di vacanze si difende : "tous nos prestataires sont corses". Averà forse ragiò. Ma nant'à e marcanzie cumprate in Corsica, quantu sò prudutti fatti in Corsica ? 
+Al dilà di u Club Med, u prublema di l'ecunumia corsa ferma chì ùn si pruduce nunda. Sigura, ricevimu assai mondu chì cunsuma quì. Ma nant'à i pomi fritti cunsumati da i turisti, quantu sò i pomi à esse piantati in Corsica ? Siguramente menu di 1%... 
+Cuntinuvemu cusì ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

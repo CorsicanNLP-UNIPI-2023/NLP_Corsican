@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A guerra di i saldi
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-guerra-di-i-saldi_a1135.html"/>
+     <date>
+      Wed, 13 Jul 2011 20:28:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A guerra di i saldi
+   </head>
+   <div type="excerpt">
+    <p>
+     Baruffe, caddies chì si strufinanu, insulte, calci è pugni : eccu ! Sò principiati i saldi.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ind'i tempi antichi a vita curria à u rìtimu di a natura. À ogni stagione i so travaglii : tribbiera à u principiu di l'estate, castagne à l'entre di l'inguernu, impiaghjera è muntagnera per i pastori... 
+E feste religiose venianu à incalcassi nant'à stu rìtimu di u tempu. Natale, Pasqua, San Ghjuvà, 8 settembre... 
+Oghje a nostra vita hè ritmata da e feste di a cunsumazione. E duie festoni di l'anni sò dunque i saldi, quelle d'inguernu è quelle d'estate. À mezu, ci hè Halloween, a rientrata, a Saint Valentin, Fête des mères, Fête des pères, Festa di i curnuti, Fête des beaufs, eccetera. 
+Dapoi oghje, i parkings di e chjese nove sò pieni à tappu. I praticanti di a religione nova anu empiutu i tempii di a cunsumazione. 
+Si fala à posta da u paese per esse presente u "jour J". Megliu : certi anu postu u so famosu jour de congé pour faire les soldes. 
+A quistione nant'à tutte e labre hè dunque dapoi sta mane : "oh, tu as fait les soldes ?" 
+Cum'è in ogni religione, ci sò ancu i fanàtichi. Quelli chì mettenu a sveglia à 7 ore per fà l'apertura di i magazini. Quelli chì facenu passà in forza u so caddie pè ghjunghje u primu... 
+Iè, cusì si passa ind'è noi oghje. È da quì à 100 anni, u futuru Pierre-Jean Luccioni ferà un articulu nant'à l'apertura di i saldi in u so "Tempi fà : a Corsica in l'anni 2000".
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quale si n'hè purtatu i stylos Bic di a merria di Bastia ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quale-si-n-he-purtatu-i-stylos-Bic-di-a-merria-di-Bastia_a1903.html"/>
+     <date>
+      Sun, 29 Jun 2014 22:28:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quale si n'hè purtatu i stylos Bic di a merria di Bastia ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Viota. Più un ordinatore, nè mancu una penna, nè un stylo Bic... Eccu cumu a squadra nova hà trova a merria di Bastia.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'ultimu cunsigliu municipale bastiacciu hè statu animatu, ci conta u situ CNI. 
+A ragione ? Un attaccu di Jean Zuccarelli, appena in zerga, cum'ellu hè statu durante tutta a campagna : 
+« Je m'insurge en faux contre les propos parlant de documents subtilisés, de matériels soustraits et de dossiers disparus. Rien de tout cela ne s'est produit. Tout a été fait pour que la transmission se passe dans les meilleures conditions. Où pouvez-vous dire qu’elle n’a pas été facilitée ? Vous avez trouvé une administration en parfait état de marche. Il faut que les Bastiais le sachent ! ». 
+"En parfait état de marche". Ah ? 
+A risposta di Simeoni hè ghjunta prestu : 
+« Je n'avais pas envie de porter ce genre de discussion sur la place publique, mais il faut, effectivement, que les Bastiais sachent ! La transition ne s'est pas effectuée dans les conditions normales. Absolument pas ! J'ai eu, à ma demande, avec l'ancien maire, un entretien de pure courtoisie où, à aucun moment, il n'a souhaité aborder ce qu'il avait fait, ce qui était en cours et ce que je devais savoir... En excellente forme physique, le DGS s'est mis en maladie le 5 avril, alors que j'ai été élu, le 8 avril. Je comptais sur le DGS en place pour qu'il transmette les dossiers au maire comme la déontologie l'impose. Le DGA a quitté son poste le 6 avril et ne m’a pas transmis les éléments qu’il aurait du me transmettre… J'ai trouvé un bureau vide ! Les adjoints ont trouvé leurs bureaux vides ! Aucun adjoint en exercice n’a jugé utile de transmettre un quelconque état des dossiers en cours. Sur mon bureau, il n'y avait même pas un stylo ! Il n'y avait d'informatique nulle part ! Il n’y a eu aucune transmission des dossiers. Nous avons du tout reconstituer dans les semaines suivantes, sans DGS, ni DGA de l’ancienne mandature. Voilà la réalité de ce que nous avons trouvé ! Si vous considérez que c'est normal, je considère que c'est totalement anormal ! Les Bastiais nous départageront ! ».  
+Più nunda, mancu un stylo Bic, nè menu una foglia A4. 
+Seranu Papazian, Bureau Vallée è Papi chì seranu cuntenti.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Fucilate in Carghjese
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Fucilate-in-Carghjese_a1741.html"/>
+     <date>
+      Tue, 22 Apr 2014 01:36:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Fucilate in Carghjese
+   </head>
+   <div type="content">
+    <p>
+     In Carghjese, Pasqua hè stata festighjata cum'ella a vole a tradizione, segondu u ritu catòlicu orientale. 
+Una culunnia di Grechi s'era stallata in Paomia, vicina di Carghjese, à u XVIIu seculu. Avianu dumandatu a permissione à u guvernu genuvese di pudè stallassi quì per fughje a duminazione turca. Dapoi, a pupulazione s'hè mischjata ma u ritu anticu esiste sempre. 
+Oghje, i membri di a cunfraterna San Spiritonu tiranu fucilate quand'ella sorte da a chjesa a prucessione. Parechji veschi anu pruvatu à fà piantà st'usu, ma i carghjesani anu tenutu bonu è ùn anu vulsutu piantà. Chì saria si in più di quessa eranu incagulati... 
+On condamne avec la plus grande fermeté ou pas ? 
+ritrattu : Corse-Matin
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

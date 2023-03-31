@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U stadiu di Cagliari, peghju ch'è quellu di Bastia ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-stadiu-di-Cagliari-peghju-ch-e-quellu-di-Bastia_a1846.html"/>
+     <date>
+      Fri, 30 May 2014 00:28:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U stadiu di Cagliari, peghju ch'è quellu di Bastia ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Stadiu troppu vechju, partite à porte chjose, tribune pruvisorie... A situazione di u club di Cagliari hè guasi peghju ch'è quella di Bastia. Attenti, a storia hè un pastizzu di quelli maiò.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U presidente di u Cagliari Calcio, Massimo Cellino hà cunfirmatu ch'ellu lasciava u so club à un fondu d'investiscimentu americanu. Hà dettu ch'ellu a facia "per il bene della Sardegna", è ch'ellu era fiaccu di battesi per u stadiu. 
+Ci vole à dì chì u club sardu si ritrova in un pastizzu, peghju ch'è quellu di Furiani. Attenzione, hè cumplicata. 
+U stadiu storic di u Cagliari Calcio, hè u Sant'Elia. Hè statu custruitu in u 1970, dop'à u solu tìtulu di campione di u club sardu. U stadiu hà ancu ricevutu partite di a cuppa di u mondu 1990. Ma cummencia à esse vechju è periculosu pè riceve a ghjente. Hè chjosu di ghjennaghju 2012. Tandu Cagliari ghjoca à porte chjose, senza nisun sustenidore. 
+U presidente Cellino decide allora d'andà à ghjucà e so partite in casa in Trieste... à 1000 chilometri di Cagliari. 
+Una suluzione pruvisoria hè trova. In tantu ch'ellu si face un stadiu novu, Cagliari ghjucherà in una cummuna vicina, à Quartu Sant'Elena, in u stadiu Is Arenas. Ma à partesi u terrenu, ùn ci hè nunda. Si custruiscenu allora quattru tribune "pratichèvule" (hum...) à corri corri. 
+Ma cum'è in Corsica, l'affari ùn sò micca semplici. A ghjustizia mette in causa u presidente Cellino d'avè fattu pressione per accelerà i travaglii per custruisce un stadiu pruvisoriu d'Is Arenas. Sette persone si truveranu in prigiò (è dinù u presidente Cellino). È ùn si ghjoca micca subbitu. Certe partite si ghjocanu à porte chjose, dopu solu cù un mezu stadiu apertu à u publicu, eppò ancu partite nant'à terrenu neutru... 
+Dop'à parechji imbroglii, u club s'intuppa cù l'autorità è decide d'abandunà Is Arenas per turnà à parte in... Trieste. 
+Per finisce, u club rossu è turchinu decide di vultà à u Sant'Elia, fendu unepochi di travagli. Hè per quessa ch'elle ci sò tribune pruvisorie, messe nant'à e tribune in bettone. Hè forse u solu stadiu à u mondu chì hè cusì. 
+Curagiu amichi sardi. In quant'à noi, avemu aspettatu vint'anni per avè un stadiu in Bastia chì s'assumiglia à un veru stadiu. Ma avà ch'ellu hè custruitu, hè digià vechju...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     E vacanze e più goffe di u mondu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-vacanze-e-piu-goffe-di-u-mondu_a1150.html"/>
+     <date>
+      Thu, 11 Aug 2011 19:03:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    E vacanze e più goffe di u mondu
+   </head>
+   <div type="excerpt">
+    <p>
+     A Corsica : a so natura, u so mare, a so muntagna... è i so parkings.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ringrazii à Ceccè pè u ritrattu. Mandate i vostri : apiazzetta@free.fr
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

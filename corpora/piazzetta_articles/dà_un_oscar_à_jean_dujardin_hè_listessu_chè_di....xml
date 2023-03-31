@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Dà un oscar à Jean Dujardin hè listessu chè di...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Da-un-oscar-a-Jean-Dujardin-he-listessu-che-di_a1285.html"/>
+     <date>
+      Wed, 29 Feb 2012 22:40:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Dà un oscar à Jean Dujardin hè listessu chè di...
+   </head>
+   <div type="excerpt">
+    <p>
+     Clint Eastwood ùn hà mai avutu Oscar di u più bonu attore, Jean Dujardin sì. Dà l'Oscar à Jean Dujardin hè quant'è à...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     ...dà u ballò d'oru à Nicolas Dieuze, Francis Llacer, Greg Vanney, Gérald Passi o Sylvain Kastendeuch  Dà u premiu Nobel di a pace à Alain Orsoni è André Paccou  Dà u premiu Goncourt à l'autore di u libru La Corse, base d'ovni  Dà u premiu Pulitzer à una inchiesta di u JT di Jean-Pierre Pernaut  Dà u Sept d'Or du présentateur le plus sympathique à Jacques Bastianesi  Dà una victoire de la musique à quellu chì hà fattu a musica di Windows  Dà un Oscar du meilleur réalisateur à quellu chì a face e pubbe MMA cù i trè lonzi  Dà u César de l'homme politique le plus sympathique à Frédéric Lefebvre  Dà trè stelle Gault et Millau à u Flunch di Furiani  Dà u premiu Nobel di matematiche à Jean-Paul Israël  Dà u premiu Grossu Minutu à Jean-Luc Mélenchon  Dà un Hot d'Or à Simon Renucci  Dà u titulu di Mister Univers à Paul Natali  Dà u Premiu Andria Fazi à Emile Zuccarelli  Dà u FIFA Fair Play à Cyril Rool  Dà un postu di ministru à David Douillet 
+À voi di truvà a seguita...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,141 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Infinitu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Infinitu"/>
+     <date>
+      2014-11-08T16:43:39Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Infinitu
+   </head>
+   <p>
+    In matematica u cuncettu d'infinitu (simbulu \infty) hà parechji significati, in currilazioni incù a nuzioni di limita, tantu in analisa classica ch'è in analisa non standard. I nuzioni d'infinitu sò imprudati in tiuria di l'insemi è in a giumitria pruiittiva.
+   </p>
+   <p>
+    == Tiuria di l'insemi ==
+   </p>
+   <p>
+    In a tiuria di l'insemi un insemu A si dici infinitu s'è ognunu di i so sottuinsemi finitu hè un sottuinsemu probbiu. Una difinizioni altirnativa hè a siguenti: un insemu A hè infinitu s'edda esisti un'applicazioni biunivoca d'A in un sottuinsemu di soiu probbiu A'. In altri paroli, A hè infinitu s'è è solu s'eddu hè equiputenti à un sottuinsemu di soiu probbiu. Par dimustrà l'equivalenza di i dui difinizioni hè indispinsevuli l'assioma di a scelta.
+   </p>
+   <p>
+    Hè pussibuli di fà una distinzioni trà diffarenti gradi d'infinità da u mumentu ch'eddu si pò individuà insemi infiniti chì t'ani una cardinalità più grandi ch'è l'altri. Georg Cantor sviluppò a tiuria di i numari cardinali transfiniti, in a quali u prima numaru transfinitu hè aleph-zeru \aleph_0, chì currispondi à a cardinalità di l'insemu di i numari naturali. U gradu d'infinitu succissivu cunnisciutu hè \aleph_1. L'infinitu currispundenti à a cardinalità di i numari riali hè generalamenti indicatu incù c. U prublemu s'è c = \aleph_1, vali à dì micca di l'esistenza o menu d'una cardinalità media trà quisti dui, hè a cusidditta iputesa di u cuntinuu. In 1940 Kurt Gödel dimustrò ch'è 'ss'iputesa hè cuerenti incù l' assiomi di Zermelo-Fraenkel (incù o senza l'assioma di a scelta); in u 1963 Paul Cohen hà dimustratu dopu ch'è ancu a nigazioni di 'ss'iputesa hè cuerenti incù quiddi assiomi. Di cunsiquenza l'iputesa di u cuntinuu, in u duminiu di l'assiomi di Zermelo-Fraenkel, ùn hè nè dimustrevuli nè rifutevuli.
+   </p>
+   <p>
+    Cantor sviluppò ancu a tiuria di i numari ordinali transfiniti, chì generalizeghjani à l'insemi infiniti a nuzioni d'urdinamentu è di pusizioni d'un elementu à l'internu d'un urdinamentu.
+   </p>
+   <p>
+    Un asempiu hè u tiurema di Goodstein, chì pò essa risoltu sulamenti incù l'aiutu di i prubità di l'ordinali transfiniti, mentri ùn hè micca dimustrevuli incù i soli assiomi di Peano.
+   </p>
+   <p>
+    == In rifirimentu à a nuzioni di limita ==
+   </p>
+   <p>
+    In u studiu di i limiti s'adopra u simbulu \infty, chì calchì volta hè puri indicatu cù u terminu lemniscata.
+   </p>
+   <p>
+    Hè utuli di serva si di dui entità culligati incù l'infinitu: l'insemu riali stesu hè l'unioni di i numari riali incù dui punti, indicati incù -\infty è +
+   </p>
+   <p>
+    \infty. In simbuli:
+   </p>
+   <p>
+    \tilde{\R} = \R \cup \{- \infty\} \cup \{+ \infty\}.
+   </p>
+   <p>
+    A rilazioni d'ordini di i riali si stendi à sti novi punti punendu:
+   </p>
+   <p>
+    - \infty  par ogni x riali;
+   </p>
+   <p>
+    ci sò inveci i limitazioni par istenda l'uparazioni aritmetichi à tali entità (+\infty - \infty ?
+   </p>
+   <p>
+    ).
+   </p>
+   <p>
+    Da un puntu di vista tupulogicu si tratta d'una cumpattificazioni di a retta riali incù l'aghjunta di dui punti.
+   </p>
+   <p>
+    == A nuzioni d'infinitu sicondu l'analisi non standard ==
+   </p>
+   <p>
+    Una minzioni à parti mireta l'analisi non standard, intrudutta da Abraham Robinson in u 1966: à u cuntrariu di l'analisa matematica cumuna, in edda l'infinit (indicati incù Ω) è infinitesimi (ε) ani piena cittatinanza trà i numari, è à tempu cù i riali formani i numari iperreali.
+   </p>
+   <p>
+    Par asempiu 1 è 1+ε sò numari iperreali distinti. In cuntrastu cù i numari cumplessi, hè pussibuli à ottena un urdinamentu di i numari iperreali grazia à u cuncettu d'ultrafiltru. L'analisi non standard hè parfittamenti cuerenti, è simplificheghja i dimustrazioni di molti tiuremi, tantu in u calculu infinitesimali ch'è in a tiuria di i numari.
+   </p>
+   <p>
+    == Punti è retti à l'infinitu in giumitria prughjittiva ==
+   </p>
+   <p>
+    In giumitria prughjittiva inveci hè naturali di cumplittà i retti incù u so, unicu, puntu à l'infinitu, ughjettu chjamatu puntu impropriu o dirizzioni di a retta; 'ssa nuzioni, in particulari, parmetti d'ùn dì micca ch'è ancu dui retti paralleli ani un puntu in cumunu, u so puntu à l'infinitu. Inoltri in u pianu prughjittivu si culloca ancu a retta impropria, insemu di i punti impropri (à l'infinitu) di i diffarenti retti.
+   </p>
+   <p>
+    == Da veda dinò ==
+   </p>
+   <p>
+    Lemniscata
+   </p>
+   <p>
+    Insemu infinitu
+   </p>
+   <p>
+    Insemu finitu
+   </p>
+   <p>
+    Numaru cardinali
+   </p>
+   <p>
+    Georg Cantor
+   </p>
+   <p>
+    Argumentu diagunali di Cantor
+   </p>
+   <p>
+    Iputesa di u cuntinuu
+   </p>
+   <p>
+    Limita (matematica)
+   </p>
+   <p>
+    Tiuria di l'insemi
+   </p>
+   <p>
+    Filusufia di a matematica
+   </p>
+   <p>
+    == Noti ==
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia in talianu.
+   </p>
+  </body>
+ </text>
+</TEI>

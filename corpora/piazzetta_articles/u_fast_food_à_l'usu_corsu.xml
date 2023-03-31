@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U fast food à l'usu corsu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-fast-food-a-l-usu-corsu_a1065.html"/>
+     <date>
+      Tue, 22 Mar 2011 00:34:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U fast food à l'usu corsu
+   </head>
+   <div type="excerpt">
+    <p>
+     Piuttostu ch'è di manghjà rubbaccia americana in i fast food, perchè ùn si puderia micca manghjà rubbaccia corsa ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In e nostre vitacce d'omi muderni, ùn ci hè più piazza per una manghjusca di qualità. Ci vole à manghjà in furia, è cum'è no semu tutti fusciati, ci vole à manghjà micca caru. 
+Oghje ùn si campa più ch'è à hamburgers in cartone, jambon in plàsticu è hot dogs radioattivi. 
+A sapemu, ùn vale a pena di pienghje i tiani di fasgioli di mammone è i prisutti di Tempi Fà. Finiti i sturzapreti, fiadoni, pisticcini, piattoni di lasagne è nicci. Troppu longu à fà, troppu caru ! 
+Ci sò sempre prudutti di qualità in Corsica (ancu di grazia !) ma da quì à pocu a bona robba nustrale serà riservata à i ricchi russii è à quelli chì viaghjanu in Cayenne. U bonu prisuttu diventa un pruduttu di lussu, riservatu à a Corsica d'in sù, quella di i novi sgiò. 
+A Corsica d'in ghjò, quella di Lupinu è di i Salini, di e classe mezane sbaiuccate forma a grande magiurità di l'abitanti di a Corsica. Ma cum'ella flamba i so soldi in spechjetti Ray Ban è in scarpi Prada, fermanu pochi i soldi per manghjà. Li ferma i knackis è e paste Lustucru. 
+Allora perchè micca un fast food nustrale, cun pulenda à bon pattu, figatellu chinese è casgiu corsu cun latte pulunese ? Manghjà male, d'accordu. Ma almenu, manghjemu male è nustrale !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

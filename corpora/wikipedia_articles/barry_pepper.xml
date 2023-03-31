@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Barry Pepper
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Barry%20Pepper"/>
+     <date>
+      2015-07-01T19:39:05Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Barry Pepper
+   </head>
+   <p>
+    Barry Pepper hè un attore canadianu.
+   </p>
+   <p>
+    Pepper, Berry
+   </p>
+   <p>
+    Pepper, Barry
+   </p>
+  </body>
+ </text>
+</TEI>

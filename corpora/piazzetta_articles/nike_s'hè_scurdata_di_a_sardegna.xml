@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Nike s'hè scurdata di a Sardegna
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Nike-s-he-scurdata-di-a-Sardegna_a2434.html"/>
+     <date>
+      Thu, 16 Jun 2016 12:02:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Nike s'hè scurdata di a Sardegna
+   </head>
+   <div type="excerpt">
+    <p>
+     Spessu a Corsica hè sminticata da diverse carte francese. Ùn hè micca ch'ellu ci dispiace, hè solu ch'ellu ci mostra cum'elli ci sò attaccati. Ma ùn vi ne fate, ùn simu micca soli. In Sardegna hè Nike chì s'hè scurdatu di qualcosa...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Bon, forse chì a geografia ùn era micca a disciplina preferita di i designers di Nike...
+    </p>
+    <p>
+     Dite che basta prendersela con l'insegnante di geografia del Signor Nike? #Sardegna #EURO2016 pic.twitter.com/8uaWeej4uq
+— Gian Mario Giua (@gmgiua) 16 juin 2016
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

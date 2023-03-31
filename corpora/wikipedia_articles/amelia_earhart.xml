@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Amelia Earhart
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Amelia%20Earhart"/>
+     <date>
+      2018-10-01T23:17:13Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Amelia Earhart
+   </head>
+   <p>
+    Amelia Mary Earhart nata in Kansas, Stati Uniti d'America u 24 di lugliu 1897 è morta in Howland Island u 2 di lugliu 1937 fù una pilota americana.
+   </p>
+  </body>
+ </text>
+</TEI>

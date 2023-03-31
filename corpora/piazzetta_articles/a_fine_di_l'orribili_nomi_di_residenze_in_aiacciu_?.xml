@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A fine di l'orribili nomi di residenze in Aiacciu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-fine-di-l-orribili-nomi-di-residenze-in-Aiacciu_a1859.html"/>
+     <date>
+      Tue, 03 Jun 2014 09:08:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A fine di l'orribili nomi di residenze in Aiacciu ?
+   </head>
+   <div type="content">
+    <p>
+     Ci hè u cambiamentu à u serviziu di a lingua corsa di a municipalità aiaccina. Christophe Mondoloni piglia a successione di Tumasgiu d'Orazio chì avia stallatu u serviziu sei anni fà. 
+Interrugatu da Alta Frequenza, hà annunziatu i cantieri di a so mandatura : allergà u serviziu di a lingua corsa à a CAPA è travaglià nant'à a tupunimia : 
+"Lorsqu'une résidence ou un immeuble sera fait à Ajaccio ou dans le grand Ajaccio, on recherchera le lieu-dit, son histoire". 
+Hè vera chì in materia di dà nomi goffi, simu furtissimi in Corsica. Arricurdatevi st'articulu di u 2012. È ne parla dinù u blog Ofedericabellatchitchi. 
+È per infurmazione, nò, "Le Clos de Longvilliers" in Muriani ùn hè disgraziatamente micca una magagna. 
+Dice Mondoloni chì ci vole chì i casali è e residenze nove portinu l'anticu nome di locu, "et non pas L'Orée du bois ou Le Wilson"... è hè piuttostu una bona nova, tantu u scempiu hè impurtante. 
+Avà ùn ferma più ch'è à finiscene cù l'architettura goffa.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

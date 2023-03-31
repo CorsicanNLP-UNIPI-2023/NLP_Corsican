@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Valparaíso
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Valpara%C3%ADso"/>
+     <date>
+      2017-03-09T04:37:01Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Valparaíso
+   </head>
+   <p>
+    Valparaíso hè una cità di u Cile. Tene 271.242 abitanti (2002).
+   </p>
+   <p>
+    Valparaíso
+   </p>
+   <p>
+    Giugrafia
+   </p>
+   <p>
+    Cile
+   </p>
+   <p>
+    Pruvincie cilene
+   </p>
+  </body>
+ </text>
+</TEI>

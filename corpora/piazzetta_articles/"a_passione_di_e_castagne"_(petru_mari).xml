@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "A Passione di e castagne" (Petru Mari)
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-Passione-di-e-castagne-Petru-Mari_a2743.html"/>
+     <date>
+      Mon, 22 Oct 2018 00:53:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "A Passione di e castagne" (Petru Mari)
+   </head>
+   <div type="excerpt">
+    <p>
+     Un testu di Petru Mari è di Paulu Felice Nasica, esciutu in u giurnale A Fiaccula di A Castagniccia (numeru 1, 1979).
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Pigliate un grataghju  cù una grate chì hè invechjata bè  Rendite a so ghjuventù à u fucone è tandu  pigliate furlanetta è rustaghja  tagliate  polle, arbitru, filetta è lecce  nettate u castagnetu cum'è a palma di a manu  è aspettate  aspettate chì e castagne caschinu  in istu mentre  pudete cantà  pudete sunnià  pudete perseguità e streghe à l'aghja di u Zuccarellu  o allora  vi calcate à u chjassu  è aspettate  aspettate chì e castagne caschinu  à a prima lampata di tighjulana  fate subitu un filare è cuglite a manesca  chì à a prima lampata di tighjulana  a tighjulana hè libera  pè a ghjentile  fatela puru dopu  ma ùn vi scurdate di a ruspatoghja  senza, e dite v'anu da frighje  è pò ingratate  ingratate à lampera  cù tagliola è balla à corpu pienu  ingratate à lampera  chì l'invigliosi cù a faccia gialla  ne feremu malati di u stomacu  sti techji di pensione  d'articuli dece  di centu per centu  è di terza persona  quandu a grate hè pronta à rende l'anima  o chì e vostre dite dumandanu perdonu,  incendite u focu  ma micca qualunque focu  ma micca qualunque fiaccula :  à a castagna li si dà  u cusì dettu "amore di u focu"  cù poca fiaccula  bellu fume  è pacenza,  pacenza d'ùn spinghjelu mai  pacenza d'ùn mette una fiara di u diavule  chì e vostre castagne serebbenu abburate  è bone per i porci  è turnate à aspettà per iste loche o per isti caffè  duie o trè volte pigliate a vanga  è girate e vostre castagne  chì a cima pigli fondu  chì lu fondu pigli cima  è u cantu pigli centru  cù u rastellu apparinate u sopra  sè v'avete lasciatu passà u tempu  s'ella ùn v'hè ancu pigliata a brama di a cità  o di u maladettu cuntinente  lasciate u tempu passà  chì prestu ghjunghje l'ora di a pistera  appruntate u troppu  cù u so saccu crosciu nantu  falate da u granaghju  a saccula chì babbu hà allibratu dece anni fà  legateli un fondu  è dateli di manu  a saccula legera  à manu diritta  chì a saccula s'infitta  à manu manca  chì a saccula si stanca  ùn lasciate aspettà  e donne cù u cernigliu  empiitelilu  ch'elle stinzinu e bracce  a pula si ne cascherà  è resterà a castagna cù u so pocu di lesina  viutate cusì a grate  è dumandate aiutu à l'invigliosi  chì ne seranu imbumbati  ùn vi n'andate ancu  a lesinaccia chì face a farina amara hè sempre quì  santa castagna dumanda sempre faccenda  mettitevi in dui  tenite forte u saccu pienu pè e so quattru arechje  è minate  ma minate forte nantu à un troppu  chì a lesina ùn resiste  è tandu  ma tandu solu  averete castagne è pisticciuli bianchi  sbuchjati di a so lesina  duri cum'è a petra ferrigna  avà  sè vo site palatinu  è postu ch'ellu hè quistione d'amore  date à iste castagne bianche l'amore di u fornu  u fornu chì v'avete scallatu è nettatu dinanzu  un amore prufondu è lente di vintiquattru ore  eccu  eccu a vostra passione finita  è cumencia quella di a macinera  quella ch`ùn arriguarda chè à u mulinaiu  fate puru scuppà pè i paesi  e bombe di a pulenda  è s'ellu ùn hè ancu a rivuluzione pè certi  serà digià a indigestione  ah... chì eo ùn mi ne scordi  i mulloni rigalateli à u merre.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

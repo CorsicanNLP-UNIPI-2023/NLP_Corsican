@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lokoli face sventulà a bandera corsa à Roland Garros
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Lokoli-face-sventula-a-bandera-corsa-a-Roland-Garros_a1831.html"/>
+     <date>
+      Sat, 24 May 2014 23:29:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lokoli face sventulà a bandera corsa à Roland Garros
+   </head>
+   <div type="content">
+    <p>
+     Ùn si parla più ch'è d'ellu, Laurent Lokoli (402u mundiale) hà riesciutu a prova di qualificassi pè u tavulone finale di Roland Garros. 
+U giuvanottu chì hà fattu sventulà una bandera di u Sporting "mon club depuis tout petit" perchè chì nantu ci hè "notre drapeau, la bandera". 
+In i media induve era intervistatu, hà rivindicatu e so orìgine : "j'ai voulu montrer qu'en Corse on avait beaucoup de coeur". 
+L'Equipe li cunsacreghja un articulu, induve si pò leghje : 
+Ah ça, la corsitude et lui, c'est pas du mou de veau. Hier il a encore dégainé sa serviette du Sporting Club de Bastia. On raconte que, même dans les petits tournois, il plante son drapeau corse dans un coin du court : "La Corse, c'est comme une deuxième maman. J'ai du quitter l'île à onze ans et demi. J'ai quitté tout un peuple. Eux il peuvent comprendre ce que je ressens. Je comprends la langue mais j'ai perdu depuis que je suis parti. J'ai quand même pris corse au bac et j'ai eu 16 !" 
+Si pò dunque piglià corsu à u baccu è riesce à Roland Garros. Da medità !
+    </p>
+    <p>
+     Roland-Garros - Laurent Lokoli : "Je n'y pense... par tennisactu
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

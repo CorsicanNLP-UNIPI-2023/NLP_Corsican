@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U statu vole discorre di tuttu, ma sopr'à tuttu di nunda
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-statu-vole-discorre-di-tuttu-ma-sopr-a-tuttu-di-nunda_a1654.html"/>
+     <date>
+      Tue, 17 Dec 2013 11:17:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U statu vole discorre di tuttu, ma sopr'à tuttu di nunda
+   </head>
+   <div type="excerpt">
+    <p>
+     Marylise Lebranchu, ministra di a funzione publica è di a decentralizazione, hà fischjatu a fine di a partita.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ci vole à crede ch'ellu ci hè veramente un prublema di porte chjose à u PS, è micca solu in Bastia. 
+In l'emissione Cuntrastu, a ministra di a decentralizazione Marylise Lebranchu hà fattu u puntu nant'à u cusì dettu "dossier corse". 
+Dop'à i voti à a CTC nant'à a cuufficialità è a riforma custituziunale, era nata una piccula luce di speranza in Corsica. 
+Ma Lebranchu hà calmatu à tuttu u mondu. 
+A lingua corsa ? "Aujourd'hui, la coofficialité n'est pas possible. Restons raisonnables. Travaillons pour trouver une autre solution". 
+U statutu di residente ? "C'est un vrai sujet, mais le statut de résident est totalement anticonstitutionnel". 
+U dialogu hè apertu dunque, è cummencia propiu bè. U statu hè prontu à parlà di tuttu, ma in fatti di nunda. 
+È di siguru Lebranchu ci dice chì "tout est possible. Et en Corse plus qu'ailleurs" 
+Tuttu hè pussibule, sopr'à tuttu u peghju.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

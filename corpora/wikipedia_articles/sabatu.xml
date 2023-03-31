@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sabatu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Sabatu"/>
+     <date>
+      2015-07-01T12:45:49Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sabatu
+   </head>
+   <p>
+    U Sabatu hè u ghjornu di a sittimana chì veni dopu à u Vennari è innanzi à a Dumenica.
+   </p>
+   <p>
+    == In Corsica ==
+   </p>
+   <p>
+    U luni hè mintuvatu calchì volta in i pruverbii è in i sprissioni corsi. Par asempiu:
+   </p>
+   <p>
+    Ùn ci hè sabatu senza soli comu donna senza amori.
+   </p>
+   <p>
+    == Riferimenti ==
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    Ghjorni di a sittimana
+   </p>
+  </body>
+ </text>
+</TEI>

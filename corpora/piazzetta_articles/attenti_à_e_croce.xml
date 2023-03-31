@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Attenti à e croce
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Attenti-a-e-croce_a1755.html"/>
+     <date>
+      Fri, 25 Apr 2014 15:43:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Attenti à e croce
+   </head>
+   <div type="content">
+    <p>
+     Quantu ne cunniscite croce ? Fate pianu, ci n'hè chì ponu tumbà. 
+"Il meurt écrasé par une croix géante" ci ampara l'AFP. Innò, ùn si tratta micca di Pierre Ménès ma d'una statua vicina di Brescia 
+S'hè passatu in Italia. Un crucifissu tamantu si n'hè falatu nant'à un poveru turistu. Avia 21 anni, u corciu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

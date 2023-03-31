@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Dopu à "Paul le poulpe", eccu à "Guy le diable de mer"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Dopu-a-Paul-le-poulpe--eccu-a-Guy-le-diable-de-mer_a1376.html"/>
+     <date>
+      Thu, 21 Jun 2012 13:29:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Dopu à "Paul le poulpe", eccu à "Guy le diable de mer"
+   </head>
+   <div type="excerpt">
+    <p>
+     Dapoi qualchì ghjornu, un "diable de mer", spezia di raza (raie) hè prigiuneru di u Vechju Portu di Bastia. I bastiacci l'anu chjamatu "Guy".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ci la feremu à salvà u diàvule marinu prigiuneru di u Vechju Portu ? 
+Face guasi una settimana chì un grossu pesciu, un gèneru di raza chjamatu "diable de mer" gira in tondu cum'è un disgraziatu in u Vechju Portu di Bastia. 
+Trà San Ghjuvà, u Mughjò, a Marina, a Madunnetta, u Molu Vechju è u Molu Genuvese, u diàvule s'annoia cum'è un topu mortu, senza truvà a surtita. Appena cum'è i giovani bastiacci, in fatti. 
+In Bastia ùn si parla più chè di quessa è i Bastiacci l'anu chjamatu "Guy". 
+Pudete vede i ritratti di u Corsica Photosub. 
+Chì serà venutu à fà quì stu satanassu di u mare ? Ma sopr'à tuttu, dopu à "Sauvez Willy", ci la feremu à "Salvà à Guy" ? Passate l'elezzione, Jean-Jean, Gilles o Sauveur puderanu salvà u grossu pesciu di u Vechju Portu ? 
+O averà da finisce frittu in un resturante di u portu ? 
+Tante dumande senza risposta...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

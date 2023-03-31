@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sangavinacciu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Sangavinacciu"/>
+     <date>
+      2015-07-07T11:09:55Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sangavinacciu
+   </head>
+   <p>
+    sangavinacciu, abitante di Ampugnani (pieve)
+   </p>
+   <p>
+    sangavinacciu, abitante di Càrbini
+   </p>
+   <p>
+    sangavinacciu, abitante di Fiumorbu (pieve)
+   </p>
+   <p>
+    sangavinacciu, abitante di Tenda (pieve)
+   </p>
+  </body>
+ </text>
+</TEI>

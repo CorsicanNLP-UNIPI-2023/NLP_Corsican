@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Omar Rodriguez-Lopez
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Omar%20Rodriguez-Lopez"/>
+     <date>
+      2014-03-23T14:44:16Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Omar Rodriguez-Lopez
+   </head>
+   <p>
+    Omar Rodriguez-Lopez hè un musicante. Hè membre di u gruppu di rock The Mars Volta. Rodriguez-Lopez sona di moltu assai strumenti (per esempiu lead-chitarra, pianuforte, organu).
+   </p>
+   <p>
+    Rodriguez-Lopez,Omar
+   </p>
+  </body>
+ </text>
+</TEI>

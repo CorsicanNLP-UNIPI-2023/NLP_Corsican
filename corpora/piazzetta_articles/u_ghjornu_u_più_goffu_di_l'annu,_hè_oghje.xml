@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U ghjornu u più goffu di l'annu, hè oghje
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-ghjornu-u-piu-goffu-di-l-annu-he-oghje_a1246.html"/>
+     <date>
+      Mon, 16 Jan 2012 10:00:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U ghjornu u più goffu di l'annu, hè oghje
+   </head>
+   <div type="excerpt">
+    <p>
+     U terzu luni di u mese di ghjennaghju hè u ghjornu u più deprimante di l'annu. Digià chì i depressivi ùn hè micca ciò chì manca in Corsica...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Avete rimarcatu cum'elli sò tutti azezi in giru à voi ? Hè normale. I spezialisti di a depressione a dicenu tutti, entremu in u periudu di l'annu u più deprimante, hè u "blue monday;. 
+E ragione sò parechje : u tempu hè goffu, ùn si passa nunda, hè sempre "a grisa" è dumane serà peghju, a luce manca, Natale hè luntanu, ùn ci hè più soldi à spende, e bone risuluzioni sò digià abandunate, cresce a panza, a mutivazione si n'hè andata, facenu 15 anni chì nisuna bona nutizia hè stata annunziata à Corsica Sera è ùn ne pudete più di e facce di l'omi pulitichi. 
+Hè cusì, si ottobre sente e castagne è dicembre l'aranciu (d'appressu à Ghjacumu Fusina in sta bellissima canzona di Canta u Populu Corsu), ghjennaghju sente u Prozac. 
+Allora per oghje ùn vi lagnate micca nant'à "a grisa", nant'à a nostra Cursichella chì si ne và à caternu è chì "ùn averà mai bè" o ùn vi lanciate à scrive u lamentu di u Costa Concordia, ci n'hè abbastanza cusì. 
+A sapete, oghje serà una ghjurnataccia. V'averemu prevenutu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

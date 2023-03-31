@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chì si diceranu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Chi-si-diceranu_a1594.html"/>
+     <date>
+      Sat, 22 Jun 2013 14:14:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chì si diceranu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     U ritrattu di u mese hè questu quì, esciutu in Corse-Matin fattu da Gérard Baldocchi. Ma chì si diceranu tutti ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Pruposta 1  "Mì mì mì, qual'hè chì s'affacca quì !?" 
+Pruposta 2  "O Milù, vedi u tippu quallà ? Hà dettu ch'ellu serà merre di Bastia..." 
+Pruposta 3  "O Milù, fideghja u tufone induve avemu da mette à François Tatti dop'à l'elezzione..." 
+Pruposta 4  "Quallà, ci hè l'isula d'Elba. Casu mai i purtemu custì, à ellu, à Gilles è à tutti l'altri s'ellu ci vole." 
+Pruposta 5  "Jean-Louis Milani ? Mì cum'ellu hè luntanu !" 
+Pruposta 6  "Què ? Nò o Jean. Ùn hè micca quì a merria. Hè quallà. Ma hè luntana..." 
+Pruposta 7  "Buh mì cum'ellu hè solu ! Ùn ti fà Milù, François Tatti ùn ci ferà nunda. Hein ch'ellu ùn ci ferà nunda ?" 
+Pruposta 8  "Alors pour les Tattistes nous avons prévu un container qui se trouve là..." 
+À voi di truvanne d'altre. Fate e vostre pruposte !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     FB : A Corsica hà datu l'idee à a Sardegna
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/FB-A-Corsica-ha-datu-l-idee-a-a-Sardegna_a2056.html"/>
+     <date>
+      Fri, 05 Dec 2014 00:57:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    FB : A Corsica hà datu l'idee à a Sardegna
+   </head>
+   <div type="content">
+    <p>
+     È avà, tocca à i Sardi di mubilizassi per dumandà à Facebook di ricunnosce a so lingua. 
+Davant'à u successu di a pagina FB in corsu (avà guasi 10.000 membri...) è a creazione d'una versione nustrale di a rete suciale, l'idea hà francatu u mare. 
+Una pagina FB in sardu hè stata creata u primu dicembre. È hè digià un successu, postu ch'elli sò ghjunti digià à 10.000 membri in qualchì ghjornu... 
+Bon, avà chì Zuckerberg hà accettatu a dumanda corsa è ch'è no ci simu guasi (puru sì un travaglione di traduzzione ferma à fà), sustenimuli è mettite un Mi piace à a so pagina ! 
+Sì passa quì.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

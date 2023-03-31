@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ci vole à salvà i cercles de jeux
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ci-vole-a-salva-i-cercles-de-jeux_a1116.html"/>
+     <date>
+      Tue, 14 Jun 2011 15:56:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ci vole à salvà i cercles de jeux
+   </head>
+   <div type="excerpt">
+    <p>
+     I cìrculi di ghjochi (in corsu ci vulerebbe à dì "i zercles de jeux") sò in periculu. A ripressione pulizzera minaccia sti lochi di riescita suciale è intellettuale corsa.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     S'ampara oghje in Corse-Matin chì quattru persone sò state messe in esame in u mezu di i cìrculi di ghjochi parigini. 
+Pare chì parechji corsi (vicini di a Brise de Mer è di ciò ch'ellu si chjama "a banda di Casinca") sò messi in causa da a ghjustizia per avè fattu pressione nant'à i pruprietarii d'un cìrculu di ghjochi. 
+Dopu à u "zercle" Hausmann, tocca à u Wagram di chjode e so porte. È ùn parlemu mancu di e cumbrìncule di u poveru cìrculu Concorde. 
+In i tempi di i tempi, tutti i "zercles" di Parigi eranu tenuti da Corsi. Fà u croupier (o circulaiu) era segnu d'ascensione suciale. Ogni regione avia a so filera. À chì facia u croupier in u cìrculu tenutu da Taravesi, à chì pigliava i colpi in u cìrculu tenutu da Niulinchi, à chì purtava a pistola in quellu tenutu da Calzaninchi... 
+Beatu tempu quandu i Corsi eranu "in piazza" in a capitale. Oghje, a JIRS hà ghjuratu a fine di u mezu corsu è piazze ùn ci n'hè più pè i croupiers  corsi in Parigi. 
+S'elli ci caccianu ancu quessa, chì serà l'avvene pè a nostra giuventù ? Ci vulerà ancu à fà i studii è à travaglià per vince a so vita ? Semu male...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Dopu à u tsunamì, a maffia giappunese porta u succorsu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Dopu-a-u-tsunami-a-maffia-giappunese-porta-u-succorsu_a1080.html"/>
+     <date>
+      Thu, 14 Apr 2011 00:14:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Dopu à u tsunamì, a maffia giappunese porta u succorsu
+   </head>
+   <div type="excerpt">
+    <p>
+     A maffia giappunese face dinù in l'umanitariu. I yakuza anu decisu d'aiutà e vìttime di u tsunamì. À quandu a geranza di i Restos du Coeur ripigliata da a Brise de Mer ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Subbitu dopu à u tsunamì, i yakuza anu purtatu u so aiutu à e vìttime : cuverte, robba è acqua, soldi... E putente organizazioni criminali anu mandatu decine di camiò carchi di robba. 
+Bon d'accordu, u so gestu hè interessatu è a maffia giappunese vole dinù mette a manu nant'à u cantieru di ricustruzzione di e zone divastate. 
+Ùn hè micca a prima volta ch'è sta maffia face in l'umanitariu, avianu digià fattu listessu in 1995 dop'à u terramotu di Kobé. 
+Allora, perchè i nostri maffiuselli corsi ùn sarianu micca capaci di fà anch'elli in l'umanitariu ? 
+In Corsica tutti l'anni i Restos du Coeur facenu battenu u so record di ripasti rigalati è u Secours Populaire ùn hè mai statu cusì sullicitatu. 
+Cum'è a puvertà, i soldi accatastati da i trafficoni è i maffiosi sò in pienu sviluppu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

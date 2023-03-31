@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pè certi, a lingua corsa hè...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Pe-certi-a-lingua-corsa-he_a1463.html"/>
+     <date>
+      Thu, 06 Dec 2012 19:24:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pè certi, a lingua corsa hè...
+   </head>
+   <div type="content">
+    <p>
+     U prugettu di cuuficialità (ùn hè chè un prugettu) face scimisci in dinosauri anti-lingua corsa (questi quì sò sempre vivi). Eccu une poche di parolle chì sò state assuciate à a nostra lingua. 
+- "c'est un projet dangereux"  - "discriminatoire"  - "inacceptable"  - "un outil de discrimination pour les ouvriers"  - "une menace" 
+A storia ritenerà chì l'annu 2012, certi Corsi preferiscenu sceglie d'abandunà a lingua di i so antichi (guasi morta, marturiata, culpita è abandunata) chè di circà di salvalla. 
+Cumu una lingua in situazione di "perìculu maiò" da l'UNESCO pò esse una minaccia pè a Quinta pudenza mundiale ? 
+Peccatu, noi a vidimu piuttostu cum'è una ricchezza, una leia versu u mondu latinu è un'apertura nant'à un mondu plurilingu, à tempu à e nostre vechje ràdighe.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

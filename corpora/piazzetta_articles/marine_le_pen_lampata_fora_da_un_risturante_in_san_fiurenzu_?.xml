@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Marine Le Pen lampata fora da un risturante in San Fiurenzu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Marine-Le-Pen-lampata-fora-da-un-risturante-in-San-Fiurenzu_a2444.html"/>
+     <date>
+      Sat, 02 Jul 2016 14:37:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Marine Le Pen lampata fora da un risturante in San Fiurenzu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè principiata l'estate, è hà da esse longa. U giurnale Closer hà fattu a so prima pagina nant'à e vacanze di Marine Le Pen in San Fiurenzu. È s'ampara ch'ella hè stata messa fora da un risturante.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ùn si sà più troppu sì Marine Le Pen hè una pippula o una persunalità pulitica. U fattu si stà ch'ella face a prima pagina di u giurnale di puttachji Closer. S'ampara ch'ella hà passatu qualchì ghjornu cù u so cumpagnu Louis Alliot in San Fiurenzu, "où le couple était logé chez un ami" :
+    </p>
+    <p>
+     "Refoulés d'un restaurant"
+Nentru, s'ampara ch'ella hà avutu qualchì prublema cù i lucali. Eccu ciò ch'ellu si pò leghje : 
+"Si Marine Le Pen et son compagnon semblent aimer la Corse, certains Corses ne leur rendent pas. Ainsi, peu après leur arrivée dans l'île, le couple et ses gardes du corps se sont fait refouler d'un restaurant de Saint-Florent. Le patron de l'établissement leur a demandé de quitter les lieux. "Il leur a dit qu'ils n'étaient pas les bienvenus ici, qu'on ne les servirait pas", nous explique un témoin. La candidate à la présidentielle a donc rebroussé chemin après avoir lâché un "merci pour votre accueil !" 
+A seguita è i ritratti di Marine Le Pen chì manghja una patecca à u mare, hè nant'à Closer.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

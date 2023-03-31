@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U messagiu di i sustenidori di u GFCA
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-messagiu-di-i-sustenidori-di-u-GFCA_a1774.html"/>
+     <date>
+      Sun, 04 May 2014 22:59:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U messagiu di i sustenidori di u GFCA
+   </head>
+   <div type="content">
+    <p>
+     Un grande striscione in Mezavia durante a partita GFCA - Red Star dicia : "quandu tutt'Aiacciu hà vultatu a so vesta, noi semi sempre stati rossu è turchinu". 
+Dop'à a so vittoria, manca pocu à u Gazélec pè fà u so ritornu in L2. 
+Prumette l'ambianza per ciò chì serà forse u primu derby aiaccinu à livellu prufessiunale... 
+Chì tanti finale madrilegna Real contr'à Atletico ! 
+Da vede nant'à u situ di u GFCA
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

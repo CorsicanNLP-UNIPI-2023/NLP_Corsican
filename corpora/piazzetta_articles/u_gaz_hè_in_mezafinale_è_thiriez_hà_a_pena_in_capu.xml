@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U Gaz hè in mezafinale è Thiriez hà a pena in capu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-Gaz-he-in-mezafinale-e-Thiriez-ha-a-pena-in-capu_a1300.html"/>
+     <date>
+      Thu, 22 Mar 2012 01:46:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U Gaz hè in mezafinale è Thiriez hà a pena in capu
+   </head>
+   <div type="excerpt">
+    <p>
+     U diàvule hè statu più forte chè Loulou Nicollin.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U GFCOA hè veramente una squadra à parte. Hà battutu à Montpellier, segondu di L1 chì lotta per u titulu di campione. L'ultima volta chì u Gaz era ghjuntu à stu livellu era 20 anni fà (disfatta contr'à Monaco in Mezavia pienu à tappu). 
+Sta volta u Gazélec ghjucava fora (in Timizzolu) ma l'aria di u Vaziu hà fattu di più male à i ghjucadori di René Girard (da vede e videò nant'à u situ di France 3). 
+In mezafinale i rossi è turchini ghjucheranu contr'à Lyon. Serà ancu più difficiule, ma l'OL ùn riesce micca contr'à l'isulani. I Ciprioti di l'Apoel Nicosie anu eliminatu a squadra d'Aulas in Champion's League, perchè micca u Gaz in cuppa di Francia ? 
+Cù l'ACA chì si mantenerà forse in L1, u Sporting primu di L2 chì colla in L1, u Gaz chì colla in L2 è mezufinalistu di cuppa, u CAB chì colla in National, Frédéric Thiriez hà da pigliassi unepochi d'Efferalgan l'annu chì vene.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

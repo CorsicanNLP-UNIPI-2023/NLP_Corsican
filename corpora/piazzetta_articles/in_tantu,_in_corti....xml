@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     In tantu, in Corti...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/In-tantu-in-Corti_a1951.html"/>
+     <date>
+      Thu, 18 Sep 2014 18:31:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    In tantu, in Corti...
+   </head>
+   <div type="excerpt">
+    <p>
+     U Sporting ùn ghjoca micca ma e bandere turchine anu fattu u so ritornu in carrughju. Sta sera è dumatina, seranu parechji i Corsi à fidighjà ciò chì si passerà versu Edimburgu...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè troppu tardi per scrivesi nant'à e liste eletturale scuzzese, è ùn si ponu mancu fà false precure. Quantu ci n'hè, Corsi, chì li seria piaciutu di vutà "iè" à u referendum nant'à l'indipendenza scuzzese... 
+Malgradu una prupaganda infernale (FMI, Obama, e banche, a finanza, e grande cumpagnie di telecom è di l'energia, i patroni... è ancu Giacobbi), ci serà una liccia per u Iè di passà ? Prima risposta in a notte, è dumatina. 
+U ritrattu hè statu messu in linea nant'à u contu Facebook di a GI è ripigliatu nant'à e rete suciali, cum'è u contu Corsica Infurmazione.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

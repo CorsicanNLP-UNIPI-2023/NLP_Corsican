@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     SOS cannelloni
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/SOS-cannelloni_a1459.html"/>
+     <date>
+      Thu, 06 Dec 2012 09:24:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    SOS cannelloni
+   </head>
+   <div type="excerpt">
+    <p>
+     Averemu da perde ancu i nostri cannelloni à u brocciu ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Sò finiti i piattoni di cannelloni di mammone, belli zeppi è ricchi da favvi cullà u cholestérol. 
+Un tweet di Cyril Lignac ci mostra ciò ch'ellu chjama un "cannelloni de brocciu" (sic) in un risturante pariginu. 
+Ghjudicate da per voi : ùn ci n'hè chè unu, hè verticale, d'aspettu bianchicciu, guasi trasparente, cù una spezia di schjuma pocu appitittosa. 
+Ma ch'aspetta Vincent Tabarani per distrubuisce une pochi di sciambuloni à quelli chì anu assassinatu i cannelloni nustrali ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

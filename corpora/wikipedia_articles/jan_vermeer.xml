@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Jan Vermeer
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Jan%20Vermeer"/>
+     <date>
+      2015-07-06T09:09:59Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Jan Vermeer
+   </head>
+   <p>
+    Johannes Vermeer o Jan Vermeer /jɑn vɛr'meˑɪ̯r/, (Delft, 31 uttobre 1632 – Delft, 15 dicembre 1675) hè statu un pittore ullandese di u periodu classicu.
+   </p>
+   <p>
+    Biugrafia
+   </p>
+  </body>
+ </text>
+</TEI>

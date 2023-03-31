@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lingua basca
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Lingua%20basca"/>
+     <date>
+      2017-07-02T11:19:00Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lingua basca
+   </head>
+   <p>
+    U bascu (euskara) hè una lingua proto-eurasiana è micca indo-auropeana in Auropa. Hè parlata in u sudueste di a Francia è in una parte di a Spagna di u nordu. In Spagna hè una di quattru lingue ufficiali. Ci sò circa 700.000 locutori di u bascu.
+   </p>
+   <p>
+    == Bibliografia ==
+   </p>
+   <p>
+    Michel Morvan, Dictionnaire étymologique du basque, Internet/Lexilogos.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Joseba Sarrionandia
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Wikipedia in bascu
+   </p>
+   <p>
+    Bascu
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Amparate i "sapè indarni"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Amparate-i-sape-indarni_a1970.html"/>
+     <date>
+      Wed, 01 Oct 2014 22:24:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Amparate i "sapè indarni"
+   </head>
+   <div type="excerpt">
+    <p>
+     L'Adecec hà lanciatu u situ "Sapè indarni", adattazione corsa di "Savoir inutile".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     I "sapè indarni", a dice u so nome v'ampara pienu d'informazioni... chì ùn ghjovanu à nunda. 
+Ùn vale a pena, ùn amparerete nunda nant'à e zone custruttibile di u futuru Padduc, nant'à u prugramma culturale di Sauveur Gandolfi-Scheit o nant'à a strategia di François Tatti pè e municipali di u 2020. 
+Nant'à I "sapè indarni", ch'è affari cumplettamenti inutili, ma chì vi puderanu ghjuvà per fà u maccu in sucetà. 
+Per esempiu : 
+Jimi Hendrix hà fattu 4 volte a prima parte di Johnny Hallyday. (hè quantunque vergugnosa quessa) 
+I viking ùn anu mai purtatu elmi cù corni. (ci semu fatti avè) 
+A Papuasia-Nova-Guinea hè u paese induve si conta u più lingue sfarente : più di 800 ricensate in tuttu. (fariamu megliu di mandacci tutti quelli per quale a salvezza di a lingua corsa hè sinònimu di discriminazione) 
+Quandu Popeye hè statu creatu in u 1931, a cunsumazione di spinacci hè cresciuta di 33% à i Stati Uniti. (è tandu anu capitu chì u "placement produit" hè più forte ch'è a publicità, è sò principiati i nostri guai) 
+A u Giappone, u matrimoniu omosessuale ùn hè micca ricunnisciutu, fora di in Disneyland. Dapoi maghju 2012, i coppii omosessuali ponu maritassi in Tokyo Disneyland, in cumpagnia di Mickey è Minnie. 
+A frasa prununziata da Armstrong punendu u pede nant'à a Luna, "ghjè un passucciu pè l'omu, ma un passu di gigante pè l'umanità", fù intesa da quasi 450 milioni di terranii. Ghjè a prima sperienza campata à tempu da tanta ghjente. 
+Avete capitu, hè una manera d'amparà pienu d'affari cumplettamente inutili ma impurtanti assai. È di leghje o d'amparà u corsu di manera piacente. 
+Pienu d'altri cusì nant'à sape-indarni.com,
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

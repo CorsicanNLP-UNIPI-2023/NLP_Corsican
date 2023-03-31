@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ùn sapete sempre micca per quale vutà ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-sapete-sempre-micca-per-quale-vuta_a1330.html"/>
+     <date>
+      Sat, 21 Apr 2012 01:20:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ùn sapete sempre micca per quale vutà ?
+   </head>
+   <div type="content">
+    <p>
+     Vistu nant'à Facebook, un artistu s'hè ghjucatu di l'affissi eletturali per mette i so eroi. 
+Batman, Barbapapa, Hulk è Spider-Man rimpiazzanu à Hollande, Sarkozy, Cheminade è Mélenchon. 
+Allora perchè micca vutà pè i nostri eroi corsi ? 
+À voi di cumplettà a lista... 
+Capitan'Corsica hè statu inventatu da F. Antonetti è publicatu in a rivista A Pian'd'Avretu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

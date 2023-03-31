@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Santariparatacciu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Santariparatacciu"/>
+     <date>
+      2015-07-07T11:11:59Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Santariparatacciu
+   </head>
+   <p>
+    santariparatacciu, abitante di Balagna Di Là (pieve)
+   </p>
+   <p>
+    santariparatacciu, abitante di Moriani (pieve)
+   </p>
+  </body>
+ </text>
+</TEI>

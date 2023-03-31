@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Un paese mette fora i turisti
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-paese-mette-fora-i-turisti_a1070.html"/>
+     <date>
+      Sun, 27 Mar 2011 00:10:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Un paese mette fora i turisti
+   </head>
+   <div type="excerpt">
+    <p>
+     L'avete sunniatu, una tribù d'indiani d'Amazunia l'hà riesciuta. Un paisucciu di Culumbia hà decisu d'ùn più accoglie turisti. Troppu castichi, è tantu peghju pè i soldi...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     È si l'esempiu ci venia da l'indiani di l'Amazunia ? Anu preferitu a pace à i soldi è u sviluppu. 
+Ùn circate micca di visità u paese di Nazareth, in u sud di a Culumbia. Dapoi dui anni anu decisu d'ùn più accoglie turisti, cunsiderati cum'è una minaccia per a so cultura. 
+Sò 35.000 turisti à visità l'Amazunia culumbiana. U paese di Nazareth conta 800 abitanti. Hè assai troppu per l'indiani di a tribù Ticuna. Sò elli chì a dicenu : 
+"Aviamu assai prublemi, lasciavanu i so mullizzi è e so buttiglie in plàsticu" ripiglia l'AFP. Un altru dice : "i turisti venenu è ci brùscanu cù e so camerà"... 
+È ancu : "Ci vincemu pocu. Ci compranu appena di robba à l'artigiani, ma sò sopr'à tuttu l'agenze di viaghji chì vincenu i soldi..." 
+L'indiani Ticuna sò 30.000 è sò minacciati di sparizione segondu à l'ONU. Anu paura di vede a so cultura scambiata da i fresteri. 
+Ùn vi ramenta nunda ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

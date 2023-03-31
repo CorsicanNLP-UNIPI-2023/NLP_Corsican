@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quandu "Portovekiaux" rima cun "mojito"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quandu-Portovekiaux-rima-cun-mojito_a1499.html"/>
+     <date>
+      Tue, 19 Feb 2013 18:29:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quandu "Portovekiaux" rima cun "mojito"
+   </head>
+   <div type="excerpt">
+    <p>
+     Nanzu, c'era un paese chì si chjamava "Portivechju". Mais ça, c'était avant. Alexis Francaux hè un giovanu artistu di "Povaux" è face a musica. Ascultemu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     À Alexis li piacenu e rime in "-aux" : 
+"Portovékiaux, latino, mojito, c'est chaud..." 
+Pensate ch'ella hè una magagna d'un còmicu nustrale in u rollu d'un montasega ? Nò. 
+Ma forse avemu trovu u nostru Mickaël Vendetta. 
+Vi piace ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

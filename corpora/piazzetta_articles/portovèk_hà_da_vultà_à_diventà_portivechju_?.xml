@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Portovèk hà da vultà à diventà Portivechju ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Portovek-ha-da-vulta-a-diventa-Portivechju_a1071.html"/>
+     <date>
+      Mon, 28 Mar 2011 00:03:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Portovèk hà da vultà à diventà Portivechju ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Terramotu è suppa di musu cù a fine di 500 anni di regnu Roccaserristu... Ma ci la ferà un ghjornu Camillù à prununzià di manera curretta u nome di PORTIVECHJU ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'elezzioni cantunali ùn interessavanu à nimu, for'di Portivechju. Quellu chì ùn sà sempre micca prununzià u nome di a so cumuna hà dunque finitu pè perde contr'à Jean-Christophe Angelini. 
+A so prima riazzione nant'à France 3 : "il y a des défaites prometteuses"... 
+Dopu à e territuriali, eccu dunque u schjaffu di e cantunali. Una disfatta chì ne prumette forse d'altre à e legislative è à e municipale ? 
+Hè troppu prestu pè parlanne. In pulitica tuttu pò andà assai in fiuria, in un sensu cum'è ind'è l'altru. 
+Ma digià, saria bè chì durante a prùssima campagna eletturale, Camille de Rocca Serra sappia prununzià di manera curretta u nome di u so paese. 
+Serà difficiule pè Cameddu di scambià a fiura ch'ellu hà : quellu di l'amicu di Sarko è di Clavier, di u Padduc, di l'amicu di i prumutori chì anu vandalizatu u paisaghju portivechjacciu, quellu chì hà stallatu centinaie è centinaie di case segundarie pè ricchi parigini, quellu chì hà parlatu di "désanctuariser la Corse"... 
+È si, finalmente, i Purtivechjacci avianu sceltu di stà in Portivechju, è micca in Portovèk ? 
+Hà da esse dura. Ùn hè micca u travagliu chì manca, o Jean-Chri...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

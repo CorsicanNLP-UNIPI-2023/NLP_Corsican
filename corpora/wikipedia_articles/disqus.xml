@@ -1,0 +1,87 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Disqus
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Disqus"/>
+     <date>
+      2015-02-25T16:45:09Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Disqus
+   </head>
+   <p>
+    Disqus hè un sirviziu d'allughjamentu di cummenti par siti web è cumunità virtuale chì funziona per mezu di una piattaforma online. A piattaforma hà diverse funziunalità, trà e quale un sirviziu di reta suciale, prufili di participanti, sistemi di muderazione è antispam, notifiche email è cummenti mandati da telefunini. L'impresa Disqus, Inc. hè stata fundata in u 2007 è hà u so sediu in i Stati Uniti.
+   </p>
+   <p>
+    == Storia ==
+   </p>
+   <p>
+    U sviluppu di a piattaforma Disqus cuminciò in l'istate di u 2007 à l'internu di l'incubatore di startup Y Combinator da parte di Daniel Hà è Jason Yan, tandu tremindù studienti à l'Università di a California, Davis. L'impresa Disqus, Inc. hè stata fundata u 30 uttrove 2007.
+   </p>
+   <p>
+    À l'iniziu di u 2011 Disqus hà ottenutu 10 milioni di dullari di finanzamentu da i fondi di venture capital North Bridge Venture Partners è Union Square Ventures.
+   </p>
+   <p>
+    In u 2013 hè stata publicata l'applicazione par Windows Phone.
+   </p>
+   <p>
+    Sicondu un studiu di u marzu 2011 di Lijit, Disqus hè imprudatu da u 75% di i siti web chì adottanu sistemi di cummentu o di discussione di terze parte.
+   </p>
+   <p>
+    == Tecnulugia ==
+   </p>
+   <p>
+    U sistemu di gistione di i cummenti di Disqus hè scrittu in JavaScript è improda u framework per applicazione web Django.
+   </p>
+   <p>
+    == Mudellu cummerciale ==
+   </p>
+   <p>
+    Disqus suvita un mudellu cummerciale di tipu freemium, in u quali vene à dì una parte di u sirviziu hè offerta di rigalu, mentre un'altra parte hè à pagamentu.
+   </p>
+   <p>
+    U sirviziu di basa hè gratuitu tantu per i cummintadori ch'è per i siti web. Di nuvembre 2010 Disqus hà cuminciatu à offre trè pacchetti di funziunalità supplementarii à pagamentu par i siti web: Plus par 19 dullari à u mese, Pro par 199 dullari à u mese è VIP à parte da 999 dullari à u mese. A mità di u 2011 u pacchettu Plus hè statu cancellatu è u costu di u Pro hè aumintatu à 299 dullari à u mese.
+   </p>
+   <p>
+    == Note ==
+   </p>
+   <p>
+    == Ligami esterni ==
+   </p>
+   <p>
+    Situ ufficiale
+   </p>
+   <p>
+    Imprese software statunitensi
+   </p>
+   <p>
+    ==Fonte==
+   </p>
+   <p>
+    'Ss'articulu pruvene in parte o in tutalità da l'articulu currispundente di a wikipedia in talianu.
+   </p>
+  </body>
+ </text>
+</TEI>

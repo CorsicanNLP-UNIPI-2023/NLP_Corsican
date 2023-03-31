@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lingua pulacca
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Lingua%20pulacca"/>
+     <date>
+      2018-06-16T12:43:54Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lingua pulacca
+   </head>
+   <p>
+    A lingua pulacca o lingua polacca hè a lingua slava uccidentale parlata in Pulonia.
+   </p>
+   <p>
+    Pulaccu
+   </p>
+   <p>
+    Polonia
+   </p>
+  </body>
+ </text>
+</TEI>

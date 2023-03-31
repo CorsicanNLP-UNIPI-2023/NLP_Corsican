@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Per San Valentinu, manda a to cartulina d'amore pulitica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Per-San-Valentinu-manda-a-to-cartulina-d-amore-pulitica_a2706.html"/>
+     <date>
+      Thu, 14 Feb 2019 09:55:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Per San Valentinu, manda a to cartulina d'amore pulitica
+   </head>
+   <div type="excerpt">
+    <p>
+     I tempi sò duri. A visita di Macron ci hà insignatu chì u presidente ùn vulia di l'amore di i Corsi. Ancu di grazia chì per cunsulacci ci hè San Valentinu. Allora avemu preparatu unepoche di cartuline da mandà à u·a vosrtru·a innamuratu·a (d'appressu à un'idea di Lawra).
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Messu in linea u 14/02/2018  Aghjurnatu u 14/02/2019
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

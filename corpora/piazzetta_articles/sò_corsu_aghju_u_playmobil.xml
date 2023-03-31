@@ -1,0 +1,70 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sò corsu aghju u Playmobil
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/So-corsu-aghju-u-Playmobil_a2163.html"/>
+     <date>
+      Wed, 11 Mar 2015 10:46:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sò corsu aghju u Playmobil
+   </head>
+   <div type="excerpt">
+    <p>
+     Si sapia chì a fede pudia pisà e muntagne o fà cresce a barba, si sà avà ch'ella pò sacchighjà e butteghe di ghjoculi.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In fatti, Luteru (Martin Luther) hè diventatu u persunagiu Playmobil u più pupulare di a storia. Prudutta da l'impresa di ghjoculi alemana, a so figurina s'hè vinduta à 34 000 esemplari in 72 ore. Ùn si ne pudia più truvà indocu. 
+Da leghje nant'à gizmodo.fr
+    </p>
+    <p>
+     Pensate cì Martin Luther seria un pippulacciu, un cantadore, un attore, un ghjucadore di ballò, o un super eroe à l'usu Spiderman incù un fanclub di quelli ? 
+Innò, Martin Luther hè un prete alemanu, un teologu, chì fu 500 anni fà u babbu di a Riforma è di a Ghjesgia Prutestante.  Di siguru, era più rigidu ch'è burlascone ma in paese soiu a ghjente vulia chì i zitelli u cunnuscessinu. 
+Ch'aspettemu noi, pè playmobilizà u Babbu di a patria ? I nostri figlioli cari u cunnosceranu è puderanu svucià « Sò corsu aghju u Playmobil ».
+    </p>
+    <p>
+     Una quistione si pone quantunque : a figurina di Luteru tene in manu una penna è a Bibia scritta in alemanu, chì metteremu in manu à Pasquale Paoli ? A bandera corsa ? A custituzione di a Corsica vutata in u 1755 ? 
+Micca abbastanza cummerciale. Allora chè ? Un fucile ? Un pulendaghju ? Un paghju di Ray Ban ? Un quad ?
+    </p>
+    <p>
+     Cù i playmobils, si pò ancu vince in Ponte Novu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

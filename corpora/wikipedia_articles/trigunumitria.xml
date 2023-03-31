@@ -1,0 +1,866 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Trigunumitria
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Trigunumitria"/>
+     <date>
+      2015-07-09T08:24:27Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Trigunumitria
+   </head>
+   <p>
+    A trigunumitria (o trigonomitria) (da u grecu trígonon (τρίγωνον, triangulu) è métron (μέτρον, misura): risuluzioni di u triangulu) hè a parti di a matematica chì studieghja i trianguli à parta da i so anguli. U scopu principali di a trigunumitria, com'edda a svela l'etimulugia di u nomu, cunsisti in u calculamentu di i misuri chì carattarizeghjani l'elementi d'un triangulu (lati, anguli, mediane, etc.) partendu da altri misuri ghjà cunnisciuti (almenu trè, frà i quali almenu una lunghezza), par mezu di funzioni spiciali. Si riferisci à tali scopu com'è risuluzioni di u triangulu. Hè ancu pussibuli di serva si di calculi trigunumetrichi in a risuluzioni di prublemi currilati à figuri giumetrichi più cumplessi, com'è puliguni o figuri giumetrichi solidi, è in molti altri rami di a matematica.
+   </p>
+   <p>
+    I funzioni trigunumetrichi (i più impurtanti di i quali sò u sinu è u cusinu), intrudutti in stu duminiu, sò ancu imprudati in modu indipindenti da a giumitria, è dinò in altri campi di a matematica è di i so applicazioni, par asempiu in cunnissioni incù a funzioni espuninziali o incù i uparazioni vitturiali.
+   </p>
+   <p>
+    == L'urighjini ==
+   </p>
+   <p>
+    Duranti molti seculi, a trigunumitria duviti i so prugressi guasi esclusivamenti à l'opara di grandi astrunomi è giugrafi. Infatti, a fundazioni di sta scenza si devi à Ipparco di Nicea è à Claudiu Tolomeo, tremindù più astrunomi è giugrafi ch'è matematichi. Cuntributi nutevuli funi arricati à sta scenza da l'arabi, da u francesu Levi ben Gershon è, più dopu, da Niccolò Copernicu è Tycho Brahe, intenti à discriva è à priveda incù sempri una più grandi pricisioni i finomini cilesti, ancu par un più asattu è faciuli calculu di longitudini è latitudini.
+   </p>
+   <p>
+    == Funzioni trigunumetrichi ==
+   </p>
+   <p>
+    Strumentu indispinsevuli di a trigunumitria sò i funzioni trigunumetrichi. Sò sti funzioni chì associani i lunghezzi à l'anguli, è viciversa. I tavuleddi in sta sizzioni mostrani i funzioni trigunumetrichi à tempu à i so principali prubità.
+   </p>
+   <p>
+    === Funzioni trigunumetrichi diretti ===
+   </p>
+   <p>
+    Sò ditti funzioni trigunumetrichi diretti quiddi chì à un angulu, di solitu aspressu in radianti, associani una lunghezza o un rapportu frà lunghezzi. A causa di l'equivalenza circulari di l'anguli, tutti i funzioni trigunumetrichi diretti sò ancu funzioni periodichi incù periodu \pi o 2\pi.
+   </p>
+   <p>
+    === Funzioni trigunumetrichi inversi ===
+   </p>
+   <p>
+    À ogni funzioni trigunumetrica diretta hè assuciata una funzioni inversa. U duminiu di ognuna funzioni trigunumetrica inversa currispondi, com'hè prividibuli, à u cuduminiu di a funzioni diretta rispittiva. Apposta ch'è i funzioni diretti sò, puri, periodichi, è parciò micca iniittivi, par pudè li invirsà hè nicissariu à ristringhja ni u duminiu rindendu li biiettivi. A scelta di a ristrizzioni hè tiuricamenti irrilevanti è i pussibilità sò infiniti. A cunvinzioni (rigida, in stu campu) voli parò ch'è i duminii fussini ristretti à l'intarvalli \left[-\frac\pi2,\frac\pi2\right] oppuri \left[0, \pi\right], in i quali i funzioni — è dunqua ancu i so inversi — sò munotuni. Ancu i funzioni arcusecanti è arcucusecanti sò difiniti da l'invirsioni di i funzioni diretti ristretti à un di ss'intarvalli.
+   </p>
+   <p>
+    == Rilazioni fundamintali di a guniumitria ==
+   </p>
+   <p>
+    === Prima rilazioni fundamintali ===
+   </p>
+   <p>
+    \cos^2\alpha+\sin^2\alpha=1
+   </p>
+   <p>
+    da quissa s'utteni
+   </p>
+   <p>
+    \cos\alpha=\pm\sqrt{1-\sin^2\alpha}
+   </p>
+   <p>
+    \sin\alpha=\pm\sqrt{1-\cos^2\alpha}
+   </p>
+   <p>
+    induva ci voli à ricurdà si di valutà a pusizioni di \alpha par a scelta oppurtuna di i cenni
+   </p>
+   <p>
+    === Siconda rilazioni fundamintali ===
+   </p>
+   <p>
+    \tan\alpha=\frac{\sin\alpha}{\cos\alpha}
+   </p>
+   <p>
+    chì vali solu par \alpha \neq \frac{\pi}2+k\pi incù k \in \Z
+   </p>
+   <p>
+    === Terza rilazioni fundamintali ===
+   </p>
+   <p>
+    \cos^2\alpha=\frac{1}{1+\tan^2\alpha}
+   </p>
+   <p>
+    chì vali solu par \alpha \neq \frac{\pi}2+k\pi incù k \in \Z
+   </p>
+   <p>
+    da quissa s'utteni
+   </p>
+   <p>
+    \cos\alpha=\pm\frac{1}{\sqrt{1+\tan^2\alpha}}
+   </p>
+   <p>
+    induva ci voli à ricurdà si di valutà a pusizioni di \alpha par a scelta oppurtuna di i cenni.
+   </p>
+   <p>
+    == Formuli di l'anguli assuciati ==
+   </p>
+   <p>
+    In a circumfarenza guniumetrica si chjamani anguli assuciati l'anguli \alpha, \pi-\alpha, \pi+\alpha è 2\pi-\alpha. 'Ss'anguli ani in valori assulutu listessu sinu è listessu cusinu.
+   </p>
+   <p>
+    === Formuli di l'anguli assuciati di u sicondu quadranti ===
+   </p>
+   <p>
+    \cos(\pi-\alpha)=-\cos\alpha
+   </p>
+   <p>
+    \sin(\pi-\alpha)=\sin\alpha
+   </p>
+   <p>
+    \tan(\pi-\alpha)=-\tan\alpha
+   </p>
+   <p>
+    === Formuli di l'anguli assuciati di u terzu quadranti ===
+   </p>
+   <p>
+    \cos(\pi+\alpha)=-\cos\alpha
+   </p>
+   <p>
+    \sin(\pi+\alpha)=-\sin\alpha
+   </p>
+   <p>
+    \tan(\pi+\alpha)=\tan\alpha
+   </p>
+   <p>
+    === Formuli di l'anguli assuciati à u quartu quadranti ===
+   </p>
+   <p>
+    \cos(2\pi-\alpha)=\cos\alpha
+   </p>
+   <p>
+    \sin(2\pi-\alpha)=-\sin\alpha
+   </p>
+   <p>
+    \tan(2\pi-\alpha)=-\tan\alpha
+   </p>
+   <p>
+    === Formuli di l'anguli opposti ===
+   </p>
+   <p>
+    \cos(-\alpha)=\cos\alpha
+   </p>
+   <p>
+    \sin(-\alpha)=-\sin\alpha
+   </p>
+   <p>
+    \tan(-\alpha)=-\tan\alpha
+   </p>
+   <p>
+    Si dici ch'è \cos\alpha hè una funzioni para, mentri \sin\alpha è \tan\alpha sò dispari.
+   </p>
+   <p>
+    === Formuli di l'anguli cumplimintarii (a so somma hè un angulu rettu) ===
+   </p>
+   <p>
+    \cos\left(\frac{\pi}2-\alpha\right)=\sin\alpha
+   </p>
+   <p>
+    \sin\left(\frac{\pi}2-\alpha\right)=\cos\alpha
+   </p>
+   <p>
+    \tan\left(\frac{\pi}2-\alpha\right)=\cot\alpha
+   </p>
+   <p>
+    === Formuli di l'anguli chì sò diffarenti d'un angulu rettu ===
+   </p>
+   <p>
+    \cos\left(\frac{\pi}2+\alpha\right)=-\sin\alpha
+   </p>
+   <p>
+    \sin\left(\frac{\pi}2+\alpha\right)=\cos\alpha
+   </p>
+   <p>
+    \tan\left(\frac{\pi}2+\alpha\right)=-\cot\alpha
+   </p>
+   <p>
+    == Formuli guniumetrichi ==
+   </p>
+   <p>
+    In trigunumitria, i formuli d'addizioni è suttrazzioni parmettini di trasfurmà i funzioni trigunumetrichi di l'addizioni o diffarenza di dui anguli in un'esprissioni cumposta da funzioni trigunumetrichi di i dui anguli.
+   </p>
+   <p>
+    === Formuli d'addizioni ===
+   </p>
+   <p>
+    \sin(\alpha + \beta)=\sin\alpha \cos\beta + \cos\alpha \sin\beta
+   </p>
+   <p>
+    \cos(\alpha + \beta)=\cos\alpha \cos\beta - \sin\alpha \sin\beta
+   </p>
+   <p>
+    \tan(\alpha + \beta)=\frac {\tan\alpha + \tan\beta} {1 - \tan\alpha \tan\beta}
+   </p>
+   <p>
+    \cot(\alpha + \beta)=\frac {\cot\alpha \cot\beta - 1} {\cot\alpha + \cot\beta}
+   </p>
+   <p>
+    A formula di a tangenti vali par \alpha, \beta, \alpha+\beta \neq \frac\pi 2 +k\pi  incù k \in \Z
+   </p>
+   <p>
+    A formula di a cutangenti vali par \alpha, \beta, \alpha+\beta \neq k\pi  incù k \in \Z
+   </p>
+   <p>
+    === Formuli di suttrazzioni ===
+   </p>
+   <p>
+    \sin(\alpha - \beta)=\sin\alpha \cos\beta - \cos\alpha \, \sin\beta
+   </p>
+   <p>
+    \cos(\alpha - \beta)=\cos\alpha \cos\beta + \sin\alpha \sin\beta
+   </p>
+   <p>
+    \tan(\alpha - \beta)=\frac {\tan\alpha - \tan\beta} {1 + \tan\alpha \tan\beta}
+   </p>
+   <p>
+    \cot(\alpha - \beta)=\frac {\cot\alpha \cot\beta + 1} {\cot\beta - \cot\alpha}
+   </p>
+   <p>
+    A formula di a tangenti vali par \alpha, \beta, \alpha-\beta \neq \frac\pi 2 +k\pi  incù k \in \Z
+   </p>
+   <p>
+    A formula di a cutangenti vali par \alpha, \beta, \alpha-\beta \neq k\pi  incù k \in \Z
+   </p>
+   <p>
+    === Formuli di duplicazioni ===
+   </p>
+   <p>
+    \sin(2\alpha)=2\sin\alpha \cos\alpha
+   </p>
+   <p>
+    \cos(2\alpha)=\cos^2\alpha - \sin^2\alpha = 1 - 2\sin^{2}\alpha = 2\cos^{2}\alpha - 1
+   </p>
+   <p>
+    \tan(2\alpha)=\frac{2\tan\alpha}{1 - \tan^2\alpha}
+   </p>
+   <p>
+    L'ultima formula vali par \alpha\neq \frac\pi 2 +k\pi è \alpha\neq \pm\frac\pi 4+ k \pi  incù k \in \Z
+   </p>
+   <p>
+    === Formuli di liniarità ===
+   </p>
+   <p>
+    \cos^2\alpha=\frac{1+\cos(2\alpha)}{2}
+   </p>
+   <p>
+    \sin^2\alpha=\frac{1-\cos(2\alpha)}{2}
+   </p>
+   <p>
+    \tan^2\alpha=\frac{\sin^2\alpha}{\cos^2\alpha}=\frac{1-\cos(2\alpha)}{1+\cos(2\alpha)}
+   </p>
+   <p>
+    L'ultima formula vali par \alpha\neq \frac\pi 2 +k\pi  incù k \in \Z
+   </p>
+   <p>
+    === Formuli di bisizzioni ===
+   </p>
+   <p>
+    Attinzioni: hè nicissariu à valutà in qualessu quadranti cadi \frac{\alpha}{2} par pudè sceglia i cenni oppurtuni di i siguenti formuli
+   </p>
+   <p>
+    \cos\left(\frac{\alpha} 2\right)=\pm\sqrt{\frac{1+\cos\alpha}{2} }
+   </p>
+   <p>
+    \sin\left(\frac{\alpha} 2\right)=\pm\sqrt{\frac{1-\cos\alpha}{2} }
+   </p>
+   <p>
+    \tan\left(\frac{\alpha} 2\right)=\pm\sqrt{\frac{1-\cos\alpha}{1+\cos\alpha}}
+   </p>
+   <p>
+    L'ultima formula vali par \alpha\neq \pi+2k\pi.
+   </p>
+   <p>
+    === Formuli parametrichi ===
+   </p>
+   <p>
+    \cos\alpha=\frac{1-t^2}{1+t^2}
+   </p>
+   <p>
+    \sin\alpha=\frac{2t}{1+t^2}
+   </p>
+   <p>
+    \tan\alpha=\frac{2t}{1-t^2}
+   </p>
+   <p>
+    induva t=\tan\left(\frac{\alpha}{2}\right) incù \alpha\neq \pi+2k\pi.
+   </p>
+   <p>
+    === Formuli di prustaferesi ===
+   </p>
+   <p>
+    \sin p+\sin q=2\sin \left(\frac{p+q}{2}\right)\cos \left(\frac{p-q}{2}\right)
+   </p>
+   <p>
+    \sin p-\sin q=2\cos \left(\frac{p+q}{2}\right)\sin \left(\frac{p-q}{2}\right)
+   </p>
+   <p>
+    \cos p+\cos q=2\cos \left(\frac{p+q}{2}\right)\cos \left(\frac{p-q}{2}\right)
+   </p>
+   <p>
+    \cos p-\cos q=-2\sin \left(\frac{p+q}{2}\right)\sin \left(\frac{p-q}{2}\right)
+   </p>
+   <p>
+    I furmuli di prustaferesi trasformani i sommi di funzioni guniumetrichi in prudutti.
+   </p>
+   <p>
+    === Formuli di Werner (inversi di i formuli di prustaferesi) ===
+   </p>
+   <p>
+    \sin\alpha\cos\beta=\frac {1}{2} \left[ \sin(\alpha+\beta) + \sin(\alpha-\beta)\right]
+   </p>
+   <p>
+    \cos\alpha\cos\beta=\frac {1}{2} \left[ \cos(\alpha+\beta) + \cos(\alpha-\beta)\right]
+   </p>
+   <p>
+    \sin\alpha\sin\beta=-\frac {1}{2} \left[ \cos(\alpha+\beta) - \cos(\alpha-\beta)\right]
+   </p>
+   <p>
+    \cos\alpha\sin\beta=\frac {1}{2} \left[ \sin(\alpha+\beta) - \sin(\alpha-\beta)\right]
+   </p>
+   <p>
+    I furmuli di Werner trasformani i prudutti di funzioni guniumetrichi in sommi.
+   </p>
+   <p>
+    === Formuli di l'angulu aghjuntu ===
+   </p>
+   <p>
+    a \sin x +b \cos x = A \sin(x+\phi)
+   </p>
+   <p>
+    A siguenti ugualità hè virificata sottu i siguenti cundizioni
+   </p>
+   <p>
+    A=\sqrt{a^2+b^2}
+   </p>
+   <p>
+    \begin{cases} \cos \phi = \frac{a}{\sqrt{a^2+b^2}}\\ \sin \phi = \frac{b}{\sqrt{a^2+b^2}} \end{cases}
+   </p>
+   <p>
+    \tan \phi = \frac b a
+   </p>
+   <p>
+    Ci voli à tena menti ch'è a tangenti guniumetrica hè piriodica di 180° è dunqua bisogna à valutà priventivamenti a pusizioni di \phi è dunqua
+   </p>
+   <p>
+    \phi = \begin{cases} \arctan(\frac b a) &amp;\mbox{s'è } a&gt;0 \\ \arctan(\frac b a)+\pi &amp;\mbox{s'è } a
+   </p>
+   <p>
+    == Risuluzioni di i trianguli rittanguli ==
+   </p>
+   <p>
+    In u ghjergu matematicu "risolva un triangulu rittangulu" significheghja calculà i misuri di i lati è di l'anguli di u triangulu. Par cunvinzioni esisti una numinclatura in i trianguli rittanguli chì si pò veda nantu à a figura. Ci voli à ricurdà si ch'è
+   </p>
+   <p>
+    \alpha=90^o  è  \beta + \gamma =90^o
+   </p>
+   <p>
+    un angulu hè aghjacenti à un catetu s'è u catetu hè un di i lati di l'angulu in quistioni.
+   </p>
+   <p>
+    un angulu hè oppostu à un catetu s'è u catetu ùn hè micca un di i lati di l'angulu in quistioni.
+   </p>
+   <p>
+    Par asempiu \beta hè oppostu à u catetu b è aghjacenti à u catetu
+   </p>
+   <p>
+    c.
+   </p>
+   <p>
+    Sottu sti cunvinzioni in un triangulu rittangulu privalini i siguenti tiuremi
+   </p>
+   <p>
+    Tiurema. In un triangulu rittangulu un catetu hè uguali à u pruduttu di l'iputenusa incù u sinu di l'angulu oppostu à u catetu
+   </p>
+   <p>
+    Tiurema. In un triangulu rittangulu un catetu hè uguali à u pruduttu di l'iputenusa incù u cusinu di l'angulu acutu aghjacenti à u catetu.
+   </p>
+   <p>
+    Tiurema. In un triangulu rittangulu un catetu hè uguali à u pruduttu di l'antru catetu incù a tangenti di l'angulu oppostu à u catetu da calculà.
+   </p>
+   <p>
+    Tiurema. In un triangulu rittangulu un catetu hè uguali à u pruduttu di l'antru catetu incù a cutangenti di l'angulu acutu aghjacenti à u catetu da calculà.
+   </p>
+   <p>
+    'Ssi tiuremi si traducini in i siguenti formuli par a risuluzioni di i trianguli rittanguli
+   </p>
+   <p>
+    a = \frac c {\sin \gamma} \quad \Rightarrow \quad c = a \cdot \sin \gamma
+   </p>
+   <p>
+    a = \frac b {\cos \gamma} \quad \Rightarrow \quad b = a \cdot \cos \gamma
+   </p>
+   <p>
+    \frac c b =\frac {\sin \gamma} {\cos \gamma} \quad \Rightarrow \quad c = b \cdot \tan \gamma
+   </p>
+   <p>
+    \frac b c =\frac {\cos \gamma} {\sin \gamma} \quad \Rightarrow \quad b = c \cdot \cot \gamma
+   </p>
+   <p>
+    a = \frac b {\sin \beta} \quad \Rightarrow \quad b = a \cdot \sin \beta
+   </p>
+   <p>
+    a = \frac c {\cos \beta} \quad \Rightarrow \quad c = a \cdot \cos \beta
+   </p>
+   <p>
+    \frac b c =\frac {\sin \beta} {\cos \beta} \quad \Rightarrow \quad b = c \cdot \tan \beta
+   </p>
+   <p>
+    \frac c b =\frac {\cos \beta} {\sin \beta} \quad \Rightarrow \quad c = b \cdot \cot \beta
+   </p>
+   <p>
+    ===Dimustrazioni===
+   </p>
+   <p>
+    Si cunsidareghja un triangulu rittangulu ABC incù angulu rettu di vertici A. Dittu CA l'assu x, nantu à u vertici C si custruisci una circumfarenza di raghju CP=1. I cuurdinati di u puntu P rapprisentani u \cos \gamma è u \sen \gamma, è apposta ch'è \gamma hè acutu indicheghjani ancu rispittivamenti i lunghezzi di i cateti CH è PH.
+   </p>
+   <p>
+    .
+   </p>
+   <p>
+    Da a figura si pò ussirvà ch'è i dui trianguli rittanguli ABC è HPC sò simili in quantu ani dui anguli cungruenti: \gamma in cumunu è l'anguli retti di vertici A è H. Hè pussibuli cusì à custruiscia a prupurzioni frà i lati omologhi di i dui trianguli simili (lati opposti à l'anguli cungruenti):
+   </p>
+   <p>
+    \frac{\overline{BC}}{\overline{PC}} = \frac{\overline{BA}}{\overline{PH}} = \frac{\overline{CA}}{\overline{CH}}
+   </p>
+   <p>
+    Sustituiscendu i misuri di i lati s'otteni
+   </p>
+   <p>
+    \frac a 1 = \frac c {\sin \gamma} = \frac b {\cos \gamma}
+   </p>
+   <p>
+    è cusì
+   </p>
+   <p>
+    a = \frac c {\sin \gamma} \quad \Rightarrow \quad c = a \cdot \sin \gamma
+   </p>
+   <p>
+    a = \frac b {\cos \gamma} \quad \Rightarrow \quad b = a \cdot \cos \gamma
+   </p>
+   <p>
+    da quissa dui s'utteni ancu
+   </p>
+   <p>
+    \frac c b =\frac {\sin \gamma} {\cos \gamma} \quad \Rightarrow \quad c = b \cdot \tan \gamma
+   </p>
+   <p>
+    \frac b c =\frac {\cos \gamma} {\sin \gamma} \quad \Rightarrow \quad b = c \cdot \cot \gamma
+   </p>
+   <p>
+    Stu raghjunamentu pò essa chjaramenti stesu ancu à u terzu angulu \beta in modu da ottena formuli analoghi
+   </p>
+   <p>
+    a = \frac b {\sin \beta} \quad \Rightarrow \quad b = a \cdot \sin \beta
+   </p>
+   <p>
+    a = \frac c {\cos \beta} \quad \Rightarrow \quad c = a \cdot \cos \beta
+   </p>
+   <p>
+    \frac b c =\frac {\sin \beta} {\cos \beta} \quad \Rightarrow \quad b = c \cdot \tan \beta
+   </p>
+   <p>
+    \frac c b =\frac {\cos \beta} {\sin \beta} \quad \Rightarrow \quad c = b \cdot \cot \beta
+   </p>
+   <p>
+    == Applicazioni nutevuli di i trianguli rittanguli ==
+   </p>
+   <p>
+    === Calculu di l'altezza d'una torra ===
+   </p>
+   <p>
+    Si cunsidareghja u siguenti prublemu: calculà l'altezza d'una torra AB, cunniscendu solu a so basa (pianu orizuntali). Si distinguini dui casi
+   </p>
+   <p>
+    ==== U pedi A di a torra hè raghjunghjibuli ====
+   </p>
+   <p>
+    In stu casu basta à misurà u catetu AC (b), è da u puntu C misurà l'angulu acutu ACB (\gamma) sottu à qualessu si vedi a summità di a torra AB (c). Applichendu uppurtunamenti i furmuli s'otteni
+   </p>
+   <p>
+    h_{torra} = c = b \cdot \tan \gamma
+   </p>
+   <p>
+    ==== U pedi A di a torra ùn hè micca raghjunghjibuli ====
+   </p>
+   <p>
+    In stu casu AC (b_1=x) hè scunnisciuta (in quantu u pedi
+   </p>
+   <p>
+    A ùn hè micca raghjunghjibuli). Si faci dunqua una misura orizuntali CD
+   </p>
+   <p>
+    (di) (cusì u catetu AD hè b_2=x+di). Da u puntu C si misura l'angulu acutu ACB ( \gamma_1 ) è da D si misura l'angulu acutu ADB (\gamma_2) sottu à u quali si vedi a summità di a torra AB (c). Applichendu uppurtunamenti i furmuli s'otteni
+   </p>
+   <p>
+    h_{torra} = c = b_1 \cdot \tan \gamma_1 = x \cdot \tan \gamma_1
+   </p>
+   <p>
+    h_{torra} = c = b_2 \cdot \tan \gamma_2 = (x+di) \cdot \tan \gamma_2
+   </p>
+   <p>
+    Confruntendu i dui altezzi s'otteni un'equazioni in a scunnisciuta x
+   </p>
+   <p>
+    x \cdot \tan \gamma_1 = (x+di) \cdot \tan \gamma_2
+   </p>
+   <p>
+    st'equazioni hè faciulamenti solubili cunnisciuti i  \gamma_1  è  \gamma_2
+   </p>
+   <p>
+    Truvatu x s'hà b_1 è cusì si pò calculà
+   </p>
+   <p>
+    h_{torra} = c = b_1 \cdot \tan \gamma_1
+   </p>
+   <p>
+    === Calculu di l'aria d'un triangulu qualsiasi ===
+   </p>
+   <p>
+    Par calculà l'aria di u triangulu ABC, di basa CB=a, servi l'altezza AH. In u triangulu rittangulu CHA, d'iputenusa AC=b, l'altezza AH=h pò essa vista com'è u catetu chì s'opponi à l'angulu \gamma. Imprudendu in modu oppurtunu i formuli di i trianguli rittanguli s'otteni
+   </p>
+   <p>
+    AH=h= b \cdot \sin \gamma
+   </p>
+   <p>
+    è cusì
+   </p>
+   <p>
+    Aria= \frac 1 2 \cdot a \cdot h =\frac 1 2 a b \sin \gamma
+   </p>
+   <p>
+    Sta formula vali ancu s'è \gamma hè ottusu.
+   </p>
+   <p>
+    === Formuli di cunvirsioni da cuurdinati pularii a cuurdinati cartisiani è viciversa ===
+   </p>
+   <p>
+    Fissatu annantu à un pianu un puntu urighjina O(0;0) è una mezaretta Or, datu un puntu P di u pianu chì hè univucamenti individuatu da un paghju di numari riali  ( \rho, \theta)  incù a cundizioni  \rho&gt;0  è  0\leq \theta . A coppia di numari riali rapprisentani i cuurdinati pularii di P.
+   </p>
+   <p>
+    Giumitricamenti  \rho  ripprisenta a distanza OP, mentri  \theta  ripprisenta l'angulu rOP misuratu in sensu antiurariu incù prima latu
+   </p>
+   <p>
+    Or.
+   </p>
+   <p>
+    Hè pussibuli à truvà i rilazioni esistenti trà i cuurdinati cartisiani (x;y) è i cuurdinati pularii (\rho;\theta) di u puntu P. I siguenti cunsidarazioni fatti par un puntu P nantu à u prima quadranti valini ancu par l'altri quadranti.
+   </p>
+   <p>
+    Imprudendu i formuli di i trianguli rittanguli si trovani i formuli par a trasfurmazioni in cuurdinati cartisiani
+   </p>
+   <p>
+    \begin{cases} x=\rho \cdot \cos \theta \\ y= \rho \cdot \sin \theta \end{cases}
+   </p>
+   <p>
+    Elevendu à u quatratu è summendu s'otteni  x^2+y^2=\rho^2  è cusì si poni ritruvà i formuli par a trasfurmazioni in cuurdinati pularii
+   </p>
+   <p>
+    \begin{cases} \cos \theta = \frac x {\rho} \\
+   </p>
+   <p>
+    \sin \theta = \frac y {\rho} \end{cases}
+   </p>
+   <p>
+    \quad \Rightarrow \quad
+   </p>
+   <p>
+    \begin{cases} \cos \theta = \frac x {\sqrt{x^2+y^2}}\\
+   </p>
+   <p>
+    \sin \theta = \frac y {\sqrt{x^2+y^2}} \end{cases}
+   </p>
+   <p>
+    \begin{cases} \rho = \sqrt {x^2+y^2} \\
+   </p>
+   <p>
+    \tan \theta = y/x \end{cases}
+   </p>
+   <p>
+    Ci voli à fà attinzioni ch'è a tangenti guniumetrica ùn esisti micca par x=0 ed hè piriodica di 180° è dunqua ci voli à valutà priventivamenti a pusizioni di P par calculà di manera curretta  \theta
+   </p>
+   <p>
+    \theta = \begin{cases} \arctan(y/x) &amp; \text{s'è } x&gt;0 \\
+   </p>
+   <p>
+    \arctan(y/x)+\pi &amp; \text{s'è } x
+   </p>
+   <p>
+    == Tiuremi trigunumetrichi ==
+   </p>
+   <p>
+    I tiuremi trigunumetrichi parmettini a risuluzioni di prublemi di natura diffarenti liata à a figura d'un triangulu qualsiasi, sprimendu i rapporti trà i lati è l'anguli di quist'ultimu.
+   </p>
+   <p>
+    === Tiurema di a corda ===
+   </p>
+   <p>
+    Data una circumfarenza è una corda AB, u rapportu trà 'ssa corda è u sinu d'un qualsiasi angulu à a circumfarenza ch'è/chì insiste annantu à d'edda hè uguali à u diamitru di a circumfarenza:
+   </p>
+   <p>
+    \frac{\overline{AB}}{\sin\widehat{C}}=2r.
+   </p>
+   <p>
+    === Tiurema di i sini ===
+   </p>
+   <p>
+    Cunsidaratu un triangulu qualsiasi di lati a, b è c, u rapportu trà i lati è i sini di l'anguli opposti rispittivi hè custanti è hè uguali à u diamitru di a circumfarenza circuscritta:
+   </p>
+   <p>
+    \frac{a}{\sin\alpha}=\frac{b}{\sin\beta}=\frac{c}{\sin\gamma}=2r.
+   </p>
+   <p>
+    === Tiurema di u cusinu o di Carnot ===
+   </p>
+   <p>
+    U tiurema di u cusinu (chjamatu ancu tiurema di Carnot) afferma ch'è in un qualsiasi triangulu, u quatratu d'un latu hè uguali à a diffarenza trà a somma di i quatrati di l'altri dui lati è u doppiu pruduttu di 'ssi lati par u cusinu di l'angulu cumpresu trà eddi.
+   </p>
+   <p>
+    \overline{BA}^2=\overline{AC}^2+\overline{BC}^2-2\overline{AC}\cdot\overline{BC}\cos
+   </p>
+   <p>
+    \gamma.
+   </p>
+   <p>
+    Vali à dì, indichendu incù a, b, c  a lunghezza di i lati è \alpha, \beta, \gamma l'anguli à eddi opposti, s'otteni
+   </p>
+   <p>
+    a^2= b^2+c^2-2bc \cdot \cos \alpha
+   </p>
+   <p>
+    b^2= a^2+c^2-2ac \cdot \cos \beta
+   </p>
+   <p>
+    c^2= a^2+b^2-2ab \cdot \cos \gamma
+   </p>
+   <p>
+    Pò essa cunsidaratu una generalisazioni di u Tiurema di Pitagora.
+   </p>
+   <p>
+    == Risuluzioni di i trianguli qualsiasi ==
+   </p>
+   <p>
+    In u ghjergu matematicu risolva un triangulu significheghja calculà i misuri di i lati è di l'anguli di u triangulu. Par risolva un triangulu qualsiasi devini essa cunnisciuti trè elementi frà i quali almenu unu devi essa un latu. Si poni prisintà quattru casi:
+   </p>
+   <p>
+    sò cunnisciuti un latu è dui anguli
+   </p>
+   <p>
+    sò cunnisciuti trè lati
+   </p>
+   <p>
+    sò cunnisciuti dui lati è l'angulu cumpresu
+   </p>
+   <p>
+    sò cunnisciuti dui lati è un di i dui anguli opposti à i lati dati
+   </p>
+   <p>
+    A numinclatura di i lati è di l'anguli segue a cunvinzioni nantu à a figura.
+   </p>
+   <p>
+    === Risolva un triangulu cunnisciuti un latu (a) è dui anguli ( \alpha, \beta ) ===
+   </p>
+   <p>
+    U prublemu hà sempri una sola suluzioni s'eddi sò rispittati i siguenti cundizioni
+   </p>
+   <p>
+    \alpha+\beta
+   </p>
+   <p>
+    in casu cuntrariu u prublemu ùn hà micca suluzioni.
+   </p>
+   <p>
+    ==== A prucidura par a risuluzioni di u triangulu hè a siguenti ====
+   </p>
+   <p>
+    Calculà l'angulu mancanti  \gamma = 180^o -(\alpha + \beta)
+   </p>
+   <p>
+    Calculà u latu scunnisciutu b imprudendu u tiurema di i sini:  \frac a {\sin \alpha} = \frac b {\sin \beta}
+   </p>
+   <p>
+    Calculà u latu scunnisciutu c imprudendu u tiurema di i sini:  \frac a {\sin \alpha} = \frac c {\sin \gamma}
+   </p>
+   <p>
+    === Risolva un triangulu cunnisciuti i trè lati (a, b, c) ===
+   </p>
+   <p>
+    U prublemu hà sempri una sola suluzioni s'eddi sò rispittati i disugualità triangulari. In casu cuntrariu u prublemu ùn hà micca suluzioni.
+   </p>
+   <p>
+    ==== A prucidura par a risuluzioni di u triangulu hè a siguenti ====
+   </p>
+   <p>
+    calculà l'angulu \alpha par via di u tiurema di u cusinu:  \cos \alpha = \frac {b^2+c^2 -a^2}{2bc}
+   </p>
+   <p>
+    calculà l'angulu  \beta  par via di u tiurema di u cusinu:  \cos \beta = \frac {a^2+c^2 -b^2}{2ac}
+   </p>
+   <p>
+    calculà l'angulu mancanti  \gamma = 180^o -(\alpha + \beta)
+   </p>
+   <p>
+    === Risolva un triangulu cunnisciuti dui lati (a è b) è l'angulu cumpresu ( \gamma ) ===
+   </p>
+   <p>
+    U prublemu hà sempri una sola suluzioni
+   </p>
+   <p>
+    ==== A prucidura par a risuluzioni di u triangulu hè a siguenti ====
+   </p>
+   <p>
+    calculà u latu c (oppostu à l'angulu \gamma ) par via di u tiurema di u cusinu:  c = \sqrt {a^2 + b^2 - 2ab \cos \gamma}
+   </p>
+   <p>
+    calculà l'angulu \alpha (oppostu à u latu a) par via di u tiurema di u cusinu:  \cos \alpha = \frac {b^2+c^2 -a^2}{2bc}
+   </p>
+   <p>
+    calculà l'angulu mancanti  \beta = 180^o -(\gamma + \alpha)
+   </p>
+   <p>
+    === Risolva un triangulu cunnisciuti dui lati (a è b) è l'angulu \alpha oppostu à u latu a ===
+   </p>
+   <p>
+    U prublemu pò avè nisciuna suluzioni, una suluzioni o dui suluzioni.
+   </p>
+   <p>
+    Si calculeghja l'angulu scunnisciutu \beta incù u tiurema di i sini \frac b {\sin \beta}=\frac a {\sin \alpha}
+   </p>
+   <p>
+    S'è \alpha hè ottusu si uttinarà un solu angulu \beta_1 acutu, altrimenti si trova ancu \beta_2=180^o-\beta_1.
+   </p>
+   <p>
+    Si calculeghja \gamma_1=180^o-(\beta_1+\alpha) è eventualmenti \gamma_2=180^o-(\beta_2+\alpha)
+   </p>
+   <p>
+    Si calculeghja c_1 è eventualmente c_2 imprudendu u tiurema di i sini \frac a {\sin \alpha}=\frac c {\sin \gamma}
+   </p>
+   <p>
+    == Etimulugia di i noma ==
+   </p>
+   <p>
+    Com'è par u restu di i lingui rumanichi, a lingua corsa teni i noma di i funzioni trigunumetrichi da i paroli currispundenti latini.
+   </p>
+   <p>
+    A parola tangenti hè da latinu tangens, littiralamenti "chì tocca", in rifirimentu à i prubità giumetrichi di u sigmentu imprudatu par a difinizioni grafica di sta funzioni. Analugamenti si spiega l'etimulugia di a secanti, in latinu secans, "chì taglia". I paroli cusinu, cutangenti è cusecanti diriveghjani da a cuntrazzioni di i rispittivi paroli latini cumplimenti sinus, cumplimenti tangens, cumplimenti secans, vali a dì "sinu di l'angulu cumplimintariu", "tangenti di l'angulu cumplimintaria", "secanti di l'angulu cumplimintariu".
+   </p>
+   <p>
+    == Noti ==
+   </p>
+   <p>
+    == Da veda dinò ==
+   </p>
+   <p>
+    Formuli di prustaferesi
+   </p>
+   <p>
+    Formuli di Werner
+   </p>
+   <p>
+    Funzioni trigunumetrica
+   </p>
+   <p>
+    Angulu
+   </p>
+   <p>
+    Sinu
+   </p>
+   <p>
+    Cusinu
+   </p>
+   <p>
+    Tangenti (matematica)
+   </p>
+   <p>
+    Secanti (trigunumitria)
+   </p>
+   <p>
+    Cusecanti
+   </p>
+   <p>
+    Cutangenti
+   </p>
+   <p>
+    Equazioni trigunumetrica
+   </p>
+   <p>
+    Idantità trigunumetrica
+   </p>
+   <p>
+    Tiurema di a corda
+   </p>
+   <p>
+    Tiurema di i sini
+   </p>
+   <p>
+    Tiurema di u cusinu
+   </p>
+   <p>
+    Toru (giumitria)
+   </p>
+   <p>
+    Giumitria piana
+   </p>
+   <p>
+    Angulu rettu
+   </p>
+   <p>
+    Catetu
+   </p>
+   <p>
+    Mezaretta
+   </p>
+   <p>
+    Perimetru
+   </p>
+   <p>
+    Sigmentu
+   </p>
+   <p>
+    Triangulu isusceli
+   </p>
+   <p>
+    Triangulu equilateru
+   </p>
+   <p>
+    Tiurema di Pitagora
+   </p>
+   <p>
+    Iputenusa
+   </p>
+   <p>
+    Tangenti
+   </p>
+   <p>
+    Triangulu
+   </p>
+   <p>
+    Uttaedru
+   </p>
+   <p>
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia in talianu.
+   </p>
+  </body>
+ </text>
+</TEI>

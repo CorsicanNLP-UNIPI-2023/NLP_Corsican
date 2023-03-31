@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Poveru Pasquale Paoli
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Poveru-Pasquale-Paoli_a1599.html"/>
+     <date>
+      Mon, 08 Jul 2013 00:51:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Poveru Pasquale Paoli
+   </head>
+   <div type="excerpt">
+    <p>
+     Quandu Aiacciu mette una statua di Pasquale Paoli, u Generale hè menu bellu chè Napuleone.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Dapoi sta settimana, Aiacciu hà a so statua di Pasquale Paoli. Scusate, di "Pascal" Paoli. Hè cusì ch'ellu hè scrittu nantu (da vede nant'à CNI). 
+Ma à vede tutti i castichi ch'ella hà scuntratu sta povera statua, ci hè da dumandassi s'ellu ùn ci hè micca una maledizzione. Cumu sì u spiritu di Napuliò ùn vulia sente parlà di Pasquà. 
+Prima ci hè stata l'inaugurazione mancata da Valls. A statua duvia esse messa in u palazzu di ghjustizia, ma l'affari ùn si sò fatti. Prublemi tennichi ci anu dettu... Veramente ? A statua era dunque SDF. 
+Ma ùn hè micca finita. Durante u so viaghju in Corsica, a statua hè... cascata per istrada è ci hè vulsutu à falla vultà ind'è u scultore. 
+Forse serà una spiegazione à u so aspettu "gobbu" ? 
+Dapoi a publicazione di u ritrattu, nant'à a pagina Facebook di A Piazzetta hè lanciatu u cuncorsu di a sumiglia di a statua. À chì dice Bouddha, à chì dice Mao Zedong, à chì dice Maître Yoda. 
+In generale, e statue nove ùn piacenu mai. Ma custì pare ch'ella face veramente l'unanimità contr'à ella. Poveru Pasquale. 
+È voi, chì ne pensate ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

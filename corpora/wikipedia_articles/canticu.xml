@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Canticu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Canticu"/>
+     <date>
+      2015-07-02T09:30:37Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Canticu
+   </head>
+   <p>
+    Un canticu hè un' cumpunimentu religiosu o civile, è ancu un cantu liricu è musicale. Per esempiu:
+   </p>
+   <p>
+    - u Diu vi salve Regina hè un canticu di a Chjesa ma hè ancu l'innu naziunale di a Corsica.
+   </p>
+   <p>
+    - u Canticu di i Cantichi, attribuitu à Salomone in l'Anticu Testamentu.
+   </p>
+   <p>
+    Riligioni
+   </p>
+  </body>
+ </text>
+</TEI>

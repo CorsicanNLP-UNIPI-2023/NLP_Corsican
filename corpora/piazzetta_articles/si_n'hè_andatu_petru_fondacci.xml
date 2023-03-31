@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Si n'hè andatu Petru Fondacci
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Si-n-he-andatu-Petru-Fondacci_a2600.html"/>
+     <date>
+      Sun, 04 Jun 2017 23:05:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Si n'hè andatu Petru Fondacci
+   </head>
+   <div type="content">
+    <p>
+     Petru Fondacci hà principiatu cum'è stitutore bislingu per diventà più tardi cunsiglieru pedagogicu LCC pè u primu gradu. 
+Passiunatu di cantu, hè statu unu di i fundatori di i Chjami Aghjalesi. Hà cumpostu parechje musiche di u primu discu (Nant'à u solcu di a storia, 1978) è u segondu (Esse, 1982), è ne canta qualchiduna.
+    </p>
+    <p>
+     Qualchì annu dopu face parte di Zia Devota, gruppu pop-rock antivistu è ovni musicale di l'anni 80. Una piccula rivuluzione tandu.
+    </p>
+    <p>
+     Ma Petru Fondacci avia parechji talenti è hà avutu dinù una vita à a radio. Nant'à RCFM participava à  U corsu currente (lezziò di corsu cun Francescu-Maria Perfettini) è sopr'à tuttu I Scrianzati (cun Petru Mari, Patrizia Poli, Daniel Parigi), l'emissione scherzosa, chì tuttu u mondu stava à sente tandu.
+    </p>
+    <p>
+     Quandu a nutiziaccia s'hè spartuta, sò tanti à avè vulsutu rendeli omagiu nant'à e rete suciale.
+    </p>
+    <p>
+     Hè cù una tristezza infinita ch'è no pensemu à ellu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

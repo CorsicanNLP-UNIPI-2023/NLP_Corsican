@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sam J. Jones
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Sam%20J.%20Jones"/>
+     <date>
+      2016-06-02T06:59:00Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sam J. Jones
+   </head>
+   <p>
+    Samuel Gerald "Sam" Jones hè un attore americanu.
+   </p>
+   <p>
+    Jones, Sam J.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Shelley Duvall
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Shelley%20Duvall"/>
+     <date>
+      2015-07-07T22:06:21Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Shelley Duvall
+   </head>
+   <p>
+    Shelley Alexis Duvall hè un'attrice americana.
+   </p>
+   <p>
+    Duvall, Shelley
+   </p>
+  </body>
+ </text>
+</TEI>

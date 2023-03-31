@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quaglia
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Quaglia"/>
+     <date>
+      2006-10-22T12:02:38Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quaglia
+   </head>
+   <p>
+    a Quaglia: a famiglia di i Phasianidae
+   </p>
+   <p>
+    a Quaglia: u genaru coturnix
+   </p>
+   <p>
+    a Quaglia: a spezia coturnix coturnix
+   </p>
+   <p>
+    a Quaglia: a sottuspezia coturnix coturnix corsicana
+   </p>
+  </body>
+ </text>
+</TEI>

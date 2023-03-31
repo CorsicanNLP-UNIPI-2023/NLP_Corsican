@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Surtita in immersione in Niolu u 23 di nuvembre
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Surtita-in-immersione-in-Niolu-u-23-di-nuvembre_a2030.html"/>
+     <date>
+      Wed, 19 Nov 2014 18:59:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Surtita in immersione in Niolu u 23 di nuvembre
+   </head>
+   <div type="excerpt">
+    <p>
+     L'associu Cap'in lingua organizeghja una surtita in immersione in lingua corsa dumenica chì vene. Eccu u prugramma :
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     10 ore : Appuntamentu à l’imbracamentu di Casamacciuli prima di Calacuccia, giru in Casamacciuli 
+10 ore 30 : Museu d’archeulugia « Lucien Acquaviva » in Albertacce, visita cù u cunservatore di u museu, Ghjuvan Filippu Antolini 
+11 ore 30 : spassighjata ver di Murricciole (ponte è mulinu) 
+Meziornu : Ripastu in Albertacce à l'osteria U Paglia Orba (salameria, vitellu in salsa è canneloni, casgiu è dolce, 18€/pers.) 
+2 ore di dopu meziornu : piccula firmata à u cunventu di Calacuccia è giru à traversu à Calacuccia 
+Scontru cù i castaneicultori Flori è Acquaviva 
+3 ore di dopu meziornu : visita di u GAEC A Setiva in Lozzi 
+4 ore di dopu meziornu : visita di u spaziu Peppu Flori, Lozzi 
+Riservazione ubligatoria ! Chjamate u 06 22 06 19 51. 
+Di più infurmazioni nant'à a pagina Facebook di l'associu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

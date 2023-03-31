@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A vera Barbie hè un palu à fasgiolu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-vera-Barbie-he-un-palu-a-fasgiolu_a1085.html"/>
+     <date>
+      Fri, 29 Apr 2011 13:34:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A vera Barbie hè un palu à fasgiolu
+   </head>
+   <div type="excerpt">
+    <p>
+     Una studiente americana hà ricustituitu una puppatula Barbie di taglia reale... è face a paura.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Barbie hè un mudellu di bellezza è di perfezzione pè generazione di zitelle... ma s'ella esistia, saria goffa è anoressica. 
+A studiente americana vulia dimustrà chì e puppàtule Barbie (si ne vèndenu duie ogni segonda in u mondu) facenu a prumuzione negativa di l'imagine curpurale è accrescenu i cumplessi. 
+Hà dunque ricustituitu una "vera Barbie" è traspostu à taglia reale e prupurzioni di a puppàtula. U risultatu ùn face micca veramente sunnià... 
+In a nostra sucetà chì incuragisce a corsa à a perfurmanza è à a bellezza, l'azzione di sta giovana americana hà fattu nasce u dibattitu. 
+Allora à quandu una Barbie umana è un Ken panzutu ?
+    </p>
+    <p>
+     Visit msnbc.com for breaking news, world news, and news about the economy
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U best of di Thiriez
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-best-of-di-Thiriez_a1562.html"/>
+     <date>
+      Thu, 09 May 2013 17:57:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U best of di Thiriez
+   </head>
+   <div type="content">
+    <p>
+     Avemu dunque amparatu oghje chì Frédéric Thiriez vulia vene in Furiani sabbatu per Bastia - Montpellier. D'appressu à France 3 Corse a prefettura l'hà cunsigliatu d'ùn vene micca. 
+U presidente di a LFP hè cunsideratu cum'è 
+Affaire Kébé  https://fr.wikipedia.org/wiki/Affaire_K%C3%A9b%C3%A9  http://annerbatu.20minutes-blogs.fr/archive/2008/02/28/racisme-dans-le-foot-la-corse-encore-et-toujours.html 
+"Pas question de ne pas jouer le 5 mai"  http://www.football365.fr/france/infos-clubs/bastia/j35-thiriez-ne-supprimera-pas-les-matchs-5-mai-1016555.shtml 
+t-shirt  http://www.laprovence.com/actu/om-en-direct/2340567/om-bastia-sanctions-a-cause-des-tee-shirts.html 
+Le titre  http://www.le10sport.com/football/ligue2/bastia-le-trophee-de-la-polemique62489  http://www.laprovence.com/actu/region-en-direct/1733997/furiani-laffront-de-frederic-thiriez.html 
+Soutien à Garibian  http://www.sports.fr/football/ligue-1/scans/bastia-thiriez-soutient-garibian-408576/ 
+"Nuit au football français"  http://www.foot01.com/ligue2/a-bastia-on-s-indigne-des-propos-de-thiriez,78841  http://www.apiazzetta.com/Bastia-nuit-gravement-a-l-image-du-football-francais-Tantu-megliu-_a1185.html 
+Peghju francese di u mondu  http://www.apiazzetta.com/U-peghju-francese-di-u-mondu-he-Thiriez_a1237.html
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,75 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Dece manere di sbarrazzassi di Christophe Barbier
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Dece-manere-di-sbarrazzassi-di-Christophe-Barbier_a2025.html"/>
+     <date>
+      Sun, 16 Nov 2014 21:50:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Dece manere di sbarrazzassi di Christophe Barbier
+   </head>
+   <div type="excerpt">
+    <p>
+     « Tombe la neige, tu ne viendras pas ce soir », dicia una canzona pupulare celebre. Ancu di grazia per ellu, Barbier s’hè statu in casa soia.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Vi prupunemu un ghjocu : ghjucavvilu à u sgiasgià. 
+Pudete sceglie una di e pruposte d’inghjulia chì seguenu. Ci sò più soft è ci sò hard di più, ancu gore à le volte. Or fatevi piacè fendu vostra una d’isse pruposte. 
+Dopu, basta à mandalla per tweet nant'à u so contu. 
+O Barbier, o sconciu sittinu ! 
+O Barbier, o sgrachju di pesciu ! 
+O Barbier, tante parolle di toiu, tante pete di meiu, u t’ampargu eiu u galateiu ! 
+O Barbier, o rasoghju sturzatu, fatti pilucchè ! 
+O Barbier  Et on te pèlera le jonc  Comme au bailli du Limousin  Qu’on a pendu  Avec ses tripes ! 
+O Barbier, ch’è tù brusgi à legne verde ! 
+O Barbier, ch’è tù vaca à l’infernu più suttanu ! 
+O Barbier, ch’elli ti manghjinu i corbi dopu cacciatuti l’ochji ! 
+O Barbier, ch’elli t’inzecchinu cù una sega à mutore è lampatti l’acetu nantu à e piaghe ! 
+O Barbier, ch’è tù sprifondi (variante : ch’è tù pigli l’abbissi). 
+O Barbier, ch’elli t’incorghinu i cani omarecci ! 
+O Barbier, ch’elli ti chjodinu cù un tagliolu di gurigli masci ammarziti. 
+O Barbier, ch’elli ti lampinu in l’arca ! 
+O Barbier, ch’elli ti chjodinu ind’un accintu cù uni pochi di porci famiti. 
+O Barbier, ch’ellu ti ghjunga u frusciu maruccanu ! 
+Eccu, è sì mai nisuna d’isse pruposte vi aggradessi, aghjustateci puru a vostra è prupunitela à tutti !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

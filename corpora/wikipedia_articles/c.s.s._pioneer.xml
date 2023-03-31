@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     C.S.S. Pioneer
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/C.S.S.%20Pioneer"/>
+     <date>
+      2015-07-03T10:25:16Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    C.S.S. Pioneer
+   </head>
+   <p>
+    A C.S.S. Pioneer fubbe un battellu, un sottumarinu in a Guerra Civile Americana.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    C.S.S. Hunley
+   </p>
+   <p>
+    U.S.S. Alligator (sottumarinu)
+   </p>
+   <p>
+    U.S.S. Intelligent Whale
+   </p>
+   <p>
+    Pioneer
+   </p>
+  </body>
+ </text>
+</TEI>

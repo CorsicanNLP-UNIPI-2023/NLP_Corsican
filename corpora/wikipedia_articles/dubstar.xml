@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Dubstar
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Dubstar"/>
+     <date>
+      2017-07-18T14:46:05Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Dubstar
+   </head>
+   <p>
+    I Dubstar so un gruppu di musica pop eletronica inglese, nata in u 1992 à Newcastle upon Tyne è ativa finu à l'annu 2000.
+   </p>
+   <p>
+    U gruppu era furmatu à u principiu da Steve Hillier e Chris Wilkie; in u 1980 si aghjunghje a cantatice Sarah Blackwood.
+   </p>
+   <p>
+    == Albumi ==
+   </p>
+   <p>
+    1995 - Disgraceful
+   </p>
+   <p>
+    1997 - Goodbye
+   </p>
+   <p>
+    2000 - Make It Better
+   </p>
+   <p>
+    2004 - Stars: The Best of Dubstar (racolta)
+   </p>
+  </body>
+ </text>
+</TEI>

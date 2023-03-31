@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Marte
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Marte"/>
+     <date>
+      2015-07-07T18:01:14Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Marte
+   </head>
+   <p>
+    Marte hè a quartu pianeta di u sistemu sulari. A durata di a so rivuluzioni hè di 686,98 ghjorna.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Deimos
+   </p>
+   <p>
+    Phobos
+   </p>
+   <p>
+    Pianeta
+   </p>
+  </body>
+ </text>
+</TEI>

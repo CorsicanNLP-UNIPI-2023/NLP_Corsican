@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Oghje, si pò cantà "Dumane Natale"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Oghje-si-po-canta-Dumane-Natale_a1660.html"/>
+     <date>
+      Wed, 24 Dec 2014 08:07:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Oghje, si pò cantà "Dumane Natale"
+   </head>
+   <div type="excerpt">
+    <p>
+     Chì tanti "Vive le vent" è altri "Petit papa Noël". Noi dinù avemu e nostre canzone di Natale. Ma hè solu oghje, 24 dicembre, ch'ellu si pò cantà "Dumane Natale". Dopu, serà troppu tardi.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Bon d'accordu, si pò cantà solu u 24 dicembre, dopu hè troppu tardi. Ma quale ùn cunnosce micca stu "tube" di I Muvrini ? 
+Hè stata esciuta nant'à u discu "Campemuci" in u 1980. Tandu, sò parechji i gruppi à sorte dischi di canzone per i zitelli. 
+I Muvrini ne sortenu dui : Campemuci dunque (1980) è Aiò (in u 1981). Canta u Populu Corsu avia esciutu Festa Zitellina in u 1979 è ci serà ancu E Cardelline in u 1981 cù u successu mundiale di "Libertà". 
+Sè vo circate bè si ponu truvà sti dischi nant'à a tela. Di chè fà a vostra playlista per i zitelli dumane !
+    </p>
+    <p>
+     Ghjuvanfrancescu si piatta in qualchì locu nant'à stu dissegnu. Saperai ritruvallu?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

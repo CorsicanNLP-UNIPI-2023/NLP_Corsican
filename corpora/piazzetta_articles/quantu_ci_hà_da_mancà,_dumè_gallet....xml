@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quantu ci hà da mancà, Dumè Gallet...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quantu-ci-ha-da-manca-Dume-Gallet_a1546.html"/>
+     <date>
+      Mon, 22 Apr 2013 14:40:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quantu ci hà da mancà, Dumè Gallet...
+   </head>
+   <div type="excerpt">
+    <p>
+     Si n'hè andatu Dumè Gallet, puntellu è voce tremenda di Canta u Populu Corsu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Eccu, si n'hè andatu Dumè Gallet. 
+Chì si pò dì, quandu tuttu hè statu dettu nant'à u militante puliticu è puntellu di Canta u Populu Corsu. Hè statu interratu eri in A Riventosa. 
+Era a voce di Vogliu scrive u to nome, Quandi a terra move, L'Odore di i nostri mesi, Amicu ci sì tù, Mal Cunsigliu, Lettera à Nicoli... Tutti sti capi d'opera di u gruppu mìticu di u settanta. 
+Tutti dicenu u so impegnu, a so integrità, u grande militante ch'ellu era. 
+Chì si pò dì di più, fora chì in sti tempi pessimi pè a Corsica, a so voce ci mancherà. 
+Chì si pò dì di più, fora chè no ùn avemu micca u dirittu di calà e bracce ?
+    </p>
+    <p>
+     Canta u Populu Corsu - Vogliu scrive u to nome par le_politburo_des_UB
+    </p>
+    <p>
+     Amicu ci si Tu - Canta U Populu Corsu par Itashi2a
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

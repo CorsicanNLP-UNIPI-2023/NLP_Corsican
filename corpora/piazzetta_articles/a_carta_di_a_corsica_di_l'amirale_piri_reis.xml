@@ -1,0 +1,70 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A carta di a Corsica di l'amirale Piri Reis
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-carta-di-a-Corsica-di-l-amirale-Piri-Reis_a2510.html"/>
+     <date>
+      Thu, 19 Jan 2017 01:29:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A carta di a Corsica di l'amirale Piri Reis
+   </head>
+   <div type="excerpt">
+    <p>
+     À u seculu XVI, l'amirale turcu Piri Reis si lancia in a realizazione d'una carta di u mondu. A so rapresentazione di e coste è di l'isule di u Mediterraniu hè a più bella è a più cumpletta di a so epica.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Piri Ibn Haji Mehmed dettu "Piri Reis" ("reis" vole dì "cummandante" in turcu) fù un capitanu famosu di l'imperu ottomanu.
+    </p>
+    <p>
+     Ma s'hè fattu cunnosce sopr'à tuttu per a so opera di cartugrafia. Era passiunatu pè e carte è e cullezziunava. À partesi da quesse, hà scrittu un librone chjamatu "u libru di u mare" (Kitab-ı Bahriye) trà u 1511 è u 1521. 
+Ricensa in detagliu i porti, golfi, cale, coste, bocche è isule di u Mediterraniu ma ci si trova dinù infurmazione nant'à i populi è i paesi cunnisciuti.
+    </p>
+    <p>
+     Opera di sintesi trà e culture orientale è occidentale, u libru hè cunsideratu cum'è unu di i più famosi purtulani è atlanti marini di u so seculu.
+    </p>
+    <p>
+     Frà e numerose carte belle è culurite, ci si trova ben'intesu a Corsica :
+    </p>
+    <p>
+     Hè l'alfabetu arabu chì hè utilizatu per scrive i nomi di locu. Ma ùn ci vidite nunda di male hein ! Ùn vale a pena di dì ch'è no semu per l'islamizazione di a Corsica.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ch'hà da diventà Cameddu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ch-ha-da-diventa-Cameddu_a1073.html"/>
+     <date>
+      Tue, 29 Mar 2011 00:08:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       A-PIAZZETTA-TV
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ch'hà da diventà Cameddu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Demuli un ultimu omàgiu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Quellu chì vede "una disfatta chì prumette" è chì dice avè cun ellu "una mansa di giovani", (ramintemu quantunque chì qualchissia di più di 60 anni ùn hè più cunsideratu cum'è un "giovanu") dicia chì a so famiglia guvernava dapoi seculi è seculi, forse ancu dapoi Cucuruzzu. 
+Cameddu firmerà dunque in a storia, dapoi i castelli di l'Età di Bronzu, cum'è quellu chì averà riesciutu à fà perde u so clanu... 
+Sta cantunale di Portivechju hè appena cum'è u nostru Fukushima à noi. Ci hè statu un terramotu, un zunamì, ma u più periculosu ùn hè ancu à vene...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

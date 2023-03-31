@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Avemu un Bogdanov cun noi
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Avemu-un-Bogdanov-cun-noi_a2008.html"/>
+     <date>
+      Sun, 26 Oct 2014 21:44:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Avemu un Bogdanov cun noi
+   </head>
+   <div type="excerpt">
+    <p>
+     In a storia surrealista chì oppone a bandera corsa à u restu di u mondu, tutti i ghjorni n'accade una. Eri sera, u rinforzu hè venutu da... un fratellu Bogdanov.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Bon segnu ? O micca ? Un Bogdanov (ùn dumandate s'ellu hè Igor o Grichka) hà vulsutu testimunià ellu dinù u so sustegnu à u populu corsu, u pugnu alzatu. 
+Iè iè semu d'accordu cun voi, cun stu ritrattu entremu in a quarta dimensione. 
+Pocu impreme si l'affare s'hè passatu in una discuteca parigina dop'à parechji litri d'alcool, u ritrattu hè quì è circuleghja nant'à e rete suciale. 
+Ùn sapemu micca sì u Bogdanov hà una residenza segundaria in Corsica, s'ellu si sente "residente", s'ellu hè statu cummossu da l'interdizzione prefetturale... o s'ellu era simpliciamente in bomba nera. 
+Aspettemu sempre e precisioni di quelli chì anu passatu a serata cun ellu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tim Burton
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Tim%20Burton"/>
+     <date>
+      2016-08-11T15:49:10Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tim Burton
+   </head>
+   <p>
+    Tim Burton (25 Aostu 1958) hè un realizatore americanu.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    The Nightmare Before Christmas
+   </p>
+   <p>
+    Burton, Tim
+   </p>
+   <p>
+    Burton, Tim
+   </p>
+  </body>
+ </text>
+</TEI>

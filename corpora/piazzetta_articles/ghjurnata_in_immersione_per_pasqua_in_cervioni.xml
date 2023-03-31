@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ghjurnata in immersione per Pasqua in Cervioni
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ghjurnata-in-immersione-per-Pasqua-in-Cervioni_a2176.html"/>
+     <date>
+      Wed, 25 Mar 2015 23:43:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ghjurnata in immersione per Pasqua in Cervioni
+   </head>
+   <div type="content">
+    <p>
+     L'ADECEC organizeghja una ghjurnata in immersione sabbatu chì vene in Cervioni. 
+Parechji attelli sò previsti : crucette, piatti tradiziunali (a cenarella è e bastelle cù l'erbe), campanili, canti di prucessiò è litteratura. 
+Scrizzione : 04.95.38.12.83.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

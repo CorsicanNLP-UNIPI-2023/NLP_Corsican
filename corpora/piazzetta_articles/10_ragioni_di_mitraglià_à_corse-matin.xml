@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     10 ragioni di mitraglià à Corse-Matin
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/10-ragioni-di-mitraglia-a-Corse-Matin_a1411.html"/>
+     <date>
+      Thu, 18 Oct 2012 15:30:02 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       10-RAGIONI-DI
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    10 ragioni di mitraglià à Corse-Matin
+   </head>
+   <div type="excerpt">
+    <p>
+     L'agenza di Bastia di Corse-Matin hè stata mitragliata à u 9 mm. Ma perchè Corse-Matin ? Quale hà fattu u colpu ? Avemu fattu a nostra inchiesta.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     1. Un giandarmu mutatu in Corsica o chì si ne và è chì ùn hà micca avutu a so fottò in u giurnale : "Le pot de départ de l'adjudant Bouchard à la gendarmerie de Casamatchôl". 
+2. Un omu puliticu scuntentu perchè ùn hà micca avutu e so trè pagine di publi-reportage, cum'è l'Affranchi. 
+3. Un maffiosu ghjelosu chì ùn hà micca avutu e so trè pagine di prumuzione, cum'è certi : quì, quì è quì. 
+4. Un piscadore azezu perchè a metteò s'hè sbagliata. 
+5. Un annerbatu chì ùn hà micca riesciutu à fà passà u so cummunicatu per dì chì ellu dinù, "je condamne fermement etc etc..." 
+6. Un sustenidore arrabbiatu chì biscava perchè ch'ellu ùn c'era micca articulu nant'à u Sporting, e trè nant'à l'OM. 
+7. Un giardinaru in crisa d'un paese di u Ghjunsani perchè ùn hà riesciutu à fà passà u ritrattu di u so zucchinu di 5 chilò. 
+8. Christian Clavier, perchè st'estate ùn hà micca avutu a so intervista "j'adore les Keurses ils sont authentiques". 
+9. Xavier Dupont de Ligonnès, perchè ùn hè mai venutu in Bastia. 
+10. Michel-Edouard Leclerc o Jean-Claude Foirfouille, di rabbia.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

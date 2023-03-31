@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Aiutemu à fà un filmu nant'à Pasquale Paoli !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Aiutemu-a-fa-un-filmu-nant-a-Pasquale-Paoli-_a1920.html"/>
+     <date>
+      Mon, 04 Aug 2014 01:22:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Aiutemu à fà un filmu nant'à Pasquale Paoli !
+   </head>
+   <div type="content">
+    <p>
+     Aviamu digià parlatu di u prugettu di u filmu "Les Exilés", purtatu da u realizatore Rinatu Frassati. Si tratta d'un "court métrage" chì si passa à l'epica paulina. 
+U prugettu avanza bè è u pudete seguità nant'à a so pagina Facebook. A squadra di u filmu spiega chì l'attesa hè forte è ch'elli anu ricevutu assai messagi d'incuragimentu. 
+Ma cum'è sempre mancanu i soldi chì un tale prugettu dumanda assai mezi. Anu dunque lanciatu una chjama à i doni di l'internauti. U scopu hè di ghjunghje à 20.000 euri. 
+Per quessa, ci hè Ulule, un situ di finanzamentu participativu, induve si pò aiutalli. 
+Ci vole à sapè chì u filmu serà guasi tuttu in lingua corsa, chì i cummedianti è i tecnichi sò corsi. Si sò fatti aiutà da storichi, linguistichi, spezialisti di l'epica paulina. 
+È sarebbe ora chì a Corsica appia u so propiu sinemà per fà sente un'altra voce. 
+Si pò fà un donu sin'à u 18 d'agostu, dopu u spaziu nant'à Ulule serà chjosu. Si passa quì !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

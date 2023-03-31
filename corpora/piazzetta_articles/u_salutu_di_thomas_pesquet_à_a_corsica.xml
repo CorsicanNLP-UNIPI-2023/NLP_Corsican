@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U salutu di Thomas Pesquet à a Corsica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-salutu-di-Thomas-Pesquet-a-a-Corsica_a2519.html"/>
+     <date>
+      Fri, 27 Jan 2017 19:36:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U salutu di Thomas Pesquet à a Corsica
+   </head>
+   <div type="excerpt">
+    <p>
+     Ci n'hè l'aspettavanu dapoi un pezzu. L'austronautu Thomas Pesquet hà publicatu un ritrattu di a Corsica vista da u spaziu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U francese hè diventatu un campione di e rete suciale per via di i so ritratti, publicati nant'à i so differenti conti (è ancu in inglese). 
+Si dice chì da quassù, si vede a grande muraglia di China. È e coste corse arruvinate da a bettunizazione ?
+    </p>
+    <p>
+     La #Corse, joyau de la Méditerranée, habillée de quelques neiges d’hiver. Pace e salute https://t.co/JyZdXcxjNF #FridayIsland pic.twitter.com/fuULV1fhtf
+— Thomas Pesquet (@Thom_astro) 27 janvier 2017   Ùn ridite micca di u so "pace è salute", hè sempre à tempu.
+    </p>
+    <p>
+     #Corsica, jewel of the Mediterranean covered in a dusting of snow. Pace e salute https://t.co/JyZdXcfIp5 #FridayIsland pic.twitter.com/dFp98TVg7F
+— Thomas Pesquet (@Thom_astro) 27 janvier 2017
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

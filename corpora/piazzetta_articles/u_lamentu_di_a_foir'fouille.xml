@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U lamentu di a Foir'Fouille
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-lamentu-di-a-Foir-Fouille_a1388.html"/>
+     <date>
+      Fri, 20 Jul 2012 18:26:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U lamentu di a Foir'Fouille
+   </head>
+   <div type="excerpt">
+    <p>
+     Hà brusgiatu u magazinu La Foir'Fouille sta notte. In u circondu di Bastia, hè a custernazione.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U focu hà distruttu u magazinu sanu sanu sta notte versu 3 ore di mane, ci dice Corse-Matin. Avemu fattu a nostra inchiesta in u periurbanu di Bastia, sta stesa infinita di lotissements chì và da Furiani à Casamozza. 
+I primi à ghjunghje sopr'à locu sta mane per vede i disguasti sò stati l'eletti. Sauveur n'hà prufittatu pè rende omagiu à "cet haut-lieu de la culture et du discount. Ch'è tù riposi in pace o Foir'Fouille". 
+Ci vole à dì chì stu locu hè simbòlicu per i lucali. Ghjuvan-Kévin Giudicelli (14 anni) di u lotissement "Les Floralies" hè venutu cù u so quad : "c'est là qu'on venait le mercredi pour s'acheter des nains de jardin. Après on s'amusait à leur tirer dessus avec la 22 de papa." 
+Bryan-Steeven Gouflard di "La Résidence du Clos-St-Germain" tene anch'ellu à rende un omagiu : "c'est là que je venais acheter mon figadèl avant que je me rende compte qu'il était en plastique". 
+Per avà ùn si sà sì l'incendiu hè criminale o nò. In prevenzione, u prefettu hà mandatu sopr'à locu parechji camiò di CRS pè curà à Gifi, Flunch, Eurobazar è u Dénicheur. La Rocade ella conta nant'à u so propiu serviziu di securità. 
+Un rispunsèvule di a prefettura spiega à l'appiattu chì "si on leur enlève les lieux de consommation, on sait pas ce qu'il peut se passer. Ils peuvent devenir dangereux et un nouvel Aleria n'est pas à exclure." 
+S'hè spinta a Foir'Fouille, è si ne andatu un pezzu di u patrimoniu di a Corsica di l'anni 2010.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

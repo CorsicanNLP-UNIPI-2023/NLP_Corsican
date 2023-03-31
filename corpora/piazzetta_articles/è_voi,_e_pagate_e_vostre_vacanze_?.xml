@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È voi, e pagate e vostre vacanze ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-voi-e-pagate-e-vostre-vacanze_a1029.html"/>
+     <date>
+      Sun, 13 Feb 2011 19:00:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È voi, e pagate e vostre vacanze ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Fillon in Egittu, MAM in Tunisia... Elli sò partuti pè 0€ ! Voi, pè listessu prezzu vi pudite pagà e vostre vacanze in Casamozza.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Chì furtuna ch'elli anu i grandi di stu mondu ! In più d'esse pagati abbastanza bè, anu vintu u dirittu d'ùn pagà micca e so vacanze. 
+È chì vacanze ! MAM girandulava in Tunisia grazia à Ben Ali, è Fillon si spassighjava in Egittu grazia à Mubarak. 
+À tal puntu chì Sarko hè intervenutu pè prevene i so ministri : basta e cunnerie, à e prùssime vacanze i ministri francesi duveranu andà... in Francia. 
+Bon, hè vera chì andà in u Loiret o in Gueugnon hè appena menu attirante ch'è di parte sott'à u sole di u Mediterraniu. 
+Nant'à u so blog Paul Giacobbi face bè di preveneci : ellu, ùn hè mai andatu in vacanze à l'ochju... Basterebbi ch'è no amparghimu ch'ellu hè statu invitatu da Kim Jong-Il o Kadhafi ! 
+Astrimenti, pè listessu prezzu ch'è e vacanze di i ministri francesi in Egittu è in Tunisia, voi vi pudete pagà un dopu meziornu di vacanze in Casamozza. Vi và ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

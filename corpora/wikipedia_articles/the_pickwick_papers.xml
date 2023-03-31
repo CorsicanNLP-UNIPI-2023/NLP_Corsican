@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     The Pickwick Papers
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/The%20Pickwick%20Papers"/>
+     <date>
+      2019-07-20T11:33:06Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    The Pickwick Papers
+   </head>
+   <p>
+    The Posthumous Papers of the Pickwick Club (ancu cunnusciutu comu The Pickwick Papers) fù a prima rumanza di Charles Dickens.
+   </p>
+   <p>
+    Littiratura
+   </p>
+  </body>
+ </text>
+</TEI>

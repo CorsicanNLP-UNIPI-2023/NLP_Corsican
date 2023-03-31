@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Perchè i fast-food sò un paradisu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Perche-i-fast-food-so-un-paradisu_a2156.html"/>
+     <date>
+      Sun, 22 Feb 2015 23:32:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Perchè i fast-food sò un paradisu
+   </head>
+   <div type="excerpt">
+    <p>
+     O surè, o fratè, aprite l'ochji ! U benestà hè custì. À u pede di e muntagne, à a periferia di e cità, à u sboccu di l'autostrada, u fast-food ci aspetta. Stu locu ci ricolma di gratitutine. Eccu perchè.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     1) L'architettura hè muderna, i culori acìduli, alegri, framanti. Ùn ci hè micca murzu nantu à u tettu. 
+2) Ci hè un persunagiu dissegnatu, un amicacciu « ultrafun » chì ci face « coucou » da luntanu. Ci si pare d'avè òndeci anni « forever ». 
+3) I risichi sò minimi. A nutritura hè molle è tepida, e trippette tracalde in salsa piverunosa sò tabù. 
+4) Simu in cumunione cùn tutti l'esseri umani chì, a listessa òra, in Bali, in Milwaukee, in Budapest o in Gif-sur-Yvette si sciaccanu un cheese assulutamente identicu (mentre chì a pulenda puzza l'identità mischinella è a paura di a mundializazione). 
+5) I nostri sgaiuffi ingrassanu in pace : ùn ci hè bisognu di precuralli ch'elli si techjinu. 
+6) I più chjuchi sò siguri d'entresine in casa cùn un rigalu ghjittevule chì i Chinesi anu fabricatu apposta per elli, cùn amore, senza dumandà à esse pagati. 
+7) Simu sempre servuti da l'impiegatu di u mese, o quellu di u mese scorsu. Un impiegatu « trè stelle ». 
+8) Si pò manghjà cùn e dite : u piacè di a transgressione hè maiò. 
+9) Ci hè sempre un umatale, un custodiu da impedisce chì qualchisia v'arrubi i pomi fritti (si pò lascià a pistola in vittura). 
+10) Ùn si pò micca staziunà à u cuntuaru. Sò sbanditi i briaconi chì ci chjamanu pè appughjà a so paghjella, e croce chì parlanu forte, e turnate chì ci arruvinanu. 
+11) Simu di siguru omi di u XXIu seculu : u passatu dorme in lu campusantu chì hè statu cupertu quandu elli anu fattu u parking. 
+12) Ci sentimu « rè di u mondu » : per noi soli, anu stirpatu l'Indiani di l'Amazonia è postu u sojà OGM pè rimpiazzà a furesta.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

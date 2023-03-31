@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Noi, avemu Alertator
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Noi-avemu-Alertator_a1194.html"/>
+     <date>
+      Mon, 24 Oct 2011 12:37:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Noi, avemu Alertator
+   </head>
+   <div type="excerpt">
+    <p>
+     Un ghjornu, forse chì voi dinù ferete una cunferenza di stampa per dì : "nò, ùn sò micca eiu Alertator".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cunnisciate Terminator, Musclor, Skeletor, Predator, X-or, Albator, Patator... 
+In Corsica aviamu digià Pinzdestructor (parechji articuli da leghje nant'à u situ Ultras Bastiacci è a so intervista data in A Pian d'Avretu), c'era ancu Incinérator  è u Moussor. 
+Avà, avemu ancu à "Alertator" in Aiacciu (da leghje in Corse-Matin), un mantacatu chì face l'alerta à a bomba in e scole aiaccine. 
+Sin'à quì u rollu d'Alertator hè piuttostu goffu, ma face surride. Nunda à chì vede cù a vita appena di più passiunante di Terminator è di Musclor, ma bon. 
+Induve si ride menu, hè chì qualchissia hà vulsutu denunzià à Alertator, dicendu à a pulizza ch'ellu era Félix Bonardi (vede Corse-Matin). 20 ore di guardia à vista, pè ghjustificà ch'ellu ùn era micca ellu Alertator... 
+Dunque oghje, in Corsica, vi pudete fà una guardia à vista di 20 ore per dì ch'è vo ùn site micca un tontu chì si face chjamà Alertator, unicamente perchè un altru tontu v'hà dinunziatu à i flicchi. 
+Si passa cusì in Corsica, in u 2011...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

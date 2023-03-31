@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     CeeLo Green
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/CeeLo%20Green"/>
+     <date>
+      2015-09-19T05:48:35Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    CeeLo Green
+   </head>
+   <p>
+    Thomas DeCarlo Callaway hè statu un attore americanu.
+   </p>
+   <p>
+    Green, CeeLo
+   </p>
+   <p>
+    Green, CeeLo
+   </p>
+  </body>
+ </text>
+</TEI>

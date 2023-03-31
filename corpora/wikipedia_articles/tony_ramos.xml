@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tony Ramos
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Tony%20Ramos"/>
+     <date>
+      2015-07-01T22:06:47Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tony Ramos
+   </head>
+   <p>
+    Antônio de Carvalho Barbosa (Arapongas, 25 d'aostu 1948) hè un'attore brasilianu.
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    IMDB
+   </p>
+   <p>
+    Attore
+   </p>
+   <p>
+    Brasilianu
+   </p>
+  </body>
+ </text>
+</TEI>

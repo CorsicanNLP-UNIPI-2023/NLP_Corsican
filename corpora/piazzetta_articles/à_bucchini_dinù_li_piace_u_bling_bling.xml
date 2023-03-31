@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     À Bucchini dinù li piace u bling bling
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-Bucchini-dinu-li-piace-u-bling-bling_a1059.html"/>
+     <date>
+      Wed, 16 Mar 2011 02:12:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    À Bucchini dinù li piace u bling bling
+   </head>
+   <div type="excerpt">
+    <p>
+     In un'intervista surrealista, Dumè Bucchini difende u capitalisimu russiu, u turisimu di lussu pè ricconi strangeri è a vendita di a terra corsa. Circate u sbagliu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ma chì muscone averà pizzicatu à Dumènicu Bucchini ? 
+L'infurmazione hè cusì surrealista ch'ella ùn pare mancu vera. Ma ci vole à ascultà parechje volte l'intervista data à Alta Frequenza per avedesine ch'ella ùn hè micca una gattiva imitazione d'Yves Lecoq : nò, hè Bucchini chì parla, è hè ellu chì difende u turisimu di lussu. 
+Sapete, quellu di e "croisières" è di i golfeurs in i so bunkers pè ricchi di Sperone. 
+Stranu, ci si paria chì u prugramma di u Front de Gauche ùn andava micca in stu sensu. Sapete, si parlava di turisimu suciale, oppostu à quellu di e residenze segundarie di « les magouilles, les Jacouille et les fripouilles » (spressione di Dumènicu). 
+Peghju, hè bè ellu chì prununzia a frasa nant'à l'investiscidori russii : "dans certains endroits de l'île ils sont déjà implantés, ils ont déjà acheté des structures... il y a pas de raisons qu'ils continuent pas si on arrive à concrétiser les espoirs communs qu'on a mis en avant..." 
+Almenu hè chjaru. Avia digià ricunnisciutu chì a maffia era entrata à l'assemblea durante a campagna eletturale. Avà ricunnosce chì a maffia russia hè quì è ùn dumanda ch'è à sviluppassi. 
+Hè vera ch'ellu ùn ci n'hè micca abbastanza cù a nostra, hè sempre megliu d'andà à circà quella di l'altri, puderà sempre amparà qualcosa à i nostri maffiuselli. 
+Serà quessa a versione muderna di l'internaziunalisimu !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

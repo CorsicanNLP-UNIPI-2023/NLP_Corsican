@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Un filmu nant'à Pasquale Paoli ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-filmu-nant-a-Pasquale-Paoli_a1783.html"/>
+     <date>
+      Thu, 08 May 2014 12:13:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Un filmu nant'à Pasquale Paoli ?
+   </head>
+   <div type="content">
+    <p>
+     LES EXILÉS - TRAILER from VERSUS FILMS on Vimeo.
+Un filmu nant'à Pasquale Paoli ? Tuttu ognunu sunnieghja di vedelu infine. Per u "Bravheart nustrale" in Ponte Novu aspetteremu torna appena, u "Mel Gibson Project" ùn hà ancu vistu u ghjornu. 
+Ci hè statu u court-métrage di Julie Perreard Marcu Maria nant'à l'episodiu di a ripressione in Niolu in u 1774. 
+Oghje ci hè un altru prugettu chì forse sbuccerà. Hè l'opera di u giovanu realizatore lisulanu Rinatu Frassati. A so idea : fà un court-métrage chì si passa in Corsica à i tempi di Pasquale Paoli. U so nome : Les Exilés. 
+Serà giratu in Corsica è guasi tuttu in lingua corsa. Per sapenne di più, ci hè a pagina Facebook è una piccula videò, sperendu chì u prugettu sbocchi è ch'ellu ci ne sia una più longa. 
+Vale u colpu di sustenelu, nò ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

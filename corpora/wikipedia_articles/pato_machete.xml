@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pato Machete
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Pato%20Machete"/>
+     <date>
+      2018-05-22T23:27:16Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pato Machete
+   </head>
+   <p>
+    Patricio Chapa Elizalde (Monterrey, Nuevo León, 6 ottobre 1975) hè un rapper mexicanu.
+   </p>
+   <p>
+    Machete, Pato
+   </p>
+   <p>
+    Machete, Pato
+   </p>
+  </body>
+ </text>
+</TEI>

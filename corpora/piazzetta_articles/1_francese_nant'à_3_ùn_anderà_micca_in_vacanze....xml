@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     1 Francese nant'à 3 ùn anderà micca in vacanze...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/1-Francese-nant-a-3-un-andera-micca-in-vacanze_a1077.html"/>
+     <date>
+      Wed, 06 Apr 2011 12:00:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    1 Francese nant'à 3 ùn anderà micca in vacanze...
+   </head>
+   <div type="excerpt">
+    <p>
+     U prublema hè per i dui altri chì partenu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A sapiamu digià è ùn hè micca veramente un scoop ma "ghjè a grisa". In u turisimu dinù, preparatevi à sente da i prufessiunali chì a stagione ùn hè stata bona, chì "c'est plus comme avant" è chì "nanzu sì chì turisti spendianu i so soldi" ! 
+Cum'è tutti l'anni s'ampara chì di menu in menu turisti anderanu in vacanze. Quist'annu Un Français sur trois ne partira pas cet été ci dice France 3. 
+Infine una bona nutizia ? Menu mondu nant'à e strade, menu pulluzione, menu frequentazione nant'à i lochi turistichi ultra-saturati ? 
+Forse... Ma u prublema hè chì sì un francese nant'à trè ùn anderà micca in vacanze, i dui altri seranu ancu più topi è rancichi. 
+È sì a suluzione era di circà di campà d'altru affare ch'è di turisimu ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

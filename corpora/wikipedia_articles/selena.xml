@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Selena
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Selena"/>
+     <date>
+      2015-07-01T18:55:42Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Selena
+   </head>
+   <p>
+    Selena Quintanilla-Pérez (Aprile 16, 1971 – Marzu 31, 1995), cunnisciuta sottu u nome di Selena, fù una singer-songwriter messicana-americana.
+   </p>
+   <p>
+    Attrice
+   </p>
+  </body>
+ </text>
+</TEI>

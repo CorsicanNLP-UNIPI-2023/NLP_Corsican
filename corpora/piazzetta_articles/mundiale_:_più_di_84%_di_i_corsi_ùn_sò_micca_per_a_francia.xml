@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mundiale : Più di 84% di i Corsi ùn sò micca per a Francia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Mundiale-Piu-di-84-di-i-Corsi-un-so-micca-per-a-Francia_a1899.html"/>
+     <date>
+      Tue, 24 Jun 2014 14:15:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Mundiale : Più di 84% di i Corsi ùn sò micca per a Francia
+   </head>
+   <div type="excerpt">
+    <p>
+     Allora, per quale sò i Corsi à a cuppa di u mondu ? Hè un'inchiesta di So Foot. And the winner is... micca a Francia.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     "Au fait, ils sont pour qui les Corses, pendant le Mondial ?" hè u tìtulu d'una inchiesta di Thomas Andrei di So Foot, da leghje quì. 
+U prefettu ùn serà micca cuntentu, ma ùn hè micca a Francia chì ghjunghje in testa. 84,8% di l'interrugati ùn sò micca per a Francia. 
+A squadra preferita hè l'Italia (22,63%). A Francia hè in daretu (15,19%), dopu ci hè una mansa di paesi cù un risultatu micca significativu ("un agrégat de nations soutenues à moins de 3%" dice u giurnalistu). 
+Seguitanu l'Argentina (10,81%), u Brasile (9,75%), l'Inghilterra (6,96%), a Spagna (5,1%) è l'Alemagna 4,3%. 
+Più interessante, 12,4% di l'interrugati dicenu ch'elli ùn sò per nimu. Perchè ? A risposta hè Julian Palmieri chì a dà : 
+« Je ne supporte personne pour la bonne et simple raison que la seule nation que je soutiendrais ne participe pas à la Coupe du monde : la Corse. »  
+Quessa, hè detta. Per infurmazione, Gilles Cioni sustene u Costa Rica è JB Pierazzi i Stati Uniti. 
+Bon allora, a Corsica ricunnisciuta da a FIFA, serà per quandu ? 
+L'articulu hè da leghje quì
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

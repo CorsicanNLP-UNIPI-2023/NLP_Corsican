@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Dite a vostra à a CTC
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Dite-a-vostra-a-a-CTC_a972.html"/>
+     <date>
+      Tue, 14 Dec 2010 22:19:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Dite a vostra à a CTC
+   </head>
+   <div type="excerpt">
+    <p>
+     Ognunu dice a soia nant’à a viulenza : u dibattitu di u 15 dicembre à l'Assemblea di Corsica ùn serà una spezia di « dite a vostra » ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ci hè ancu a moda di l’Assisi : dopu à quelle di a precarità, di a salute, di u fundiariu è di l’alloghju, eccu un altra grande cerimonia cunsacrata à a viulenza. 
+Speremu ch'ellu si parlerà dinù di e cause, e cagione, prima di parlà di i fatti : perchè sta viulenza, o piuttostu ste viulenze ? Attenti chi stuzzicà a ceppa di u prublema vale à di quistiunà l’usanze è e pratiche di a sucetà corsa ma ancu parechje scelte pulitiche di sviluppu, d’educazione è di ricunniscenza. 
+Finitu u tempu quandu falavanu cutrate nant’à a sola è unica viulenza pulitica ; avà, quandu si sente ind’a bocca di certi ufficiali chì « và megliu in Corsica postu chì attentati, ùn si ne vede guasi più », ci hè da riflette… 
+http://www.youtube.com/watch?v=ppwCuzJ7Wno
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

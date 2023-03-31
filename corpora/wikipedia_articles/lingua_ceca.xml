@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lingua ceca
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Lingua%20ceca"/>
+     <date>
+      2018-06-08T19:37:17Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lingua ceca
+   </head>
+   <p>
+    A lingua ceca (o lingua cecca) hè a lingua slava occidentale chì hè parlata in a Cechia.
+   </p>
+   <p>
+    Cecu
+   </p>
+   <p>
+    Republica Cecca
+   </p>
+  </body>
+ </text>
+</TEI>

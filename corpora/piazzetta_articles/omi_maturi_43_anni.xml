@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     omi maturi 43 anni
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/omi-maturi-43-anni_a2526.html"/>
+     <date>
+      Fri, 03 Feb 2017 18:26:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    omi maturi 43 anni
+   </head>
+   <div type="content">
+    <p>
+     D'appressu à u giurnale inglese u Daily Mail, l'omi diventerianu maturi à l'età di 43 anni, contr'à 32 anni pè e donne. Purtà t-shirts ridiculi, cuntà sempre e listesse magagne è ride à e so propie cacciate, dà i so panni à lavà à so mamma, manghjà n'importa cumu è ùn sapè micca cucinà, mette vestiti di giovani per andà in buatta facenu parte di i criterii di selezzione. (dailymail.co.uk)  Si puderia aghjustà : cuntinuvà à beie cum'è un tufone di rena u sabbatu sera, andà à e serate « annés 80 » per avè l'illusione d'esse sempre giovanu, pustà selfies nant'à a so pagina Facebook 
+http://www.20minutes.fr/insolite/1172951-20130613-20130613-hommes-deviennent-matures-avant-43-ans
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

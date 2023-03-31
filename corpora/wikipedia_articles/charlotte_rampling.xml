@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Charlotte Rampling
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Charlotte%20Rampling"/>
+     <date>
+      2019-05-18T23:56:53Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Charlotte Rampling
+   </head>
+   <p>
+    Tessa Charlotte Rampling (natu u 5 de ferraghju 1946) h'è un attrice britannica.
+   </p>
+   <p>
+    Rampling, Charlotte
+   </p>
+   <p>
+    Rampling, Charlotte
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Steve Oedekerk
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Steve%20Oedekerk"/>
+     <date>
+      2015-08-07T04:57:40Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Steve Oedekerk
+   </head>
+   <p>
+    Steven "Steve" Oedekerk hè un attore americanu.
+   </p>
+   <p>
+    Oedekerk, Steve
+   </p>
+  </body>
+ </text>
+</TEI>

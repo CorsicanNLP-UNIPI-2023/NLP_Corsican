@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     ICarly
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/ICarly"/>
+     <date>
+      2019-07-23T13:31:49Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    ICarly
+   </head>
+   <p>
+    iCarly hè una sitcom americana di l'anni 2007-12 creata da Dan Schneider pè Nickelodeon. L'attori sò Miranda Cosgrove cume Carly, Jennette McCurdy cume Sam, Nathan Kress cume Freddie, è Jerry Trainor cume Spencer.
+   </p>
+   <p>
+    == Da vede dinò ==
+   </p>
+   <p>
+    Family Ties
+   </p>
+   <p>
+    Liv and Maddie
+   </p>
+   <p>
+    Spin City
+   </p>
+   <p>
+    The Big Bang Theory
+   </p>
+   <p>
+    The Simpsons
+   </p>
+   <p>
+    Sitcom
+   </p>
+  </body>
+ </text>
+</TEI>

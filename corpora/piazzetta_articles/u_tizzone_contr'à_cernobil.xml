@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U tizzone contr'à Cernobil
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-tizzone-contr-a-Cernobil_a1088.html"/>
+     <date>
+      Tue, 26 Apr 2011 01:57:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U tizzone contr'à Cernobil
+   </head>
+   <div type="excerpt">
+    <p>
+     In Ukraina anu trovu una manera di decuntaminà i terreni radioattivi : piantà colza, girasole è... cannabis. Per avà, nimu hà ancu avutu st'idea in Corsica.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cumu averanu fattu pè truvalla ? L'infurmazione ùn hè micca una burla è ci vene da u situ di u giurnale Métro. 
+U tizzone puderà salvà i lochi cuntaminati da a radioattività dopu à a catastrofa di Cernobil? In Ukraina dicenu chì suminendu colza, girasole (tournesol) è canapa (chanvre) si pò caccià 80% di l'elementi radioattivi. Stu metudu hè studiatu di manera assai seria da u CEA (commissariat à l'énergie atomique). 
+È in Corsica allora ? 
+Sapemu chì a nostra isula hè stata tocca assai da a radioattività dopu à chì u nulu sia passatu durante u veranu 1986. I nùmerosi càncari di a tirròida l'accertanu, ancu sì l'autorità ricusanu sempre di ricunnoscela. 
+Cù tutti l'amatori di tizzoni ch'ellu ci hè in Corsica, hè ancu stunante chì nimu ùn ci appia pensatu. "Iè ma capisci, era pè caccià a radioattività..." 
+Rassiguratevi, per avà ùn anu trovu nisunu usu à a coca (a pianta).
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

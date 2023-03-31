@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "Quotas" francesi : ancu pè stampà ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quotas-francesi-ancu-pe-stampa_a1093.html"/>
+     <date>
+      Wed, 04 May 2011 16:30:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "Quotas" francesi : ancu pè stampà ?
+   </head>
+   <div type="excerpt">
+    <p>
+     "Donna, 55 anni, à mezu à una mansa di Corsi, cerca un francese". U cumunutarisimu si stalla in Corsica, ancu pè l'amore è pè stampà. Eccu l'annunziu chì si pò leghje in u Corse-Hebdo.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Tenitevi bè, ùn hè mancu una magagna. L'annunziu si pò leghje nant'à u situ di Corse-Hebdo (utilizate u mutore di ricerca pè ritruvallu). 
+Après mûre réflexion, je me lance, femme 55 ans souhaite trouver bonheur amour humour complicité rassemblant les mêmes critères, toi continental ou ayant vécu sur le continent rejoins-moi. 
+Stupendu, nò ? Dopu à u schjaffu di sta strana dumanda, circhemu à riflette. Cumu interpretà st'annunziu ? 
+Serà forse a nascita d'un cumunutarisimu francese in Corsica : quelli chì ghjunghjenu in Corsica ricusanu l'integrazione, disprezzanu quelli chì sò quì, è volenu ritruvassi trà d'elli ? 
+Ma sta povera donna, sola è addisperata, serà cusì gattiva per chì i Corsi ùn volinu micca d'ella ? 
+Dopu à a messa in piazza di "quotas" à FFF, i Francesi n'anu bisognu ancu pè fà l'amore ? 
+Tante dumande senza risposta. Una cosa hè sigura, ci hè qualcosa ch'ùn và micca in stu paese...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

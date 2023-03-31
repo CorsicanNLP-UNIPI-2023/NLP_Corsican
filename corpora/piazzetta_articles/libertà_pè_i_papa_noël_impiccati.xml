@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Libertà pè i Papa Noël impiccati
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Liberta-pe-i-Papa-Noel-impiccati_a998.html"/>
+     <date>
+      Fri, 07 Jan 2011 08:43:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Libertà pè i Papa Noël impiccati
+   </head>
+   <div type="excerpt">
+    <p>
+     Eccu, Natale hè in daretu à noi. Avà, pudete caccià stu puveracciu di Babbu Natale chì spendicava à u vostru balcone.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Bon, dimmula franca, hè a moda ma hè piuttostu goffu. In l'orrore di e decurazioni di Natale, hè ellu u capimachja. 
+Ellu, hè u "Babbu Natale impiccatu". Face qualchì annu ch'ellu si vede, appena da per tuttu in e nostre cità è ancu in i paesi. 
+U corciu, cum'è s'ellu ùn avia abbastanza cusì, stu vechjone. In più di travaglià cum'è un dannatu a notte di Natale, in più di suppurtà u fretu, u tempacciu è a neve, in più di suppurtà i zitellacci scuntenti di i so rigali eccu ch'elli u volenu impiccà. 
+À i purtelli, à i balconi, nant'à i tetti è sott'à i ponti, da per tuttu avemu listessa impressione. Pare chì Babbu Natale s'hè impiccatu. 
+Serà ch'ellu travagliava ind'è Orange ?  Forse ellu dinù ùn suppurtava più e cadenze infernali di travagliu, e minacce di licenziamentu, di delucalizazione. Forse avia un patrone arrugante è inumanu ? Serà per via di a riforma di e ritirate ? A paura di a cumpetizione, d'ùn tene u colpu, di a cuncurenza d'un mondu sempre più duru ? 
+Almenu ch'ellu sia a paura di fassi cumprà da Veolia... 
+Alè, lascemulu stà stu poveru Babbu Natale. Da quì à un annu, li canteremu torna a Paghjella di l'impiccati di e decurazioni di Natale.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

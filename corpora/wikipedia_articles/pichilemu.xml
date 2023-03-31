@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pichilemu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Pichilemu"/>
+     <date>
+      2014-03-23T14:48:34Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pichilemu
+   </head>
+   <p>
+    Pichilemu hè una cità di u Cile. Tene 12.392 abitanti (2002).
+   </p>
+   <p>
+    Pichilemu
+   </p>
+   <p>
+    Giugrafia
+   </p>
+   <p>
+    Cile
+   </p>
+  </body>
+ </text>
+</TEI>

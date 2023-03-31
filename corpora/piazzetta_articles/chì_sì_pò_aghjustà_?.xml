@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chì sì pò aghjustà ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Chi-si-po-aghjusta_a2113.html"/>
+     <date>
+      Wed, 07 Jan 2015 18:27:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chì sì pò aghjustà ?
+   </head>
+   <div type="content">
+    <p>
+     Certe volte, hè megliu un dissegnu ch'è un discorsu longu. 
+Publicatu nant'à u contu Twitter di @jeansetho.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

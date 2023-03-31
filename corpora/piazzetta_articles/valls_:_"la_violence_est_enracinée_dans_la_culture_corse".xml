@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Valls : "la violence est enracinée dans la culture corse"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Valls-la-violence-est-enracinee-dans-la-culture-corse_a1560.html"/>
+     <date>
+      Mon, 06 May 2013 13:11:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Valls : "la violence est enracinée dans la culture corse"
+   </head>
+   <div type="excerpt">
+    <p>
+     Per caccià a viulenza in Corsica, ci vulerà à stirpà i Corsi ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Manuel Valls "La violence est enracinée dans la... par franceinter  Invitatu da nant'à France Inter, Manuel Valls hà turnatu à fà forte. Interrugatu da un'auditrice corsa chì si lagnava di e dichjarazioni di u ministru ("C'est desespérant d'entendre dire que ça fait partie de notre culture..."), Manuè ùn vole sente nunda: 
+"Les premières victimes de la violence sont les Corses...  Ma si ripiglia : "...sont les Français, puisque la Corse est profondément française." 
+Dopu à essesi scaldatu, attacca: 
+"Oui, la violence est profondément enracinée, c'est la région où il y a le plus d'assassinats et de meurtres. Vous voulez que le ministre de l'intérieur nie cette réalité, qui est aussi enracinée dans la culture corse ?" 
+I giurnalisti Patrick Cohen è Bernard Guetta u ripiglianu, stunnati : "Dans la culture corse ?! Vous le répétez ce matin ? Dans la culture corse il y a la violence ?"  Valls : "Mais c'est une réalité ! L'omertà, le silence, le règlement d'un certains nombres d'affaires par le meurtre, l'assassinat, le fait que des mafias prospèrent sur l'île (...)" 
+U giurnalistu : : "Mais quand vous dîtes 'dans la culture corse' tous les Corses se sentent impliqués..."  Valls : "Ils doivent nous aider à lutter contre cette violence !" 
+Più tardi Bernard Guetta volta una terza volta nant'à i so pruposti : "Est-ce qu'il ne faudrait pas plutôt dite 'enracinée dans UNE culture corse que dans LA culture corse ?"  Valls : "Je prends votre amendement avec plaisir. Il y a une partie de la culture corse qui connait cette violence." 
+Cunclusione di u giurnalistu : "Bon, on s'y est repris à trois fois pour amender la phrase..." 
+Hè bè un ministru di a Ripublica chì l'hà detta, in u 2013. Tutti i Corsi sò culpèvuli, è forse avà ci vulerà à stirpà a cultura corsa per pacificà a Corsica.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

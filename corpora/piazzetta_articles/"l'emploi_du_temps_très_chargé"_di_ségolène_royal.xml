@@ -1,0 +1,70 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "L'emploi du temps très chargé" di Ségolène Royal
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/L-emploi-du-temps-tres-charge-di-Segolene-Royal_a2202.html"/>
+     <date>
+      Sat, 25 Apr 2015 17:22:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "L'emploi du temps très chargé" di Ségolène Royal
+   </head>
+   <div type="excerpt">
+    <p>
+     Ségolène Royal hè in visita in Corsica ma ùn hà micca u tempu d'andà in Corti à vede i grevisti di a fame. Allora hè andata à vede i delfini.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Sta mane avemu amparatu in Corse-Matin chì a ministra ùn anderà micca in Corti per via di "un emploi du temps très chargé". 
+Hà dettu dinù chì in ogni manera, u veru penseru di i giovani era u disimpiegu. 
+Bon. Serà. Ma saria stata megliu di parlanne cù i militanti di a Ghjuventù Indipendentista, nò ?
+    </p>
+    <p>
+     Via Stella ci ampara ch'ella hà mandatu un certu Sébastien Lime.
+    </p>
+    <p>
+     C'est Sebastien Lime le chef de Cabinet de la ministre de l'Ecologie S. Royal qui rencontre les militants de la G.I pic.twitter.com/JiS0eFcIDN
+— France 3 Corse (@FTViaStella) 25 Avril 2015
+    </p>
+    <p>
+     Pocu dopu, a ministra ci hà dettu nant'à Twitter chì malgradu u so "emploi du temps très chargé", avia fattu "une belle rencontre". 
+Simu felici assai per ella.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

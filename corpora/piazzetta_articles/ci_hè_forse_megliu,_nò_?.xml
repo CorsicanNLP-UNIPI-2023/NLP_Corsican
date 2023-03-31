@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ci hè forse megliu, nò ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ci-he-forse-megliu-no_a1152.html"/>
+     <date>
+      Fri, 19 Aug 2011 11:23:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ci hè forse megliu, nò ?
+   </head>
+   <div type="excerpt">
+    <p>
+     "Job d'été : gendarme à Lévie", ci prupone Corse-Matin in a so edizione di u 18 agostu. Bon, d'accordu ch'ellu ci hè a crisa è chì i tempi sò duri. Ma quantunque, ùn fate micca cunnerie.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Và bè, a sapemu. Semu tutti fusciati, hè a crisa, a vita hè cara, i parenti sò ràncichi. 
+Ma quantunque... Ùn hè micca una ragione per andà à dumandà un "job d'estate" à a gendarmeria di Livia, aiò ! Da leghje nant'à u situ di Corse-Matin. 
+Ci sò tanti mistieri passiunanti à fà l'estate : 
+- travaglià in un camping è fassi piglià à calci in culu da u patrone  - travaglià in un centru cummerciale è fassi insultà da i turisti pressati  - travaglià in un portu è fassi inciaccà da un camping-car  - travaglià in un aeroportu è fassi parlà male da i turisti azezi  - travaglià in una pizzeria è fassi sfruttà da u patrone 
+È quantunque assai megliu ch'è di fà u Cruchot in Livia, nò ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

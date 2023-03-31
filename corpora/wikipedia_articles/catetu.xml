@@ -1,0 +1,177 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Catetu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Catetu"/>
+     <date>
+      2015-07-09T08:19:14Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Catetu
+   </head>
+   <p>
+    In un triangulu rittangulu hè dittu catetu (da u grecu káthetos, κάθετος: linia
+   </p>
+   <p>
+    parpindiculari) ciascunu di i dui lati aghjacenti à l'angulu rettu. U latu oppostu
+   </p>
+   <p>
+    à l'angulu rettu si chjama inveci iputenusa.
+   </p>
+   <p>
+    == Calculu di a lunghezza ==
+   </p>
+   <p>
+    A rilazioni fundamintali frà i lati d'un triangulu rittangulu hè stabilita da u tiurema di Pitagora, chì pò essa adupratu par calculà a misura d'un catetu quandu sò cunnisciuti i misuri di l'altri dui lati. Incù i metudi di a trigunumitria hè ancu pussibuli di ditarminà a misura
+   </p>
+   <p>
+    d'un catetu cunniscendu a misura d'un solu di l'altri lati à tempu cù à l'ampiezza d'un di l'anguli acuti di u triangulu rittangulu.
+   </p>
+   <p>
+    In i formuli ripurtati quì sottu si indicarà incù i l'iputenusa, è incù c1 è c2 i dui cateti d'un triangulu rittangulu qualunqua. L'anguli opposti à i cateti c1 è c2 sarani rispittivamenti &amp;gamma;1 è &amp;gamma;2.
+   </p>
+   <p>
+    === Dati l'altri lati ===
+   </p>
+   <p>
+    A misura d'un catetu equivali à a radica quatrata di a diffarenza trà i quatrati di i misuri di l'iputenusa è di l'altru catetu. St'enunciatu hè una cunclusioni diretta di u tiurema di Pitagora.
+   </p>
+   <p>
+    c_1 = \sqrt \qquad c_2 = \sqrt
+   </p>
+   <p>
+    === Dati l'iputenusa è un angulu ===
+   </p>
+   <p>
+    A misura d'un catetu equivali à quidda di l'iputenusa multiplicata par u sinu di l'angulu oppostu, o par u cusinu di l'angulu aghjacenti.
+   </p>
+   <p>
+    c_1 = i \cdot \sin \gamma_1 = i \cdot \cos \gamma_2
+   </p>
+   <p>
+    c_2=i\cdot\sin\gamma_2=i\cdot\cos\gamma_1
+   </p>
+   <p>
+    === Dati l'altru catetu è un angulu acutu ===
+   </p>
+   <p>
+    A misura d'un catetu equivali à quidda di l'altru catetu multiplicata par a tangenti di l'angulu oppostu à u prima, o par a cutangenti di l'angulu aghjacenti.
+   </p>
+   <p>
+    c_1=c_2\cdot\tan\gamma_1=c_2\cdot\cot\gamma_2
+   </p>
+   <p>
+    c_2=c_1\cdot\tan\gamma_2=c_1\cdot\cot\gamma_1
+   </p>
+   <p>
+    == Cunsidarazioni ==
+   </p>
+   <p>
+    Incù u tiurema di Pitagora hè faciuli à dimustrà ch'è a misura d'un di i cateti hè sempri più minori ch'è quidda di l'iputenusa. Tinendu prisenti ch'è tutti i lati misurani più di zeru:
+   </p>
+   <p>
+    c_1^2=i^2-c_2^2\Rightarrow c_1^2
+   </p>
+   <p>
+    à a stessa cunclusioni si ghjunghji applichendu u tiurema di i sini.
+   </p>
+   <p>
+    == Pruiizioni di i cateti ==
+   </p>
+   <p>
+    I pruiizioni di i cateti (α, β) annantu à l'iputenusa sò strittamenti liati à a lunghezza di i cateti (à, b) da i siguenti rilazioni:
+   </p>
+   <p>
+    \frac{a^2}{\alpha} = \frac{b^2}{\beta} = ia ghjustificazioni pò essa truvata in u prima tiurema d'Euclide
+   </p>
+   <p>
+    a^2 + \beta^2 = b^2 + \alpha^2
+   </p>
+   <p>
+    == Da veda dinò ==
+   </p>
+   <p>
+    Giumitria
+   </p>
+   <p>
+    Giumitria euclidea
+   </p>
+   <p>
+    Triangulu
+   </p>
+   <p>
+    Toru (giumitria)
+   </p>
+   <p>
+    Giumitria piana
+   </p>
+   <p>
+    Angulu rettu
+   </p>
+   <p>
+    Mezaretta
+   </p>
+   <p>
+    Perimetru
+   </p>
+   <p>
+    Sigmentu
+   </p>
+   <p>
+    Triangulu isusceli
+   </p>
+   <p>
+    Triangulu equilateru
+   </p>
+   <p>
+    Tiurema di Pitagora
+   </p>
+   <p>
+    Iputenusa
+   </p>
+   <p>
+    Tangenti
+   </p>
+   <p>
+    Trigunumitria
+   </p>
+   <p>
+    Uttaedru
+   </p>
+   <p>
+    Giumitria di u triangulu
+   </p>
+   <p>
+    == Noti ==
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia in talianu.
+   </p>
+  </body>
+ </text>
+</TEI>

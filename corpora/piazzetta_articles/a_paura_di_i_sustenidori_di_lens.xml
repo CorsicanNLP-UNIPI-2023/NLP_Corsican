@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A paura di i sustenidori di Lens
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-paura-di-i-sustenidori-di-Lens_a1801.html"/>
+     <date>
+      Tue, 13 May 2014 12:32:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A paura di i sustenidori di Lens
+   </head>
+   <div type="content">
+    <p>
+     Hè venneri sera in Furiani chì u club di Lens ghjoca a so stagione. Duverà andà à circacci una vittoria per fà u so ritornu in L1. 
+In faccia à ellu, u CAB, siguru di falà in National ùn hà più nunda à ghjucà, fora di fassi piacè è di stuzzicà i "sang et or". Daretu à Lens, Nancy mette a pressione per cullà. In casu di disfatta di u RCL è di vittoria di Nancy, sò st'ultimi chì collanu. 
+Tuttu ognunu s'arricorda chì l'ultime partite trà u Sporting è u Racing ùn s'eranu micca passate bè. È ùn si pò micca dì chì u presidente Gervais Martel sia tantu appreziatu in Bastia. Ùn avia fattu nunda per apacià e tensioni. 
+Hè vera chì in i media in generale, quelli di Lens sò presentati cum'è i bravi, è i Corsi cum'è i gattivi. 
+Un sundagiu nant'à u situ lensois.com mostra chì i sustenidori anu a paura di sta partita : 
+À a dumanda "dans quel état d’esprit vous vous trouvez" nanz'à a partita, rispondenu à 64% : La peur. 
+È si u CAB facia un culpacci à i nurdisti ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

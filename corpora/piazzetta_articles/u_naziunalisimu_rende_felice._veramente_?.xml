@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U naziunalisimu rende felice. Veramente ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-naziunalisimu-rende-felice-Veramente_a1233.html"/>
+     <date>
+      Thu, 22 Dec 2011 12:54:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U naziunalisimu rende felice. Veramente ?
+   </head>
+   <div type="content">
+    <p>
+     Le nationalisme rend-il heureux ? C’est la question posée par le site d’information consacré aux activités européennes Cordis. Après que des recherches aient conclu que le sentiment nationaliste peut être associé à celui de bien-être, des scientifiques ont voulu creuser la question. L’un d’eux précise que, effectivement, « être fier de son pays » apporte une « satisfaction générale de la vie ». « Les personnes exhibant un nationalisme fort » jouiraient même « d’un bien-être plus fort ».  « Avec une augmentation des partis de nationalisme extrême en Europe, les études comme celles-ci sont essentielles pour comprendre les idéologies politiques complexes et mieux définir le nationalisme idéal recherché », analyse l’article. 
+http://24ore.club-corsica.com/nationalisme-pour-etre-heureux_111543_6030.html 
+http://cordis.europa.eu/fetch?CALLER=MSS_BE_NEWS_HOME_FR&amp;ACTION=D&amp;DOC=1&amp;CAT=NEWS&amp;QUERY=01343d58b672:a21a:2788e149&amp;RCN=34132 
+(...)" D'appressu à i scentifichi « être fier de son pays » apporte une « satisfaction générale de la vie ». « Les personnes exhibant un nationalisme fort » jouiraient même « d’un bien-être plus fort »."
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

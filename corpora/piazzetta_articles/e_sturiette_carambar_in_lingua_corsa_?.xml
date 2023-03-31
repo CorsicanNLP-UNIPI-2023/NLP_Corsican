@@ -1,0 +1,70 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     E sturiette Carambar in lingua corsa ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-sturiette-Carambar-in-lingua-corsa_a1525.html"/>
+     <date>
+      Tue, 26 Mar 2013 16:54:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    E sturiette Carambar in lingua corsa ?
+   </head>
+   <div type="excerpt">
+    <p>
+     A fine di e sturiette Carambar era dunque una magagna. È s'elle eranu tradutte ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A settimana passata, fora di Jérôme Cahuzac è di u ghjudice Gentil, hè Carambar chì hà fattu u buzz. A celebre marca di carameli hà annunziatu ch'ella piantava e so sturiette è e so magagne, à prufittu d'esercizii "ludo-éducatifs". 
+L'infurmazione hè stata cummentata assai nant'à e rete suciale è ci hè ancu statu una petizione nant'à Facebook. 
+For'chè l'infurmazione era una burla... o piuttostu un colpu marketing per fà u buzz è chì hà riesciutu. Una bugia chì hà funziunatu benissimu. Ma a magagna ùn face micca ride i giurnalisti chì ci anu cridutu. 
+Cummunicazione di geniu o rubbaccia di marketing ? Ognunu si ferà a so opinione. Bon, ma cumu sarianu e sturiette Carambar s'elle eranu tradutte in corsu ? Eccune unepoche : 
+Monsieur è madama Trell anu una figliola.  risposta : Agathe. 
+Monsieur è madama Voot anu duie figliole.  risposta : Maguy è Nadia (Ma chì n'aghj'à futte). 
+Cumu si chjamanu i "sushis" in corsu ?  risposta : i "pensceri". 
+Chì hè u sport preferitu di l'insetti ?  risposta : U cricket. 
+Cumu si chjama l'ascensore in China ?  risposta : appughjendu nant'à u bòttulu. 
+Cumu si face per duppià u prezzu d'un 4x4 Lada ?  risposta : si face u pienu d'essenza. 
+Quale hè chì hà inventatu u minitel ?  risposta : Francis Quinze. 
+Chì hè un scheletru in un placard ?  risposta : un francese chì hà vintu à piattatela (cache-cache). 
+Ch'hà dettu, Opel ? (Kadett Opel).  Hè a toia, Yota ? (Toyota).  Nò hè a meia, Harry (Méhari). 
+Puru in corsu, ùn si ride sempre micca. À voi di truvanne d'altre, e peghju seranu publicate in u prùssimu nùmeru.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

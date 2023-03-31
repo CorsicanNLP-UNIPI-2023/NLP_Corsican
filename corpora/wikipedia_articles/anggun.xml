@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Anggun
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Anggun"/>
+     <date>
+      2015-07-16T12:43:28Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Anggun
+   </head>
+   <p>
+    Anggun Cipta Sasmi (Anggun) (* 29 d'aprile 1974 in Jakarta, Indunesia) hè una musicante indunesiana.
+   </p>
+   <p>
+    Anggun
+   </p>
+  </body>
+ </text>
+</TEI>

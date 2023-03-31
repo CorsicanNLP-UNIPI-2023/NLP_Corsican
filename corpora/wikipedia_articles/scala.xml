@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Scala
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Scala"/>
+     <date>
+      2013-03-08T23:53:52Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Scala
+   </head>
+   <p>
+    Una scala hè un attrazzu chì permette di move si verticalmente. Per esempiu, si pò cullà annantu à u tettu di una casa incù una scala. Una scala pò esse per esempiu di metallu o di legnu. L'urigine di a scala hè antica antica. Un dissegnu di una scala pò essa ussirvatu annantu à un cantone preistoricu di u Mesutilicu chì t'hà almenu 10000 anni, in Valencia in Spagna.
+   </p>
+   <p>
+    ==Citazione==
+   </p>
+   <p>
+    Accade chì a scala fussi mintuvata in a litteratura o a cultura corsa. Par asempiu:
+   </p>
+   <p>
+    in u pruverbiu: U celi hè fattu à scala À chì codda è à chì fala.
+   </p>
+   <p>
+    in u pruverbiu: U celi hè fattu à scala A pricantula codda, a grazia fala. (di dice cusì in Sartè) (Saravelli-Retali 1976)
+   </p>
+   <p>
+    ==Da vede dinù==
+   </p>
+   <p>
+    u scalone
+   </p>
+   <p>
+    ==Referenze==
+   </p>
+   <p>
+    Saravelli-Retali, 1976, A vita in Corsica cù i pruverbii è i detti - La vie en Corse à travers proverbes et dictons, Nice: Don Bosco
+   </p>
+  </body>
+ </text>
+</TEI>

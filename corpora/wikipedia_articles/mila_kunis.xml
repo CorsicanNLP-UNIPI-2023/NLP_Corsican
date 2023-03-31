@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mila Kunis
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Mila%20Kunis"/>
+     <date>
+      2017-07-07T02:28:07Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Mila Kunis
+   </head>
+   <p>
+    Milena Markovna Kunis (14 Aostu 1983) hè un'attrice americana.
+   </p>
+   <p>
+    Kunis, Mila
+   </p>
+  </body>
+ </text>
+</TEI>

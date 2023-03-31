@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Frank Herbert
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Frank%20Herbert"/>
+     <date>
+      2013-11-11T10:32:17Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Frank Herbert
+   </head>
+   <p>
+    Frank Patrick Herbert hè statu unu scrivanu di scienza-fizzione in lingua inglese.
+   </p>
+   <p>
+    Hè natu à Tacoma l'8 di uttobre di u 1920 è hè martu à Madison l'11 di ferraghju di u 1986.
+   </p>
+  </body>
+ </text>
+</TEI>

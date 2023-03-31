@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ùn ci tumberanu MAI !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-ci-tumberanu-MAI-_a1087.html"/>
+     <date>
+      Mon, 25 Apr 2011 00:17:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ùn ci tumberanu MAI !
+   </head>
+   <div type="excerpt">
+    <p>
+     Thiriez pò fà u musu, u Sporting hè di ritornu...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     9 mesi fà, u Sporting era vicinissimu di a morte, mandatu in quarta divisione da a DNCG. I dirigenti di u futbol francese eranu troppu cuntenti di sbarazzassi di stu club chì ùn hè mai statu cum'è l'altri. 
+Venneri sera nant'à a u terrenu di u stadiu Eugène Pourcin di Fréjus, ghjucadori è dirigenti anu dettu addiu à u National davant'à 500 (!) furiosi. Ma più ch'è a ricullata in Lega 2, hè a rinascita di u club chì hè stata festighjata. Perchè chì sì Bastia ùn ritruvava a L2 quist'annu, era a morte assigurata... 
+Cum'è sempre in Corsica, hè quand'ellu tuttu và male ch'elli si pruducenu i miràculi. Dirigenti, intrenore, ghjucadori è sustenidori anu sappiutu fà l'unione è tirà tutti in u listessu sensu per chì u Sporting ùn morga micca. 
+Dopu à un spiazzamentu caòticu pè piglià un caffè nant'à u portu di Nizza, l'accaniti turchini anu infine pussutu fà a festa (per una volta). 
+È trippa pè Thiriez, u Sporting hè di ritornu !
+    </p>
+    <p>
+     BASTIA RETROUVE LA LIGUE 2 !! par SportingClubBastia  Da vede e videò nant'à u situ ufficiale.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

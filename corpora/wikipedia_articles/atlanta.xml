@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Atlanta
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Atlanta"/>
+     <date>
+      2019-01-02T03:01:15Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Atlanta
+   </head>
+   <p>
+    Atlanta hè a capitale è a cità più grande di a Georgia in i Stati Uniti d'America.
+   </p>
+   <p>
+    Tene 519.145 abitanti.
+   </p>
+   <p>
+    ==Ecunumia==
+   </p>
+   <p>
+    Hè cunnisciuta per esse a sede di a Coca-Cola è di a CNN.
+   </p>
+   <p>
+    ==Trasporti==
+   </p>
+   <p>
+    L'aeroportu di a cità, u Hartsfield-Jackson Atlanta International Airport, hè statu in u 2005, u 2006 è in u 2011 u più chì hà avutu trafficu in u mondu pè numaru di passaghjeri.
+   </p>
+   <p>
+    Stati Uniti d'America
+   </p>
+  </body>
+ </text>
+</TEI>

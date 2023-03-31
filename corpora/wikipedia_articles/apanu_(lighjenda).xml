@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Apanu (lighjenda)
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Apanu%20%28lighjenda%29"/>
+     <date>
+      2018-03-02T04:10:01Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Apanu (lighjenda)
+   </head>
+   <p>
+    Apanu ghjè una divinità corso-etrusca di l'amore è di l'oltretomba.
+   </p>
+   <p>
+    A parulla "alpan" ind'a mistiriosa lingua etrusca vole dì "donu".
+   </p>
+  </body>
+ </text>
+</TEI>

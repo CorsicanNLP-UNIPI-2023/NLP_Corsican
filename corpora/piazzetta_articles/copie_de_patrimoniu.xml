@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Copie de Patrimoniu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Copie-de-Patrimoniu_a2626.html"/>
+     <date>
+      Sun, 27 Aug 2017 17:46:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Copie de Patrimoniu
+   </head>
+   <div type="excerpt">
+    <p>
+     Durante anni è anni, si pensava chì a Corsica ùn avia nè storia, nè patrimoniu. U so passatu ùn avia nisun interessu, i so abitanti nisun sapè fà. Un populu di pastori è di paisani fora di a Storia. Ci n'hè vulsutu tempu per cambià e mentalità. Pianu pianu i Corsi principianu à piglià cuscenza di l'impurtanza è a ricchezza di u so patrimoniu corsu. Ma ferma tantu à fà. Sopr'à tuttu, ùn pensate micca ch'è no ci semu ghjunti.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     fffffffffffff
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

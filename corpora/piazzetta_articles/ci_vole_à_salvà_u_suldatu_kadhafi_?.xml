@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ci vole à salvà u suldatu Kadhafi ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ci-vole-a-salva-u-suldatu-Kadhafi_a1036.html"/>
+     <date>
+      Wed, 23 Feb 2011 23:56:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ci vole à salvà u suldatu Kadhafi ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Cunniscite a legenda, si dice chì u babbu di Muammar Kadhafi saria statu corsu, u capitanu Albert Preziosi. È si u generale libbianu dumandava aiutu à a Corsica ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     N'aviamu digià parlatu qualchì annu fà è u situ Bakchich  avia fattu a so inchiesta. Ma almenu d'un test ADN ùn ne saperemu micca di più. 
+Cun l'attualità di st'ultimi ghjorni, volta u puttachju. È s'ellu casca u Guida di a Rivuluzione, pudemu esse siguri chì Kadhafi serà più corsu ch'è i Corsi. Un situ algerianu parla digià di : Ce bâtard corse qui se prend pour un arabe. 
+Ci sò quantunque parechji infezi chì ci facenu pensà ch'ellu hè di sterpa corsa :  - face crede chì a demucrazia esiste, ma stà à u putere  - dopu à quarant'anni, ùn vole sempre micca cappià u putere  - ùn si vole micca rende, allora chì pocu à pocu u cappianu tutti  - hà trovu una piazza per i so ottu figlioli  : à chì à l'armata, à chì hè duttore... hà ancu pistunatu u so figliolu Saadi per ch'ellu sia futbalore in Italia, in u club di Perugia. In più di quessa, Saadi piglia à fucilate i so avversarii è ancu l'arbitru...  - li piace à fà u maccu cù e donne, ùn ci hè ch'è da vede e so amazone, a so armata di fèmine... 
+Bon, ma s'ellu dumanda aiutu o esiliu à a Corsica, cumu femu ? On a tous hebergé Muammar ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

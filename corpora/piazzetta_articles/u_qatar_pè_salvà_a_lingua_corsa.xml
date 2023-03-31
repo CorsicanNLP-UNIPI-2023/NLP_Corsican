@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U Qatar pè salvà a lingua corsa
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-Qatar-pe-salva-a-lingua-corsa_a1422.html"/>
+     <date>
+      Sun, 14 Oct 2012 16:59:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U Qatar pè salvà a lingua corsa
+   </head>
+   <div type="excerpt">
+    <p>
+     A catena beIN Sport, di u gruppu qatari Al-Jazeera, hà annunziatu ch'ella ritrasmetterà u derby ACA-SCB in lingua corsa.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     È si i soldi di i petrodòllari di u Qatar aiutavanu u sviluppu di a lingua corsa ? L'annunziu hè statu fattu da Charles Biétry, patrone di beIN Sport. U derby corsu serà ritrasmessu in lingua corsa nant'à unu di i canali di a catena (da leghje in Corse-Matin). 
+Per avà, ùn si sà quale averà da cummentà a partita. 
+In a storia di i media in Corsica, serà a prima volta ch'una partita di ballò serà cummentata in corsu. Nisun media, pùblicu o privatu, tv o radio, ùn l'avia fatta nanzu. A sola sperienza di cummenti in corsu hè stata pè a ritrasmissione d'una partita di a Squadra Corsa diffusata in streaming nant'à u net. 
+Seremu cusì incapaci per ùn avè riesciutu à falla nanzu, da per noi ? 
+Sì a lingua corsa si salva grazia à una televisione finanzata da un paese arabu, introdutta in Francia da Frédéric Thiriez, hè veramente chì a fine di u mondu s'avvicina...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Jonny Buckland
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Jonny%20Buckland"/>
+     <date>
+      2014-03-23T14:28:46Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Jonny Buckland
+   </head>
+   <p>
+    Jonny Buckland hè u lead-chitarrista di Coldplay.
+   </p>
+   <p>
+    Buckland, Jonny
+   </p>
+   <p>
+    Buckland,Jonny
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Una doppia pagina di viulenza
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Una-doppia-pagina-di-viulenza_a1887.html"/>
+     <date>
+      Tue, 17 Jun 2014 00:56:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Una doppia pagina di viulenza
+   </head>
+   <div type="content">
+    <p>
+     Certe volte, a lettura di Corse-Matin pò davvi u trimuleghju. Ùn hè ancu Halloween, ma stu luni nant'à duie pagine si pudianu vede Nicolas Alfonsi, Alex-Alex è Jean-Jacques Panunzi. 
+Tutt'è trè à tempu, face quantunque assai. Ancu di grazia ch'ellu ùn era micca u ghjornu di surtita per i nostri vechji di "l'association Franskeurse" è chì u cummunicatu di Jean-Jean ùn hè micca passatu. 
+Una doppia pagina d'odiu è di viulenza. À mezu à quessi, a puppatula di Chucky, a creatura di Les Contes de la Crypte è Jason di Vendredi 13 passanu per ghjente di bona cumpagnia. 
+Ci sò certi ghjorni cusì...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

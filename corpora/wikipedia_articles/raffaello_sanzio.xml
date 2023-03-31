@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Raffaello Sanzio
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Raffaello%20Sanzio"/>
+     <date>
+      2018-10-30T16:24:40Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Raffaello Sanzio
+   </head>
+   <p>
+    Raffaello Sanzio, megliu cunnisciutu cume Raffaello, hè natu à Urbino u 6 d'aprile di u 1483 è hè mortu à Roma u 6 d'aprile di u 1520.
+   </p>
+   <p>
+    Hè statu architettu è pittore è hè cunsideratu cume unu di i più grandi artisti di a storia.
+   </p>
+   <p>
+    Architettu
+   </p>
+   <p>
+    Pittori
+   </p>
+  </body>
+ </text>
+</TEI>

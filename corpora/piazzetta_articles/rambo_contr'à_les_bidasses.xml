@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Rambo contr'à Les Bidasses
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Rambo-contr-a-Les-Bidasses_a1368.html"/>
+     <date>
+      Wed, 13 Jun 2012 15:06:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Rambo contr'à Les Bidasses
+   </head>
+   <div type="excerpt">
+    <p>
+     Cunnisciamu u filmu "Alien vs. Predator". Ind'è noi, avemu "Rambo vs. Les Bidasses".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Certi ghjorni, a lettura di Corse-Matin vale tutti i blockbusters di Hollywwood. L'articulu di l'annu si pò leghje in l'edizione di u 13/6 : Trois ans de prison pour le "Rambo" qui a braqué 23 bidasses en goguette, un capu d'opera. 
+A storia si passa in Sulinzara. Un omu originariu di Marseglia ùn ci la face à dorme per via di u tazzu fattu in a casa à cantu da un gruppu di suldati tutte e notti. Alcool, mughji, musica à tappu : 
+« Avec l'arrivée des militaires, c'était le bordel depuis quinze jours, ils faisaient tous les soirs la fête avec de l'alcool, de la musique à fond ; il y en avait même qui se baladaient à poil ». 
+Allora, dopu à parechje notte bianche, l'omu decide di passà à l'azzione. « Ce soir, c'est moi qui fous le bordel ! », ma cù una vera operazione commandò 
+À 2h50, spunta cù u so fucile ind'è i militari. Durante 3 ore, l'omu di 48 anni, solu solu, terrorizeghja u gruppu di 23 militari. U contu resu di u prucessu hè degnu di La Grande Vadrouille : « Vous les avez réveillés avec une arme, giflés, puis menacés pour ne pas qu'ils portent plainte... Un raconte avoir eu le canon sous le cou en guise de réveil. » 
+U Rambo di Sulinzara hè dinù un malignone : Tous affirment que le braqueur a hurlé que des hommes étaient postés à l'extérieur armés de AK-47, en cas de rébellion. 
+Nanzu di parte, si face rimette 50 € à chjocca. « Un militaire tenait le fusil pendant que je comptais les billets ». 
+Trè anni di prigiò per quessa, hè forse appena dura. Ma l'armata francese pò inchietassi pè u livellu di e so truppe...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

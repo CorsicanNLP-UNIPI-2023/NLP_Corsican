@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     In tantu, in Corti si face u ski
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/In-tantu-in-Corti-si-face-u-ski_a2509.html"/>
+     <date>
+      Tue, 17 Jan 2017 12:42:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    In tantu, in Corti si face u ski
+   </head>
+   <div type="excerpt">
+    <p>
+     Aspettandu ch'elli si calmi u nivaghjone, ci n'hè chì fanu u ski in Corti, piazza Paoli...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     In u paese di l'orsu, a Sculiscia ùn hà mai purtatu cusì bè u so nome. Certi anu surtitu ski è sculiscelle (e "luges" !) è avà da Piazza Paoli à l'Oriente a pista hè aperta. 
+Filmettu nant'à a pagina Facebook di Julien Desjobert
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

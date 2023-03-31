@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Rouen
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Rouen"/>
+     <date>
+      2014-03-23T14:54:47Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Rouen
+   </head>
+   <p>
+    Rouen hè a capitale di l'Alta Nurmandia. A so pupulazione è di circa 100000 abitanti.
+   </p>
+   <p>
+    == Musei ==
+   </p>
+   <p>
+    U Musée des beaux-arts é u museu d'arte di a citá
+   </p>
+   <p>
+    U Museu maritimu fiumarecciu è portuariu di Rouen hé un museu annantu à a storia di u portu è a navigazione maritima.
+   </p>
+   <p>
+    Cità di a Francia
+   </p>
+  </body>
+ </text>
+</TEI>

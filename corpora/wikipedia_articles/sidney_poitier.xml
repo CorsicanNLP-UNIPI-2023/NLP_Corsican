@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sidney Poitier
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Sidney%20Poitier"/>
+     <date>
+      2016-09-22T16:27:20Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sidney Poitier
+   </head>
+   <p>
+    Sidney Poitier (Miami - Florida, 20 Ferraghju 1927) hè un attore americanu.
+   </p>
+   <p>
+    Poitier, Sidney
+   </p>
+  </body>
+ </text>
+</TEI>

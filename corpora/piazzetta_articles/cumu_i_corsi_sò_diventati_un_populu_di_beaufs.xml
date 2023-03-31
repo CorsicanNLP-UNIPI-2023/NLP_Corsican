@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cumu i Corsi sò diventati un populu di beaufs
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cumu-i-Corsi-so-diventati-un-populu-di-beaufs_a1331.html"/>
+     <date>
+      Mon, 23 Apr 2012 02:10:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cumu i Corsi sò diventati un populu di beaufs
+   </head>
+   <div type="excerpt">
+    <p>
+     Cunsumazione, TF1 è Sarkozy à buzeffu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A fiura di u "beauf" hè natu in l'anni 80. Cabu l'hà fattu in dissegnu, Renaud l'hà cantatu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

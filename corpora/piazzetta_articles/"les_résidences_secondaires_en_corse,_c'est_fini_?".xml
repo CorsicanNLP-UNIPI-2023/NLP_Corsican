@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     "Les résidences secondaires en Corse, c'est fini ?"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Les-residences-secondaires-en-Corse-c-est-fini_a1750.html"/>
+     <date>
+      Fri, 25 Apr 2014 09:54:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    "Les résidences secondaires en Corse, c'est fini ?"
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè statu aduttatu u raportu nant'à a prutezzione di u patrimoniu cù u statutu di residente. Principia u più duru...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     "Les résidences secondaires en Corse, c'est fini ?" 
+Hè u bellu titulu d'un articulu nant'à LePoint.fr 
+Les Echos s'inchietanu elli scrivenu : "Les amoureux de l’île de Beauté souhaitant y acheter une résidence secondaire risquent de déchanter." 
+Ma ch'elli ùn s'inchietenu. Di siguru, ùn serà micca cusì semplice, ci sò i nostri amichi di u Conseil Constitutionnel chì ùn seranu micca cuntenti, una magiurità da circà per scambià a custituzione à u parlamentu ecc... In quant'à Barbier, duveria sorte qualcosa da quì à pocu. 
+I giacubbisti, a manca prugressista è i naziunalisti (chì vulianu stende a residenza à dece anni) anu vutatu di sì. Benedetti spiegava l'aspettu generosu di sta pruposta, fendu un paragone cù l'edittu di Caracalla. Vincent Carlotti ellu nant'à u so blog hè dubbitosu in quant'à a realizazione di ste misure 
+A diritta ella ùn ne vole sente parlà, troppu inchieta per l'ecunumia è u BTP. Quattru eletti ùn anu micca participatu à u votu : Sindali, Suzzoni è Natali. Anu spiegatu perchè : sò contr'à u statutu di residente, ma vulianu marcà a so pusizione contr'à a speculazione immubiliare. Tatti non più ùn hà participatu. 
+Ma digià chì una magiurità d'eletti à l'assemblea di Corsica dica chì un'ecunumia fatta nant'à e residenze segundarie hè dannifica per u so populu è ch'ellu ci vole à truvà d'altri mezi di sviluppu hè digià un prugressu. 
+Rammintemu chì circa 40% di l'alloghji in Corsica sò case segundarie...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

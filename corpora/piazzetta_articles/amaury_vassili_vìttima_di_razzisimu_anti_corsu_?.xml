@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Amaury Vassili vìttima di razzisimu anti corsu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Amaury-Vassili-vittima-di-razzisimu-anti-corsu_a1100.html"/>
+     <date>
+      Thu, 19 May 2011 00:48:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Amaury Vassili vìttima di razzisimu anti corsu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Avà ch'ellu hà persu, Amaury Vassili hè diventatu corsu...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     "Le corse Amaury Vassili"... eccu u titulu ch'ellu si pò vede in parechji media francesi dopu à a so disfatta à l'Eurovision. 
+Hè cusì chì certi vedenu a "communauté de destin". In generale sò cunsiderati cum'è corsi ch'è i scrucconi, i maffiosi, è dunque quelli chì perdenu l'Eurovision. 
+Ma Amaury hà a so spiegazione à u so fiascu. « Quinzième, c'est un résultat de merde » hà dettu u tenor dopu à l'emissione. 
+Era diventatu « l'homme à abattre » (lògica per un Corsu). « La chanson de l'Azerbaïdjan est mièvre. Je n'ai pas cru une seule seconde au côté, duo, couple. Je trouve qu'il ne faut vraiment pas avoir de couilles pour chanter en anglais comme ça et ne pas utiliser la langue de son pays ou d'une région comme moi avec le Corse. » 
+Peghju, s'ellu hà persu, hè colpa à a ghjuria francese : « Les autres jurys en ont clairement tenu compte. Pas ce pauvre con de jury français qui a offert 12 points à la Suède, pendant qu'elle ne nous donnait que deux points. Je suis vraiment déçu par le jury français ». 
+Sta volta, ùn li pudemu dà tortu. 
+Iè o Amaury, hè veramente difficiule d'esse corsu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A vostra fine di u mondu preferita
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-vostra-fine-di-u-mondu-preferita_a1214.html"/>
+     <date>
+      Wed, 16 Nov 2011 18:33:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A vostra fine di u mondu preferita
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè detta dapoi i Mayà chì 2012 saria l'annata di a fine di u mondu. Ma trà a crisa economica, e catastrofe eculògiche, e splusione di centrale atòmiche, i tsunamì, u terrurìsimu, l'epidemie... qualessa hè a vostra fine di u mondu preferita ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A fine di u mondu hè prevista pè 2012, avà ch'è no a sapemu tutti và megliu. Ci ferma circa un annu pè prufittà torna appena nanz'à l'apucalisse. À tal puntu chì u situ d'infurmazioni Slate ci prupone una kit de survie da cumprà pè circà di sopravive dop'à u cataclisimu, si u pane vi piace.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

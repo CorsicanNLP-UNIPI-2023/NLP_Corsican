@@ -1,0 +1,69 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bastia hè (infine) passata à u bislinguisimu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Bastia-he-infine-passata-a-u-bislinguisimu_a1931.html"/>
+     <date>
+      Mon, 01 Sep 2014 22:26:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Bastia hè (infine) passata à u bislinguisimu
+   </head>
+   <div type="excerpt">
+    <p>
+     A merria di Bastia ùn nega più l'esistenza di a lingua corsa, era ora. I pannelli diventanu bislingui... è i magagnoni si n'occupanu digià. À manca, u veru. À diritta, u muntagiu. Qualessu preferite ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     30 agostu : Gilles Simeoni annunzia nant'à a so pagina Facebook i panelli bislingui.
+    </p>
+    <p>
+     (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/fr_FR/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); Publication by Gilles Simeoni.
+    </p>
+    <p>
+     Pocu tempu dopu, u significatu di u pannellu era appena cambiatu nant'à e rete suciali.
+    </p>
+    <p>
+     (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/fr_FR/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); Publication by Dumè Fumaroli.
+    </p>
+    <p>
+     Allora, qualessu vi piace u più ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

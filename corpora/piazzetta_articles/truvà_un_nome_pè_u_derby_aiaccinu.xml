@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Truvà un nome pè u derby aiaccinu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Truva-un-nome-pe-u-derby-aiaccinu_a1789.html"/>
+     <date>
+      Sun, 11 May 2014 12:00:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Truvà un nome pè u derby aiaccinu
+   </head>
+   <div type="excerpt">
+    <p>
+     U GFCA ùn hè veramente micca un club normale. Tazzatu decine di volte da a FFF, a LFP o a DNCG, u club rossu è turchinu hè di ritornu è ci prumette un bellu derby aiaccinu quist'annu chì vene. Ma cumu chjamallu ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     I dirigenti di u futbol francese pensavanu sbarazzassine, ma u club di u presidente Fanfan Tagliaglioli ùn more mai. 
+Malgradu a so disfatta in Amiens (4 à 2), l'Aiaccini sò siguri di turnà in L2 per via di i risultati di l'altri clubs, allora ch'elle fermanu torna duie ghjurnate. Matematicamente, ùn pò più esse raghjuntu. 
+Ci serà dunque per a prima volta un derby aiaccinu in un campiunatu prufessiunale, postu chì l'ACA ùn hà pussutu mantenesi in L1. Allora chì Parigi ùn ci la face à avè dui clubs prufessiunali (malgradu e tentative di u Racing, di u Red Star, di u PFC, di Saint-Denis-Saint-Leu à un'epica...), a Corsica n'averà quattru (postu chì u CAB duveria tene u so statutu prufessiunale in National). 
+Sapemu digià chì i nostri amichi giurnalisti cuntinentali chì ci tenenu tantu anu da truvà un nome bellu goffu. Hè a moda, ci hè u "classico" (prununzià "classicaux"), "l'olympico", "l'atlantico"... Più hè goffu, megliu hè. 
+Rammintatevi ch'è no aviamu previstu l'orribile "corsico "... 
+Allora, anticipemu. In u 2012 aviamu prupostu u bonapartico è u ococo. Ma forse u chjameranu marcangelico  ? U pumontico ? U suttanaccico ? 
+Nant'à a nostra pagina Facebook i nostri lettori anu prupostu l'imperialico, u montasegaccio, o ancu tocdematchico. 
+Site prevenuti, un nome bellu goffu serà trovu. Più semplice, un altru lettore prupone L'Aiaccinu. Bon, hè forse u megliu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

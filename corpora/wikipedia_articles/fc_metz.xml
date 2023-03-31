@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     FC Metz
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/FC%20Metz"/>
+     <date>
+      2018-07-31T02:32:31Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    FC Metz
+   </head>
+   <p>
+    U Football Club de Metz (Francia) hè un club di pallò. Hè statu fundatu in u 1919.
+   </p>
+   <p>
+    == Liami ==
+   </p>
+   <p>
+    Situ ufficiale
+   </p>
+   <p>
+    Pallò
+   </p>
+  </body>
+ </text>
+</TEI>

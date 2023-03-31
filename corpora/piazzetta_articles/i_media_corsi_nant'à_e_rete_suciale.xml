@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I media corsi nant'à e rete suciale
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-media-corsi-nant-a-e-rete-suciale_a1522.html"/>
+     <date>
+      Sat, 23 Mar 2013 16:00:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I media corsi nant'à e rete suciale
+   </head>
+   <div type="excerpt">
+    <p>
+     Chì sò i media corsi i più presenti nant'à Facebook è Twitter ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Qualchì settimana fà, France 3 cunsacrava un'emissione à e rete suciale ma si sbaglia in i so sciffri. 
+Avemu dunque turnatu à fà i conti di l'abbunati d'ognunu pè e pagine Facebook è i conti Twitter, eccu i risultati. 
+In fine di contu, u media corsu chì arregistreghja a più forte audienza nant'à e rete suciale hè u situ... Corsica Infurmazione chì cunnosce un grande successu nant'à Facebook. 
+Corse-Matin hè primu nant'à Twitter ma hà pocu fans nant'à Facebook. 
+Finalmente, A Piazzetta si porta abbastanza bè nant'à Facebook (terzu daretu à Corsica Infurmazione è Alta Frequenza) è nant'à Twitter (terzu daretu à Corse-Matin è Via Stella). 
+Alta Frequenza marchja forte nant'à Facebook. 
+Corse Net Infos hè di più in più seguitatu è reattivu nant'à u net, hè in traccia di diventà una riferenza pè l'attualità. 
+France 3 Corse hè assai presente nant'à Twitter. RCFM s'hè infine lanciatu è hè di più in più reattivu à l'attualità, ma hà pigliatu u ritardu nant'à l'altri. 
+D'altri media cunnoscenu un bellu successu cum'è Corse Sports (più di 6000 fans nant'à Facebook). U Journal de la Corse è u mensile Corsica ùn anu micca conti nant'à e rete suciale. 
+Eccu u ritrattu di a situazione à u 23 marzu 2013. Ma cum'è sempre, a verità d'un ghjornu ùn serà micca quella di dumane, talmente e cose vanu in furia in u duminiu d'internet.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Beauty and the Beast
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Beauty%20and%20the%20Beast"/>
+     <date>
+      2018-02-13T03:04:16Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Beauty and the Beast
+   </head>
+   <p>
+    Beauty and the Beast (in corsu: "A Bella è a Bestia"; tìtulu francese: La Belle et la Bête) hè un filmu d'animazione musicale di fantasia rumantica americanu di l'annu 1991 prudottu da Walt Disney Feature Animation è publicatu da Walt Disney Pictures.
+   </p>
+   <p>
+    Filmu di l'annu 1991
+   </p>
+   <p>
+    Filmu d'animazione
+   </p>
+   <p>
+    Filmu americanu
+   </p>
+   <p>
+    Drama (Filmu)
+   </p>
+  </body>
+ </text>
+</TEI>

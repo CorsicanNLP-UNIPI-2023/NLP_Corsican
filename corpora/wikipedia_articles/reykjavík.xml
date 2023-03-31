@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Reykjavík
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Reykjav%C3%ADk"/>
+     <date>
+      2019-02-01T18:50:38Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Reykjavík
+   </head>
+   <p>
+    Reykjavík hè a capitale di l'Islanda è dinù a cità più grande.
+   </p>
+   <p>
+    Tene 118.861 abitanti (2008).
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Sigur Rós
+   </p>
+   <p>
+    Europa
+   </p>
+  </body>
+ </text>
+</TEI>

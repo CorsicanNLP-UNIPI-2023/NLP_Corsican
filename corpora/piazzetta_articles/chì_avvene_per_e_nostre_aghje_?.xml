@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chì avvene per e nostre aghje ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Chi-avvene-per-e-nostre-aghje_a2253.html"/>
+     <date>
+      Mon, 14 Sep 2015 16:24:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chì avvene per e nostre aghje ?
+   </head>
+   <div type="excerpt">
+    <p>
+     E muntagne ùn s'anu micca da lascià ghjucà à a risa da e cale di rena fina bagnate d'acque turchine : si pò dinù à mezu à e machje zeppe accuncià picculi lochi lussuosi, nòbili, ùnichi, privativi è 100 % corsi.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Di fatti, e muntagne ridòndanu d'aghje magnìfiche, basta à trasfurmà sti lochi di stanti in tempii di u massaghju nustrale è di a palpera isulana à l'oliu essenziale di murza. 
+Fidighjemule bè quell'aghje, sò màgiche ! 
+I baroni formanu chjerchji perfetti da fà passà Stonehenge pè un lucacciu senza anima, ci hè sempre un ventulellu fullettu chì spula un granu invisìbile ma carcu di vibrazione tràpositive, in l'aria, frà e rambelle muscante, si facenu sente i canti di e tribbiere antiche, isse voce chì incuragìanu omi è boi « volt'è gira è voca tondu chì u tribbiu piglia fondu» è chì dumane, s'è noi a vulemu, permetteranu à centinaie di turisti di ripiglià fiatu è di rinvivisce in un spaziu trà celu è terra. 
+Da chì stu sonniu diventessi realità, basta à traccià viòttuli novi in la natura (u parlemu micca di GR à l'usu di i pumataghji sbaiuccati), à dirascà appinuccia, à arrulà qualchì massaghjatore... 
+O zitè, avemu da fà di l'aghje antiche i spà di u futuru è avemu da magnetizà tutti i ricconi è i pippoli di u mondu.  U core di a Corsica rurale hà da batte di novu à u ritimu di u calpighjime di i boi. 
+O guasi.
+    </p>
+    <p>
+     Aghja in Turghju, ritrattu : www.paese-di-marignana.fr
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

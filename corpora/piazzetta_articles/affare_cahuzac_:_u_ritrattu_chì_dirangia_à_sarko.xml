@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Affare Cahuzac : u ritrattu chì dirangia à Sarko
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Affare-Cahuzac-u-ritrattu-chi-dirangia-a-Sarko_a1530.html"/>
+     <date>
+      Wed, 03 Apr 2013 16:40:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Affare Cahuzac : u ritrattu chì dirangia à Sarko
+   </head>
+   <div type="excerpt">
+    <p>
+     In pienu rimusciu di l'affare Cahuzac, dopu à a so messa in esame da u ghjudice Gentil, eccu torna un casticu pè Sarkozy.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Orìgine di u ritrattu : situ officiale di u SCB
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

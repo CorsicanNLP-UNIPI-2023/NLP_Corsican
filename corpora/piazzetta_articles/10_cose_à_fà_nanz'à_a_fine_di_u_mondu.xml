@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     10 cose à fà nanz'à a fine di u mondu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/10-cose-a-fa-nanz-a-a-fine-di-u-mondu_a1469.html"/>
+     <date>
+      Tue, 18 Dec 2012 16:07:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       10-RAGIONI-DI
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    10 cose à fà nanz'à a fine di u mondu
+   </head>
+   <div type="excerpt">
+    <p>
+     Ci hè megliu chè d'andà in Bugarach cun l'altri tonti.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Una pulendata cun Christophe Barbier. Per u piacè di u brocciu è di u figatellu cù a pulenda pigliendu à Barbier à colpi di pulendaghju. 
+Una scimia cù Hubert Tempête fidighjendu l'epupea di Bastia in 78. Cunniscite a so pizzeria in Bastia, è a videò di l'epupea fatta da Michel Moretti si trova nant'à internet. O allora pudete dinù passavvi Torino - Bastia tutta a ghjurnata di u 21 dicembre, mughjendu à ogni volta chì Krimau marca. 
+Spende tutti i vostri soldi in cunnerie. Ma quessa in generale tuttu ognunu si sbroglia abbastanza bè per falla. 
+Sciaccà una capata à Frédéric Thiriez. Quantu ci n'hè chì anu stu sognu in Corsica ? 
+Vince un'elezzione. Quantu site, lettori di A Piazzetta, à ùn avè mai vintu un elezzione ? 
+Fà l'amore. 47% di l'omi è 25% di e donne anu dettu chì fà l'amore saria a so ultima scelta nanz'à a fine di u mondu. L'altri, sò bugiardi. 
+Vince a so piazza pè u paradisu. Ma bon, hè appena troppu tardi per pensacci... 
+Fà a rivincita di Ponte Novu. Ma sta volta dinù, ùn simu micca siguri di vince. 
+Vede una ultima partita in Furiani. Ma quessa, Thiriez ùn vole micca. 
+Fidighjà "Questions pour un champion" è aspettà. Di tutte e manere, chì vulete fà d'altru ? 
+È voi, chì fariate ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

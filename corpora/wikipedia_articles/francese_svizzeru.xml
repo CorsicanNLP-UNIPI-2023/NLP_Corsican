@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Francese svizzeru
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Francese%20svizzeru"/>
+     <date>
+      2014-03-23T14:20:28Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Francese svizzeru
+   </head>
+   <p>
+    U francese svizzeru o francese sguizzeru (français suisse, français de Suisse) hè a variante di a lingua francese chì hè parlata in a Svizzera.
+   </p>
+   <p>
+    Svizzeru
+   </p>
+  </body>
+ </text>
+</TEI>

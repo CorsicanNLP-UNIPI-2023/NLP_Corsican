@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     À a FFF, a festa cuntinuveghja u 5 di maghju
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-a-FFF-a-festa-cuntinuveghja-u-5-di-maghju_a1031.html"/>
+     <date>
+      Tue, 15 Feb 2011 22:16:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    À a FFF, a festa cuntinuveghja u 5 di maghju
+   </head>
+   <div type="excerpt">
+    <p>
+     A Federazione Francese di Futbol hà prugrammatu a finale di a cuppa di Francia 2012 un cinque di maghju. Vi stona ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     I dirigenti di u futbol francese in più d'esse incumpetenti (ùn ci hè ch'è da vede u fiascu di Knysna è a qualità di a L1) ùn tenenu micca e so prumesse. 
+Digià annu passatu hè un 5 di maghju chì l'OM hà festighjatu u so titulu. 
+Quist'annu, s'ampara chì a FFF hà prugrammatu a finale di a cuppa di Francia 2012 un 5 di maghju. 
+Davant'à e pruteste, a Federazione Francese di u Fiascu hà reagitu è cummunicatu chì stu calindariu ùn era micca definitivu. 
+Ma francamente, cunniscendu l'amore chì i dirigenti di u ballò anu pè a Corsica, à quale stunerà ? Cum'è s'è no ùn a sapiamu chì per elli ùn semu nunda...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,342 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Triangulu isusceli
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Triangulu%20isusceli"/>
+     <date>
+      2015-07-09T08:21:00Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Triangulu isusceli
+   </head>
+   <p>
+    Hè difinitu com'è triangulu isusceli un triangulu chì pussedi almenu dui lati uguali è chì pussedi almenu dui anguli uguali. Infatti vali u siguenti tiurema: un triangulu hà dui lati uguali solu s'è hà dui anguli uguali è viciversa.
+   </p>
+   <p>
+    Stu tiurema custituisci a quinta prupusizioni di u Libru I di l'Elementi di Euclide è hè cunnisciutu com'è Pons asinorum, u "ponti di l'asini".
+   </p>
+   <p>
+    Particulari trianguli isusceli sò i trianguli equilateri è i trianguli rittanguli isusceli.
+   </p>
+   <p>
+    Esistini ancu trianguli isusceli acutanguli è ottusanguli.
+   </p>
+   <p>
+    I trianguli isusceli rittanguli sò tutti simili trà eddi, com'è i trianguli equilateri.
+   </p>
+   <p>
+    == Simitrii ==
+   </p>
+   <p>
+    Un triangulu isusceli chì ùn hè micca equilateru hè invarianti solu par a riflissioni rispettu à a bisettrici di l'angulu diffarenti da i dui rimanenti. U so gruppu di simitria, in più di à a trasfurmazioni idantità, cumprendi solu quista riflissioni è dunqua hè isumorfu à u gruppu di dui elementi, vali à dì à u gruppu multiplicativu nantu à l'insemu {1, −1}.
+   </p>
+   <p>
+    == Trianguli isusceli in giumitria analitica ==
+   </p>
+   <p>
+    Tiurema 1: Cundizioni nicissaria è sufficienti affinch'è un triangulu incù a basa parallela à l'assi sii isusceli hè ch'eddu agvissi i dui lati di cuefficienti angulari oppostu.
+   </p>
+   <p>
+    Dimustrazioni.
+   </p>
+   <p>
+    Dati i trè retti
+   </p>
+   <p>
+    y = k
+   </p>
+   <p>
+    y = mx
+   </p>
+   <p>
+    y = -mx
+   </p>
+   <p>
+    si ni calculeghja l'intersizzioni.
+   </p>
+   <p>
+    \left\{\begin{array}{rl}&amp;y = k\\&amp;y = mx\end{array}\right.
+   </p>
+   <p>
+    \left\{\begin{array}{rl}&amp;x = \frac{k}{m}\\&amp;y = m\end{array}\right.
+   </p>
+   <p>
+    A \left(\frac{k}{m}, m\right)
+   </p>
+   <p>
+    \left\{\begin{array}{rl}&amp;y = k\\&amp;y = -mx\end{array}\right.
+   </p>
+   <p>
+    \left\{\begin{array}{rl}&amp;x = -\frac{k}{m}\\&amp;y = m\end{array}\right.
+   </p>
+   <p>
+    B \left(-\frac{k}{m}, m\right)
+   </p>
+   <p>
+    \left\{\begin{array}{rl}&amp;y = mx\\&amp;y = -mx\end{array}\right.
+   </p>
+   <p>
+    \left\{\begin{array}{rl}&amp;x = 0\\&amp;y = 0\end{array}\right.
+   </p>
+   <p>
+    {\rm C}(0, 0)
+   </p>
+   <p>
+    Tandu si calculeghja a distanza di i sigmenti AC è BC.
+   </p>
+   <p>
+    AC = \sqrt{\left(\frac{k}{m}\right)^{2} + k^{2}}
+   </p>
+   <p>
+    BC = \sqrt {\left(-\frac{k}{m}\right)^{2} + k^{2}}
+   </p>
+   <p>
+    Dunqua u triangulu hè isusceli nantu à a basa AB.
+   </p>
+   <p>
+    Di manera analuga si dimostra u casu di a basa parallela à l'assi y.
+   </p>
+   <p>
+    Viciversa si custruisci un triangulu isusceli incù a basa parallela à l'assi di l'ascissi.
+   </p>
+   <p>
+    Dati i dui punti:
+   </p>
+   <p>
+    {\rm A} (x_1, k)
+   </p>
+   <p>
+    {\rm B} (x_2, k)
+   </p>
+   <p>
+    apposta ch'è u vertici d'un triangulu isusceli ghjaci nantu à a stessa retta di u puntu mediu di a basa, prima si trova M è dopu C.
+   </p>
+   <p>
+    M \left(\frac{x_1 + x_2}{2}, k\right)
+   </p>
+   <p>
+    Dunqua si trova C, chì avarà listessa ascissa ch'è M è diffarenti urdinata.
+   </p>
+   <p>
+    C \left(\frac{x_1 + x_2}{2}, h\right)
+   </p>
+   <p>
+    Si verificheghja ch'è u triangulu hè isusceli:
+   </p>
+   <p>
+    AC = \sqrt{\left(\frac{x_1 - x_2}{2}\right)^{2} + (k - h)^{2}}
+   </p>
+   <p>
+    BC = \sqrt{\left(\frac{x_2 - x_1}{2}\right)^{2} + (k - h)^{2}}
+   </p>
+   <p>
+    Tandu si calculeghja u cuefficienti angulari di i dui lati:
+   </p>
+   <p>
+    m AC = (h - k) \cdot \left(\frac{2}{x_2 - x_1}\right) = \frac{2(h - k)}{x_2 - x_1}
+   </p>
+   <p>
+    m BC = (h - k) \cdot \left(\frac{2}{x_1 - x_2}\right) = \frac{2(h - k)}{x_1 - x_2}
+   </p>
+   <p>
+    Tiurema 2: Cundizioni nicissaria è sufficienti affinch'è un triangulu incù a basa parallela à a bisettrici di dui quadranti sii isusceli hè ch'eddu avissi i dui lati di cuefficienti angulari inversi.
+   </p>
+   <p>
+    Dimustrazioni.
+   </p>
+   <p>
+    Dati i trè retti
+   </p>
+   <p>
+    y = x + q
+   </p>
+   <p>
+    y = mx
+   </p>
+   <p>
+    y = \frac{1}{m}x
+   </p>
+   <p>
+    si ni calculeghja l'intersizzioni.
+   </p>
+   <p>
+    \left\{\begin{array}{rl}&amp;y = x + q\\&amp;y = mx\end{array}\right.
+   </p>
+   <p>
+    \left\{\begin{array}{rl}&amp;x (m - 1)= q\\&amp;y = mx\end{array}\right.
+   </p>
+   <p>
+    \left\{\begin{array}{rl}&amp;x = \frac{q}{m - 1}\\&amp;y = \frac{mq}{m - 1}\end{array}\right.
+   </p>
+   <p>
+    A \left(\frac{q}{m - 1}, \frac{mq}{m - 1}\right)
+   </p>
+   <p>
+    \left\{\begin{array}{rl}&amp;y = x + q\\&amp;y = \frac{1}{m}x\end{array}\right.
+   </p>
+   <p>
+    \left\{\begin{array}{rl}&amp;x (1 - m)= mq\\&amp;y = \frac{1}{m}x\end{array}\right.
+   </p>
+   <p>
+    \left\{\begin{array}{rl}&amp;x = \frac{mq}{1 - m}\\&amp;y = \frac{q}{1 - m}\end{array}\right.
+   </p>
+   <p>
+    B \left(\frac{mq}{1 - m}, \frac{q}{1 - m}\right)
+   </p>
+   <p>
+    \left\{\begin{array}{rl}&amp;y = \frac{1}{m}x\end{array}\right.
+   </p>
+   <p>
+    \left\{\begin{array}{rl}&amp;x = 0\\&amp;y = 0\end{array}\right.
+   </p>
+   <p>
+    {\rm C}(0, 0)
+   </p>
+   <p>
+    Tandu si calculeghja a distanza di i sigmenti AC è BC.
+   </p>
+   <p>
+    AC = \sqrt{\left(\frac{q}{m-1}\right)^{2} + \left(\frac{mq}{m-1}\right)^{2}}
+   </p>
+   <p>
+    BC = \sqrt {\left(\frac{mq}{1-m}\right)^{2} + \left(\frac{q}{1-m}\right)^{2}}
+   </p>
+   <p>
+    Dunqua u triangulu hè isusceli nantu à a basa AB.
+   </p>
+   <p>
+    In modu analugu si dimostra u casu di a basa parallela à l'assi y.
+   </p>
+   <p>
+    Viciversa si custruisci un triangulu isusceli incù a basa parallela à a bisettrici di u prima è terzu quadranti. (Listessa cosa vali par quidda parallela à a bisettrici di u sicondu è quartu quadranti).
+   </p>
+   <p>
+    Dati i dui punti:
+   </p>
+   <p>
+    {\rm A} (0, q)
+   </p>
+   <p>
+    {\rm B} (-q, 0)
+   </p>
+   <p>
+    postu ch'è u vertici d'un triangulu isusceli ghjaci nantu à a stessa retta di u puntu mediu di a basa, prima si trova M è eppo/dopu C.
+   </p>
+   <p>
+    M \left(-\frac{q}{2}, \frac{q}{2}\right)
+   </p>
+   <p>
+    Dunqua si trova C, chì si trova nantu à a retta parpindiculari à a basa è passanti par M, y = -x .
+   </p>
+   <p>
+    C (h, -h)  induva h hè un numaru arbitrariu diffarenti da 0.
+   </p>
+   <p>
+    Si verificheghja chì u triangulu hè isusceli:
+   </p>
+   <p>
+    AC = \sqrt{h^{2} + (q + h)^{2}}
+   </p>
+   <p>
+    BC = \sqrt{(-q -h)^{2} + h^{2}}
+   </p>
+   <p>
+    Tandu si calculeghja u cuefficienti angulari di i dui lati:
+   </p>
+   <p>
+    m AC = \frac{-h - q}{h} = -\frac{h + q}{h}
+   </p>
+   <p>
+    m BC = \frac{-h}{h + q} = -\frac{h}{h + q}
+   </p>
+   <p>
+    == Da veda dinò ==
+   </p>
+   <p>
+    Triangulu
+   </p>
+   <p>
+    Triangulu equilateru
+   </p>
+   <p>
+    Triangulu scalenu
+   </p>
+   <p>
+    Tiurema direttu di i trianguli isusceli
+   </p>
+   <p>
+    Toru (giumitria)
+   </p>
+   <p>
+    Giumitria piana
+   </p>
+   <p>
+    Angulu rettu
+   </p>
+   <p>
+    Catetu
+   </p>
+   <p>
+    Mezaretta
+   </p>
+   <p>
+    Perimetru
+   </p>
+   <p>
+    Sigmentu
+   </p>
+   <p>
+    Triangulu equilateru
+   </p>
+   <p>
+    Tiurema di Pitagora
+   </p>
+   <p>
+    Iputenusa
+   </p>
+   <p>
+    Tangenti
+   </p>
+   <p>
+    Trigunumitria
+   </p>
+   <p>
+    Uttaedru
+   </p>
+   <p>
+    Isusceli
+   </p>
+   <p>
+    == Noti ==
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia in talianu.
+   </p>
+  </body>
+ </text>
+</TEI>

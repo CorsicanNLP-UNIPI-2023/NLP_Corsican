@@ -1,0 +1,85 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tutti in Sardegna in hyperloop
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Tutti-in-Sardegna-in-hyperloop_a2506.html"/>
+     <date>
+      Fri, 13 Jan 2017 08:20:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tutti in Sardegna in hyperloop
+   </head>
+   <div type="excerpt">
+    <p>
+     Passà da a Corsica à a Sardegna in qualchì segonda ? Serà forse pussibule un ghjornu. U prugettu chì hè purtatu da unepochi di Corsi hè statu selezziunatu da a sucetà americana.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ma cosa hè hyperloop ?
+Hè un prugettu americanu purtatu da un miliardariu, Elon Musk. Hà imaginatu una tecnulugia di treni à altissima vitezza. U scopu hè di cullà à 1200 chilòmetri à l'ora (chì tanti TGV). 
+Stu sistema prumette di rivuluziunà i modi di trasporti. Serà un "trenu" di capsule chì viaghja cù a levitazione magnetica in un tubu. È serà alimentatu cun energie verde. 
+Da leghje nant'à Courrier International : Hyperloop, des capsules supersoniques pour voyager
+    </p>
+    <p>
+     E prove avanzanu. Ci hè statu un test in u desertu di u Nevada.
+    </p>
+    <p>
+     Transports : premier test réussi pour l'Hyperloop, le train hyper grande vitesse
+    </p>
+    <p>
+     U primu prototippu cù un passageru nentru hè previstu pè u 2019. 
+Imaginate un cosu cusì :
+    </p>
+    <p>
+     Da quì à pocu à l'Emirati Arabi Uniti
+S'è vo vulete piglià l'Hyperloop ci vulerà à andà in Dubai. Hè statu firmatu l'accordu in u 2016 trà l'intrapresa americana è sì tuttu và bè serà messu in piazza da quì à quattru anni. 
+Da leghje nant'à Le Figaro :  Avec Hyperloop, Dubaï-Abu Dhabi en 12 minutes
+    </p>
+    <p>
+     Perchè micca trà Corsica è Sardegna ?
+È perchè a Corsica ùn saria micca un ghjornu à a punta di a tecnulugia ? Hyperloop hà selezziunatu 35 prugettu in u mondu. Ùn ci n'hè micca in Francia, ma in a short-list ci hè u prugettu di fà a leia trà e duie isule. 
+Ùn hè mancu una burla. 
+Da leghje nant'à RCFM : Hyperloop : la Corse déboule à très grande vitesse
+    </p>
+    <p>
+     Bon d'accordu ùn ci semu ancu. Nant'à i 35 prugetti, 12 seranu ritenuti di maghju. È ùn seranu più ch'è 3 st'estate. 
+Ma face prò di sunnià di tantu in tantu, nò ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

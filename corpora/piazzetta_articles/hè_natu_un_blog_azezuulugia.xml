@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hè natu un blog Azezuulugia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/He-natu-un-blog-Azezuulugia_a2380.html"/>
+     <date>
+      Sun, 17 Apr 2016 23:51:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hè natu un blog Azezuulugia
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè natu un novu blogu literariu azezu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A tela nustrale conta oramai un novu blogu literariu : Azezuulugia. 
+Perchè stu nome ? A risposta si trova nant'à u situ : "azezu, cunniscite a cagione di stu nome. Zuulugia, da rende contu di l’immensu circulu umanu in qual’è no campemu è ch’è no cuntribbuimu tutti quanti à fà campà". 
+Hè un situ cullaburativu, tuttu ognunu pò mandà i so testi. Sò accettati "i scritti d’umore parsunali, umuristichi, azezi, critichi, puzzicosi à l’occasione ma ancu appena gattivi (senza attacche numinative è insulte, ben intesa, ùn vulemu micca andà in prigiò)". 
+Basta à mandà u testu per mail à azezuulugia@gmail.com 
+Ùn vi ferma più ch'è da impennà ! 
+Da scopre à st'indirizzu : azezuulugia.wordpress.com
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

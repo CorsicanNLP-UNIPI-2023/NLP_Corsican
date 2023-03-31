@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cun cinque Corsi nant'à u terrenu...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cun-cinque-Corsi-nant-a-u-terrenu_a2119.html"/>
+     <date>
+      Sun, 11 Jan 2015 11:40:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cun cinque Corsi nant'à u terrenu...
+   </head>
+   <div type="excerpt">
+    <p>
+     Vittoria storica di Bastia nant'à Parigi, cun cinque Corsi nant'à u terrenu. Si n'hè dettu tantu male dapoi mesi è mesi...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Quattru buts à u PSG, una partita scema induve u Sporting finisce cun Palmieri centravanti. Una rete di Modesto, duie di Palmieri. 
+Purtantu, dapoi mesi è mesi, si sente chì : 
+Modesto : "troppu vechju, ùn avanza più"  Cioni : "troppu chjucu"  Palmieri : "troppu azezu"  Cahuzac : "iè ma capisci, ilapalnivo"  Squillaci : "hà da esse vechju"  Leca : "troppu scemu" (ancu s'ellu ùn ghjucava micca eri)  Ciccolini : "troppu corsu" 
+Contr'à u PSG, avemu vistu chì u ballò ùn hè micca sempre una quistione di soldi (ancu s'ellu hè spessu u casu...), ma dinù una quistione di mentalità. 
+Forse, saria bè di fà appena cunfidenza à i ghjucadori corsi, è piantà "l'auto disprezzu" (vi và cum'è parolla per "auto-dénigrement" ?)
+    </p>
+    <p>
+     Luni, L'Equipe mette dui ghjucadori bastiacci in a so squadra di a dumenicata :
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

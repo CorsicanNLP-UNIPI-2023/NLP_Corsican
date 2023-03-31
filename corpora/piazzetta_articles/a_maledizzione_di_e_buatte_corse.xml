@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A maledizzione di e buatte corse
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-maledizzione-di-e-buatte-corse_a1551.html"/>
+     <date>
+      Fri, 26 Apr 2013 20:22:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A maledizzione di e buatte corse
+   </head>
+   <div type="excerpt">
+    <p>
+     Welcome to the pleasure ! Dop'à L'Amnesia, A Stella, La 5ème è tant'altre, hè L'Acapulco chì piccia. Ritornu nant'à a maledizzione di e buatte corse, nant'à fondu di regulamenti di conti, di scruccunerie è di storie di banditisimu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Per vede u diaporama, andate quì
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ernst Abbe
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Ernst%20Abbe"/>
+     <date>
+      2015-07-03T16:33:23Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ernst Abbe
+   </head>
+   <p>
+    Ernst Abbe (1840-1905) fù un fìsicu è rifurmadore suciale tedescu.
+   </p>
+   <p>
+    Abbe
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ci vole à manghjà quantu Mon Chéri per esse in sborgna ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ci-vole-a-manghja-quantu-Mon-Cheri-per-esse-in-sborgna_a1042.html"/>
+     <date>
+      Tue, 01 Mar 2011 11:49:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ci vole à manghjà quantu Mon Chéri per esse in sborgna ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Iè, ci n'hè ch'anu circatu di calculà... ma risicate di favvi una crisa di fegatu nanzu d'esse briacu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ùn fate micca nece, voi dinù ci avete pensatu : pigliassi una scimia à u Mon Chéri. 
+Hè u situ d'infurmazioni Slate à prupone un studiu seriu nant'à stu sugettu impurtantissimu. 
+Vi risparmiu i càlculi è e fòrmule matemàtiche, ma sàppiate ch'ellu ci vole circa 45 di ste cicculatacce per ghjunghje à 0,5 g d'alcool in u sangue, a lìmita autorizata per quelli chì cundùcenu. Siguramente chì u vostru fegatu ùn suppurterà micca sta quantità di zùccheru è di cicculata. Averete resu nanzu. 
+45 Mon Chéri per esse appinuccia briachettu, allora pensate quantu ci vulerà à ingollene per esse à tappu. 
+Lasciate corre, hè una gattiva idea...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

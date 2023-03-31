@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title/>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/_a1810.html"/>
+     <date>
+      Fri, 16 May 2014 11:05:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head/>
+   <div type="excerpt">
+    <p>
+     Hè di ritornu a "fête des voisins". Gattivu segnu ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ipocrisìa ? Falsa cunvivialità ? Festa impinzutita ? 
+O iniziativa generosa, creatrice di suciabilità, chì risponde à un bisognu in tempi di crisa ? 
+L'avisi sò diversi nant'à a "fête des voisins". Vi n'erate scurdati ? Hè di ritornu u 23 di maghju. 
+U dettu corsu dice chì "i vicini sò i cucini", ma quessa, era nanzu. Quandu c'era un bisognu d'aiutu trà di vicini d'un paese, d'un paisolu, d'un quartieru. Ùn hè micca chì l'epica era megliu, l'omi di più virtuosi o più generosi. Solu chì l'aiutu era obligatoriu per sopravvive. Quandu ci vulia à fà un solcu, coglie e castagne, piantà i picchetti o rifà un muru chì si n'era falatu, c'era bisognu di u rinforzu di u vicinatu. 
+Ma oghje ? Basta d'empie u caddie à tappu à Super U, ùn ci hè più bisognu di nunda. Pudete ancu stà chjosu in casa, nimu venerà à circavvi. Ùn mancanu i "faits divers" in cuntinente induve si sò ritruvati mo. Allora più nimu si parla, Cyril Hanouna hà rimpiazzatu à mammone e per a veghja. 
+A "fête des voisins" hè stata inventata in Parigi, in sti casali senza anima induve l'abitanti ùn si cunnoscenu trà d'elli è scambianu tutti i sei mesi. A ghjente ne prufitta per tuccà un bichjeru (in plasticu) è un pezzu di knacki. Certi si parlanu solu stu ghjornu quì. Almenu, tandu, scambianu duie parolle è facenu cunniscenza. Si passa cusì e grande cità francese. 
+S'è no ne semu à stu puntu in Corsica, hè veramente ch'ellu hè gattivu segnu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Quandu Bastia zifra a cartula di a lingua corsa, neva in Parigi
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Quandu-Bastia-zifra-a-cartula-di-a-lingua-corsa-neva-in-Parigi_a1513.html"/>
+     <date>
+      Wed, 13 Mar 2013 09:56:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Quandu Bastia zifra a cartula di a lingua corsa, neva in Parigi
+   </head>
+   <div type="excerpt">
+    <p>
+     Nò, ùn hè micca a deregulazione climàtica chì hè rispunsèvule di a neve in Parigi.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A cità di Bastia hà infine zifratu a cartula di a lingua corsa. 
+Facenu avà sei anni ch'ella esiste sta cartula chì hà cum'è scopu di prumove è di rende visibile a nostra lingua in a cummunicazione di e cumune. 
+Eranu novanta paesi è cità à avella firmata sin'avà. Aiacciu per esempiu l'avia fatta in u 2011. 
+L'intraprese, l'associ è e cullettività dinù ponu firmalla : u Sporting, l'ACA, a Liga corsa di Scacchi, Vito, u CNFPT l'avianu fatta. 
+Bastia hà pigliatu u so tempu, ma hà finitu per decidesi (da leghje nant'à CNI è u situ di France 3). 
+È dopu, vi stunate ch'ellu nevi in Parigi ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

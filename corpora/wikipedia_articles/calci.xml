@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Calci
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Calci"/>
+     <date>
+      2016-09-21T14:27:11Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Calci
+   </head>
+   <p>
+    Calci hè una cumuna taliana di a pruvincia di Pisa.
+   </p>
+   <p>
+    ==Paisoli==
+   </p>
+   <p>
+    Castelmaggiore, Il Colle, La Corte, La Gabella, Montemagno, La Pieve, Pontegrande, Rezzano, Tre Colli, Villa.
+   </p>
+   <p>
+    ==Cumune in cunfina==
+   </p>
+   <p>
+    Buti, Capannori (LU), San Giuliano Terme, Vicopisano.
+   </p>
+   <p>
+    Cumuna di a pruvincia di Pisa
+   </p>
+  </body>
+ </text>
+</TEI>

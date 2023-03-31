@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Délfor Dicásolo
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/D%C3%A9lfor%20Dic%C3%A1solo"/>
+     <date>
+      2015-07-01T19:30:48Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Délfor Dicásolo
+   </head>
+   <p>
+    Délfor Dicásolo (1920-2013) hè un attore argentinu.
+   </p>
+   <p>
+    Dicásolo
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Omaha, parlami corsu !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Omaha-parlami-corsu-_a1871.html"/>
+     <date>
+      Sun, 08 Jun 2014 23:58:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Omaha, parlami corsu !
+   </head>
+   <div type="excerpt">
+    <p>
+     Settant'anni dopu, hè u D-Day pè e residenze segundarie...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A sapete, u turnagiu di a scena di u sbarcamentu in Nurmandia di u filmu Le Jour le plus long s'hè fattu in L'Agriate, in Saleccia. 
+Corse-Matin ci cunsacra oghje un articulu è a so prima pagina. 
+Durante qualchì ghjornu di l'estate 1961, Saleccia hè diventata Omaha Beach. A causa hè chì u realizadore Darryl Zanuck truvava chì u liturale di a Nurmandia era trovu goffu. Sedeci anni dop'à u sbarcamentu, e residenze segundarie avianu invaditu tuttu. A sturietta hè cunnisciuta. 
+Settanta anni dop'à u D-Day, L'Agriate sò sempre belle è priservate. Ci semu francati i prugetti immubiliari scemi di l'anni settanta, cù cumplessi è ottelli per purtacci millaie di turisti. Sapete, st'orrore ch'elle si ponu vede nant'à a costa spagnola... 
+Oghje, i tempi ùn sò più à i grossi cumplessi immubiliari. U liturale hè minacciatu da u "mitage", o u "grignotage". Hè l'orrore di ciò chì l'urbanisti chjamanu "étalement urbain". E terre priservate sò runzicate da una rapida è disurdinata stesa di e custruzzioni. 
+Settant'anni dopu à u D-Day, sò pochi i lochi induve Darryl Zanuck averia pussutu filmà Le Jour le plus long. In fine di contu, sò e casacce segundarie chì sò sbarcate nant'à u liturale... 
+(l'idea di u titulu di l'articulu hè di PO)
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

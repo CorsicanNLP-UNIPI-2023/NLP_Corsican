@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Statutu di residente : si principia cù i cani
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Statutu-di-residente-si-principia-cu-i-cani_a1822.html"/>
+     <date>
+      Tue, 20 May 2014 21:17:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Statutu di residente : si principia cù i cani
+   </head>
+   <div type="content">
+    <p>
+     Stu ritrattu hè statu pigliatu in u circondu di Bastia. U statutu di residente esiste dunque per i cani. 
+È noi chì pigliavamu i nostri animali per baulli... Eccu ch'è no amparemu ch'elli si ne sortenu megliu ch'è noi ! 
+A prova ch'ellu ùn ci hè mancu bisognu di cambià a custituzione !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

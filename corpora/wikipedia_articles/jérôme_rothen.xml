@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Jérôme Rothen
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/J%C3%A9r%C3%B4me%20Rothen"/>
+     <date>
+      2015-07-06T09:31:33Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Jérôme Rothen
+   </head>
+   <p>
+    Jérôme Rothen (natu in u 1978) hè un exi SC Bastia e ghjucadore di pallò francese.
+   </p>
+   <p>
+    Rothen
+   </p>
+  </body>
+ </text>
+</TEI>

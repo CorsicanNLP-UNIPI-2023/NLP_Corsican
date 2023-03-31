@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chì diventa Pascal Olmeta ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Chi-diventa-Pascal-Olmeta_a1385.html"/>
+     <date>
+      Fri, 13 Jul 2012 00:53:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chì diventa Pascal Olmeta ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Face a prima pagina di "Sanglier Passion". Ùn ci hè nunda d'altru à aghjustà.
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

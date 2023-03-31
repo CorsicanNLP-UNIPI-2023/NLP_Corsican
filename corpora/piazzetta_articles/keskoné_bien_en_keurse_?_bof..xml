@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Keskoné bien en Keurse ? Bof.
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Keskone-bien-en-Keurse-Bof_a1947.html"/>
+     <date>
+      Tue, 16 Sep 2014 09:19:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Keskoné bien en Keurse ? Bof.
+   </head>
+   <div type="excerpt">
+    <p>
+     L'hà detta l'OCDE in un raportu st'estate : "La Corse est la région française où il fait le moins bon vivre". Rivenuti, servizii, insecurità, impieghi, dicenu chì s'è no femu u contu u risultatu ùn hè micca terribule.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè dunque a grande OCDE (organisation de coopération et de développement économiques) chì a dice, in Corsica si stà male. 
+L'organìsimu hà studiatu ottu criterii : i rivenuti, l'accessu à a salute, a securità, l'accessu à i servizii, l'ingagiamentu cìvicu, l'educazione, l'impieghi, l'ambiu. 
+U risultatu averà di chè fà paura i nostri amichi "les amis de la Corse" : a nota nant'à 10 hè di 5,66, a più bassa di e 22 regione di Francia. 
+Avete mancatu l'infurmazione ? Corse-Matin è France 3 n'anu parlatu. U studiu sanu si pò truvà quì, nant'à u situ di l'OCDE. 
+Per l'insecurità si tratta unicamente di l'assassinii. Hè quessa chì face calà a nota di a Corsica. Cù un percentuale di 7,3 assassinii per 100.000 abitanti, semu à u listessu livellu ch'è a regione di Detroit per esempiu. 
+Pè riassume, l'OCDE dice à u livellu internaziunale : "ùn ci andate micca, hè periculosu". Ùn manca più ch'è "hè goffu", "piove tuttu u tempu", "cunducenu cum'è scemi" è "sò antipatichi". 
+Bon và bè, si pò discorre di l'indicatori scelti. Ma per una volta chì un studiu internaziunale dice "ùn andate micca à stallavvi in Corsica", ùn ci lagneremu micca.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

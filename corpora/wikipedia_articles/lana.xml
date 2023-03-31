@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lana
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Lana"/>
+     <date>
+      2008-06-14T08:43:33Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lana
+   </head>
+   <p>
+    == Citazioni ==
+   </p>
+   <p>
+    A lana hè mintuvata calchì volta in a cultura è in a litteratura corsa. Par esempiu:
+   </p>
+   <p>
+    in a sprissioni: discuta a lana capruna
+   </p>
+   <p>
+    ==Rifarenzi==
+   </p>
+   <p>
+    Ettori, Farrandu, Antulugia di i sprissioni corsi - Anthologie des expressions corses, Parighji: Rivages, 1984
+   </p>
+  </body>
+ </text>
+</TEI>

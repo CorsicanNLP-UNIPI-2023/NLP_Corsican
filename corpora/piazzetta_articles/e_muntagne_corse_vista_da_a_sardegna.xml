@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     E muntagne corse vista da a Sardegna
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-muntagne-corse-vista-da-a-Sardegna_a2716.html"/>
+     <date>
+      Sun, 08 Apr 2018 09:43:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    E muntagne corse vista da a Sardegna
+   </head>
+   <div type="excerpt">
+    <p>
+     Quandu u tempu hè chjaru, da Sassari si ponu vede e cime corse. È stu spettaculu ci ramenta chì Corsica è Sardegna facenu parte di u listessu paese, puru s'è no ci ne semu appena scurdati...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Si ricunnoscenu Monte d'Oru è Monte Rinosu. I ritratti sò stati pigliati u 7 d'aprile.
+    </p>
+    <p>
+     L'autore di i ritratti si chjama Pietro Masala, sò stati messi in linea nant'à La Nuova Sardegna chì ne publicheghja d'altri :
+    </p>
+    <p>
+     Sassari e le montagne innevate della Corsica, le foto sono straordinarie - Foto https://t.co/EqblIKfowZ pic.twitter.com/DUzTHywtgX
+— La Nuova Sardegna (@lanuovasardegna) 7 avril 2018
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

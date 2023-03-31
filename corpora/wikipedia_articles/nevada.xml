@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Nevada
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Nevada"/>
+     <date>
+      2019-02-09T07:59:51Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Nevada
+   </head>
+   <p>
+    U Nevada hè un statu di i Stati Uniti d'America. Teni 1.998.257 abitanti.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Las Vegas
+   </p>
+   <p>
+    Carson City
+   </p>
+   <p>
+    Stati di i SUA
+   </p>
+  </body>
+ </text>
+</TEI>

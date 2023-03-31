@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cuntattu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cuntattu_a2067.html"/>
+     <date>
+      Fri, 11 Mar 2016 10:59:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       GIURNALE
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cuntattu
+   </head>
+   <div type="content">
+    <p>
+     Vulete mette una publicità nant'à A Piazzetta ?
+A Piazzetta hè un media d’attualità chì esiste dapoi u 2007. Hè u solu media chì sia sanu sanu in lingua corsa. Hè editatu da l'associu Lingua Scritta lucalizatu in Bastia. 
+Site cummercianti, impresa, associu o cullettività ? Vulete fà a vostra publicità nant’à A Piazzetta ? 
+A Piazzetta hè : una rivista trimestriale, distribuita di rigalu in a Corsica sana (500 punti di diffusione - 14.000 esemplarii) 
+Un situ internet : 45.000 visite à mese 
+Pudete cuntattà à s.defranchi@live.com, o per telefunu : 0669231930
+    </p>
+    <p>
+     Chì sò e dimensioni di e pubbe nant'à u situ internet ?  
+In sù : 900 x 90 px  Da u latu dirittu : 231 x 277 px 
+È nant’à a rivista :   Quarta di cuprendula : 23 x 15,8 cm  1/2 pagina : 11 x 15,8 cm  1/4 di pagina : 5,5 x 15,8 cm 
+Vulete entre in cuntattu cù A Piazzetta ? 
+Pè a redazzione, pudete apiazzetta@free.fr : apiazzetta@free.fr 
+Seguitacci nant'à Twitter 
+Nant'à Instagram 
+È nant'à a nostra pagina Facebook
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Squadra Corsa, anch'ella in Gueugnon ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-Squadra-Corsa-anch-ella-in-Gueugnon_a1504.html"/>
+     <date>
+      Mon, 04 Mar 2013 11:46:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A Squadra Corsa, anch'ella in Gueugnon ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Nant'à a pagina Facebook di a Squadra Corsa, si sente chì u derby hè statu amaru.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Eccu u cummunicatu trovu nant'à a pagina officiale : 
+"Un Jour, cette petite île étonnera le monde" avait écrit JJ Rousseau. Il avait raison : aujourd'hui, des gamins du nord et du sud se tirent des parpaings sur la tête. On se jette des BA à la gueule. On utilise des tasers sur des jeunes filles. On insulte nos morts. 
+Un jour, nous avons rêvé que la Corse puisse avoir une sélection nationale, qu'elle nous représente au plus haut niveau, que la bandera puisse être présente sur les 4 continents. Que d'Ajaccio à Bastia, en passant par Calvi, Corte ou Porto-Vecchio, on puisse être fier de nos couleurs. Visiblement, aujourd'hui, le fossé se creuse entre les différentes composantes du football corse et les guerres de clocher refont surface comme aux pires heures de notre histoire. 
+En conséquence, la mise en sommeil de la Squadra Corsa sera étudiée et proposée lors du prochain comité directeur. 
+Saria veramente un peccatu ch'ellu sia abbandunatu stu prugettu. In sti tempi difficiuli per a Corsica, hè forse avà chè no avemu bisognu di tene è d'ùn calà e bracce. Nò ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

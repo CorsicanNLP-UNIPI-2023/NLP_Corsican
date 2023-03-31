@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U futbol attacca u cerbellu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-futbol-attacca-u-cerbellu_a2542.html"/>
+     <date>
+      Thu, 16 Feb 2017 09:38:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U futbol attacca u cerbellu
+   </head>
+   <div type="excerpt">
+    <p>
+     Un'inchiesta fatta in Gran Brittagnia mustreria ch’ellu ci hè un ligame trà a pràtica di u futbol è l' « encefalupatia traumàtica crònica », una malatia di u cerbellu chì pruvucheghja un’alterazione di e facultà intellettuali è cunduce à a demenza.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Stu studiu scentìficu dice (s’è no avemu capitu bè) chì e capate ripettute, l’intoppi, i tusci attacherianu pianu pianu i neuroni è chì invechjendu, i ghjucadori imbambuliscerebbinu. 
+E gattive lingue diceranu ch'ellu ùn c'era bisognu di mubilizà un'armata di sapientoni da amparà ciò chì tuttu u mondu sapia digià : i ghjucadori à a ritirata piglianu a falata è finiscenu nant’à beIN Sports o RMC…
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U peghju tatuasgiu corsu di u mondu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-peghju-tatuasgiu-corsu-di-u-mondu_a2349.html"/>
+     <date>
+      Fri, 11 Mar 2016 11:13:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U peghju tatuasgiu corsu di u mondu
+   </head>
+   <div type="excerpt">
+    <p>
+     A moda di i tatuasgi ùn hè micca sempre una bona. A prova.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U prublema di i tatuasgi, hè chì certe volte vi ritruvate cù n'importa chè. 
+Stu ritrattu circuleghja nant'à e rete suciale, è s'è vo avete capitu a frasa, fateci segnu. 
+Speremu chì Renaud ùn averà micca l'idea di fassi u listessu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

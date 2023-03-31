@@ -1,0 +1,59 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vincentellu d'Istria 1, quattru quattru 0
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Vincentellu-d-Istria-1-quattru-quattru-0_a2081.html"/>
+     <date>
+      Mon, 15 Dec 2014 15:13:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Vincentellu d'Istria 1, quattru quattru 0
+   </head>
+   <div type="excerpt">
+    <p>
+     Cù Natale volta u cuncorsu di u più bellu giratoghju. Quist'annu, vince Biguglia.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     V'arricurdate di u Rond-Point Academy, inziatu da A Piazzetta in u 2009. 
+Face una stonda ch'ella dura è chì e municipalità facenu i sforzi per avè u più bellu, u più luminosu, u più originale giratoghju. È cum'à i Corsi li piace à girà in tondu, hà da durà torna. 
+Ma quist'annu,
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

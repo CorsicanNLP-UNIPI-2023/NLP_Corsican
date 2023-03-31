@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     E merzane di a lotta naziunale
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-merzane-di-a-lotta-naziunale_a1981.html"/>
+     <date>
+      Wed, 08 Oct 2014 19:48:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    E merzane di a lotta naziunale
+   </head>
+   <div type="excerpt">
+    <p>
+     Philippe Gatti hè statu cappiatu dop'à a so mediatizata guardia à vista di quaranta ore in l'inchiesta di l'attentati di u 2013. Tuttu ripunia nant'à... un sacchettu di merzane.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Manghjà cinque frutti è legumi à ghjornu hè bè ma vi pò mandà dinù in prigiò. 
+A saperanu l'avucatu Philippe Gatti è a so moglia. 
+Si sò abbuchjati una guardia à vista di quarant'ore (assai mediatizata, i giurnalisti parigini sapianu tuttu) per via d'un sacchettu di merzane compru in un supermercatu. 
+Hè u situ di France 3 Corse chì spiega a storia di u sacchettu : 
+"Ce dernier aurait été retrouvé dans un box de la résidence Le Panoramic, quelques jours après le double attentat à la roquette qui a visé, quasi simultanément, les casernes de Gendarmerie d’Ajaccio et Bastia le 5 décembre 2013, peu avant 20 heures. Dans ce garage (loué au nom de la soeur de Me Dominique Ferrari, actuel bâtonnier d’Ajaccio et également placé en garde à vue depuis lundi 6 octobre) les enquêteurs découvrent des explosifs, des armes, des gilets pare-balles et deux scooters dont l’un est identique à celui signalé par deux témoins et les caméras de vidéo-surveillance situées aux abords du Quartier Battesti. Mais ils mettent aussi la main sur un sac de caisse en plastique, à l’intérieur duquel ils trouvent un ticket de caisse d’une grande surface ajaccienne. En remontant à la source du code-barres figurant sur cette facture (des aubergines), ils identifient un numéro de la carte bancaire utilisée pour régler l’achat et le titulaire de la carte: l’épouse de Me Philippe Gatti." 
+In fine di contu, i pulizzeri ùn anu trovu nunda è Philippe Gatti è a so cumpagna sò stati cappiati. 
+A storia cummencia à fà u rimusciu. È hè cusì chì di tantu in tantu, omu s'avvede chì a pulizza detta "antiterrurista" face quantunque appena n'importa chè.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

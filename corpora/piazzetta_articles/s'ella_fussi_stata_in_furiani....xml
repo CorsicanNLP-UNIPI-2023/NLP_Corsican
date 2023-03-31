@@ -1,0 +1,68 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     S'ella fussi stata in Furiani...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/S-ella-fussi-stata-in-Furiani_a2259.html"/>
+     <date>
+      Mon, 21 Sep 2015 12:09:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    S'ella fussi stata in Furiani...
+   </head>
+   <div type="excerpt">
+    <p>
+     A partita trà Marseglia è Liò hè stata interrotta quandu i sustenidori di l'OM si sò messi à fà piove unepoche di buttiglie di biera nant'à u terrenu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Tè, face un pezzu ch'ellu ùn si parlava più di "u gontexte" di Furiani. Ma sta dumenicata, sò i sustenidori di l'OM chì si sò fatti rimarcà. Dop'à a piogia di buttigliucce di biera lampata nant'à u purtiere di l'OL, u direttore di ghjocu hà decisu d'arrestà a partita durante parechji minuti :
+    </p>
+    <p>
+     Davant'à a so televisiò, numerosi sò stati i Corsi à dumandassi ciò ch'ella saria stata a reazzione di u mustacciutu è ciò ch'elle sarianu state e sanzione di a LFP. 
+Paranoiachi ? Sempre listessu discorsu di vittimizazione ? Iè forse. Ma ancu Jean-Michel Aulas s'hè postu a dumanda :
+    </p>
+    <p>
+     #Aulas : "Si le dixième de ce qui est arrivé se passait à Bastia ou à Ajaccio, le match serait arrêté avec des sanctions inouïes" #OMOL
+— INFOSPORT+ (@infosportplus) 20 Septembre 2015
+    </p>
+    <p>
+     Bon d'accordu. Hè megliu à parlà di quessa ch'è di a concia pigliata in casa contr'à Nizza.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

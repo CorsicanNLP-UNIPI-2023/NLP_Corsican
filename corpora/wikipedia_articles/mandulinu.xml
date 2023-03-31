@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mandulinu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Mandulinu"/>
+     <date>
+      2015-07-09T09:15:13Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Mandulinu
+   </head>
+   <p>
+    U mandulinu hè una spezia di chitarra ma più corte. A so cascia hè tonda.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Cialamella
+   </p>
+   <p>
+    Riberbula
+   </p>
+   <p>
+    Vuvuzela
+   </p>
+   <p>
+    À cappella
+   </p>
+   <p>
+    Strumenti musicali
+   </p>
+  </body>
+ </text>
+</TEI>

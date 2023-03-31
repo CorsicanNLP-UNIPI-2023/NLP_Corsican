@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Micca cavallu in u vostru figatellu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Micca-cavallu-in-u-vostru-figatellu_a1495.html"/>
+     <date>
+      Tue, 12 Feb 2013 23:21:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Micca cavallu in u vostru figatellu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Dop'à Findus, hè Picard chì hà trovu carne cavalline in e so lasagne. À quandu in u figatellu corsu di carne purcina chinese ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'Auropa scopra stumagata u "lasagne gate;. Messu in causa : a corsa à i soldi è a multiplicazione d'intervenenti. 
+Da l'amazzatoghju di Rumenia à u vostru fornu micro-onde, u circuitu cummerciale hè cumplessu è e sucetà troppu numerose. Cusì numerose chì ognunu mette l'affare in colpa à l'altru. 
+L'opinione pùblica scopre ch'ella manghja n'importa chè è ch'ellu hè necessariu di mette i cuntrolli per sapè da induve vene ciò ch'ellu si trova in i nostri piatti. 
+Postu ch'è no ci semu, da induve vene digià a carne purcina chì ghjova à fà a nostra bona sciarcutteria corsa ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

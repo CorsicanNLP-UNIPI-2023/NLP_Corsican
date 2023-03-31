@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vergogna à tè chì dai n'importa chì nome à a to terra
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Vergogna-a-te-chi-dai-n-importa-chi-nome-a-a-to-terra_a1282.html"/>
+     <date>
+      Sun, 26 Feb 2012 15:28:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Vergogna à tè chì dai n'importa chì nome à a to terra
+   </head>
+   <div type="excerpt">
+    <p>
+     A lingua corsa smarisce in a tupunimia d'oghje, in i nomi di residenze, di lotissements, di casali...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Durante centinaie d'anni, i Corsi anu datu nomi corsi à i so lochi. I nomi di muntagne, di fiumi, di paesi, sò stati chjamati : u pentone, u poghju, a punta, l'aghja, a leccia, u castagnu, u pratu, u chjarasgiu, i stazzi... 
+Sti nomi avianu un sensu, è l'omi s'indentificavanu à i so lochi. Avianu una memoria, una storia. 
+Oghje, a frenesia immubiliare è a splusione demogràfica hà fattu nasce paesi, residenze è lotissements novi, vicini di i lochi di cunsumazione, senza identità, assettizati. Stu paisaghju senza anima puderia esse quellu di a Seine et Marne. 
+In quant'à i nomi di lochi, ci pudemu dumandà s'è no semu sempre in Corsica. Eccu unepochi d'esempii di sti «nomi novi ». Cumu averanu dà fà quelli chì anu da ingrandà, ghjucà, campà in sti lochi per custruisce un'identità corsa ? 
+Les domaines du Levant (Lucciana)  Les Jardins de la Mer (Bravone)  Résidence Les Couchants (Agosta)  L’orée du Bois (Aiacciu)  Résidence Eros (Borgu)  Résidence Appolonie (Bastia)  Résidence Brasilia (Aiacciu)  Vanina Park (Corti)  Le grand Large (Calvi)  Résidence Alsace – Loraine (Corti)  Le Chêne Vert (Corti)  La Résidence Melody (Santa Maria Poghju)  Les Floralies (Biguglia)  Les Chênes (Borgu)  Les Hespérides (Viscuvatu)  Corsicana Forêt è Corsicana Village (Linguizzetta)  Tropica Club (Linguizzetta)  Les Cigales (Vintisari)  L'Orangeraie (Coti Chjavari)  Les Hauts de la Résidence du Golfe (Purtichju)  La Colline des Feurs (Purtichju)  Carré Saint-Jean (Borgu)  Le Clos de Longvilliers (Muriani)  Résidence Elisa (Lucciana)  ...è si puderia cuntinuvà assai cusì. 
+30 anni fà, Canta u Populu Corsu cantava Vergogna à tè chì vendi a terra. Quelli chì inventanu sti nomi guffissimi distrucenu a memoria di i lochi è di a lingua. 
+Cumu ci ghjudicheranu e generazione future d'avè fattu n'importa chè cù u nostru patrimoniu, a nostra lingua, a nostra memoria ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

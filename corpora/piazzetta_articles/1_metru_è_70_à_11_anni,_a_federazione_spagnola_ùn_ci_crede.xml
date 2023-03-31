@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     1 metru è 70 à 11 anni, a federazione spagnola ùn ci crede
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/1-metru-e-70-a-11-anni-a-federazione-spagnola-un-ci-crede_a1807.html"/>
+     <date>
+      Thu, 15 May 2014 14:49:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    1 metru è 70 à 11 anni, a federazione spagnola ùn ci crede
+   </head>
+   <div type="content">
+    <p>
+     Saria natu di ghjennaghju 2002, ma a federazione spagnola di ballò ùn ci crede. 
+Boris Tchako, ghjucadore camerunese di u Hercules Alicante misura 1 metru è 70 è pesa 60 chilò. 
+Bon hè vera, à vede i ritratiti, si pò avè qualchì dubbitu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

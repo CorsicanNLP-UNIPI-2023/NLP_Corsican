@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Site piuttostu Saint Patrick o San Ghjisè ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Site-piuttostu-Saint-Patrick-o-San-Ghjise_a1061.html"/>
+     <date>
+      Sat, 19 Mar 2011 12:17:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Site piuttostu Saint Patrick o San Ghjisè ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Guiness o panzarotti ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U 17 di marzu hè u ghjornu di a San Patrick, patrone di l'Irlanda. Hè diventata a festa naziunale irlandese è hè celebrata assai da a diaspora irish in America. Hè sopr'à tuttu diventata una festa induve si beie litri è litri di Guiness. 
+U 19 di marzu hè quellu di San Ghjisè, patrone di un quartieru di Bastia. Hè diventata una di e feste impurtante di a cità. Hè sopr'à tuttu diventata una festa induve ci vole à sciaccassi chilò è chilò di panzarotti. 
+Cum'è sempre, e feste religiose sò diventate feste pagane è appena cummerciale. Avà saria piuttostu Santu Guiness è San Panzarottu. 
+È voi allora, qualessu festighjate ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

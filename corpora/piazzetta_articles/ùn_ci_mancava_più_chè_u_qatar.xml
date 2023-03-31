@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ùn ci mancava più chè u Qatar
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Un-ci-mancava-piu-che-u-Qatar_a1628.html"/>
+     <date>
+      Tue, 08 Oct 2013 14:08:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ùn ci mancava più chè u Qatar
+   </head>
+   <div type="excerpt">
+    <p>
+     L'infurmazione l'hà cappiata France 3 : un membre di u guvernu di u Qatar hè in Corsica. Per chì fà ? Micca sigura ch'ella sia per fà u turìsimu o per andà à coglie e castagne...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'infurmazione risicheghja di fà parlà assai. France 3 ci dice chì  un'aviò officiale di u Qatar s'hè postu in Puretta. À bordu ci hè l'anzianu primu ministru è attuale cunsigliere di l'emir. Duveria passà qualchì ghjornu in Corsica. 
+Dop'à essesi cumpratu u PSG è a metà di Parigi, i Qatarì seranu venuti à spulà i so soldi in Corsica. Ma in viaghju o pè investisce ? 
+In Sardegna sapemu ch'elli anu investitu digià in u settore di u turìsimu. 
+Oghje nant'à CNI, Michele Castellani spiega chì a Corsica hè "une machine à recycler les capitaux" 
+Qualchì mese fà, ci puniamu a dumanda si i petrodollari di i paesi arabi ùn avianu micca da esse investiti in Corsica. Sapemu chì elli sò in ricerca d'investiscimenti in ogni parte di u mondu. 
+Casca bè, in Corsica tuttu hè da vende.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

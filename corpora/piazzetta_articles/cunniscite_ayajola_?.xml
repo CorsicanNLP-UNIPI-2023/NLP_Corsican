@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cunniscite Ayajola ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cunniscite-Ayajola_a1548.html"/>
+     <date>
+      Tue, 23 Apr 2013 14:01:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cunniscite Ayajola ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Un solu ministru di u guvernu Ayrault hà una residenza segundaria in Corsica. Marie-Arlette Carlotti hà un appartamentu in... "Ayajola".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A publicazione da u guvernu di u patrimoniu di i ministri ùn avia chè un solu interessu : sapè quale hà una residenza segundaria in Corsica. 
+Per infurmazione ci n'hè più di 73.000 d'appressu à l'INSEE (citatu da U Levante). 
+Nanzu, c'era a casa di i Cahuzac in "la baie de Kenavo " (in Chevanu dunque, cumuna di Pianottuli Caldarellu). 
+S'ampara avà chì a sola à avè qualcosa in Corsica hè Marie-Arlette Carlotti, ministra delegata pè a ministra di l'affari suciali è a salute. Hà dichjaratu un appartamentu di 60 m² in... Ayajola. 
+Kenavo, Ayajola. A trasparenza di u patrimoniu di i ministri avanza, ma micca a lingua corsa.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

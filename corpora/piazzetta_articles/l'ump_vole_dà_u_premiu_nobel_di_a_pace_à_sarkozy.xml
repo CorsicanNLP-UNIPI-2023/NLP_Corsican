@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     L'UMP vole dà u premiu Nobel di a pace à Sarkozy
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/L-UMP-vole-da-u-premiu-Nobel-di-a-pace-a-Sarkozy_a1359.html"/>
+     <date>
+      Tue, 05 Jun 2012 15:12:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    L'UMP vole dà u premiu Nobel di a pace à Sarkozy
+   </head>
+   <div type="excerpt">
+    <p>
+     Eric Raoult prupone di dà u Nobel di a pace à... Nicolas Sarkozy. Tandu, perchè micca u Nobel di leteratura à Gandolfi-Scheit ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'UMP ùn hà paura di nunda. Quandu a nutizia hè cascata, si pudia crede à una magagna. Ma nò, si pò leghje nant'à i siti d'infurmazione chì : Eric Raoult propose Nicolas Sarkozy pour le Nobel de la paix . 
+Purtantu, un premiu Nobel deve ricumpensà e persone chì "anu purtatu un prugressu maiò à l'umanità", ci spiega a pagina web di Wikipedia. À voi di ghjudicà sì Nicolas Sarkozy entre in sta categuria. 
+Tandu, perchè micca dà u Nobel di literatura à Sauveur Gandolfi-Scheit, u Nobel di fìsica à Macel Francisci è a Medaglia Fields di matemàtiche à Anne-Marie Natali ? 
+È s'ellu c'era un Nobel di a custruzzione di stadiu, l'averiamu datu à Emile Zuccarelli.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

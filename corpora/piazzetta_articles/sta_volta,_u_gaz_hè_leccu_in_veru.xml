@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sta volta, u Gaz hè leccu in veru
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Sta-volta-u-Gaz-he-leccu-in-veru_a1536.html"/>
+     <date>
+      Fri, 12 Apr 2013 00:01:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sta volta, u Gaz hè leccu in veru
+   </head>
+   <div type="excerpt">
+    <p>
+     Sì pò dì addiu à u Gazélec. A LFP hà decisu ch'ellu ùn ghjucherà più in Mezavia quist'annu è li caccia trè punti.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U GFCA ùn hè micca un club cum'è l'altri. A partita contr'à Monaco u mese scorsu hè dunque stata l'ultima di l'annu in casa soia. E sanzioni di a LFP sò cascate è a lista hè longa : 
+- Menaces et insultes de François Tagliaglioli à l’encontre de l’arbitre à la mi-temps et à l’issue du match,  - Crachats et insultes des supporters à l’encontre des délégués en début de seconde période,  - Propos menaçants et grossiers de M. Toussaint Luciani, Directeur de la Sécurité, à l’encontre de l’arbitre,  - Refus du Directeur de la Sécurité, M. Toussaint Luciani d’appliquer la décision de l’arbitre, qui avait prononcé l’exclusion de plusieurs personnes à l’attitude agressive situées en bord terrain,  - Agression du quatrième arbitre, frappé à deux reprises à la nuque à l’issue du match par une personne non identifiée,  - Bousculade puis blocage des arbitres par une vingtaine de personnes accréditées et non accréditées sur le terrain à l’issue du match,  - Insultes et menaces de mort proférées par ce groupe à l’encontre des arbitres,  - Insultes et menaces de mort envers les arbitres sur le parking au moment de quitter le stade,  - Insécurité totale du coup sifflet final jusqu’au moment du départ des arbitres du stade,  - Graves dysfonctionnements du service sécurité du GFC Ajaccio et la carence quant à l’identification de l’agresseur du quatrième arbitre. 
+Dopu à u "football total" di l'Ajax d'Amsterdam in l'anni settanta, u GFCA inventa "l'insécurité totale" segondu a LFP. 
+U Gaz hè mortu, ma hè firmatu ellu stessu. Hà dettu merda à Tony Chapron, à Thiriez, à u foot business, à u Qatar, à a videosurveglianza, à i footix è hà da pagalla cara... 
+Curagiu o GFCA !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

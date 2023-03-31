@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Matthew J. Munn
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Matthew%20J.%20Munn"/>
+     <date>
+      2015-07-01T18:07:55Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Matthew J. Munn
+   </head>
+   <p>
+    Matthew J. Munn hè un attore americanu.
+   </p>
+   <p>
+    Munn, Matthew J.
+   </p>
+  </body>
+ </text>
+</TEI>

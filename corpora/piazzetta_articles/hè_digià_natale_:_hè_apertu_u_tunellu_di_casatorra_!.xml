@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hè digià Natale : hè apertu u tunellu di Casatorra !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/He-digia-Natale-he-apertu-u-tunellu-di-Casatorra-_a2481.html"/>
+     <date>
+      Tue, 15 Nov 2016 09:56:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hè digià Natale : hè apertu u tunellu di Casatorra !
+   </head>
+   <div type="excerpt">
+    <p>
+     Tamanta strada ! Hè l'evenimentu maiò di st'ultimi vinti anni in l'isula. A Corsica si ralegra, u murale di l'abitanti di u circondu bastiacciu cresce, a pupularità di l'eletti dinù : hè apertu u tunellu di Casatorra dop'à trè anni di travagli.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U quindeci di nuvembre hè un ghjornu maiò pè a Corsica. Dop'à l'elezzione di Pasquale Paoli è a vittoria di u Sporting in cuppa di Francia, sta data firmerà in i libri di storia. 
+Et qui on est ! Dop'à trè anni di travagli, d'ingorghi, d'azizume è d'angoscia, hè ghjunta l'ora di u Riacquistu Stradale. 
+Nant'à e rete suciale ùn si contanu più i messagi di gioia cù u hashtag #casatorra è i ghjochi di parolle cù "le bout du tunnel". 
+U murale di i Corsi cresce è a pupularità di l'eletti dinù. 
+Sta mane ùn si cuntavanu più l'automobilisti chì passavanu sott'à u tunellu trumbittendu è curnendu cum'è dop'à una vittoria di Bastia contr'à l'OM. 
+Qualchì metru di tunellu chì ci facenu sminticà i tutti i nostri castichi : u disimpiegu, a crisa, a situazione suciale di a Corsica, u Sporting. 
+Imaginate una stonda u ghjornu induv'ellu apre u tunellu di Vizzavona...
+    </p>
+    <p>
+     Festa naziunale : u tunellu di #Casatorra hè apertu pic.twitter.com/Ms3wGdip9U
+— A Piazzetta (@aPiazzetta) 15 novembre 2016
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

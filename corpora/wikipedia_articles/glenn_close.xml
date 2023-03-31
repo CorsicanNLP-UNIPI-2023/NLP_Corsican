@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Glenn Close
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Glenn%20Close"/>
+     <date>
+      2015-07-01T18:42:47Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Glenn Close
+   </head>
+   <p>
+    Glenn Close hè un'attrice americana.
+   </p>
+   <p>
+    Close, Glenn
+   </p>
+   <p>
+    Close, Glenn
+   </p>
+  </body>
+ </text>
+</TEI>

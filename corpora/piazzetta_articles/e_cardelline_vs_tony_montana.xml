@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     E cardelline vs Tony Montana
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-cardelline-vs-Tony-Montana_a1227.html"/>
+     <date>
+      Wed, 07 Dec 2011 11:59:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    E cardelline vs Tony Montana
+   </head>
+   <div type="excerpt">
+    <p>
+     In Corsica ùn avemu micca soldi, ma avemu l'idee. In Furiani, dui omi facianu u trafficu di... cardelline.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ùn hè mancu una magagna è basta à leghje Corse-Matin di u 7 dicembre : Deux voleurs de chardonnerets pris la main dans le sac à Furiani. 
+Dui fratelli chì anu vulsutu imità à Tony Montana anu avutu l'idea luminosa d'inventà un sistema pè chjappà e cardelline. Un sistema degnu di Mac Gyver : un iPhone in un arburu imitava u fischju di l'acelli pè attiralli. Nant'à e branche avianu messu appena di "Super Glue 3" per chjappà l'ocelli. Pareche cardelline sò state chjappe cusì. 
+Ci vole à sapè chì st'ocellu prutettu si vende trà 75 è 150 €. Di chè fà un veru business ! Mancu a Brise de Mer ci avia pensatu. 
+30 anni, fà u gruppu E Cardelline cantava un tube planetariu chjamatu Libertà. V'arricurdate ? Ti vogliu fà una canzunetta... Da vede quì. 
+Oghje, e cardelline si chjappanu cù un iPhone è un tubu d'incolla pè vende nant'à eBay. Campemu un'epica veramente strana...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

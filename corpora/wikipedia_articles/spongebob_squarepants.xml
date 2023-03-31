@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     SpongeBob SquarePants
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/SpongeBob%20SquarePants"/>
+     <date>
+      2019-07-17T22:52:12Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    SpongeBob SquarePants
+   </head>
+   <p>
+    SpongeBob SquarePants hè una seria di televisione d'animazione e cumedia americana creata da Stephen Hillenburg pè Nickelodeon.
+   </p>
+   <p>
+    Televisione
+   </p>
+  </body>
+ </text>
+</TEI>

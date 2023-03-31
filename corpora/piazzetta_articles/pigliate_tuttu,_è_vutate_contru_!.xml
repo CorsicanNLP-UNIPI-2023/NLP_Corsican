@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Pigliate tuttu, è vutate contru !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Pigliate-tuttu-e-vutate-contru-_a1371.html"/>
+     <date>
+      Fri, 15 Jun 2012 18:18:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       LEGISLATIVE-2012
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Pigliate tuttu, è vutate contru !
+   </head>
+   <div type="excerpt">
+    <p>
+     V'anu prupostu un frigò ? Un bonu alimentaru ? Voi pigliate, è vutate contru !
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Bon dimmula franca, frigos pruposti durante a campagna ci n'hè statu pocu. E piazze dinù chì sò diventate rare. Invece, boni alimentarii dati in i quartieri poveri ci n'hè statu parechji... Eccu a prova cun stu ritrattu. 
+Allora chì fà ? A crisa tocca à tutti è un bonu alimentariu di 150 € ùn si pò micca ricusà. U cunsigliu di u ghjornu : voi pigliate, è vutate contru ! 
+Di tutte e manere, a Corsica hè u paese cù a Grecia induve si scambianu di più i cazzotti chè l'idee pulitiche. A meritemu veramente, quessa ? 
+A demucrazia si porta sempre cusì bè in u nostru paese.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

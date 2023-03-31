@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sì face minà è diventa intelligente
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Si-face-mina-e-diventa-intelligente_a1794.html"/>
+     <date>
+      Thu, 15 May 2014 08:57:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sì face minà è diventa intelligente
+   </head>
+   <div type="excerpt">
+    <p>
+     Sì pò esse più intelligente dop'à una cazzuttata ? Iè, ci l'hà pruvata un americanu chì hè diventatu un geniu di e matematiche dop'à essesi fattu tichjà di colpi à un karaoké.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     È sì a viulenza era ghjuviticcia pè u cerbellu ? L'omu hè americanu, hà 43 anni è si chjama Jason Padgett. L'hè accaduta una storia chì ci hè cuntata da u New York Post. 
+Simu in u 2002. Tandu Jason porta i capelli longhi nant'à u tupezzu, u mullet. À a surtita d'un bar, dop'à un karaoké, si face tichjà di colpi (ùn si sà perchè, nè ciò ch'ellu hà cantatu). A cazzuttata hè viulente è casca seccu, incuscente. 
+Ma subbitu dopu, diventa un geniu di e matematiche. Hà sviluppatu una capacità tremenda à analizà. Vede figure geomètriche in ogni locu. U colpu hà discitatu una parte di u so cerbellu chì era adrumintata. 
+Si chjama u "sindroma di u sapiente" (francese " syndrome du savant "). Hè ciò chì tocca l'eroe di u filmu Rain Man, ci dice l'articulu. 
+L'anzianu rivinderolu in un magazinu di mòbuli hè diventatu matemàticu. 
+Bon, attenzione, ùn vale a pena di piglià i vostri figlioli à pattoni per fà cresce a so media in matematiche. E lesioni di u cerbellu sò à una grande magiurità gattive è periculose. Chì una cumuzione cerebrale fessi nasce u sindrome di u sapiente ind'è un omu hè qualcosa d'ancu più raru. 
+Ma hè sigura chì nant'à certi, valeria u colpu di pruvà.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

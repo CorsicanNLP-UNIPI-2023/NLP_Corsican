@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Irlanda
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Irlanda"/>
+     <date>
+      2018-07-28T16:33:40Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Irlanda
+   </head>
+   <p>
+    L' Irlanda hè un paese situatu in Europa.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Peter O'Toole
+   </p>
+   <p>
+    Unioni Auropea
+   </p>
+  </body>
+ </text>
+</TEI>

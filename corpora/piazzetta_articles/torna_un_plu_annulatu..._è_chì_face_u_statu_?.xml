@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Torna un PLU annulatu... è chì face u Statu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Torna-un-PLU-annulatu-e-chi-face-u-Statu_a1130.html"/>
+     <date>
+      Wed, 06 Jul 2011 17:29:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Torna un PLU annulatu... è chì face u Statu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     U PLU di a cumuna di A Sarra di Ferru avia previstu di rende cunstruttìbili 450 èttare di terreni. Stu paese conta purtantu più di 75% di residenze segundarie.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Dop'à Sartè, Bunifaziu è Ulmetu, u tribunale amministrativu di Bastia hà annulatu u PLU di A Sarra di Ferru. 
+Dui sciffri bastanu per capisce : 
+- u pianu d'urbanisimu cuntava rende cunstruttìbili 450 èttare di spazii naturali è di terreni agrìculi. 
+- a cumuna di A Sarra conta più di 75% di residenze segundarie 
+Purtantu, u so merre avia dettu ch'ellu ùn ci n'era abbastanza nant'à u so cumuna nant'à l'onde d'Alta Frequenza, qualchì mese fà. 
+U PLU era attaccatu da l'associ di difesa di l'ambiu U Levante è u GARDE, è dinù a Camera d'agricultura di Corsica Suttana. 
+S'ellu ùn era attaccatu in ghjustizia, nimu ùn averia impeditu a bettunizazione. È durante stu tempu, chì face u Statu pè fà rispettà e lege d'urbanizazione è di rispettu di u liturale ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

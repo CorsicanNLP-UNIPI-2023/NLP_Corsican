@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Thierry Mariani (UMP) indignatu da u statutu di residente
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Thierry-Mariani-UMP-indignatu-da-u-statutu-di-residente_a1760.html"/>
+     <date>
+      Sun, 27 Apr 2014 19:21:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Thierry Mariani (UMP) indignatu da u statutu di residente
+   </head>
+   <div type="content">
+    <p>
+     #Corse.Les citoyens français n'auront donc plus les même droits d'accès à la propriété sur une partie du territoire national. Inadmissible!!
+— Thierry MARIANI (@ThierryMARIANI) 25 Avril 2014   Thierry Mariani (UMP) hè statu u primu deputatu à sprimesi nant'à Twitter in quant'à u statutu di residente : 
+"Les citoyens français n'auront donc plus les même droits d'accès à la propriété sur une partie du territoire national. Inadmissible!!" 
+Cum'ellu a dicia Hubert Tempête : "la fête continue".
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

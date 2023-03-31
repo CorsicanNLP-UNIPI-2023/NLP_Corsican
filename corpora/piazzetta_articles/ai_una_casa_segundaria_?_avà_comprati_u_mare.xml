@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ai una casa segundaria ? Avà comprati u mare
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ai-una-casa-segundaria-Ava-comprati-u-mare_a1902.html"/>
+     <date>
+      Fri, 27 Jun 2014 20:14:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ai una casa segundaria ? Avà comprati u mare
+   </head>
+   <div type="excerpt">
+    <p>
+     Cunnisciamu e custruzzioni illegali, a privatizazione di u liturale, eccu chì ghjunghje a privatizazione di u mare.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     E custruzzioni illegali, quessa, e cunniscite, l'esempii ùn mancanu. 
+A privatizazione di u liturale, quessa dinù, cunniscite. N'avemu parlatu tante volte, è circate d'andà à piglià u sole à a Marana senza passà per un stabilimentu, viderete cum'ellu hè faciule. 
+A privatizazione di u mare, quessa si cunniscia menu. 
+Hè l'associu U Polpu chì nant'à u situ di U Levante ci prevene. Si tratta di parechji prugetti di "mouillages" in Lecci, Petrusella, Piantarella, Rundinara... 
+È l'associu precisa : "hasard ou coïncidence, juste en face de lotissements de résidences secondaires". 
+Un prugressu ? "Ces ports de plaisance, déguisés en mouillages organisés, vont souiller par les déjections produites les eaux cristallines des plus beaux golfes. Serions-nous destinés à patauger dans les rejets d’hydrocarbure, les matières fécales et les staphylocoques dorés ?" 
+Bon, di tutte e manere, à u mare, ùn pudete più andacci : "entre les sentiers du littoral inexistants ou condamnés, les accès par la terre interdits par des murs hérissés de caméras et, pour les petites plages (exemple Cala Purcili) les accès par mer barrés par ces zones de mouillage privé, y arriver relève du parcours du combattant très aguerri ! Si malgré tout on a passé avec succès l’épreuve « du feu », reste à affronter certains cerbères, qui surveillent, l’aboiement incendiaire aux lèvres ou plus grave , la menace la plus dissuasive à bout de bras." 
+Dop'à a terra dunque, u mare. "A la dépossession accélérée de la terre, course frénétique au profit, vient se greffer aujourd’hui la mainmise sur les espaces marins." 
+Oghje, hè U Riacquistu di Portivechju chì in una cunferenza di stampa chjama à una mubilizazione. Sò i prupietarii di residenze segundarie in Palombaghja, Cala d'Oru è Punta d’Oru chì si sò custituiti in associu per pudè organizà sti "mouillages". 
+A municipalità dice di sì, u Statu lascia fà.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

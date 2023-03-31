@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A cacata di a SNCF
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-cacata-di-a-SNCF_a1823.html"/>
+     <date>
+      Wed, 21 May 2014 19:04:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A cacata di a SNCF
+   </head>
+   <div type="excerpt">
+    <p>
+     Dapoi eri a SNCF passa un bruttu mumentu. A so cummanda di treni troppi larghi face passà l'intrapresa à a risa. Vi face pensà à qualcosa ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Dapoi eri a SNCF hè à a risa nant'à e rete suciale. Hè u Canard Enchaîné chì hà datu a nutizia. 
+A cummanda di treni troppu larghi i vede in l'obligazione di fà travaglii in e gare. Si tratta d'una cummanda di 2000 TER. 
+Ci vulerà à zuccà i scalini di 1300 gare per chì i treni passinu. È custerà circa 50 milioni d'euri... 
+Ind'è noi aviamu avutu l'AMG 800 chì anu avutu parechji prublemi nanzu d'esse stati messi in circulazione. Avà viaghjanu, ma c'era vulsutu à fà travagli per ch'elli passinu sott'à dui tunnelli. 
+Bon và bè, eranu dui tunnelli (nant'à 56). Hè custata menu caru ch'è a cacata di a SNCF. 
+In quant'à i cunduttori di camping-car troppu cunfidenti in i tunnelli di Corsica, ùn ne parlemu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

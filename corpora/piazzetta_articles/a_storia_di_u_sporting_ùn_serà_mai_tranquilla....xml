@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A storia di u Sporting ùn serà mai tranquilla...
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-storia-di-u-Sporting-un-sera-mai-tranquilla_a2018.html"/>
+     <date>
+      Fri, 07 Nov 2014 08:51:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A storia di u Sporting ùn serà mai tranquilla...
+   </head>
+   <div type="excerpt">
+    <p>
+     Eccu, Antonetti hà dettu di nò. Hè una surpresa, è u Sporting si ritrova una manu in daretu, una manu in davanti...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè u generu di discussione chì piace tantu à i Corsi. Di quandu in quandu, s'infiaranu cusì. Dop'à l'affare di a bandera, eccu l'affare Antonetti, è nant'à e rete suciali quandu a nutizia hè cascata era a depressione generale. 
+U Padduc ? L'avvene di a Corsica ? A scelta di sviluppu pè e generazioni à vene ? A precarità chì cresce ? A droga ? A sucetà chì si sprufonda ? Tuttu què ci pare segundariu à cant'à a scelta di l'intrenore. 
+Ci vole à dì chì u mughjone di Casinca avia u prufilu pè ripiglià a squadra, azezu cum'ellu ci vole, pronti à tirà unepochi di mughji à un gruppu chì hà bisognu d'esse scuzzulatu. 
+Ma Fred hà dettu di nò, è nimu l'aspettava. In quattru ore di riflessione cù i dirigenti è dui ghjorni di riflessione, hà avutu u tempu di fà u giru di a quistione. 
+À Corse-Matin hà spiegatu perchè : 
+"Nos projets pouvaient coller mais il y a avait trop de choses à rectifier. Je ne pensais pas pouvoir m’intégrer dans le fonctionnement actuel en pleine situation d’urgence... 
+Mais ce n’est pas l’envie qui manquait. J’ai passé deux nuits sans dormir, deux jours sans manger. Je suis meurtri moi aussi. Mais les conditions n’étaient pas réunies. Vraiment. Ce n’est pas que la situation me fasse peur. A mon âge, j’en ai vu d’autres. Mais c’est l’urgence, l’impossibilité de construire. J’ai dit non et je le regrette déjà. Mais je préfère dire non, le regretter et ne pas être dans la difficulté. Que dire oui, le regretter et souffrir. C’est ça mon raisonnement." 
+Eccu, quessa hè fatta. È avà ? Chì hè u "pianu B" per evità a falata ? 
+S'è vo vi n'erate scurdati, a vita di u Sporting ùn serà mai tranquilla...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

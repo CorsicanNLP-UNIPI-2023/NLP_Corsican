@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Caffè lingua corsa in Bastia
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Caffe-lingua-corsa-in-Bastia_a1818.html"/>
+     <date>
+      Tue, 20 May 2014 12:00:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Caffè lingua corsa in Bastia
+   </head>
+   <div type="content">
+    <p>
+     U bar L'Accolta in Bastia organizeghja un Caffè lingua corsa venneri sera in Bastia, à l'ora di l'apperitivu. 
+L'anu fatta sapè nant'à Facebook è dicenu : Venite à pruvà di parlà a vostra lingua, per una stonda di spartera in un ambiu nustrale. 
+Eccu un'iniziativa da salutà. È vi scambierà di e sempiterne ambianze "lounge &amp; sushis" ch'ellu si vede da per tuttu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

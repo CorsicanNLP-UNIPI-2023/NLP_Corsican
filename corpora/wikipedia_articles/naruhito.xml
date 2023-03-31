@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Naruhito
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Naruhito"/>
+     <date>
+      2019-06-13T15:39:00Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Naruhito
+   </head>
+   <p>
+    Naruhito (natu in Tokiu u 23 di Ferraghju di u 1960) hè l'imperatore di u Giapponu dapoi u 1 di maghju di u 2019.
+   </p>
+  </body>
+ </text>
+</TEI>

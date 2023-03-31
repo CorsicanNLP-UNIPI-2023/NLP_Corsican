@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Auguri di l'annu novu : quantu avete mandatu SMS ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Auguri-di-l-annu-novu-quantu-avete-mandatu-SMS_a991.html"/>
+     <date>
+      Sat, 01 Jan 2011 17:15:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Auguri di l'annu novu : quantu avete mandatu SMS ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Novu record di 400 milioni sms mandati sta notte... ma quantu scimie pigliate ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Quist'annu, cum'è annu passatu, u record di SMS inviati pè l'auguri di l'annu novu hè statu battutu. 400 milioni di textos ci dice l'AFP. 
+400 milioni di SMS, ma quantu "pace è salute" ? I trè operatori ùn a ci diceranu micca, ma quist'annu torna, u picculu "pace è salute" mandatu hè statu u tube di a notte di San Silvestru in Corsica. 
+Quantu SMS anònimi è micca signati (ma quale serà quessu ?), quantu SMS ricevuti da nùmeri scunnisciuti, quantu SMS chì ùn duvianu micca parte è chì sò stati mandati, quantu sbaglii d'inviu... Ùn a saperemu mai. 
+Eppò quantu SMS mandati in burdata nera, quantu SMS chì sentenu u champagne caldu, quantu SMS mandati da ghjente incustumata, faticata, sbragagliulata è piena di cotillons in i capelli ? Quantu SMS mandati sta mane chì sèntenu a scimia ? 
+Sta notte hè stata quella di u record di SMS inviati, di litri di champagne beti, di pena in capu sta mane, è di persone chì sò finite in garde à vue (più di 500 d'appressu à u ministeriu). È voi, cumu avete finitu ? 
+Pace è salute quantunque !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

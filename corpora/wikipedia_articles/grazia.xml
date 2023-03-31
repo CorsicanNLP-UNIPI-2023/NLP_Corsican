@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Grazia
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Grazia"/>
+     <date>
+      2008-02-23T17:09:30Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Grazia
+   </head>
+   <p>
+    ==Citazioni==
+   </p>
+   <p>
+    Accade chì a grazia fussi mintuvata in a litteratura o a cultura corsa. Par asempiu:
+   </p>
+   <p>
+    in u pruverbiu: U celi hè fattu à scala A pricantula codda, a grazia fala. (di dici cusì in Sartè) (Saravelli-Retali 1976)
+   </p>
+   <p>
+    ==Rifarenzi==
+   </p>
+   <p>
+    Saravelli-Retali, 1976, A vita in Corsica cù i pruverbii è i detti - La vie en Corse à travers proverbes et dictons, Nice: Don Bosco
+   </p>
+  </body>
+ </text>
+</TEI>

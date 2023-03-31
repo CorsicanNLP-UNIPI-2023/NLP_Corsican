@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     GX Culioli : "Le statut de résident est une tarte à la crème"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/GX-Culioli-Le-statut-de-resident-est-une-tarte-a-la-creme_a1769.html"/>
+     <date>
+      Wed, 30 Apr 2014 00:58:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    GX Culioli : "Le statut de résident est une tarte à la crème"
+   </head>
+   <div type="content">
+    <p>
+     In un'intervista à Bakchich, Gabriel-Xavier Culioli face u puntu : pulitica, viulenza, speculazione, clanisimu, naziunalisti, Giacobbi, maffia... GXC dà a so analisa. 
+S'è vo site felice, c'hè vo credite in l'avvene, ch'è vo site ottimistu, leghjite puru chì vi calmerà. 
+S'è vo site in depressione, andate piuttostu à ghjucà à Candy Crush. 
+Da leghje quì
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

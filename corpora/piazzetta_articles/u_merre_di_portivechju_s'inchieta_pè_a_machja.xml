@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U merre di Portivechju s'inchieta pè a machja
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-merre-di-Portivechju-s-inchieta-pe-a-machja_a1491.html"/>
+     <date>
+      Sun, 03 Feb 2013 21:12:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U merre di Portivechju s'inchieta pè a machja
+   </head>
+   <div type="excerpt">
+    <p>
+     In l'emissione Dimanche+, Georges Mela hè inchietu : "C'est bien lorsqu'on parle de développement durable, de préservation des sites pour les générations futures... mais à un moment donné, on ne peut pas transmettre que du maquis !"
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Georges Mela hà a paura, è hà ragiò. Ch'avemu da lascià cum'è paese à e generazione à vene ? Eccu una dumanda interessante, è troppu pochi sò à ponesila in Corsica. 
+Per una volta ch'un elettu hè primurosu di l'avvene di i nostri figlioli ! Ch'averemu da lascialli cum'è paese? 
+Un paese poveru è senza identità, chì averà persu a so lingua ?  Un paese arruvinatu da a speculazione è u tuttu bettonu ?  Un paese induve e terre agrìcule averanu smaritu, manghjate da e villà, l'immòbuli è e zone cummerciale? 
+Georges Mela s'inchieta, hà a paura d'ùn lascià à i so figlioli chè terreni di machja. 
+Ch'ellu dormi puru tranquillu, lascerà à e generazioni future un bellu paese induv'ellu ci serà di più parpaings chè di machja. 
+Tuttu và bè. 
+Da vede in L'emissione Dimanche+ di Canal :
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

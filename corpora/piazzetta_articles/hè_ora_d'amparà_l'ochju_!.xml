@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hè ora d'amparà l'ochju !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/He-ora-d-ampara-l-ochju-_a1659.html"/>
+     <date>
+      Tue, 24 Dec 2013 13:17:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hè ora d'amparà l'ochju !
+   </head>
+   <div type="excerpt">
+    <p>
+     Una volta fatte e vostre spese à l'ultimu, manghjatu u "tizzone di Natale" è aperti i rigali, pensate à amparà l'ochju. Hè sta sera à mezanotte, o mai !
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Natale ùn hè micca solu un mumentu di tichjina è di cunsumazione à buzeffu. Hè ancu una festa religiosa (vi ne site scurdati ?). 
+Ma hè dinù a vigilia di Natale à mezanotte ch'ella s'ampara a preghera di l'ochju. Bon, ùn ci vole micca à dilla à u vescu di Corsica Olivier de Germay, entratu in guerra contr'à sta cridenza, ma ùn vi scurdate ch'ella si passa sta sera. 
+L'ochju hè una vechja cridenza, spapersa in tuttu u Mediterraniu chì hè trasmessa cun u "sguardu" d'una persona ghjelosa o invigliosa. Ma si pò ancu innuchjà à qualchissia senza vulella, in francese "mauvais oeil". 
+Per caccià l'ochju esistenu parechje manere è parechje preghere. A più cunnisciuta essendu quella cun l'oliu. 
+Per quelli chì ci credenu, a prigantula di l'ochju hè efficace. Per l'altri, lasciate corre. 
+S'è vo vulete amparà a preghera ùn vi ne scurdate. Dopu serà troppu tardi. Si pò amparalla per iscrittu (ma u lindumane ci vole à straccià a carta) è ùn ci hè micca applicazione iPhone per quessa. 
+È voi, ci cridite ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

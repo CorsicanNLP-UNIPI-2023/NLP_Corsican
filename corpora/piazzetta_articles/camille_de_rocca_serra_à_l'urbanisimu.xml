@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Camille de Rocca Serra à l'urbanisimu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Camille-de-Rocca-Serra-a-l-urbanisimu_a1734.html"/>
+     <date>
+      Fri, 18 Apr 2014 22:16:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Camille de Rocca Serra à l'urbanisimu
+   </head>
+   <div type="content">
+    <p>
+     Si cunnoscenu e delegazioni di a municipalità di Portivechju. Hè u situ Alcudina chì a ci dice. 
+Camille de Rocca Serra serà in carica di l'urbanisimu è a planificazione strategica. 
+Cum'ellu a scrive l'autore di l'articulu : "Les associations de l’environnement vont apprécier la nomination de celui qui voulait « désanctuariser » le littoral Corse". Hè detta. 
+I parpaings sò prumessi à un bellu avvene in Portovèque. 
+Fiura : www.unita-naziunale.org
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

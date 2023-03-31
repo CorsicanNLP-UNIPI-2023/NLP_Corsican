@@ -1,0 +1,86 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     I primi ritratti di e manifestazione in Corsica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/I-primi-ritratti-di-e-manifestazione-in-Corsica_a2120.html"/>
+     <date>
+      Sun, 11 Jan 2015 15:37:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    I primi ritratti di e manifestazione in Corsica
+   </head>
+   <div type="content">
+    <p>
+     CNI annunzia 4000 persone in Bastia
+4000 personnes dans les rues de Bastia pic.twitter.com/bMPWx1XLVJ
+— Corse Net Infos (@corsenetinfos) 11 Janvier 2015
+    </p>
+    <p>
+     #SòCharlie #CharlieHebdo #JeSuisCharlie en direct de bastia pic.twitter.com/AZPYHTzQPy
+— Sere' ✏ (@Serenuccia2b) 11 Janvier 2015
+    </p>
+    <p>
+     Plusieurs millers de personnes a Bastia ! Une marée humaine. #JeSuisCharlie pic.twitter.com/nvn4mtpUIx
+— Lėo Battesti (@Battestileo) 11 Janvier 2015
+    </p>
+    <p>
+     France 3 parla di 5000 persone Piazza Santu Niculà
+#SimuTuttiCharlie La foule immense 5.000 personnes sur la place St.Nicolas à #Bastia #JeSuisCharlie pic.twitter.com/PgMAEy6cXu
+— France 3 Corse (@FTViaStella) 11 Janvier 2015
+    </p>
+    <p>
+     Simu Charlie. #JeSuisCharlie #Bastia pic.twitter.com/5VSx0tZpFn
+— JP Ribaut-Pasqualini (@De_lege_lata) 11 Janvier 2015
+    </p>
+    <p>
+     Un striscone "ùn avemu paura"
+Nous n'avons pas peur #JeSuisCharlie pic.twitter.com/EyC3ZpRJlP
+— JP Ribaut-Pasqualini (@De_lege_lata) 11 Janvier 2015
+    </p>
+    <p>
+     Assai mondu in Aiacciu...
+#SimuTuttiCharlie A #Ajaccio, le cortège se met en place derrière la banderole "Liberté Fraternité" pic.twitter.com/kmEcBJpR0J
+— France 3 Corse (@FTViaStella) 11 Janvier 2015
+    </p>
+    <p>
+     10 o 12.000 d'appressu à Alta Frequenza
+10 à 12 000 personnes défilent dans les rues d'Ajaccio ! #JeSuisCharlie #SocuCharlie pic.twitter.com/8E3Q1NUGrb
+— Alta Frequenza (@alta_frequenza) 11 Janvier 2015
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

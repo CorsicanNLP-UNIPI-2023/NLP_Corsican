@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A passione di u goffu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-passione-di-u-goffu_a1139.html"/>
+     <date>
+      Sat, 30 Jul 2011 11:08:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A passione di u goffu
+   </head>
+   <div type="excerpt">
+    <p>
+     In Corsica semu i più forti pè rende goffu ciò chì l'antichi avianu fattu di cusì bellu. Ancu in i paesi, corre u bettonu... Sta volta, semu in Bisinchi.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cumu serà chì i Corsi sò diventati cusì forti pè arruvinà u so patrimoniu ? 
+Pigliate un chjassu, à mezu à u paisolu di Vignale, cumuna di Bisinchi. 
+Piuttostu ch'è di rifà una ricciata à l'usu anticu (sapete, un chjassu di petre arritte), à mezu à i so pagliaghji è e so case di petre, ebbeh pigliate una bétoneuse, fate macinà durante qualchì minutu è lampate tuttu à rioccu : ottenite un magnificu scumpientu di cimentu armatu bellu goffu, à l'usu corsu d'oghje. 
+Francamente, chì si pudia fà di peghju ? 
+Sì voi dinù site testimoni di un bellu arruvinamentu, mandateci i vostri ritratti : apiazzetta@free.fr
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

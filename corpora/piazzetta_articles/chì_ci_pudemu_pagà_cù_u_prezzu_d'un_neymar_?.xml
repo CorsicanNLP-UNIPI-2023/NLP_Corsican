@@ -1,0 +1,71 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chì ci pudemu pagà cù u prezzu d'un Neymar ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Chi-ci-pudemu-paga-cu-u-prezzu-d-un-Neymar_a2612.html"/>
+     <date>
+      Fri, 04 Aug 2017 00:13:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chì ci pudemu pagà cù u prezzu d'un Neymar ?
+   </head>
+   <div type="excerpt">
+    <p>
+     U bresilianu Neymar hè dunque diventatu u futbalore u più caru di a storia : 222 milioni d'€ per u so trasferimentu da u FC Barcelona à u PSG. È u so costu colla à 700 milioni nant'à cinque anni, s'ellu si conta a so paga (30 milioni à l'annu) in più di e prime, cariche, cutizazione suciale ecc...).
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cù una paga di 30 M€/annu, face 576 000 €/settimana sia guasi l'equivalente d'una vita di SMIC à settimana. 
+Nunda ch'è cù i soldi di u so trasferimentu, noi ci puderiamu pagà : 
+2 ospidali (costu di quellu d'Aiacciu : più di 80 M€) 
+3 bugetti di a cità di Bastia (70 M€) 
+5 matrali idroelettrichi (costu 45M€) 
+10 tufoni in e casce di u Sporting Club di Bastia (23 M€ di debbite) 
+16 mini tunnelli di Furiani (costu : 13 M€) 
+21 centri culturali (costu di l'Alboru di Bastia : 10,5 M€) 
+222 rifugi di u GR20 rifatti da novu (costu previstu da u PNRC per 1 rifugiu : 1M€) 
+222 case illegali in Rundinara (costu di l'amenda Ferracci : 1 M€) 
+1 annu è mezu di volu di Canadair (costu pè un'ora : 16.000 €) 
+15 800 anni di publicazione di A Piazzetta (à ragiò di quattru numeri à l'annu) 
+16 099 anni di Smic 
+888 000 cappiati di torymus sinensis (costu d'un cappiatu : 250 €). À stu prezzu tutti i castagneti di Corsica sò salvi) 
+Ci hè qualcosa chì ùn và in u mondu di u futbol prufessiunale. In fine di contu, u Sporting si n'hè andatu à tempu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

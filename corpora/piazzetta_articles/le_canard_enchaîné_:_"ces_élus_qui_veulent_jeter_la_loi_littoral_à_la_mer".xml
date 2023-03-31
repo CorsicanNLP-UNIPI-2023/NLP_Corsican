@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Le Canard Enchaîné : "Ces élus qui veulent jeter la loi littoral à la mer"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Le-Canard-Enchaine-Ces-elus-qui-veulent-jeter-la-loi-littoral-a-la-mer_a1934.html"/>
+     <date>
+      Tue, 02 Sep 2014 11:41:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       betonisation_corse/
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Le Canard Enchaîné : "Ces élus qui veulent jeter la loi littoral à la mer"
+   </head>
+   <div type="excerpt">
+    <p>
+     S'hè parlatu di i sforzi ch'elli facenu l'eletti (di diritta è di manca) pè dà u so contu à a lege liturale, in u Canard Enchaîné di a settimana scorsa. È induvinate chè ? Si parla (appena) di a Corsica. Bona lettura.
+    </p>
+   </div>
+   <div type="content">
+   </div>
+  </body>
+ </text>
+</TEI>

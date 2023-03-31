@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Goran Višnjić
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Goran%20Vi%C5%A1nji%C4%87"/>
+     <date>
+      2015-07-01T19:19:34Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Goran Višnjić
+   </head>
+   <p>
+    Goran Višnjić hè un attore croatu.
+   </p>
+   <p>
+    Višnjić
+   </p>
+  </body>
+ </text>
+</TEI>

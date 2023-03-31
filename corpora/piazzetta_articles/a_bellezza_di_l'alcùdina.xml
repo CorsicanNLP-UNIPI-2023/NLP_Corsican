@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A bellezza di l'Alcùdina
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-bellezza-di-l-Alcudina_a1251.html"/>
+     <date>
+      Sun, 22 Jan 2012 19:44:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A bellezza di l'Alcùdina
+   </head>
+   <div type="excerpt">
+    <p>
+     Cunniscite stu capu d'opera di u cantu tradiziunale corsu ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'Alcùdina (ribattizata oghje "Incudine"...) hè a muntagna mìtica di l'Alta Rocca è di l'altu Tàravu. Terra di pastori, hà inspiratu sta canzona, chì Canta u Populu Corsu hà resu cèlebre in u so discu "Eri oghje è dumane" in u 1975. 
+A canzona hè un omagiu à a bellezza di i lochi. 
+U musicòlocu Félix Quilici l'hà arregistrata in u 1949. Hè un giuvanottu di Zìcavu chì canta, hà 11 anni tandu. Si chjama Francescu Bianconi. A so interpretazione si passa di cummenti. Quilici hà parlatu d'una "mélodie orientalisante", unica in i canti tradiziunali corsi. 
+Più di 60 anni dopu, u CMT di Corsica (Centre de Musiques Traditionnelles de Corse) hà turnatu à truvà à Francescu Bianconi chì canta Alcùdina. 
+Hè siguramente unu di i più belli giuielli di a nostra antica tradizione pupulare. 
+Da vede : e videò di u CMT nant'à Youtube
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

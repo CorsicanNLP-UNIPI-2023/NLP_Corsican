@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     25.000 Corsi sò partuti à u ski, ma manghjanu e paste
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/25-000-Corsi-so-partuti-a-u-ski-ma-manghjanu-e-paste_a1283.html"/>
+     <date>
+      Mon, 27 Feb 2012 11:49:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    25.000 Corsi sò partuti à u ski, ma manghjanu e paste
+   </head>
+   <div type="excerpt">
+    <p>
+     A crisa ? Chì crisa ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Corse-Matin ci ampara chì sò 25.000 i Corsi à esse partuti pè e vacanze di ferraghju. 
+L'aviò è i battelli sò partuti da Corsica pieni à tappu pè e stazioni di neve, pè Disneyland o pè Bali. 
+Sapete, a Corsica hè stu paese induve a vita hè più cara chè in altrò, induve u disimpiegu hè forte, induve ci sò 30.000 precarii, induve l'abitanti si lagnanu ch'elli ùn ponu più cumprà un pezzu i a so terra... 
+Mentre chì muvimenti d'indignati poveri nascenu in ogni locu, chì a Grecia pate a fame, noi ci tichjemu di crediti ind'è Sofinco. 
+Tuttu què pè pudè mette nant'à Facebook i ritratti di Courchevel o di Phuket...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

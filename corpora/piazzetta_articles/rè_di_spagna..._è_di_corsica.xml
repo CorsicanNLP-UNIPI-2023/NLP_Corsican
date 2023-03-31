@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Rè di Spagna... è di Corsica
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Re-di-Spagna-e-di-Corsica_a1891.html"/>
+     <date>
+      Thu, 19 Jun 2014 11:12:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Rè di Spagna... è di Corsica
+   </head>
+   <div type="excerpt">
+    <p>
+     A sapitate ? U rè di Spagna porta u tìtulu di rè di Corsica. O piuttostu di "rey de Còrcega".
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Bon và bè a Spagna ùn stà tantu bè. S'hè fatta caccià da u mundiale brasilianu dop'à dui macci senza gloria. Ma a sapiate ch'è no eramu sugetti di u reame di Spagna ? 
+Felipe VI hè u novu rè, è hè dinù appena u nostru. Porta u tìtulu di "rè di Corsica". 
+Hè vera chì a lista officiale di e so pruvince hè appena longa : 
+"Rey de Castilla, de León, de Aragón, de las dos Sicilias, de Jerusalén, de Navarra, de Granada, de Toledo, de Valencia, de Galicia, de Cerdeña, de Córdoba, de Córcega, de Murcia, de Jaén, de los Algarves, de Algeciras, de Gibraltar, de las Islas Canarias, de las Indias Orientales y Occidentales, de las islas y tierras firmes del Mar Océano ; Archiduque de Austria ; Duque de Borgoña, de Brabante, de Milán ; Conde : de Habsburgo, de Flandes, del Tirol, de Rosellón, de Barcelona ; Señor de Vizcaya y de Molina" 
+Perchè tutti sti tìtuli ?  Hè sopr'à tuttu simbòlicu. Sò i so antichi chì li anu trasmessu tutti sti tìtuli, è ci n'hè assai. Ci hè a Corsica, ma ci hè dinù a Sardegna, u Roussillon, di Gerusaleme ecc... Ùn hè micca dumane chì a Spagna hà da annuncià a ricunquista di ste terre. 
+Perchè rè di Corsica ?  Tramanda à u medievu è a i tempi di a Corsica aragunese. Parechje putenze sì battenu in u Mediterraniu : Pisa, Genuva, ma dinù l'Aragone. 
+In u 1297 u papa Bunifaziu VIII dà a Corsica è a Sardegna à u rè d'Aragone è crea u "Reame di Corsica è Sardegna". Ma sì l'Aragunesi si stallanu in Sardegna, ùn veneranu micca ind'è noi. 
+À u XVu seculu, a Corsica hè sott'à a duminazione di Genuva, ma in Corsica ci n'hè chì sò pro-Aragone. Hè u casu di Vincentellu d'Istria (1380-1434) chì averà passatu a so vita à fà a guerra à Genuva. Vincentellu porta u tìtulu di vice-rè di Corsica, ch'ellu si sparte cù u rè d'Aragone. Ma custì dinù a tentativa di mette a manu nant'à a Corsica ùn viaghja micca, i Genuvesi piglianu a suprana. 
+Allora, u Rè di Spagna pò turnà à piglià a Corsica à a Francia ? È u Barça di ghjucà in Furiani ?  È Bastia di ghjucà in a Liga ? Perchè micca ? Ci vuleria à cummincià per neguzià cun Hollande. Ma i Francesi si sò pressati di dì chì "ce titre est totalement folklorique" (da vede a videò d'Europe 1 ). 
+O Felipe, mostrali qual'hè tù sì !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

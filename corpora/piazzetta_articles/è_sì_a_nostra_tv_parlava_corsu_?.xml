@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È sì a nostra tv parlava corsu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-si-a-nostra-tv-parlava-corsu_a1827.html"/>
+     <date>
+      Sun, 25 May 2014 18:49:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       VIDEO
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È sì a nostra tv parlava corsu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     È sì a nostra televisiò parlava corsu ? Micca solu Via Stella, ma TUTTA a nostra tv ? Eccu u filmettu ch'è no avemu fattu cù Turchini TV pè a manifestazione di Parlemu Corsu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     È leghjite u testu di l'intervenzione di Pierre-Laurent Santelli, in nome di l'associ di difesa di l'ambiu, à a serata di Parlemu Corsu. 
+Pè u resucontu di a ghjurnata, si passa quì.
+    </p>
+    <p>
+     S'elli ci sò prublemi di visualizazione cù sta video, eccula nant'à Youtube :
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

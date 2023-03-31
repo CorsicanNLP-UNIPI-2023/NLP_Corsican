@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Jorge Pedreros
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Jorge%20Pedreros"/>
+     <date>
+      2015-07-01T19:30:18Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Jorge Pedreros
+   </head>
+   <p>
+    Pedreros Jorge Arnaldo Aviles (1942-2013) hè un attore cilenu.
+   </p>
+   <p>
+    Pedreros
+   </p>
+  </body>
+ </text>
+</TEI>

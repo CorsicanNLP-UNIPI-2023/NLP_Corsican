@@ -1,0 +1,53 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È dop'à u focu, venerà l'acqua
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-dop-a-u-focu-venera-l-acqua_a2644.html"/>
+     <date>
+      Mon, 18 Sep 2017 23:20:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È dop'à u focu, venerà l'acqua
+   </head>
+   <div type="excerpt">
+    <p>
+     Da quì à pocu veneranu e forte pioge, è sò e fureste chì prutegenu u più contr'à e fiumare. È hè dinù per quessa ch'è no avemu interessu à luttà contr'à u focu.
+    </p>
+   </div>
+   <div type="content"/>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hyacinthe Mattei è "l'homme à l'écharpe rouge"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Hyacinthe-Mattei-e-l-homme-a-l-echarpe-rouge_a1737.html"/>
+     <date>
+      Sat, 19 Apr 2014 17:20:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hyacinthe Mattei è "l'homme à l'écharpe rouge"
+   </head>
+   <div type="content">
+    <p>
+     A situazione ùn s'hè micca appaciata in Balagna. Dop'à l'elezzione municipale cuntestata in L'Isula, si duvia vutà pè a presidenza di a cummunità di cummune. Ma ci hè statu u cumbugliu, a ci spieca Corse Net Infos. 
+Hyacinthe Mattei hà una spiecazione ch'ellu dà à Télé paese : certi eletti vanu à piglià l'ordine ind'è "l'homme à l'écharpe rouge". 
+Parla dinù di "chantage à la subvention" è di "système qui gangrène la Corse et il amène la violence". 
+Per infurmazione "l'homme à l'écharpe rouge" ùn hè micca Christophe Barbier. 
+Da vede in u nutiziale di Télé Paese
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hè esciutu U Zazu !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/He-esciutu-U-Zazu-_a1113.html"/>
+     <date>
+      Thu, 09 Jun 2011 13:58:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hè esciutu U Zazu !
+   </head>
+   <div type="excerpt">
+    <p>
+     Cumu si dice "mots croisés" in corsu ? "Incrucittimi" ! Hè esciutu u nùmeru 1 di U Zazu, u primu giurnale di ghjochi di parolle in lingua corsa.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Dop'à U Vagabondu, hè natu un giurnale novu in lingua corsa ! Fà un giurnale di ghjochi (incrucittimi è imbuleghji) in corsu, hè l'idea appena scema di Jérémy, dettu U Zazu. L'avemu postu qualchì dumanda per avè u so parè. 2.80 € ogni mese, in vèndita in u mondu sanu è in Corsica dinù. 
+Cumu t'hè venuta l'idea di fà stu giurnale ?  Quand'eru più giòvanu, faciu e stagione d'istate in i caffè è quand'ùn c'era nimu, per passà u tempu, mi socu messu pocu à pocu à pruvà di fà e griglie di u Corse-Matin. À u princìpiu ùn truvavu chì 2 o 3 parolle, ciò chì m'annerbava assai, ma à rombu d'andà à vede e suluzione è di circà in i dizziunari, aghju cumminciatu à capisce i "còdici" di u ghjocu è socu riesciutu, via via, à compie e mo griglie. Aghju amparatu tante cose à nantu à a lingua francese è a cultura generale. Tandu, mi socu dettu chì stu ghjocu saria un vettore educativu maiò per a nostra lingua e a nostra cultura. Di più, dopu à esse diventatu un assu di l'incrucittimi, mi socu avvistu ch'ùn vinciu mai i rigali di i cuncorsi è ch'ùn c'era mai vincitori in Corsica (senza vulè fà a linguaccia), eppuru n'aghju mandatu SMS è ticchetti di risposta... Di u colpu, aghju cumminciatu à riflette à una specia di "Télé 7 jeux" in lingua nustrale incù belli rigali è rùbriche in più. 
+Chì vole dì "u zazu" ?  Nunda, hè solu u numìgnulu chì m'hà datu u mo fratellu quand'eramu zitelli ma pensu chì manc'ellu ùn ne cunnosce u sensu... Forse sarà un "zézé" cursizatu (cusì mi chjamavanu i maiò à l'èpica). 
+Chì sò i to prugetti per i prussimi nùmeri ?  Stabilisce livelli di ghjocu è manere di ghjucà sigondu à i cummenti di i ghjucatori, pruvà di fà altri ghjochi in corsu (anagramma, induvinella...), aghjunghje ci altre rùbriche, fà pìccule griglie facìule per i zitelli incu disegni per definizione... Ma prima ci vole à passà l'istate dibattendu tutti inseme di e parolle utilizate per chì tuttu ognunu poschi capisce è ghjucà da Bunifàziu à Macinaghju... N'aghju digià a pena in capu ! Ma, incu a so vulintà, spergu di riesce à fà ghjucà è cumunicà tutti i corsi trà di elli à traversu u ghjocu. 
+Ch'ai manghjatu à meziornu ?  Cum'è ogni ghjornu : una bella fetta di dizziunàriu è un pezzu di clown ma ti vuliu dumandà d'invità mi à manghjà ind'è tè chì u tòiu mi pare megliu !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

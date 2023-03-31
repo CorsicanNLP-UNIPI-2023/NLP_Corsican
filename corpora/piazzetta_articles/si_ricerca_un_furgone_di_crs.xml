@@ -1,0 +1,55 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Si ricerca un furgone di CRS
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Si-ricerca-un-furgone-di-CRS_a1813.html"/>
+     <date>
+      Sun, 18 May 2014 12:26:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Si ricerca un furgone di CRS
+   </head>
+   <div type="content">
+    <p>
+     Un furgone di CRS hè statu... persu. 
+Hè in Vaucresson (Hauts-de-Seine) chì a camiunetta hè smarita. Ùn si sà s'ella hè stata arrubata, plasticata, o vinduta nant'à Le Bon Coin. Hè Europe 1 chì hà datu l'alarma. 
+Un'inchiesta hè stata aperta è i pulizzeri cercanu. 
+S'hè vo vidite dunque un furgone Renault di tippu "Trafic" induve ci hè scrittu nantu "Police", à ringraziavvi di signallalu à a pulizza.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Dundee
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Dundee"/>
+     <date>
+      2015-07-02T16:58:39Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Dundee
+   </head>
+   <p>
+    Dundee (Dùn Dèagh in gaelicu scuzzese) hé a quarta cità scuzzese per pupulazione cù 150.000 abitanti.
+   </p>
+   <p>
+    Si trova nant’a costa à u livente di a Scozia induve u fiumu Tay si lampa in u Mare di u Nordu.
+   </p>
+   <p>
+    == Da vede ==
+   </p>
+   <p>
+    Torre di S. Mary (Old Steeple, seculu XIV).
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Aberdeen
+   </p>
+   <p>
+    Glasgow
+   </p>
+   <p>
+    Giugrafia
+   </p>
+   <p>
+    Scozia
+   </p>
+  </body>
+ </text>
+</TEI>

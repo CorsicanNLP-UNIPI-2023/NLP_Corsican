@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Annette Bening
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Annette%20Bening"/>
+     <date>
+      2016-08-23T22:32:58Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Annette Bening
+   </head>
+   <p>
+    Annette Bening (29 Maghju 1958) hè un'attrice americana.
+   </p>
+   <p>
+    Bening
+   </p>
+   <p>
+    Bening, Annette
+   </p>
+  </body>
+ </text>
+</TEI>

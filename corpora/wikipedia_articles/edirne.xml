@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Edirne
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Edirne"/>
+     <date>
+      2018-12-19T15:06:03Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Edirne
+   </head>
+   <p>
+    Edirne, hè una cità di Turchia.
+   </p>
+   <p>
+    commons.wikimedia.org/wiki/Category:Edirne
+   </p>
+   <p>
+    www.edirne.bel.tr
+   </p>
+   <p>
+    www.edirne.gov.tr
+   </p>
+   <p>
+    Turchia
+   </p>
+  </body>
+ </text>
+</TEI>

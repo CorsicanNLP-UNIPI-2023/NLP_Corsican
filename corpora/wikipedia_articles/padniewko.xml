@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Padniewko
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Padniewko"/>
+     <date>
+      2015-05-08T20:08:54Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Padniewko
+   </head>
+   <p>
+    Padniewko hè una cumuna di a Pulonia. Ci sò 399 abitanti (2005)
+   </p>
+   <p>
+    == Dimugrafia ==
+   </p>
+   <p>
+    Polonia
+   </p>
+  </body>
+ </text>
+</TEI>

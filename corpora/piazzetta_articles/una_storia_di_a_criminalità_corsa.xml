@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Una storia di a criminalità corsa
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Una-storia-di-a-criminalita-corsa_a2535.html"/>
+     <date>
+      Mon, 15 Jan 2018 19:48:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Una storia di a criminalità corsa
+   </head>
+   <div type="excerpt">
+    <p>
+     A storia di a criminalità organizata corsa è e so leie tòrbide cù u statu : hè u sugettu di stu passiunante ducumentariu in trè parte chì hè statu pruduttu da Arte.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Da Simon Sabiani à Charles Pasqua, eccu una storia di u grande banditisimu corsu. "Mafia et République", realizatu da Christophe Bouquet. 
+Hè statu diffusatu di ferraghju di u 2017 nant'à Arte, ecculu nant'à YouTube.
+    </p>
+    <p>
+     Prima parte : Naissance d'un pouvoir invisible (1929-1945)
+    </p>
+    <p>
+     Segonda parte : Aux services de la France (1945-1975)
+    </p>
+    <p>
+     Terza parte : La République gangrenée (1975-2016).
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

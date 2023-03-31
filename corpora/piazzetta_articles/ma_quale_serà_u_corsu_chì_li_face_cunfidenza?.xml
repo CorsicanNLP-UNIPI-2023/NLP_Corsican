@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ma quale serà u Corsu chì li face cunfidenza?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ma-quale-sera-u-Corsu-chi-li-face-cunfidenza_a1467.html"/>
+     <date>
+      Tue, 11 Dec 2012 11:06:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ma quale serà u Corsu chì li face cunfidenza?
+   </head>
+   <div type="excerpt">
+    <p>
+     D'appressu à un sundagiu, solu un Corsu nant'à trè face cunfidenza à Valls per cumbatte a viulenza in Corsica.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè ciò ch'ellu dice un sundagiu d'Opinion of Corsica pè u giurnale Paroles de Corses, Via Stella è Corse-Matin (da leghje quì). 
+Nant'à trè Corsi, ùn ci n'hè chè unu chì pensa chì Manuel Valls ci capisce qualcosa. 
+Ci vole à dì chì u ministru di l'internu hà fattu forte. Prima, ùn hà fattu chè ripete ùn si sà quantu voltì : chì "en Corse, on connaît les commanditaires. On sait mais on ne parle pas". 
+Hè vera ch'ellu hè più praticu di mette tuttu in colpu à "l'omertà" di i Corsi chè di spiegà 40 anni di mal funziunamentu di i servizii di u Statu in Corsica, di ghjustizia è di pulizza. 
+Davant'à e numerose riazzioni di prutestazione (avete tutti lettu Oui. Moi je sais… M. Valls nant'à u situ di U Levante), Manuel s'era calmatu. 
+Eppò hè vultatu torna più forte. Sta volta a s'hè cacciata cun l'eletti chì d'appressu à ellu ùn cundannanu micca abbastanza : "Je n'entends pas suffisamment de voix parmi les responsables politiques pour condamner ce qui s'est passé". À tal puntu chì ancu Simon Renucci hà reagitu à i prupositi di u ministru di l'internu. Per divvi. 
+Aghjustendu dinù chì : "Il y a sans doute une forme de racisme dans les attentats". 
+I spezialisti di i cummunicati chì cummencianu pè "je condamne avec la plus grande fermeté" averanu appreziatu. 
+In tantu, i speculatori, i trafficoni, i maffiuselli, i scrucconi di a bettunizazione elli, ridenu. 
+Nant'à internet, certi si campanu di rise, cum'è stu situ chì dice chì : 1 corse sur 3 fait confiance à Manuel Valls, alors que 55% des corses pensent que le FLNC a évité le béton. 
+A dumanda hè dunque : quale hè u Corsu di u sundagiu chì li face cunfidenza ? Serà statu un tippu in sborgna ? Un tontu ? Un magagnone ? Qualchissia chì ùn hà micca capitu a quistione ? Un fliccu ? O Nicolas Alfonsi ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

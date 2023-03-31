@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ben Laden di ritornu !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Ben-Laden-di-ritornu-_a1110.html"/>
+     <date>
+      Sat, 04 Jun 2011 19:17:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ben Laden di ritornu !
+   </head>
+   <div type="excerpt">
+    <p>
+     Un inglese hà avutu a surpresa di vede a faccia di Ben Laden... nant'à un pezzu di pane imbrustulitu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Sì ancu i grille-pain cummencianu à ridesine di noi, semu freschi. 
+A storia si passa in Inghilterra induve un omu hà avutu a surpresa di vede a faccia d'Ussamà sorte nant'à a fetta di pane ch'ellu avia messu à imbrustulisce. 
+Hè vera chì nant'à u ritrattu si ricunnosce bè a chigna di l'ex-capimachja d'Al-Qaida... ma forse ci serà statu un colpu di Photoshop ? 
+Fate quantunque pianu a matina quand'è vo utilizate u vostru grille-pain (d'altronde, cumu si pò dì grille-pain in corsu ? Lasciate e vostre pruposte in cummentu). 
+Imaginate, allora ch'è vo site azezu, in ritardu è micca discitatu, ch'elle ponu esce da u vostru apparechju e facce d'Emile Zuccarelli, di Ghjuvancristofanu Angelini, di Marcel Francisci o di Paul Quastana... 
+Iè, fate pianu. U vostru grille-pain hè forse un magagnone.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Guy Berryman
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Guy%20Berryman"/>
+     <date>
+      2014-03-23T14:24:12Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Guy Berryman
+   </head>
+   <p>
+    Guy Berryman hè u bassista di u gruppu di rock britannicu Coldplay.
+   </p>
+   <p>
+    Berryman,Guy
+   </p>
+   <p>
+    Berryman, Guy
+   </p>
+  </body>
+ </text>
+</TEI>

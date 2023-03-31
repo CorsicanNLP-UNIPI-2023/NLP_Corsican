@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hè mortu Tony Toga
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/He-mortu-Tony-Toga_a1843.html"/>
+     <date>
+      Wed, 28 May 2014 23:44:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hè mortu Tony Toga
+   </head>
+   <div type="excerpt">
+    <p>
+     S'hè spenta una grande voce di a canzona corsa. E so canzone, tuttu ognunu e cunniscia...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Alta Frequenza ci hà amparatu oghje a trista nutizia. 
+Di u so veru nome Antoine Garotte, Tony Toga era fiumurbacciu è avia principiatu a so carriera in l'anni 60. 
+Cunniscite tutti parechje di e canzone ch'ellu hà interpretatu, tanti standards cum'è A bella vita, Ultima Strinta, Ritornu, À cant'à mè è di siguru u tube Furtunatu. 
+Avia cantatu dinù parechje canzone in francese, cum'è Les mouettes de Mykonos, Le rocher de Sainte-Hélène, Un songe avant l'aurore... Era a moda in l'epica pre-Riacquistu. 
+Ci lascia tanti successi chì sò sempre cantati è appreziati oghje. Ch'ellu riposi in pace.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

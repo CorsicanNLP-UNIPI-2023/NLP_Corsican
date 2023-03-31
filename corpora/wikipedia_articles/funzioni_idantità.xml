@@ -1,0 +1,111 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Funzioni idantità
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Funzioni%20idantit%C3%A0"/>
+     <date>
+      2014-12-10T18:53:34Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Funzioni idantità
+   </head>
+   <p>
+    In matematica si chjama funzioni idantità (o funzione identità) annantu à un insemu X a funzioni chì assucighja à ogni elementu l'elementu stessu.
+   </p>
+   <p>
+    A funzioni idantità annantu à X si nota cù \mathrm{id}_X. Hà dunqua X com'è duminiu è cuduminiu ed hè tali ch'è par ogni x \in X si hà \mathrm{id}_X(x) = x.
+   </p>
+   <p>
+    == Prubità ==
+   </p>
+   <p>
+    A funzioni idantità hè a più simplicia trà i funzioni definibili annantu à un insemu, ed hè inoltri cumpatibuli incù guasi tutti i strutturi matematichi pussiduti da insemu; hè infatti imprudata com'è prutotipu par difiniscia l'autumurfismi, vali à dì i funzioni interni à un insemu, chì ni cunservani i strutturi. À l'internu di u gruppu di l'autumurfismi d'una struttura data, l'idantità custituisci inoltri l'elementu neutru rispettu à a cumpusizioni di murfismi.
+   </p>
+   <p>
+    Sicondu i strutturi annantu à i quali hè applicata, a funzioni idantità rivesti tandu diffarenti carattaristichi:
+   </p>
+   <p>
+    annantu à un insemu hè una biiezzioni;
+   </p>
+   <p>
+    annantu à qualunqua struttura algebrica hè un isumurfismu;
+   </p>
+   <p>
+    annantu à un spaziu vitturiali hè una funzioni liniari;
+   </p>
+   <p>
+    annantu à un spaziu metricu hè un'isumitria;
+   </p>
+   <p>
+    annantu à un spaziu tupulogicu hè un omeumurfismu;
+   </p>
+   <p>
+    == Ripprisintazioni ==
+   </p>
+   <p>
+    A funzioni idantità pò essa rapprisintata in parichji modi sicondu i carattaristichi di l'insemi annantu à i quali hè difinita; par asempiu:
+   </p>
+   <p>
+    nantu à l'insemu \mathbb{R} di i numari riali hè pussibuli di ripprisintà a funzioni \mathrm{id}_\mathbb{R} incù u so graficu nantu à u pianu cartisianu chì currispondi à a bisettrici di u prima è terzu quadranti;
+   </p>
+   <p>
+    annantu à un spaziu vitturiali di diminsioni n a funzioni idantità hè una trasfurmazioni liniari rapprisintata da a matrici idantità d'ordini n.
+   </p>
+   <p>
+    == Da leghja dinò ==
+   </p>
+   <p>
+    Idantità (matematica)
+   </p>
+   <p>
+    Matrici idantità
+   </p>
+   <p>
+    Risuluzioni à l'idantità
+   </p>
+   <p>
+    Tiuria di i catigurii
+   </p>
+   <p>
+    Inclusioni canonica
+   </p>
+   <p>
+    Matematica di basa
+   </p>
+   <p>
+    Funzioni matematichi
+   </p>
+   <p>
+    == Noti ==
+   </p>
+   <p>
+    ==Fonti==
+   </p>
+   <p>
+    'Ss'articulu pruveni in parti o in tutalità da l'articulu currispundenti di a wikipedia in talianu.
+   </p>
+  </body>
+ </text>
+</TEI>

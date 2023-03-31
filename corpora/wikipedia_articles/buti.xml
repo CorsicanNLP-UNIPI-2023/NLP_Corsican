@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Buti
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Buti"/>
+     <date>
+      2016-09-21T14:23:45Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Buti
+   </head>
+   <p>
+    Buti hè una cumuna taliana di a pruvincia di Pisa.
+   </p>
+   <p>
+    ==Paisoli==
+   </p>
+   <p>
+    Cascine di Buti.
+   </p>
+   <p>
+    ==Cumune in cunfina==
+   </p>
+   <p>
+    Bientina, Calci, Capannori (LU), Vicopisano.
+   </p>
+   <p>
+    Cumuna di a pruvincia di Pisa
+   </p>
+  </body>
+ </text>
+</TEI>

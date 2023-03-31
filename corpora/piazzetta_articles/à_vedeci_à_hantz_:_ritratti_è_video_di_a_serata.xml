@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     À vedeci à Hantz : ritratti è video di a serata
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-vedeci-a-Hantz-ritratti-e-video-di-a-serata_a1814.html"/>
+     <date>
+      Sun, 18 May 2014 12:41:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    À vedeci à Hantz : ritratti è video di a serata
+   </head>
+   <div type="content">
+    <p>
+     C'era 14.000 persone sabatu sera in Furiani per dì à vedeci à Frédéric Hantz. 
+Landreau è Sablé chì arrestanu a so carriera, anu avutu u so omagiu. Era siguramente l'ultima partita di Modesto è Maoulida cun Bastia. Forse s'averia pussutu avè una parolla ancu per elli. 
+Ma i sustenidori turchini eranu sopr'à tuttu venuti per salutà à l'intrenore chì hà purtatu u Sporting da u National à u top 10 di Lega unu. U so nome firmerà per sempre in a storia di Bastia. 
+À a fine di a partita, u coach hà pigliatu u microfonu per dì duie parolle in lingua corsa. 
+Da vede :  U sugettu di France 3 Corsica  I ritratti di a serata è di u tifo in Est nant'à Spiritu Turchinu  E riazzione nant'à u situ officiale di u Sporting  I ritratti nant'à Corse-Matin  L'ambianza nant'à Turchini TV 
+D'altre videò da vene seranu aghjustate nant'à sta pagina. 
+Da vede dinù u storicu di i dui anni di frebba è d'emuzione, quelli di i dui tìtuli di campione di National è di di L2.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cumu fà per vince l'elezzioni cantunale ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cumu-fa-per-vince-l-elezzioni-cantunale_a1051.html"/>
+     <date>
+      Tue, 08 Mar 2011 11:18:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cumu fà per vince l'elezzioni cantunale ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Frigò, ùn ci n'hè più. Piazze non più. L'idee, ùn ghjovanu à nunda. Allora cumu fà ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Francisci : "il ne faut pas politiser les cantonales"
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

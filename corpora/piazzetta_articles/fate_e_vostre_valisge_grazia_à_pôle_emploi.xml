@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Fate e vostre valisge grazia à Pôle Emploi
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Fate-e-vostre-valisge-grazia-a-Pole-Emploi_a1417.html"/>
+     <date>
+      Thu, 27 Sep 2012 16:11:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Fate e vostre valisge grazia à Pôle Emploi
+   </head>
+   <div type="excerpt">
+    <p>
+     Corsi, circate un impiegu in Corsica ? Ùn vale a pena, ùn hè micca per voi ci dice Pôle Emploi.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Dapoi sta mane, l'impiegati di Pôle Emploi sò in greva. À l'orìgine di stu muvimentu, un postu à l'internu in Aiacciu hè dispunìbule. Sei persone (di Corsica) pustuleghjanu. 
+Risultatu : hè qualchissia chì vene da cuntinente chì l'averà. Per i dirigenti di Pôle Emploi ùn ci hè nunda d'anormale. "Priorité à la mobilité" ci dicenu. 
+Cusì l'affari sò più chjari. I Corsi devenu parte per truvà un impiegu, è i posti di "cadres" sò riservati à ghjente chì vene da cuntinente. 
+Un vechju slogan di l'anni 80 dicia "la valise ou le cercueil". Oghje saria "Corses, la valise ou le chômage". 
+Ùn vi lagnate micca, avete sempre a scelta.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

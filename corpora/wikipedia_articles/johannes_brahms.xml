@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Johannes Brahms
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Johannes%20Brahms"/>
+     <date>
+      2015-07-06T09:19:54Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Johannes Brahms
+   </head>
+   <p>
+    Johannes Brahms era natu à Amburgu u 7 maghju 1833 hè mortu a Vienna u 3 aprile 1897.
+   </p>
+   <p>
+    Hè statu unu di più importanti musicanti alemani di u periodu romanticu
+   </p>
+   <p>
+    Musicante
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È Dupont-Aignan ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-Dupont-Aignan_a1313.html"/>
+     <date>
+      Mon, 02 Apr 2012 00:29:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       PRESIDENZIALI-2012
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È Dupont-Aignan ?
+   </head>
+   <div type="excerpt">
+    <p>
+     Ùn c'era nisun rìsicu chì Dupont-Aignan ci cantessi u Diu vi salvi, Compañero o Allegria.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     À manca ci hè Mélenchon, à diritta dinù ci vulia un candidatu giacubinu franchouillard. 
+Nisuna surpresa dunque : nunda pè a lingua, nisuna avanzata istituziunale, tuttu pè a Francia. 
+Je suis hostile à la citoyenneté corse. 
+Je comprends l'attachement viscéral des Corses à leur identité. Mon beau-père est corse et j'aime cette île. Pour autant, je ne ferai pas semblant de flatter les Corses en mettant au même niveau l'hymne Corse et l'hymne national. Les candidats n'ont pas à jouer à « plus Corse que moi tu meurs ». Je respecte les Corses comme tous les Français, mais je ne ferai pas le tour de France en expliquant dans chaque département pourquoi je le préfère au département voisin. 
+Ci n'hè ancu troppu : "trois statuts pour la Corse, ça suffit" hà dettu à Alta Frequenza. 
+Listessu discorsu chè Marine Le Pen, ma fora chì ellu almenu ùn ci monta micca a sega...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Potsdam
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Potsdam"/>
+     <date>
+      2018-09-25T16:54:30Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Potsdam
+   </head>
+   <p>
+    Potsdam hè una cità di a Germania incù 150.000 abitanti (2008).
+   </p>
+   <p>
+    Hè a capitale di u Land Brandeburgu.
+   </p>
+   <p>
+    == Geografia ==
+   </p>
+   <p>
+    A cità, 26 km a sudu-uvestu di Berlinu, hè traversata di u fiume Havel.
+   </p>
+  </body>
+ </text>
+</TEI>

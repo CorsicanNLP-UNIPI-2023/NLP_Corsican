@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Colin Greenwood
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Colin%20Greenwood"/>
+     <date>
+      2014-03-23T14:12:58Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Colin Greenwood
+   </head>
+   <p>
+    Colin Greenwood hè u bassistu di u gruppu di rock Radiohead.
+   </p>
+   <p>
+    Greenwood,Colin
+   </p>
+   <p>
+    Greenwood,Colin
+   </p>
+  </body>
+ </text>
+</TEI>

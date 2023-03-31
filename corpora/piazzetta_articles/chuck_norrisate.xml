@@ -1,0 +1,70 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chuck Norrisate
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Chuck-Norrisate_a1613.html"/>
+     <date>
+      Sun, 08 Sep 2013 12:01:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chuck Norrisate
+   </head>
+   <div type="excerpt">
+    <p>
+     Cunniscite tutti i "Chuck Norris Facts". Sò centinaie e magagne nant'à internet à a gloria di l'attore u più forte di l'universu. Ùn mancava più chè l'adattazione in corsu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Chuck Norris hà digià cuntatu sin'à l'infinitu. Duie volte. 
+U solu locu induve si pò pichja à Chuck Norris, hè nant'à Google. 
+Certi mettenu un pyjama Superman. Superman ellu mette un pyjama Chuck Norris. 
+Chuck Norris dà spessu u so sangue à a Croix Rouge. Ma ùn hè mai u soiu. 
+Chuck Norris trova una piazza à Paul Giacobbi. 
+Un ghjornu, Chuck Norris hà fattu un bracciu di ferru cun Superman. Quellu chì perdia duvia mette un slip rossu sopr'à u so pantalone. 
+L'Agriate si sò fatte chjamà "disertu" dop'à u passagiu di Chuck Norris. 
+Sì Chuck Norris era un Ponte Novu, Emile Zuccarelli diceria chì "la violence est ancrée dans culture française". 
+Sì Chuck Norris era in Ponte Novu, a lingua francese saria dichjarata "in perdizione" da l'Unesco. 
+Quandu Chuck Norris decide di piglià u battellu, a SNCM ùn face micca greva. 
+Un ghjornu, una muntagna si n'hè risa di Chuck Norris. Dapoi, si chjama "Capu Tafunatu". 
+Sì Chuck Norris era à u PRG, averia organizatu un'elezzione primaria pè a merria di Bastia. In a cascia di François Tatti. 
+Chuck Norris hà messu una capata à l'Omu di Cagna. 
+À voi di truvanne d'altre !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Monaco - Bastia cù i cummenti di Jean Pruneta
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/monaco-bastia-jean-pruneta/"/>
+     <date>
+      Fri, 06 Feb 2015 07:38:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Monaco - Bastia cù i cummenti di Jean Pruneta
+   </head>
+   <div type="excerpt">
+    <p>
+     Quale d'altru ch'è Jean Pruneta pò cummentà una seanza di rigori da scimisce è chì ci porta in finale ? Fidighjate, è ascultate...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/co_FR/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));Post by Ozankra TV.
+    </p>
+    <p>
+     Nant'à u situ forzabastia.com si pò stà a seanza sana
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

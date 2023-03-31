@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vancouver
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Vancouver"/>
+     <date>
+      2014-03-23T15:10:09Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Vancouver
+   </head>
+   <p>
+    Vancouver hè una cità in u Canadà, in a pruvincia di a British Columbia. Ha à l'incirca 2 milioni d'abitanti.
+   </p>
+   <p>
+    Cità di u Canadà
+   </p>
+  </body>
+ </text>
+</TEI>

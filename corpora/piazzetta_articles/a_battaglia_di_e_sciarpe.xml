@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A battaglia di e sciarpe
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-battaglia-di-e-sciarpe_a1819.html"/>
+     <date>
+      Tue, 20 May 2014 10:36:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A battaglia di e sciarpe
+   </head>
+   <div type="content">
+    <p>
+     Hè un tweet di u contu di France 3 Corse chì a face rimarcà : 
+"La guerre des écharpes continue, et devient même un commerce" 
+U tweet face riferenza à una publicità ch'ellu si pò vede in Corse-Matin, à a pagine di... Bastia, pè "l'écharpe des élus corses". 
+A guerra di e sciarpe, hè Gilles Simeoni chì l'hà dichjarata cù a so vittoria in Bastia. 
+Pocu dopu, avemu vistu nasce "l'écharpe des élus corses". Hè fatta in Balagna è vi custerà 168 €, ma avete interessu à esse elettu di qualcosa. L'avemu vista per l’Associu di l’eletti di Corsica Libera. 
+Bon, serà forse un'altra sciarpa chì metterà tuttu u mondu d'accunsentu : quella arancia di u culletivu Parlemu Corsu, ch'è no videremu à a manifestazione di sabbatu in Aiacciu. 
+Infine, speremu...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

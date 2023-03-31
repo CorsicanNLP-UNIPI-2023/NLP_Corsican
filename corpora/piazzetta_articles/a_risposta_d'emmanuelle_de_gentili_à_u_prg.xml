@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A risposta d'Emmanuelle de Gentili à u PRG
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-risposta-d-Emmanuelle-de-Gentili-a-u-PRG_a1735.html"/>
+     <date>
+      Sat, 19 Apr 2014 09:17:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A risposta d'Emmanuelle de Gentili à u PRG
+   </head>
+   <div type="content">
+    <p>
+     In un'intervista à Corse-Matin, EDG volta nant'à l'elezzione in Bastia. À prupostu di a dumanda di sclusione di u PS fatta da u PRG, risponde cusì : 
+"Si le PRG a effectué cette démarche, c'est assez gonflé lui qui, à Marseille où les enjeux étaient bien plus importants qu'ici, avait son propre candidat contre Patrick Menucci et, au second tour, il a soutenu Jean-Claude Gaudin. Il y a des moments dans la vie politique où, pour être crédible, il vaut mieux se faire discret." 
+Hè detta. 
+Dice dinù chì à a CTC "je suis plus proche de Gilles Simeoni que d'autres élus de la majorité territoriale". 
+Da leghje in Corse-Matin di u 19 d'aprile.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

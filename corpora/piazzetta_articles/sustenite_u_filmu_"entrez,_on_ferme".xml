@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sustenite u filmu "entrez, on ferme"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Sustenite-u-filmu-entrez-on-ferme_a2155.html"/>
+     <date>
+      Thu, 19 Feb 2015 16:17:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       SUCETA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Sustenite u filmu "entrez, on ferme"
+   </head>
+   <div type="excerpt">
+    <p>
+     "Entrez, on ferme" hè u tìtulu d'un filmu chì tratta di a smarizione di i picculi è antichi cummerci di u centru di Bastia, mentre chì e periferie uniformizate crescenu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Ma "Entrez, on ferme" hè dinù un filmu nant'à u cambiamentu d'una sucetà. I picculi cummerci antichi chjodenu, i centri storichi di e cità si viotanu. E periferie crescenu è si sviluppanu, in listessu tempu ch'è l'uniformizazione di i modi di campà. Uniformizazione di e mode, di i magazini, sviluppu di e franchises... 
+Eccu ciò ch'ella dice (in corsu) a presentazione di u filmu : 
+Sì tutte e cità anu u so centru storicu chì testimunieghja u so identità, si ritrovanu in faccia à u sviluppu massicciu di i grandi centri cummerciali custruiti in periferia, questi inghjennanu un spiazzamentu di pupulazione in giru à ste infrastrutture nove. À partesi da l'usservazione d'una cità chì muta à u rìtimu di i scambii sucetali, l'ughjettivu hè messu nant'à i picculi cummerci di a cità di Bastia, chì a so smarizione pare ùn pudè esse scansata in un'ecunumia glubalizata. Certi resistenu sempre à u sistema è anu accettatu di testimunià, di parlà à voce rivolta di stu tempu passatu in a so buttega, di i sìntimi ch'elli anu, di u so entusiasimu è a so inchietutine di pettu à sta sucetà chì perde i so puntelli.
+    </p>
+    <p>
+     Sustenite u prugettu !
+Hè un prugettu, è fà un filmu costa caru, sopr'à tuttu quand'ellu ùn hè sustenutu da nimu. 
+Allora l'autori, Léa Pieri è Francescu Artilyanu lanciatu una chjama. 
+Sì l'idea vi piace, pudete aiutalli nant'à u situ di finanzamentu participativu KissKissBalnBank.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

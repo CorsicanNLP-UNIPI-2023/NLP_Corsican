@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Zendaya
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Zendaya"/>
+     <date>
+      2019-08-17T20:54:48Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Zendaya
+   </head>
+   <p>
+    Zendaya Coleman (California, 1 Settembre 1996) hè un'attrice è cantadora americana. Hè cunnisciuta per u so rollu in a seria TV Rocky Blue Shake It Up.
+   </p>
+   <p>
+    Attrice
+   </p>
+   <p>
+    Americana
+   </p>
+  </body>
+ </text>
+</TEI>

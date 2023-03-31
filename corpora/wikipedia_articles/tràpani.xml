@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tràpani
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Tr%C3%A0pani"/>
+     <date>
+      2015-07-07T20:32:05Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Tràpani
+   </head>
+   <p>
+    Tràpani hè una cumuna è una cità taliana, capilocu di a pruvincia omonima in Sicilia.
+   </p>
+   <p>
+    === Cumune cuntigue ===
+   </p>
+   <p>
+    Buseto Palizzolo, Calatafimi Segesta, Erice, Marsala, Paceco, Salemi, Valderice.
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    lingua siciliana
+   </p>
+   <p>
+    Cumuna di a pruvincia di Trapani
+   </p>
+   <p>
+    Sicilia
+   </p>
+  </body>
+ </text>
+</TEI>

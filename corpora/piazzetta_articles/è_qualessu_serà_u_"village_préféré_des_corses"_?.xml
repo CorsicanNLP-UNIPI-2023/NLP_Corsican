@@ -1,0 +1,80 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     È qualessu serà u "village préféré des Corses" ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/E-qualessu-sera-u-village-prefere-des-Corses_a2408.html"/>
+     <date>
+      Tue, 24 May 2016 11:51:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       MAGAGNA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    È qualessu serà u "village préféré des Corses" ?
+   </head>
+   <div type="excerpt">
+    <p>
+     E rete suciale corse si scatenanu. Nonza hè candidatu à l'emissione tv "Le village préféré des Français". Noi ci pudemu dumandà qualessu seria u paese preferitu di i Corsi.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Furtunati quelli chì ùn sò nè nant'à Facebook, nè nant'à Twitter. Impussibule di francassi a prupaganda di l'emissione tv di France 2 Le village préféré des Français induve certi sò in campagna per fà vince à Nonza.
+    </p>
+    <p>
+     Bon, passeremu nant'à u nome di l'emissione "le village préféré DES FRANÇAIS". Ci tenite veramente ? Ùn n'avete abbastanza cusì ? Vulete ch'elli scalinu d'altri Christian Clavier ? 
+Allora noi ci dumandemu chì seria st'emissione s'è no faciamu a versione nustrale "Le village préféré des Corses", cù i lochi prediletti di i Corsi.
+    </p>
+    <p>
+     1. Disneyland
+Hè a destinazione preferita di i Corsi. Tutte l'agenzie di viaghji corse a vi diceranu. Perchè ? Hè un misteru. Infantilizazione ? Predilezzione pè i decori in cartone, cù pakistanesi pagati menu di u SMIC vestuti in Tigrù è Mickey ? Gustu per stu lucacciu goffu, cità nova esciuta in a sinistra campagna di a Seine-et-Marne ? 
+Andate à sapè...
+    </p>
+    <p>
+     2. U centru cummerciale
+La Rocade ? Sarrola Carcupinu ? Ùn mancanu i tempii duminicali dedicati à a Santa Cunsumazione. Sempre più grandi, sempre più muderni, pè riceve sempre di più mondu. 
+Sin'à quandu ?
+    </p>
+    <p>
+     3. Un magazinu discount
+Cumu nò ? A sapete bè chì a dumenica, ci hè di più mondu chì và in un magazinu discount di e periferie bastiaccie è aiaccine ch'è in tutti i paesi di u Boziu è di l'Alisgiani riuniti.
+    </p>
+    <p>
+     4. "U meiu"
+À a dumanda "chì hè u più bellu paese di Corsica", 99% di quelli chì ne anu unu rispondenu "u meiu". 
+Speremu ch'ella duri. Fin'tantu ch'elli anu a furtuna di pudè tene a so casa...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Malcolm McDowell
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Malcolm%20McDowell"/>
+     <date>
+      2015-07-01T16:43:31Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Malcolm McDowell
+   </head>
+   <p>
+    Malcolm McDowell (1943-) hè un attore americanu.
+   </p>
+   <p>
+    McDowell, Malcolm
+   </p>
+  </body>
+ </text>
+</TEI>

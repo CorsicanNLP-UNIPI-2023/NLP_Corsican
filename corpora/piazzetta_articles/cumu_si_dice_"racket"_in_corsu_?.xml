@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cumu si dice "racket" in corsu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cumu-si-dice-racket-in-corsu_a1521.html"/>
+     <date>
+      Sat, 23 Mar 2013 12:00:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Cumu si dice "racket" in corsu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     L'economia corsa hè in crisa ? U racket ellu si porta benissimu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A sapete bè, u racket in Corsica ùn esiste micca. Certi anu dettu ch'ellu ci vulia piuttostu à parlà di "geste commercial". 
+Ma di tantu in tantu, si ne sente parlà. 
+Sta settimana avemu amparatu chì un omu chì tene un risturante in Portivechju hè statu minatu è incrusciatu di white spirit perchè ch'ellu ùn vulia pagà. 
+Nanzu, era in Evisa ch'ellu s'era parlatu di racket, sta volta in u BTP. 
+U racket in Corsica, ùn esiste micca ma tocca à tutti : piccule è grande intraprese, in piaghja o in muntagna, in paese cum'è in cità. 
+Ma hè vera, si ne parla pocu. Hè più faciule di cundannà a viulenza in u futbol è i scambii d'insulte trà qualchì zitellacciu, o a viulenza di e nuits bleues. 
+Tuttu và bè. 
+"Souvent conquise, jamais soumise" ch'elli dicenu.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

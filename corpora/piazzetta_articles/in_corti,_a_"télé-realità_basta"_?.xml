@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     In Corti, a "télé-realità basta" ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/In-Corti-a-tele-realita-basta_a1969.html"/>
+     <date>
+      Wed, 01 Oct 2014 12:45:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    In Corti, a "télé-realità basta" ?
+   </head>
+   <div type="excerpt">
+    <p>
+     A venuta in una discuteca curtinese di dui participanti à emissioni di "télé realità" ùn piace micca à tutti, è certi s'interrugheghjanu.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè longa a cumpagnia di quelli chì s'abbuchjanu l'emissioni di "télé-réalité", "L'Amour est dans le pré", i "Chtis", "Les Marseillais" (à quandu "Les Keurses" ?) è cumpagnia. 
+Una discuteca di Corti prupone una serata à tema : "Marseillais vs Ch'tis : Paga &amp; Adixia". 
+S'è vò ùn sapete micca quale elli sò sti tippi, hè segnu di bunissima salute mentale. Felicitazioni ! 
+S'è vo i cunniscite i so CV, biugrafie è frase à mente, ch'è vo arregistrate e so emissioni è ch'è vo site fans nant'à Facebook, o peghju : ch'è vo v'abbuchjerete duie ore di strada per cullà à vedeli, pudete cummincià à inchietavvi. 
+U fattu si stà chì sì a buatta ferà siguramente una grosse ricettta quella sera, certi s'inchietanu. Un segnu novu d'acculturazione è di "dicerbellizazione", cumu certi dicenu ? 
+Eccu una fiura chì circuleghja nant'à e rete suciale, spartuta da a Cunsulta di a Ghjuventù Corsa.
+    </p>
+    <p>
+     U tweet :
+@corseinfo1 @Corsica_Nutizie @alta_frequenza @corsenetinfos @Corse_Matin @aPiazzetta @U_Gorsmatin pic.twitter.com/2g5K8ItTmG
+— C G C (@CGCcorte) 1 Octobre 2014
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

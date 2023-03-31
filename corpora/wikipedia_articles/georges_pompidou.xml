@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Georges Pompidou
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Georges%20Pompidou"/>
+     <date>
+      2015-07-06T09:05:55Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Georges Pompidou
+   </head>
+   <p>
+    Georges Jean Raymond Pompidou, natu u 5 lugliu 1911, hè mortu  u 2 aprile 1974, hè statu u presidente di a Ripublica Francesa è co-Principe di Andorra (1969-1974)
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Jacques Chirac
+   </p>
+   <p>
+    Nicolas Sarkozy
+   </p>
+   <p>
+    François Hollande
+   </p>
+   <p>
+    Pompidou
+   </p>
+  </body>
+ </text>
+</TEI>

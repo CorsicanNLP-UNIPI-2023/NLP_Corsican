@@ -1,0 +1,58 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     V'hè piaciutu u cynips ? Ci hè megliu chì ghjunghje
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/V-he-piaciutu-u-cynips-Ci-he-megliu-chi-ghjunghje_a1919.html"/>
+     <date>
+      Sun, 03 Aug 2014 23:46:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    V'hè piaciutu u cynips ? Ci hè megliu chì ghjunghje
+   </head>
+   <div type="content">
+    <p>
+     U cynipsacciu hà stirpatu i castagni.  U pinzachju rossu hà stirpatu e palme.  E pecure anu a frebba catarrale.  È pè i turisti ci hè a "bilharziose". 
+Chì ci ferma ? L'olivi ! 
+Per pocu tempu forse. "Xylella fastidiosa", hè u nome d'una batteria chì sterpa l'olivi. 
+Face un sterminiu in Italia, in a regione di e Puglie. 
+Ùn ci hè trattamentu è l'Auropa hà ordinatu di lampà in pianu l'arburi chì sò tocchi : vinti trè mila ettari. 
+Più castagni, più animali, più arburi, più olivi. Forse, cusì puderemu fà cresce ancu di più parpaings è case segundarie. 
+Ma per avà, a malatia ùn tocca ch'è a regione di Lecce. Per avà...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

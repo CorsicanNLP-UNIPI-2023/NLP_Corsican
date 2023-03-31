@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A tela corsa
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-tela-corsa_a1772.html"/>
+     <date>
+      Sun, 04 May 2014 18:07:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A tela corsa
+   </head>
+   <div type="content">
+    <p>
+     http://estricuntrasti.xooit.fr/index.php 
+Foru corsu  http://www.forucorsu.com/index.php 
+Appuntamentu  http://appuntamentu-corsu.forums-actifs.net/forum 
+Isula  http://isula.forumactif.com/ 
+Tarrori fantasia  http://tarrorifantasia.blogspot.fr/ 
+Tilone  https://www.facebook.com/pages/Tilone/604752542895207?fref=nf 
+VDM in corsu  https://www.facebook.com/pages/VDM-in-corsu/165630236952835?fref=ts 
+Ride in lingua corsa  https://www.facebook.com/RideInLinguaCorsa 
+U corsu torna  https://www.facebook.com/pages/U-Corsu-torna/254352311359706?fref=pb&amp;hc_location=profile_browser 
+Boemiana  https://www.facebook.com/pages/U-bloggu-di-Boemiana/129578850393112?fref=pb&amp;hc_location=profile_browser 
+Lingua corsa, lingua viva  https://www.facebook.com/pages/Lingua-corsa-lingua-viva/276347002522398?fref=pb&amp;hc_location=profile_browser 
+Lingua, cultura, tradizione  https://www.facebook.com/LinguaculturaETradizione?fref=pb&amp;hc_location=profile_browser 
+Pruverbii  https://www.facebook.com/pages/Pruverbii-%C3%A8-Detti-Corsi/1380656928821709?fref=pb&amp;hc_location=profile_browser 
+http://adecec.net/nutizialeculturale.php  http://www.corsematin.com/a-dilla-franca 
+Sguardu liceanu  http://sguarduliceanu.over-blog.com/  https://www.facebook.com/pages/Sguardu-Liceanu/438313079607852?ref=stream 
+Cap'in lingua  https://www.facebook.com/pages/Capin-lingua/458025500966419
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

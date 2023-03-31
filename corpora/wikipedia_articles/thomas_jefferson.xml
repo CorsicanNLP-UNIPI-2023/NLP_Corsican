@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Thomas Jefferson
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Thomas%20Jefferson"/>
+     <date>
+      2016-08-11T16:30:11Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Thomas Jefferson
+   </head>
+   <p>
+    Thomas Jefferson (Aprile 1743 – 4 Lugliu 1826) hè statu presidente di i Stati Uniti d'America da u 1801 à u 1809.
+   </p>
+   <p>
+    == Riferimenti ==
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Listinu di i presidenti americani
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Jefferson
+   </p>
+  </body>
+ </text>
+</TEI>

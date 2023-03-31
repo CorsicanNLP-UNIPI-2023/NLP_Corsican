@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Corsica più forte chè Cosa Nostra
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Corsica-piu-forte-che-Cosa-Nostra_a1091.html"/>
+     <date>
+      Mon, 02 May 2011 00:24:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Corsica più forte chè Cosa Nostra
+   </head>
+   <div type="excerpt">
+    <p>
+     Eccu, ci simu. A Corsica passa davant'à a Sicilia pè u nùmeru d'assassinii. Et qui on est ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Sicilia : 19 assassinii maffiosi in u 2009 (5 milioni d'abitanti).  Corsica : 17 assassinii maffiosi (300.000 abitanti). 
+Yves Bordenave face un'anàlisi assai dura in Le Monde di u 27 d'aprile scorsu dopu à l'omicidiu di Marie-Jeanne Bozzi ma cusì ghjusta. 
+Si scorda solu di dì chì sì u mezu (le milieu) hè cusì putente oghje hè chì u Statu l'hà lasciatu sviluppassi. 
+In l'anni 80, i sforzi pulizzeri si sò cuncentrati nant'à a lotta anti naziunalista mentre ch'ellu si lasciava cullà a Brise de Mer in tutta impunità... cù u successu ch'ellu si sà. Oghje hè l'ecunumia sana di a Corsica chì hè sott'à cuntrollu di i scrucconi. 
+E bande nemiche è i clani maffiosi si sterpanu è sta volta a pulizza conta i punti. Avà sò tocchi l'omi pulitichi, è chì un merre impurtante o una donna si fessinu tumbà ùn ci stona mancu più. 
+A colpa dinù à un'ecunumia povera è senza perspettive, à l'attrazzione pè u soldu faciule (hè megliu à custruisce dui bungalows ch'è di truvassi un travagliu), è à l'ammirazione pè u mitu di l'arme è di u maffiosu (Tony Montana hè l'idulu di i banlieusards è d'una grande parte di a giuventù corsa). 
+A pulizza puderà cuntinuvà à cuntà i punti, è a Corsica stà in u sottu sviluppu. Ci vole à crede ch'ellu arrangia assai ghjente, sopr'à tuttu in Parigi.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

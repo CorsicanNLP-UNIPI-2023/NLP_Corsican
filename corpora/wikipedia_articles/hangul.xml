@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hangul
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Hangul"/>
+     <date>
+      2015-05-08T20:06:27Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hangul
+   </head>
+   <p>
+    L' hangul hè l'alfabetu di a lingua coreana. Fù creatu da u rè Sejong u Grande in u XV seculu è ha rimpiazzatu u sistema di scrittura chinese, basatu annantu à l'[chì era usatu prima in
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lady Gaga
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Lady%20Gaga"/>
+     <date>
+      2015-07-06T09:41:05Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lady Gaga
+   </head>
+   <p>
+    Stefani Joanne Angelina Germanotta (Lady Gaga) (* 28 di marzu 1986 in New York, SUA) hè una musicante americana.
+   </p>
+   <p>
+    Gaga, Lady
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lingua àraba
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Lingua%20%C3%A0raba"/>
+     <date>
+      2015-10-07T22:23:11Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lingua àraba
+   </head>
+   <p>
+    A lingua àraba hè una lingua semìtica. Incù più di 200 milioni di locutori hè una di e lingue più impurtante di u mondu.
+   </p>
+   <p>
+    Àrabu
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Emily Blunt
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Emily%20Blunt"/>
+     <date>
+      2018-03-22T04:40:58Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Emily Blunt
+   </head>
+   <p>
+    Emily Olivia Leah Blunt (nata u 23 de ferraghju 1983) hè un attrice britannica-americana.
+   </p>
+   <p>
+    Blunt, Emily
+   </p>
+   <p>
+    Blunt, Emily
+   </p>
+   <p>
+    Blunt, Emily
+   </p>
+  </body>
+ </text>
+</TEI>

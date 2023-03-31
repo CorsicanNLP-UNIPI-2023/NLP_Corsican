@@ -1,0 +1,48 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lecce
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Lecce"/>
+     <date>
+      2015-05-05T01:49:32Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lecce
+   </head>
+   <p>
+    Lecce hè una cumuna è una cità taliana, capilocu di a pruvincia omonima in Puglia.
+   </p>
+   <p>
+    ===Cumune cuntigue===
+   </p>
+   <p>
+    Arnesano, Cavallino, Lequile, Lizzanello, Monteroni di Lecce, Novoli, San Cesario di Lecce, San Pietro in Lama, Squinzano, Surbo, Torchiarolo (BR), Trepuzzi, Vernole.
+   </p>
+   <p>
+    Cumuna di a pruvincia di Lecce
+   </p>
+  </body>
+ </text>
+</TEI>

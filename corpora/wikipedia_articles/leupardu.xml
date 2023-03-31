@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Leupardu
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Leupardu"/>
+     <date>
+      2015-05-08T20:10:42Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Leupardu
+   </head>
+   <p>
+    U leupardu o leopardu (Panthera pardus) hè un mammiferu di a famiglia di i Felidae. Hè u quartu più grande felinu di u mondu, dopu u tigru (Panthera tigris), u lione (Panthera leo) è u ghjaguaru (Panthera onca).
+   </p>
+  </body>
+ </text>
+</TEI>

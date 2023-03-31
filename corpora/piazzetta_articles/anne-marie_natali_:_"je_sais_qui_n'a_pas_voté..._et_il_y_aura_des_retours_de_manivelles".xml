@@ -1,0 +1,72 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Anne-Marie Natali : "Je sais qui n'a pas voté... et il y aura des retours de manivelles"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Anne-Marie-Natali-Je-sais-qui-n-a-pas-vote-et-il-y-aura-des-retours-de-manivelles_a1966.html"/>
+     <date>
+      Mon, 29 Sep 2014 19:33:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Anne-Marie Natali : "Je sais qui n'a pas voté... et il y aura des retours de manivelles"
+   </head>
+   <div type="excerpt">
+    <p>
+     A merressa di U Borgu ùn hè micca cuntenta di u risultatu di e senaturiale è l'hà fatta sapè nant'à RCFM.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Nurmalamente, a diritta duvia vince in Corsica Suprana. Ma in pulitica, ùn hè mai semplice. 
+Anne-Marie Natali a sà è l'avia detta à RCFM a settimana passata : "Les gens sont gentils, mais après y a les isoloirs". 
+Averà intesu u culpacciu vene ? Dop'à a vittoria di u candidatu di manca Joseph Castelli, hè in zerga contr'à a famiglia di diritta è l'hà fatta sapè, sempre à RCFM : 
+"Je suis déçue parce que c'est la droite qui n'a pas voté. Pourquoi je n'en sais rien. Est-ce que c'est ma tête qui leur revenait pas ? Est-ce qu'ils sont jaloux ? Ca j'en suis certaine". 
+È di prevene : 
+"Moi j'ai les listes électorales. Je sais qui a voté, qui n'a pas voté (...) la droite a voté Castelli, elle n'a pas joué le jeu encore une fois, mais il y aura des retours de manivelles (...) l'année prochaine aux territoriales que personne ne vienne me chercher (...) et j'ai un bon électorat qui est avec moi, qui est inconditionnel". 
+Quessa, hè detta. José Rossi s'hè pigliatu un Efferalgan.
+    </p>
+    <p>
+     Luni sera a dichjarazione di a meressa burghisgiana era cummentata assai nant'à e rete suciale. 
+Ma forse chì Anne-Marie ùn face ch'è dì ciò chì tuttu ognunu (merri, cunsiglieri generali, territuriali...) face da u so cantu ? 
+Nunda di novu in Corsica, in fine di contu...
+    </p>
+    <p>
+     @aPiazzetta Anne Marie Natali dit tout haut ce que tout le monde fait tout bas.
+— Michelle Castellani (@_mocali) 29 Septembre 2014
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

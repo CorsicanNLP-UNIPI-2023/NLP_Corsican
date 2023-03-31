@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     George Washington
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/George%20Washington"/>
+     <date>
+      2016-08-11T17:03:24Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    George Washington
+   </head>
+   <p>
+    George Washington (11 Ferraghju 1731 – 14 Dicembre 1799) hè statu presidente di i Stati Uniti d'America da u 1789 à u 1797.
+   </p>
+   <p>
+    == Riferimenti ==
+   </p>
+   <p>
+    ==Da vede dinò==
+   </p>
+   <p>
+    Listinu di i presidenti americani
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    Washington
+   </p>
+  </body>
+ </text>
+</TEI>

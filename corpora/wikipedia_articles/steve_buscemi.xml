@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Steve Buscemi
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Steve%20Buscemi"/>
+     <date>
+      2016-09-22T16:07:54Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Steve Buscemi
+   </head>
+   <p>
+    Steven Vincent "Steve" Buscemi (Brooklyn - New York (Statu), 13 Dicembre 1957) hè un attore americanu.
+   </p>
+   <p>
+    Buscemi, Steve
+   </p>
+  </body>
+ </text>
+</TEI>

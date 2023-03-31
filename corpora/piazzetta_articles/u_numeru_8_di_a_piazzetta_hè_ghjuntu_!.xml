@@ -1,0 +1,66 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     U numeru 8 di A Piazzetta hè ghjuntu !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/U-numeru-8-di-A-Piazzetta-he-ghjuntu-_a1062.html"/>
+     <date>
+      Sun, 20 Mar 2011 18:54:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       GIURNALE
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    U numeru 8 di A Piazzetta hè ghjuntu !
+   </head>
+   <div type="excerpt">
+    <p>
+     Leghjitelu puru, costa solu 0 €...
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Era ora ! hè esciutu u nùmeru 8 di u giurnalettu A Piazzetta. 
+Hè sempre gràtisi, hè sempre scherzosu è appena gattivu. 
+Hè sempre datu di rigalu ind'è i panatteri, stazioni essenze è cummerci di a regione di Bastia, Balagna è Corti ; sempre stampatu à 12.000 esemplarii. 
+Spicciatevi ! à mumenti ùn ci ne serà più... 
+Per aiutacci pudete abbunavvi. Scriviteci s'è vo vulete ricevelu in casa vostra. 
+Una rimarca ?  Un pattone ?  Un cumplimentu ? 
+Lasciateci un cummentu... 
+Si pò sfuglittà u giurnale à st'indirizzu è caricà u pdf nant'à sta pagina. 
+A cuprendula hè l'opera di Marcellu Lepidi. 
+apiazzetta_8.pdf
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lavu à a Vetta Niella
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Lavu%20%C3%A0%20a%20Vetta%20Niella"/>
+     <date>
+      2019-10-03T11:16:30Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lavu à a Vetta Niella
+   </head>
+   <p>
+    U lavu à a Vetta Niella hè u lavu maiò di a Corsica.
+   </p>
+   <p>
+    Lavi di Corsica
+   </p>
+  </body>
+ </text>
+</TEI>

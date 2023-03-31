@@ -1,0 +1,67 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Chì fà pè a "journée de la gentillesse" ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Chi-fa-pe-a-journee-de-la-gentillesse_a1438.html"/>
+     <date>
+      Mon, 12 Nov 2012 23:40:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       10-RAGIONI-DI
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Chì fà pè a "journée de la gentillesse" ?
+   </head>
+   <div type="excerpt">
+    <p>
+     U 13 nuvembre hè a "journée mondiale de la gentillesse". S'è vò ùn sapete micca cumu esse bravi, eccu unepoche di pruposte.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A ghjurnata mundiale di a bravezza esiste avà dapoi parechji anni è casca u 13 nuvembre. Allora cumu fà ? 
+1. Oghje, ùn insulterete nè arbitru, nè "juge de touche" : Casca bè, ùn ci hè micca partite di futbol nè in Furiani, nè in Timizzolu, nè in Mezavia. Ma sapete bè chì l'arbitri francesi sò i peghju di u mondu. 
+2. Ùn tumberete à nimu : In Corsica si ponu tumbà e donne, i babbi di famiglia davant'à i so figlioli, u ghjornu di Pasqua... Ma oghje, speremu chì voi, amichi maffiosi chì leghjite A Piazzetta, ùn caccerete micca u galibre. 
+3. Serete bravi cù i turisti : Casca bè, sò tutti partuti. 
+4. Averete un surrisu per tutti oghje : Cù u vostru patrone azezu, cù i flicchi chì v'arrestanu in vittura, cù l'antipaticu chì vi vende u pane. Nò, quantunque micca cù i flicchi... 
+5. Ùn dicerete micca male di u vostru elettu : Puru s'è vo pensate ch'ellu hè una narpia, dite ch'è vo vutate per ellu. È fate ciò ch'ella vi pare in l'isoloir. 
+6. Micca ghjesteme oghje ! Nò, ùn mughjerete nè sangu lu Satanassu ! s'è vo riuccate u vostru caffè nè ch'è tù scia manghjatu da i topi !  quandu senterete parlà à Nicolas Alfonsi à a radio. Micca oghje. 
+7. Serete bravu cun Magno Novaes s'è vo u cruciate : Sì Bastia hè una di e peghju difese d'Auropa, ùn hè micca solu colpa soia, nò ? 
+8. Ferete "l'appels de phare" nant'à a strada s'ellu ci hè a pulizza : D'altronde, saria ora di falla sempre quandu vidite i gendarmi. 
+9. Create una sezzione lucale di u "Mouvement mondial pour la gentillesse" : Iè, u "Muvimentu mundiale pè a bravezza" esiste dapoi u 1997. Ci n'hè chì ùn anu veramente nunda à fà. 
+10. Eppo s'è vo avete decisu d'esse azezi, trippa !
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Barbier suspesu in Bastia : a so reazzione
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Barbier-suspesu-in-Bastia-a-so-reazzione_a2023.html"/>
+     <date>
+      Sat, 15 Nov 2014 12:47:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Barbier suspesu in Bastia : a so reazzione
+   </head>
+   <div type="excerpt">
+    <p>
+     Dop'à l'annulazione di u so spetàculu in Bastia, Christophe Barbier hà reagitu nant'à Twitter. Hè bè ciò chì era prevista : vittimizazione è pruvucazione.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Aspettemu u so prussimu edituriale chì ci ferà a lezzione nant'à l'oscurantisimu, a libertà di spressione, a demucrazia, l'apertura eccetera eccetera...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

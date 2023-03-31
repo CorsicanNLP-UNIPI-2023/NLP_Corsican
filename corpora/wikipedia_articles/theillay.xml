@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Theillay
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Theillay"/>
+     <date>
+      2019-10-05T11:20:07Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Theillay
+   </head>
+   <p>
+    Theillay hè un paese di Francia, dipartimentu di u Loir-et-Cher in a Righjone di u Centru Valle di Loira incù pochi più di 1300 abitanti.
+   </p>
+   <p>
+    Cumuna di Francia cuntinentale
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,39 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Universidade de São Paulo
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Universidade%20de%20S%C3%A3o%20Paulo"/>
+     <date>
+      2016-03-21T14:53:16Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Universidade de São Paulo
+   </head>
+   <p>
+    L'Università di São Paulo (Universidade de São Paulo) hè un' università brasiliana, situata in a cità di
+   </p>
+  </body>
+ </text>
+</TEI>

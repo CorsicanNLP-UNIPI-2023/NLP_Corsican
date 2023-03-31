@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Leunardu da Vinci
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Leunardu%20da%20Vinci"/>
+     <date>
+      2019-05-01T09:00:00Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Leunardu da Vinci
+   </head>
+   <p>
+    Leonardo di ser Piero da Vinci (Anchianu, 15 d’aprile 1452 - Amboise, 2 di maghju 1519) hè statu un architettu, anatomistu, inventore, ingegneru, scultore, geometru, pittore è scienziatu talianu.
+   </p>
+   <p>
+    Taliani celebri
+   </p>
+  </body>
+ </text>
+</TEI>

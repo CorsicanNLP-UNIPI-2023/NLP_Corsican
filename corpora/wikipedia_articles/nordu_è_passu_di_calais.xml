@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Nordu è Passu di Calais
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Nordu%20%C3%A8%20Passu%20di%20Calais"/>
+     <date>
+      2014-03-23T14:43:19Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Nordu è Passu di Calais
+   </head>
+   <p>
+    U Nordu è Passu di Calais hè una regione francese.
+   </p>
+   <p>
+    Regione francese
+   </p>
+  </body>
+ </text>
+</TEI>

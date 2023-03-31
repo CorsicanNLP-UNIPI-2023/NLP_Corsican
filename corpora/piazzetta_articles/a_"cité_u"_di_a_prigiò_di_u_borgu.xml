@@ -1,0 +1,61 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A "cité U" di a prigiò di U Borgu
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/A-cite-U-di-a-prigio-di-U-Borgu_a1177.html"/>
+     <date>
+      Sat, 01 Oct 2011 16:18:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    A "cité U" di a prigiò di U Borgu
+   </head>
+   <div type="excerpt">
+    <p>
+     Pè Sauveur Gandolfi-Scheit, e cellule di a prigiò s'assumiglianu à e stanze universitarie.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     A situazione à a prigiò di U Borgu ùn hè micca faciule. Ci sò stati parechji incidenti è mumenti di tensioni. U persunale si lagna di e cundizioni di travagliu, i ditenuti elli si lagnanu di e cundizione di vita. Ancu Gilbert Casanova l'avia detta à u ministru di a ghjustizia, qualchì mese fà durante una visita di U Borgu. 
+Allora, u deputatu Sauveur Gandolfi-Scheit hè andatu à visità a prigiò, anch'ellu (da leghje in Corse-Matin). 
+Nant'à RCFM, hà dichjaratu chì : "On a visité les cellules, ça me faisait penser aux chambres universitaires, je trouve que c'est correct pour le moment. Il ne faut pas dire que c'est merveilleux, mais il y a un label de la prison de Borgo, c'est correct..." 
+Duie infurmazioni in sta dichjarazione : Sauveur Gandolfi-Scheit hà veramente un gattivu ricordu di e so annate passate à l'università. Serà statu traumatizatu ? 
+Segondu insignamentu : postu chì i prezzi di l'immubiliare flambanu, ch'è vo ùn pudete più cumpravvi un alloghju, perchè ùn vi pigliate micca una piccula stanza à a "cité U" di a prigiò di U Borgu ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

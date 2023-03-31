@@ -1,0 +1,42 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Charlie Chaplin
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Charlie%20Chaplin"/>
+     <date>
+      2015-07-01T17:26:11Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Charlie Chaplin
+   </head>
+   <p>
+    Charles Spencer "Charlie" Chaplin (1889-1977) hè un attore americanu.
+   </p>
+   <p>
+    Chaplin, Charlie
+   </p>
+  </body>
+ </text>
+</TEI>

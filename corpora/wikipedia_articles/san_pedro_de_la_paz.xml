@@ -1,0 +1,54 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     San Pedro de la Paz
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/San%20Pedro%20de%20la%20Paz"/>
+     <date>
+      2014-03-23T14:56:18Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    San Pedro de la Paz
+   </head>
+   <p>
+    San Pedro de la Paz hé una cità di u Cile, incù 80.447 abitanti (2002).
+   </p>
+   <p>
+    == Vede ancu ==
+   </p>
+   <p>
+    Gran Concepción
+   </p>
+   <p>
+    == Ligami ==
+   </p>
+   <p>
+    San Pedro de la Paz.cl
+   </p>
+   <p>
+    Cile
+   </p>
+  </body>
+ </text>
+</TEI>

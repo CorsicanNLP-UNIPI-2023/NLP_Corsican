@@ -1,0 +1,71 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Forse, ùn ci vulia micca à custruisce custì
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Forse-un-ci-vulia-micca-a-custruisce-custi_a2041.html"/>
+     <date>
+      Sun, 04 Oct 2015 09:59:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       ATTUALITA-CORSA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Forse, ùn ci vulia micca à custruisce custì
+   </head>
+   <div type="excerpt">
+    <p>
+     A memoria di i lochi è di u territoriu si perde. Purtantu, basta à vede i nomi di locu per capisce ch'ellu ùn ci vulia à mette case in sti lochi.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè sempre a listessa storia chì volta à ogni tempurale. E listesse fiure à Corsica Sera, i listessi tìtuli in Corse-Matin, i listessi flashes à RCFM. 
+Chjamatele empiifondu, fiumara, innundazioni o piena : hè a listessa cosa. A natura torna à piglià i so diritti in i lochi induve l'omi ùn avianu micca da stallassi. Basta d'una "alerta arancia" di Météo France. 
+Purtantu, l'omi a sapianu. Quelli chì anu datu i nomi à i lochi dapoi i tempi i più antichi a sapianu ch'ellu ùn ci vulia à stabiliscesi in sti lochi nimichi. S'elli sò stati chjamati cusì, ùn e forse micca per nunda... Femu u giru di i nomi chì dicenu chì sti lochi d'acqua ùn sò fatti per l'omi : 
+E Canne : In Aiacciu "E Canne" sò diventate "Les Cannes". Ma e canne (in francese "roseaux") ùn crescenu ch'è in i lochi umidi. L'innundazioni ùn sò dunque micca una surpresa. Vale per i lochi chjamati Cannicciu, Canniccia, Cannetu... 
+Padula, Padule, Padulella, Padulone... : Pocu impreme u suffissu, ch'ellu sia à u plurale o à u singulare, ch'ellu sia ancu sfrancizatu (in Aiacciu "Les Padules"...), una padula hè un locu acquosu (in francese "marais"). 
+Fangu : I più cunnisciuti sò U Fangu in Bastia è U Fangu in u Falasorma. A traduzzione francese hè "boue". I lochi chì portanu stu nome sò fiumi, o lochi ingiru à sti fiumi. Attenti ch'elli ùn si discetinu un ghjornu... 
+Pantànu : Listessu ch'è per "fangu". In un locu pantanosu ùn ci duveria esse case. In teuria. 
+Stagnu, stagnale... : Indetta una pozza, in francese "étang". L'omi seranu cusì scemi per custruisceci casali ? 
+Fiume, fiuminale... : In u 1993 u paisolu di U Fiuminale, nant'à a cummuna di Santa Lucia di Mercoriu hà vistu u fiume parassi case, paese, vitture è strade. Eh iè, ci n'hè chì anu custruitu in i lochi chjamati Fiume, Fiumara (chì vole dì inundazione...), Fiumacciu... 
+Pozza, pozzu, puzzone, puzzucciu... : A pozza hè dunque u locu induve l'acqua s'appozza. È s'ellu piove à rivoccu, sente a puzza. Listessu affare pè i lochi induve ci hè a parolla onda. 
+Isula, Isulella, Isulone... : Si vede spessu in tupunima è indetta un pezzu di terra trà dui fiumi, o trà dui bracci d'un fiume. 
+Si puderia cuntinuvà assai cusì. Si trova listessu prublemu in u Var induve e fiumare frequente venenu da u fattu chì l'omi anu custruitu à buzeffu in i lochi di piaghja, vicini da i fiumi. A memoria di i lochi si perde, ci ne scurdemu vulenteri. Ci saria purtantu d'un gran succorsu per evità unepoche di catastrofe.
+    </p>
+    <p>
+     Articulu publicatu u 28/11/2014.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

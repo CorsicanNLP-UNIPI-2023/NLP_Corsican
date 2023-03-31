@@ -1,0 +1,60 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lingua è Populu, avanzemu ?
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Lingua-e-Populu-avanzemu_a1485.html"/>
+     <date>
+      Sat, 19 Jan 2013 15:04:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       TRIBUNA-DI-I-LETTORI-AZEZI
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Lingua è Populu, avanzemu ?
+   </head>
+   <div type="excerpt">
+    <p>
+     I quaterni di Ben in corsu... Bona nutizia ? Mercantilisimu ? O gattivu segnu ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Cume per i cummenti di l'ultimu derby avemu avutu à aspettà un frusteru per permette à i sculari corsi di cumprà si un materiale stampigliatu in lingua corsa. 
+Ci vole à sapè chì da parechj’anni, l’almanachi, i quaterni, i classori, i stucci… Ben (di Benjamin Vautier, artistu francese chì campa in Nizza), scritti in biancu nantu à un fondu neru facenu un scempiu in i scoli ! 
+Circhendu un pocu, pudemu vede dinù chì l’idea hè stata aduprata per d’altre lingue reggiunale cume u britonu è u catalanu. Ancu megliu, à parte si da u situ ufficiale è seguitentu « ethnisme peuples et langues » ghjunghjite in dui clicchi à nantu à u situ di Corsica Nazione ! 
+Allora chì pensà d’issu librettu ?  - mette u populu corsu è a lingua à liveddu di u (i) britonu(i) hè segnu chì simu lecchi è a frasa « morta a lingua mortu u populu » vole dì tuttu ?  - hè ghjustu u fattu d’un artistu passiunatu per e lingue chì po fà piacè à i ghjovani corsi?  - Hè segnu chì avanzemu, chì e mentalità cambianu ?  - Ci vole à cumprà lu o andà à brusgià e cartulerie chì u vendenu ?
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

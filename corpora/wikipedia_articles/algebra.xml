@@ -1,0 +1,51 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Algebra
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Algebra"/>
+     <date>
+      2015-07-16T10:34:28Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Algebra
+   </head>
+   <p>
+    L'Algebra (in arabu جبر) hè un ramu di a matematica chi studia l'insemuli di uggetti qualsiasi annant'a quale sò definite furmalamente uperazione. Si distingue un'algebra classica da un'algebra muderna. A prima indicheghja essenzialmente a scienza di l'equazione chi si ottenenu, uguagliendu a zeru unu o più pulinomii cu una o più incognite (indeterminate).
+   </p>
+   <p>
+    A u contrariu di a geometria, è una scienza rilativamente recente: li antichi grechi, infatti, traduconu ogni prublemi in linguaghju geometricu. I grechi svilupponu l'algebra geometrica, riuscendu da risolve tutti i prublemi traducibili in equazione di secondu gradu. A parte da u IX sec. l'arabi comincionu a cunsidera l'equazione da u puntu di vista numericu, truvendu a soluzione cu quelle regule (furmale) di calculu, e quale, messe inseme, noi chjamemu l'algebra elementaria.
+   </p>
+   <p>
+    Dopu l'Arabi, u più grande sviluppu di l'algebra fu in Italia, indè u Cinquecentu, cu a scuperta di formule ginerale pè calcula e soluzione di un'equazione di terzu e di quartu gradu. A tal' puntu chi l'algebristi taliani introduconu numari imaginarii e numari cumplessi. U teoremu fundamentale di l'algebra, dimostratu rigurosamente da C. F. Gauss, accerta chi un'equazione algebrica di gradu n ha esattamente n radiche, o soluzione, indè u campu di i numari cumplessi.
+   </p>
+   <p>
+    A nascita di l'algebra muderna pode esse ligata a E. Galois chi ridusse u studiu di l'equazione algebriche a quellu di i gruppi di permutazione e apprufundì in un modu determinante a teoria ginerale dei gruppi.
+   </p>
+   <p>
+    Matematica
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ciò ch'ellu si vede da a cima di San Petrone
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Cio-ch-ellu-si-vede-da-a-cima-di-San-Petrone_a897.html"/>
+     <date>
+      Sun, 18 Jun 2017 10:39:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       CULTURA
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Ciò ch'ellu si vede da a cima di San Petrone
+   </head>
+   <div type="excerpt">
+    <p>
+     Hè ora d'andà à circà appena d'aria fresca in muntagna. Ma i cunniscite i nomi di e cime ch'ellu si vede in punta di San Petrone ?
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     U panorama da a cima di San Petrone hè unu di i più belli di Corsica. Per via di a so situazione scantata, si vedenu tutte e muntagne di l'isula, da l'Alcudina à Monte Cintu. 
+Cliccate nant'à a fiura pè ingrandalla :
+    </p>
+    <p>
+     Per vede a fiura in più grande, pudete cliccà nant'à a fiura pè ingrandalla o caricalla quì : 
+panorama_San_Petrone.jpg
+    </p>
+    <p>
+     È bella sigura, in muntagna : ùn ghjittate nunda, ùn sciappate nunda, falate tuttu u mulizzu ch'è vo culate, ùn mughjate micca è lasciate quads è motos pè e strade in catramu, micca pè i chjassi muntagnoli.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

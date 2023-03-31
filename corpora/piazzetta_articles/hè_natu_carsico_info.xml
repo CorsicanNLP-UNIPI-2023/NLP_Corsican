@@ -1,0 +1,56 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hè natu Carsico info
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/He-natu-Carsico-info_a1915.html"/>
+     <date>
+      Tue, 15 Jul 2014 17:54:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       E-news-a-l-accorta
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Hè natu Carsico info
+   </head>
+   <div type="content">
+    <p>
+     Dapoi una settimana, nant'à e rete suciali sò numerosi à ponesi a dumanda : "ma serà vera o serà un fake ?" 
+Ci vole à dì chì certe volte, ci hè da ponesi a quistione. Prissou Stauffenberg, direttore di u festivale "On the Rocks", deve bè esiste nò ? 
+A cummemurazione di a morte di Whisky le chien, avemu bè da ghjunghjeci nò ? 
+Felicitazione è longa vita à Carsico Info, c'era bisognu d'un Gorafi nustrale. Parechji ci avianu pensatu, elli l'anu fatta. 
+In quant'à quelli chì ci ponenu a dumanda dapoi una settimana : nò, A Piazzetta ùn ci hè per nunda sta volta.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

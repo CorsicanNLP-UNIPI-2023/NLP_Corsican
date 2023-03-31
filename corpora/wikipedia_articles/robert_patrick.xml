@@ -1,0 +1,45 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Robert Patrick
+    </title>
+    <author>
+     <orgName>
+      Wikipedia contributors
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     Wikipedia, The Free Encyclopedia (Wikimedia)
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://co.wikipedia.org/wiki/Robert%20Patrick"/>
+     <date>
+      2015-07-01T12:26:31Z
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Robert Patrick
+   </head>
+   <p>
+    Robert Patrick (natu in 1958) hè un attore americanu.
+   </p>
+   <p>
+    Patrick, Robert
+   </p>
+   <p>
+    Patrick, Robert
+   </p>
+  </body>
+ </text>
+</TEI>

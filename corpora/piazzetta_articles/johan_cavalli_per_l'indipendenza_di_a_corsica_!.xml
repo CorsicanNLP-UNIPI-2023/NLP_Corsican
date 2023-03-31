@@ -1,0 +1,63 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Johan Cavalli per l'indipendenza di a Corsica !
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Johan-Cavalli-per-l-indipendenza-di-a-Corsica-_a1248.html"/>
+     <date>
+      Sat, 14 Jan 2012 11:46:00 +0100
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Johan Cavalli per l'indipendenza di a Corsica !
+   </head>
+   <div type="excerpt">
+    <p>
+     U ghjucadore di l'ACA l'hà detta durante un'intervista : saria ora chì a Corsica avessi a so squadra naziunale officiale è ricunnisciuta.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     L'intervista hè da leghje nant'à u situ Chronofoot : 
+On montre que le football corse existe sur la scène européenne, puisqu’on a notamment pu battre la Bulgarie l’an dernier. On espère que politiquement, il sera un jour possible de disputer une compétition. Ça ne sera certainement pas possible pour des joueurs de mon âge, mais peut être pour nos jeunes, qui imiteront des pays comme Chypre, qui ont eu leur indépendance. Et si un jour nos jeunes font un qualificatif pour un championnat d’Europe par exemple, ça serait une vraie fierté d’avoir commencé l’aventure. 
+Tu rêves donc d’une équipe corse indépendante ?   Oui. Après ce sont des problèmes politiques… Mais j’aimerais une équipe de Corse indépendante. 
+Et une sécession de la Corse, tu es pour ?  C’est comme tout, il y a du bon et du moins bon. Mais si les choses peuvent se faire, pourquoi pas une indépendance, ou du moins une autonomie. 
+Parla dinù di a rivalità è di a ghjelusia ind'è noi (chì ne semu i spezialisti) : 
+En Corse, il y a beaucoup trop de rivalité. Comme on dit en Corse : on est solidaires quand on est sur le Continent. Quand on est sur le Continent, Ajacciens, Bastiais et consorts : on est solidaires. Mais quand on est sur l’île, malheureusement, il y a beaucoup trop de jalousie, de gens envieux, et c’est l’un des problèmes de la Corse. Si l’ACA venait à descendre, ce serait une énorme désillusion. Mais si Bastia montait, ça ferait du bien à la Corse et ça serait très bien comme ça. 
+Quessa, hè detta...
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

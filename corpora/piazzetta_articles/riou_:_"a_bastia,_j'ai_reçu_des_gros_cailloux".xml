@@ -1,0 +1,64 @@
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Riou : "A Bastia, j'ai reçu des gros cailloux"
+    </title>
+    <author>
+     <orgName>
+      A Piazzetta
+     </orgName>
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     A Piazzetta
+    </publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <ptr target="https://www.apiazzetta.com/Riou-A-Bastia-j-ai-recu-des-gros-cailloux_a1963.html"/>
+     <date>
+      Fri, 26 Sep 2014 11:33:00 +0200
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy>
+     <category>
+      <catDesc>
+       FUTBOL
+      </catDesc>
+     </category>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+  <body xml:lang="co">
+   <head>
+    Riou : "A Bastia, j'ai reçu des gros cailloux"
+   </head>
+   <div type="excerpt">
+    <p>
+     Ci la feremu à passà trè ghjorni senza pulèmica nant'à u Sporting ? Sta volta hè u purtiere di Nantes chì dice a soia.
+    </p>
+   </div>
+   <div type="content">
+    <p>
+     Hè L'Equipe chì hà cacciatu l'infurmazione è si pò leghje nant'à football.fr. À sentelu, era l'intifada in Furiani : 
+"J’ai reçu des gros cailloux. Des projectiles, je veux bien, des insultes, c’est sympa, mais des gros cailloux comme ça… L’un d’eux m’a frôlé la tempe." 
+L'insulte sò "simpàtiche" dunque. Cuntinuvemu : 
+"Le stadier m’a traité de menteur, il disait qu’il n’avait jamais vu ça à Bastia. C’est de la mauvaise foi." 
+U prublema hè chì invece, ùn hà ricevutu nisun ballò di l'attaccanti di u Sporting. 
+"J’ai déjà reçu des cochonnets, des piles, mais c’est la première fois que je reçois des cailloux. J’ai été étonné qu’ils soient aussi gros. C’est malheureux, ça peut faire des dégâts. C’est dommage pour le foot." 
+À quandu "j'ai reçu une machine à laver", "on m'a balancé une Twingo", "j'ai reçu un scogliu tamantu" o "j'ai reçu une décharge de chevrotine, ça va mais c'est pas fair-play" ? 
+A stagione hà da esse longa.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>
